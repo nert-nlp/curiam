@@ -1,0 +1,10 @@
+name: curiam
+dependencies:
+- beautifulsoup4
+- jupyterlab
+- matplotlib
+- numpy
+- pip
+- requests
+- pip:
+  - tokenizers
