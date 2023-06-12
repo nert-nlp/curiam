@@ -7,5 +7,4 @@ dependencies:
 - pip
 - requests
 - pip:
-  - pycaprio # For inception API
   - tokenizers
