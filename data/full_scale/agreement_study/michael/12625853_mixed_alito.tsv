@@ -1,0 +1,2965 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice ALITO , concurring in part and dissenting in part .
+1-1	0-7	Justice	_	_	
+1-2	8-13	ALITO	_	_	
+1-3	14-15	,	_	_	
+1-4	16-26	concurring	_	_	
+1-5	27-29	in	_	_	
+1-6	30-34	part	_	_	
+1-7	35-38	and	_	_	
+1-8	39-49	dissenting	_	_	
+1-9	50-52	in	_	_	
+1-10	53-57	part	_	_	
+1-11	58-59	.	_	_	
+
+#Text=I agree with the Court that the judgment below must be reversed , and I join all of the Court 's opinion except Part II - B. I thus agree with the Court that we possess jurisdiction to decide this case .
+2-1	60-61	I	_	_	
+2-2	62-67	agree	_	_	
+2-3	68-72	with	_	_	
+2-4	73-76	the	_	_	
+2-5	77-82	Court	_	_	
+2-6	83-87	that	_	_	
+2-7	88-91	the	_	_	
+2-8	92-100	judgment	_	_	
+2-9	101-106	below	_	_	
+2-10	107-111	must	_	_	
+2-11	112-114	be	_	_	
+2-12	115-123	reversed	_	_	
+2-13	124-125	,	_	_	
+2-14	126-129	and	_	_	
+2-15	130-131	I	_	_	
+2-16	132-136	join	_	_	
+2-17	137-140	all	_	_	
+2-18	141-143	of	_	_	
+2-19	144-147	the	_	_	
+2-20	148-153	Court	_	_	
+2-21	154-156	's	_	_	
+2-22	157-164	opinion	_	_	
+2-23	165-171	except	_	_	
+2-24	172-176	Part	*[1]	Legal Source[1]	
+2-25	177-179	II	*[1]	Legal Source[1]	
+2-26	180-181	-	*[1]	Legal Source[1]	
+2-27	182-184	B.	*[1]	Legal Source[1]	
+2-28	185-186	I	_	_	
+2-29	187-191	thus	_	_	
+2-30	192-197	agree	_	_	
+2-31	198-202	with	_	_	
+2-32	203-206	the	_	_	
+2-33	207-212	Court	_	_	
+2-34	213-217	that	_	_	
+2-35	218-220	we	_	_	
+2-36	221-228	possess	_	_	
+2-37	229-241	jurisdiction	_	_	
+2-38	242-244	to	_	_	
+2-39	245-251	decide	_	_	
+2-40	252-256	this	_	_	
+2-41	257-261	case	_	_	
+2-42	262-263	.	_	_	
+
+#Text=See ante , at 1349 .
+3-1	264-267	See	*[2]	Legal Source[2]	
+3-2	268-272	ante	*[2]	Legal Source[2]	
+3-3	273-274	,	*[2]	Legal Source[2]	
+3-4	275-277	at	*[2]	Legal Source[2]	
+3-5	278-282	1349	*[2]	Legal Source[2]	
+3-6	283-284	.	_	_	
+
+#Text=I also agree that the landowners are potentially responsible parties under § 122(e)(6 ) of the Comprehensive Environmental Response , Compensation , and Liability Act of 1980 ( CERCLA ) and , as a result , can not bring their Montana restoration damages claim without the consent of the Environmental Protection Agency ( EPA ) .
+4-1	285-286	I	_	_	
+4-2	287-291	also	_	_	
+4-3	292-297	agree	_	_	
+4-4	298-302	that	_	_	
+4-5	303-306	the	_	_	
+4-6	307-317	landowners	_	_	
+4-7	318-321	are	_	_	
+4-8	322-333	potentially	_	_	
+4-9	334-345	responsible	_	_	
+4-10	346-353	parties	_	_	
+4-11	354-359	under	_	_	
+4-12	360-361	§	*[3]	Legal Source[3]	
+4-13	362-370	122(e)(6	*[3]	Legal Source[3]	
+4-14	371-372	)	*[3]	Legal Source[3]	
+4-15	373-375	of	_	_	
+4-16	376-379	the	_	_	
+4-17	380-393	Comprehensive	*[4]	Legal Source[4]	
+4-18	394-407	Environmental	*[4]	Legal Source[4]	
+4-19	408-416	Response	*[4]	Legal Source[4]	
+4-20	417-418	,	*[4]	Legal Source[4]	
+4-21	419-431	Compensation	*[4]	Legal Source[4]	
+4-22	432-433	,	*[4]	Legal Source[4]	
+4-23	434-437	and	*[4]	Legal Source[4]	
+4-24	438-447	Liability	*[4]	Legal Source[4]	
+4-25	448-451	Act	*[4]	Legal Source[4]	
+4-26	452-454	of	*[4]	Legal Source[4]	
+4-27	455-459	1980	*[4]	Legal Source[4]	
+4-28	460-461	(	*[4]	Legal Source[4]	
+4-29	462-468	CERCLA	*[4]	Legal Source[4]	
+4-30	469-470	)	*[4]	Legal Source[4]	
+4-31	471-474	and	_	_	
+4-32	475-476	,	_	_	
+4-33	477-479	as	_	_	
+4-34	480-481	a	_	_	
+4-35	482-488	result	_	_	
+4-36	489-490	,	_	_	
+4-37	491-494	can	_	_	
+4-38	495-498	not	_	_	
+4-39	499-504	bring	_	_	
+4-40	505-510	their	_	_	
+4-41	511-518	Montana	_	_	
+4-42	519-530	restoration	_	_	
+4-43	531-538	damages	_	_	
+4-44	539-544	claim	_	_	
+4-45	545-552	without	_	_	
+4-46	553-556	the	_	_	
+4-47	557-564	consent	_	_	
+4-48	565-567	of	_	_	
+4-49	568-571	the	_	_	
+4-50	572-585	Environmental	_	_	
+4-51	586-596	Protection	_	_	
+4-52	597-603	Agency	_	_	
+4-53	604-605	(	_	_	
+4-54	606-609	EPA	_	_	
+4-55	610-611	)	_	_	
+4-56	612-613	.	_	_	
+
+#Text=See ante , at 1351 - 1357 .
+5-1	614-617	See	*[5]	Legal Source[5]	
+5-2	618-622	ante	*[5]	Legal Source[5]	
+5-3	623-624	,	*[5]	Legal Source[5]	
+5-4	625-627	at	*[5]	Legal Source[5]	
+5-5	628-632	1351	*[5]	Legal Source[5]	
+5-6	633-634	-	*[5]	Legal Source[5]	
+5-7	635-639	1357	*[5]	Legal Source[5]	
+5-8	640-641	.	_	_	
+
+#Text=At this point , however , I am not willing to endorse the Court 's holding in Part II - B that state courts have jurisdiction to entertain " challenges " to EPA - approved CERCLA plans .
+6-1	642-644	At	_	_	
+6-2	645-649	this	_	_	
+6-3	650-655	point	_	_	
+6-4	656-657	,	_	_	
+6-5	658-665	however	_	_	
+6-6	666-667	,	_	_	
+6-7	668-669	I	_	_	
+6-8	670-672	am	_	_	
+6-9	673-676	not	_	_	
+6-10	677-684	willing	_	_	
+6-11	685-687	to	_	_	
+6-12	688-695	endorse	_	_	
+6-13	696-699	the	_	_	
+6-14	700-705	Court	_	_	
+6-15	706-708	's	_	_	
+6-16	709-716	holding	_	_	
+6-17	717-719	in	_	_	
+6-18	720-724	Part	*[6]	Legal Source[6]	
+6-19	725-727	II	*[6]	Legal Source[6]	
+6-20	728-729	-	*[6]	Legal Source[6]	
+6-21	730-731	B	*[6]	Legal Source[6]	
+6-22	732-736	that	_	_	
+6-23	737-742	state	_	_	
+6-24	743-749	courts	_	_	
+6-25	750-754	have	_	_	
+6-26	755-767	jurisdiction	_	_	
+6-27	768-770	to	_	_	
+6-28	771-780	entertain	_	_	
+6-29	781-782	"	*[7]	Direct Quote[7]	
+6-30	783-793	challenges	*[7]	Direct Quote[7]	
+6-31	794-795	"	*[7]	Direct Quote[7]	
+6-32	796-798	to	_	_	
+6-33	799-802	EPA	_	_	
+6-34	803-804	-	_	_	
+6-35	805-813	approved	_	_	
+6-36	814-820	CERCLA	*	Legal Source	
+6-37	821-826	plans	_	_	
+6-38	827-828	.	_	_	
+
+#Text=I
+7-1	829-830	I	_	_	
+
+#Text=I would not decide that question because it is neither necessary nor prudent for us to do so .
+8-1	831-832	I	_	_	
+8-2	833-838	would	_	_	
+8-3	839-842	not	_	_	
+8-4	843-849	decide	_	_	
+8-5	850-854	that	_	_	
+8-6	855-863	question	_	_	
+8-7	864-871	because	_	_	
+8-8	872-874	it	_	_	
+8-9	875-877	is	_	_	
+8-10	878-885	neither	_	_	
+8-11	886-895	necessary	_	_	
+8-12	896-899	nor	_	_	
+8-13	900-907	prudent	_	_	
+8-14	908-911	for	_	_	
+8-15	912-914	us	_	_	
+8-16	915-917	to	_	_	
+8-17	918-920	do	_	_	
+8-18	921-923	so	_	_	
+8-19	924-925	.	_	_	
+
+#Text=As I understand the Court 's opinion , the Montana Supreme Court has two options on remand : ( 1 ) enter a stay to allow the landowners to seek EPA approval or ( 2 ) enter judgment against the landowners on their restoration damages claim without prejudice to their ability to refile if they obtain EPA approval .
+9-1	926-928	As	_	_	
+9-2	929-930	I	_	_	
+9-3	931-941	understand	_	_	
+9-4	942-945	the	_	_	
+9-5	946-951	Court	_	_	
+9-6	952-954	's	_	_	
+9-7	955-962	opinion	_	_	
+9-8	963-964	,	_	_	
+9-9	965-968	the	_	_	
+9-10	969-976	Montana	_	_	
+9-11	977-984	Supreme	_	_	
+9-12	985-990	Court	_	_	
+9-13	991-994	has	_	_	
+9-14	995-998	two	_	_	
+9-15	999-1006	options	_	_	
+9-16	1007-1009	on	_	_	
+9-17	1010-1016	remand	_	_	
+9-18	1017-1018	:	_	_	
+9-19	1019-1020	(	_	_	
+9-20	1021-1022	1	_	_	
+9-21	1023-1024	)	_	_	
+9-22	1025-1030	enter	_	_	
+9-23	1031-1032	a	_	_	
+9-24	1033-1037	stay	_	_	
+9-25	1038-1040	to	_	_	
+9-26	1041-1046	allow	_	_	
+9-27	1047-1050	the	_	_	
+9-28	1051-1061	landowners	_	_	
+9-29	1062-1064	to	_	_	
+9-30	1065-1069	seek	_	_	
+9-31	1070-1073	EPA	_	_	
+9-32	1074-1082	approval	_	_	
+9-33	1083-1085	or	_	_	
+9-34	1086-1087	(	_	_	
+9-35	1088-1089	2	_	_	
+9-36	1090-1091	)	_	_	
+9-37	1092-1097	enter	_	_	
+9-38	1098-1106	judgment	_	_	
+9-39	1107-1114	against	_	_	
+9-40	1115-1118	the	_	_	
+9-41	1119-1129	landowners	_	_	
+9-42	1130-1132	on	_	_	
+9-43	1133-1138	their	_	_	
+9-44	1139-1150	restoration	_	_	
+9-45	1151-1158	damages	_	_	
+9-46	1159-1164	claim	_	_	
+9-47	1165-1172	without	_	_	
+9-48	1173-1182	prejudice	_	_	
+9-49	1183-1185	to	_	_	
+9-50	1186-1191	their	_	_	
+9-51	1192-1199	ability	_	_	
+9-52	1200-1202	to	_	_	
+9-53	1203-1209	refile	_	_	
+9-54	1210-1212	if	_	_	
+9-55	1213-1217	they	_	_	
+9-56	1218-1224	obtain	_	_	
+9-57	1225-1228	EPA	_	_	
+9-58	1229-1237	approval	_	_	
+9-59	1238-1239	.	_	_	
+
+#Text=Either way , the case can not proceed without the EPA 's blessing .
+10-1	1240-1246	Either	_	_	
+10-2	1247-1250	way	_	_	
+10-3	1251-1252	,	_	_	
+10-4	1253-1256	the	_	_	
+10-5	1257-1261	case	_	_	
+10-6	1262-1265	can	_	_	
+10-7	1266-1269	not	_	_	
+10-8	1270-1277	proceed	_	_	
+10-9	1278-1285	without	_	_	
+10-10	1286-1289	the	_	_	
+10-11	1290-1293	EPA	_	_	
+10-12	1294-1296	's	_	_	
+10-13	1297-1305	blessing	_	_	
+10-14	1306-1307	.	_	_	
+
+#Text=And because the EPA has submitted multiple filings indicating that it believes that the landowners ' plan presents serious environmental risks , it is likely that the EPA will not approve that plan , and the case will then die .
+11-1	1308-1311	And	_	_	
+11-2	1312-1319	because	_	_	
+11-3	1320-1323	the	_	_	
+11-4	1324-1327	EPA	_	_	
+11-5	1328-1331	has	_	_	
+11-6	1332-1341	submitted	_	_	
+11-7	1342-1350	multiple	_	_	
+11-8	1351-1358	filings	_	_	
+11-9	1359-1369	indicating	_	_	
+11-10	1370-1374	that	_	_	
+11-11	1375-1377	it	_	_	
+11-12	1378-1386	believes	_	_	
+11-13	1387-1391	that	_	_	
+11-14	1392-1395	the	_	_	
+11-15	1396-1406	landowners	_	_	
+11-16	1407-1408	'	_	_	
+11-17	1409-1413	plan	_	_	
+11-18	1414-1422	presents	_	_	
+11-19	1423-1430	serious	_	_	
+11-20	1431-1444	environmental	_	_	
+11-21	1445-1450	risks	_	_	
+11-22	1451-1452	,	_	_	
+11-23	1453-1455	it	_	_	
+11-24	1456-1458	is	_	_	
+11-25	1459-1465	likely	_	_	
+11-26	1466-1470	that	_	_	
+11-27	1471-1474	the	_	_	
+11-28	1475-1478	EPA	_	_	
+11-29	1479-1483	will	_	_	
+11-30	1484-1487	not	_	_	
+11-31	1488-1495	approve	_	_	
+11-32	1496-1500	that	_	_	
+11-33	1501-1505	plan	_	_	
+11-34	1506-1507	,	_	_	
+11-35	1508-1511	and	_	_	
+11-36	1512-1515	the	_	_	
+11-37	1516-1520	case	_	_	
+11-38	1521-1525	will	_	_	
+11-39	1526-1530	then	_	_	
+11-40	1531-1534	die	_	_	
+11-41	1535-1536	.	_	_	
+
+#Text=If that happens , the question of the state courts ' jurisdiction will be academic .
+12-1	1537-1539	If	_	_	
+12-2	1540-1544	that	_	_	
+12-3	1545-1552	happens	_	_	
+12-4	1553-1554	,	_	_	
+12-5	1555-1558	the	_	_	
+12-6	1559-1567	question	_	_	
+12-7	1568-1570	of	_	_	
+12-8	1571-1574	the	_	_	
+12-9	1575-1580	state	_	_	
+12-10	1581-1587	courts	_	_	
+12-11	1588-1589	'	_	_	
+12-12	1590-1602	jurisdiction	_	_	
+12-13	1603-1607	will	_	_	
+12-14	1608-1610	be	_	_	
+12-15	1611-1619	academic	_	_	
+12-16	1620-1621	.	_	_	
+
+#Text=Alternatively , if the EPA approves the landowners ' plan , either in full or to a degree that they find satisfactory , they may not wish to press this litigation .
+13-1	1622-1635	Alternatively	_	_	
+13-2	1636-1637	,	_	_	
+13-3	1638-1640	if	_	_	
+13-4	1641-1644	the	_	_	
+13-5	1645-1648	EPA	_	_	
+13-6	1649-1657	approves	_	_	
+13-7	1658-1661	the	_	_	
+13-8	1662-1672	landowners	_	_	
+13-9	1673-1674	'	_	_	
+13-10	1675-1679	plan	_	_	
+13-11	1680-1681	,	_	_	
+13-12	1682-1688	either	_	_	
+13-13	1689-1691	in	_	_	
+13-14	1692-1696	full	_	_	
+13-15	1697-1699	or	_	_	
+13-16	1700-1702	to	_	_	
+13-17	1703-1704	a	_	_	
+13-18	1705-1711	degree	_	_	
+13-19	1712-1716	that	_	_	
+13-20	1717-1721	they	_	_	
+13-21	1722-1726	find	_	_	
+13-22	1727-1739	satisfactory	_	_	
+13-23	1740-1741	,	_	_	
+13-24	1742-1746	they	_	_	
+13-25	1747-1750	may	_	_	
+13-26	1751-1754	not	_	_	
+13-27	1755-1759	wish	_	_	
+13-28	1760-1762	to	_	_	
+13-29	1763-1768	press	_	_	
+13-30	1769-1773	this	_	_	
+13-31	1774-1784	litigation	_	_	
+13-32	1785-1786	.	_	_	
+
+#Text=And if they do choose to go forward , the question of state - court jurisdiction can be decided at that time .
+14-1	1787-1790	And	_	_	
+14-2	1791-1793	if	_	_	
+14-3	1794-1798	they	_	_	
+14-4	1799-1801	do	_	_	
+14-5	1802-1808	choose	_	_	
+14-6	1809-1811	to	_	_	
+14-7	1812-1814	go	_	_	
+14-8	1815-1822	forward	_	_	
+14-9	1823-1824	,	_	_	
+14-10	1825-1828	the	_	_	
+14-11	1829-1837	question	_	_	
+14-12	1838-1840	of	_	_	
+14-13	1841-1846	state	_	_	
+14-14	1847-1848	-	_	_	
+14-15	1849-1854	court	_	_	
+14-16	1855-1867	jurisdiction	_	_	
+14-17	1868-1871	can	_	_	
+14-18	1872-1874	be	_	_	
+14-19	1875-1882	decided	_	_	
+14-20	1883-1885	at	_	_	
+14-21	1886-1890	that	_	_	
+14-22	1891-1895	time	_	_	
+14-23	1896-1897	.	_	_	
+
+#Text=For these reasons , there is no need to reach out and decide the question now , and there are good reasons not to do so .
+15-1	1898-1901	For	_	_	
+15-2	1902-1907	these	_	_	
+15-3	1908-1915	reasons	_	_	
+15-4	1916-1917	,	_	_	
+15-5	1918-1923	there	_	_	
+15-6	1924-1926	is	_	_	
+15-7	1927-1929	no	_	_	
+15-8	1930-1934	need	_	_	
+15-9	1935-1937	to	_	_	
+15-10	1938-1943	reach	_	_	
+15-11	1944-1947	out	_	_	
+15-12	1948-1951	and	_	_	
+15-13	1952-1958	decide	_	_	
+15-14	1959-1962	the	_	_	
+15-15	1963-1971	question	_	_	
+15-16	1972-1975	now	_	_	
+15-17	1976-1977	,	_	_	
+15-18	1978-1981	and	_	_	
+15-19	1982-1987	there	_	_	
+15-20	1988-1991	are	_	_	
+15-21	1992-1996	good	_	_	
+15-22	1997-2004	reasons	_	_	
+15-23	2005-2008	not	_	_	
+15-24	2009-2011	to	_	_	
+15-25	2012-2014	do	_	_	
+15-26	2015-2017	so	_	_	
+15-27	2018-2019	.	_	_	
+
+#Text=While the question of state - court jurisdiction may turn out not to matter in this case , that question may have important implications in other cases .
+16-1	2020-2025	While	_	_	
+16-2	2026-2029	the	_	_	
+16-3	2030-2038	question	_	_	
+16-4	2039-2041	of	_	_	
+16-5	2042-2047	state	_	_	
+16-6	2048-2049	-	_	_	
+16-7	2050-2055	court	_	_	
+16-8	2056-2068	jurisdiction	_	_	
+16-9	2069-2072	may	_	_	
+16-10	2073-2077	turn	_	_	
+16-11	2078-2081	out	_	_	
+16-12	2082-2085	not	_	_	
+16-13	2086-2088	to	_	_	
+16-14	2089-2095	matter	_	_	
+16-15	2096-2098	in	_	_	
+16-16	2099-2103	this	_	_	
+16-17	2104-2108	case	_	_	
+16-18	2109-2110	,	_	_	
+16-19	2111-2115	that	_	_	
+16-20	2116-2124	question	_	_	
+16-21	2125-2128	may	_	_	
+16-22	2129-2133	have	_	_	
+16-23	2134-2143	important	_	_	
+16-24	2144-2156	implications	_	_	
+16-25	2157-2159	in	_	_	
+16-26	2160-2165	other	_	_	
+16-27	2166-2171	cases	_	_	
+16-28	2172-2173	.	_	_	
+
+#Text=Specifically , if the fears expressed by the Government materialize , state courts and juries , eager to serve local interests , may disregard the EPA 's expert judgment regarding the best plan for a CERCLA site and may mandate relief that exacerbates environmental problems .
+17-1	2174-2186	Specifically	_	_	
+17-2	2187-2188	,	_	_	
+17-3	2189-2191	if	_	_	
+17-4	2192-2195	the	_	_	
+17-5	2196-2201	fears	_	_	
+17-6	2202-2211	expressed	_	_	
+17-7	2212-2214	by	_	_	
+17-8	2215-2218	the	_	_	
+17-9	2219-2229	Government	_	_	
+17-10	2230-2241	materialize	_	_	
+17-11	2242-2243	,	_	_	
+17-12	2244-2249	state	_	_	
+17-13	2250-2256	courts	_	_	
+17-14	2257-2260	and	_	_	
+17-15	2261-2267	juries	_	_	
+17-16	2268-2269	,	_	_	
+17-17	2270-2275	eager	_	_	
+17-18	2276-2278	to	_	_	
+17-19	2279-2284	serve	_	_	
+17-20	2285-2290	local	_	_	
+17-21	2291-2300	interests	_	_	
+17-22	2301-2302	,	_	_	
+17-23	2303-2306	may	_	_	
+17-24	2307-2316	disregard	_	_	
+17-25	2317-2320	the	_	_	
+17-26	2321-2324	EPA	_	_	
+17-27	2325-2327	's	_	_	
+17-28	2328-2334	expert	_	_	
+17-29	2335-2343	judgment	_	_	
+17-30	2344-2353	regarding	_	_	
+17-31	2354-2357	the	_	_	
+17-32	2358-2362	best	_	_	
+17-33	2363-2367	plan	_	_	
+17-34	2368-2371	for	_	_	
+17-35	2372-2373	a	_	_	
+17-36	2374-2380	CERCLA	_	_	
+17-37	2381-2385	site	_	_	
+17-38	2386-2389	and	_	_	
+17-39	2390-2393	may	_	_	
+17-40	2394-2401	mandate	_	_	
+17-41	2402-2408	relief	_	_	
+17-42	2409-2413	that	_	_	
+17-43	2414-2425	exacerbates	_	_	
+17-44	2426-2439	environmental	_	_	
+17-45	2440-2448	problems	_	_	
+17-46	2449-2450	.	_	_	
+
+#Text=See Brief for United States as Amicus Curiae 20 - 22 , 29 - 30 ; App . to Pet . for Cert . 72a-74a .
+18-1	2451-2454	See	*[8]	Legal Source[8]	
+18-2	2455-2460	Brief	*[8]	Legal Source[8]	
+18-3	2461-2464	for	*[8]	Legal Source[8]	
+18-4	2465-2471	United	*[8]	Legal Source[8]	
+18-5	2472-2478	States	*[8]	Legal Source[8]	
+18-6	2479-2481	as	*[8]	Legal Source[8]	
+18-7	2482-2488	Amicus	*[8]	Legal Source[8]	
+18-8	2489-2495	Curiae	*[8]	Legal Source[8]	
+18-9	2496-2498	20	*[8]	Legal Source[8]	
+18-10	2499-2500	-	*[8]	Legal Source[8]	
+18-11	2501-2503	22	*[8]	Legal Source[8]	
+18-12	2504-2505	,	*[8]	Legal Source[8]	
+18-13	2506-2508	29	*[8]	Legal Source[8]	
+18-14	2509-2510	-	*[8]	Legal Source[8]	
+18-15	2511-2513	30	*[8]	Legal Source[8]	
+18-16	2514-2515	;	*[8]	Legal Source[8]	
+18-17	2516-2519	App	*[8]	Legal Source[8]	
+18-18	2520-2521	.	*[8]	Legal Source[8]	
+18-19	2522-2524	to	*[8]	Legal Source[8]	
+18-20	2525-2528	Pet	*[8]	Legal Source[8]	
+18-21	2529-2530	.	*[8]	Legal Source[8]	
+18-22	2531-2534	for	*[8]	Legal Source[8]	
+18-23	2535-2539	Cert	*[8]	Legal Source[8]	
+18-24	2540-2541	.	*[8]	Legal Source[8]	
+18-25	2542-2549	72a-74a	*[8]	Legal Source[8]	
+18-26	2550-2551	.	_	_	
+
+#Text=Thus , much is potentially at stake , and the question whether CERCLA allows state courts to entertain suits like the one in this case depends on the interpretation of devilishly difficult statutory provisions , CERCLA § § 113(b ) and ( h ) , 42 U.S.C. § § 9613 ( b ) and ( h ) .
+19-1	2552-2556	Thus	_	_	
+19-2	2557-2558	,	_	_	
+19-3	2559-2563	much	_	_	
+19-4	2564-2566	is	_	_	
+19-5	2567-2578	potentially	_	_	
+19-6	2579-2581	at	_	_	
+19-7	2582-2587	stake	_	_	
+19-8	2588-2589	,	_	_	
+19-9	2590-2593	and	_	_	
+19-10	2594-2597	the	_	_	
+19-11	2598-2606	question	_	_	
+19-12	2607-2614	whether	_	_	
+19-13	2615-2621	CERCLA	*	Legal Source	
+19-14	2622-2628	allows	_	_	
+19-15	2629-2634	state	_	_	
+19-16	2635-2641	courts	_	_	
+19-17	2642-2644	to	_	_	
+19-18	2645-2654	entertain	_	_	
+19-19	2655-2660	suits	_	_	
+19-20	2661-2665	like	_	_	
+19-21	2666-2669	the	_	_	
+19-22	2670-2673	one	_	_	
+19-23	2674-2676	in	_	_	
+19-24	2677-2681	this	_	_	
+19-25	2682-2686	case	_	_	
+19-26	2687-2694	depends	_	_	
+19-27	2695-2697	on	_	_	
+19-28	2698-2701	the	_	_	
+19-29	2702-2716	interpretation	*	Metalinguistic Cue	
+19-30	2717-2719	of	_	_	
+19-31	2720-2730	devilishly	*[9]	Metalinguistic Cue[9]	
+19-32	2731-2740	difficult	*[9]	Metalinguistic Cue[9]	
+19-33	2741-2750	statutory	*[9]	Metalinguistic Cue[9]	
+19-34	2751-2761	provisions	*[9]	Metalinguistic Cue[9]	
+19-35	2762-2763	,	_	_	
+19-36	2764-2770	CERCLA	*[10]	Legal Source[10]	
+19-37	2771-2772	§	*[10]	Legal Source[10]	
+19-38	2773-2774	§	*[10]	Legal Source[10]	
+19-39	2775-2780	113(b	*[10]	Legal Source[10]	
+19-40	2781-2782	)	*[10]	Legal Source[10]	
+19-41	2783-2786	and	*[10]	Legal Source[10]	
+19-42	2787-2788	(	*[10]	Legal Source[10]	
+19-43	2789-2790	h	*[10]	Legal Source[10]	
+19-44	2791-2792	)	*[10]	Legal Source[10]	
+19-45	2793-2794	,	*[10]	Legal Source[10]	
+19-46	2795-2797	42	*[10]	Legal Source[10]	
+19-47	2798-2804	U.S.C.	*[10]	Legal Source[10]	
+19-48	2805-2806	§	*[10]	Legal Source[10]	
+19-49	2807-2808	§	*[10]	Legal Source[10]	
+19-50	2809-2813	9613	*[10]	Legal Source[10]	
+19-51	2814-2815	(	*[10]	Legal Source[10]	
+19-52	2816-2817	b	*[10]	Legal Source[10]	
+19-53	2818-2819	)	*[10]	Legal Source[10]	
+19-54	2820-2823	and	*[10]	Legal Source[10]	
+19-55	2824-2825	(	*[10]	Legal Source[10]	
+19-56	2826-2827	h	*[10]	Legal Source[10]	
+19-57	2828-2829	)	*[10]	Legal Source[10]	
+19-58	2830-2831	.	_	_	
+
+#Text=With much at stake , we should be confident that our answer is correct , and we have no basis for such confidence here .
+20-1	2832-2836	With	_	_	
+20-2	2837-2841	much	_	_	
+20-3	2842-2844	at	_	_	
+20-4	2845-2850	stake	_	_	
+20-5	2851-2852	,	_	_	
+20-6	2853-2855	we	_	_	
+20-7	2856-2862	should	_	_	
+20-8	2863-2865	be	_	_	
+20-9	2866-2875	confident	_	_	
+20-10	2876-2880	that	_	_	
+20-11	2881-2884	our	_	_	
+20-12	2885-2891	answer	_	_	
+20-13	2892-2894	is	_	_	
+20-14	2895-2902	correct	_	_	
+20-15	2903-2904	,	_	_	
+20-16	2905-2908	and	_	_	
+20-17	2909-2911	we	_	_	
+20-18	2912-2916	have	_	_	
+20-19	2917-2919	no	_	_	
+20-20	2920-2925	basis	_	_	
+20-21	2926-2929	for	_	_	
+20-22	2930-2934	such	_	_	
+20-23	2935-2945	confidence	_	_	
+20-24	2946-2950	here	_	_	
+20-25	2951-2952	.	_	_	
+
+#Text=The question of state - court jurisdiction is only one of many in this case , and the briefing and argument on that issue left important questions without fully satisfactory answers .
+21-1	2953-2956	The	_	_	
+21-2	2957-2965	question	_	_	
+21-3	2966-2968	of	_	_	
+21-4	2969-2974	state	_	_	
+21-5	2975-2976	-	_	_	
+21-6	2977-2982	court	_	_	
+21-7	2983-2995	jurisdiction	_	_	
+21-8	2996-2998	is	_	_	
+21-9	2999-3003	only	_	_	
+21-10	3004-3007	one	_	_	
+21-11	3008-3010	of	_	_	
+21-12	3011-3015	many	_	_	
+21-13	3016-3018	in	_	_	
+21-14	3019-3023	this	_	_	
+21-15	3024-3028	case	_	_	
+21-16	3029-3030	,	_	_	
+21-17	3031-3034	and	_	_	
+21-18	3035-3038	the	_	_	
+21-19	3039-3047	briefing	_	_	
+21-20	3048-3051	and	_	_	
+21-21	3052-3060	argument	_	_	
+21-22	3061-3063	on	_	_	
+21-23	3064-3068	that	_	_	
+21-24	3069-3074	issue	_	_	
+21-25	3075-3079	left	_	_	
+21-26	3080-3089	important	_	_	
+21-27	3090-3099	questions	_	_	
+21-28	3100-3107	without	_	_	
+21-29	3108-3113	fully	_	_	
+21-30	3114-3126	satisfactory	_	_	
+21-31	3127-3134	answers	_	_	
+21-32	3135-3136	.	_	_	
+
+#Text=The Court tries to clear up what § 113 means , but as I will attempt to show , the Court 's interpretation presents serious problems .
+22-1	3137-3140	The	_	_	
+22-2	3141-3146	Court	_	_	
+22-3	3147-3152	tries	_	_	
+22-4	3153-3155	to	_	_	
+22-5	3156-3161	clear	*[11]	Metalinguistic Cue[11]	
+22-6	3162-3164	up	*[11]	Metalinguistic Cue[11]	
+22-7	3165-3169	what	_	_	
+22-8	3170-3171	§	*[12]	Legal Source[12]	
+22-9	3172-3175	113	*[12]	Legal Source[12]	
+22-10	3176-3181	means	*	Metalinguistic Cue	
+22-11	3182-3183	,	_	_	
+22-12	3184-3187	but	_	_	
+22-13	3188-3190	as	_	_	
+22-14	3191-3192	I	_	_	
+22-15	3193-3197	will	_	_	
+22-16	3198-3205	attempt	_	_	
+22-17	3206-3208	to	_	_	
+22-18	3209-3213	show	_	_	
+22-19	3214-3215	,	_	_	
+22-20	3216-3219	the	_	_	
+22-21	3220-3225	Court	_	_	
+22-22	3226-3228	's	_	_	
+22-23	3229-3243	interpretation	*	Metalinguistic Cue	
+22-24	3244-3252	presents	_	_	
+22-25	3253-3260	serious	_	_	
+22-26	3261-3269	problems	_	_	
+22-27	3270-3271	.	_	_	
+
+#Text=Under these circumstances , the better course is not to decide this perplexing question at this juncture .
+23-1	3272-3277	Under	_	_	
+23-2	3278-3283	these	_	_	
+23-3	3284-3297	circumstances	_	_	
+23-4	3298-3299	,	_	_	
+23-5	3300-3303	the	_	_	
+23-6	3304-3310	better	_	_	
+23-7	3311-3317	course	_	_	
+23-8	3318-3320	is	_	_	
+23-9	3321-3324	not	_	_	
+23-10	3325-3327	to	_	_	
+23-11	3328-3334	decide	_	_	
+23-12	3335-3339	this	_	_	
+23-13	3340-3350	perplexing	_	_	
+23-14	3351-3359	question	_	_	
+23-15	3360-3362	at	_	_	
+23-16	3363-3367	this	_	_	
+23-17	3368-3376	juncture	_	_	
+23-18	3377-3378	.	_	_	
+
+#Text=II
+24-1	3379-3381	II	_	_	
+
+#Text=A
+25-1	3382-3383	A	_	_	
+
+#Text=CERCLA § 113 is like a puzzle with pieces that are exceedingly difficult , if not impossible , to fit together .
+26-1	3384-3390	CERCLA	*[13]	Legal Source[13]	
+26-2	3391-3392	§	*[13]	Legal Source[13]	
+26-3	3393-3396	113	*[13]	Legal Source[13]	
+26-4	3397-3399	is	_	_	
+26-5	3400-3404	like	_	_	
+26-6	3405-3406	a	_	_	
+26-7	3407-3413	puzzle	_	_	
+26-8	3414-3418	with	_	_	
+26-9	3419-3425	pieces	_	_	
+26-10	3426-3430	that	_	_	
+26-11	3431-3434	are	_	_	
+26-12	3435-3446	exceedingly	_	_	
+26-13	3447-3456	difficult	_	_	
+26-14	3457-3458	,	_	_	
+26-15	3459-3461	if	_	_	
+26-16	3462-3465	not	_	_	
+26-17	3466-3476	impossible	_	_	
+26-18	3477-3478	,	_	_	
+26-19	3479-3481	to	_	_	
+26-20	3482-3485	fit	_	_	
+26-21	3486-3494	together	_	_	
+26-22	3495-3496	.	_	_	
+
+#Text=Here is what these provisions say , with language that is not pertinent for present purposes omitted :
+27-1	3497-3501	Here	_	_	
+27-2	3502-3504	is	_	_	
+27-3	3505-3509	what	_	_	
+27-4	3510-3515	these	_	_	
+27-5	3516-3526	provisions	_	_	
+27-6	3527-3530	say	_	_	
+27-7	3531-3532	,	_	_	
+27-8	3533-3537	with	_	_	
+27-9	3538-3546	language	*	Metalinguistic Cue	
+27-10	3547-3551	that	_	_	
+27-11	3552-3554	is	_	_	
+27-12	3555-3558	not	_	_	
+27-13	3559-3568	pertinent	_	_	
+27-14	3569-3572	for	_	_	
+27-15	3573-3580	present	_	_	
+27-16	3581-3589	purposes	_	_	
+27-17	3590-3597	omitted	_	_	
+27-18	3598-3599	:	_	_	
+
+#Text=" ( b ) Jurisdiction ; venue
+28-1	3600-3601	"	*[14]	Direct Quote[14]	
+28-2	3602-3603	(	*[14]	Direct Quote[14]	
+28-3	3604-3605	b	*[14]	Direct Quote[14]	
+28-4	3606-3607	)	*[14]	Direct Quote[14]	
+28-5	3608-3620	Jurisdiction	*[14]	Direct Quote[14]	
+28-6	3621-3622	;	*[14]	Direct Quote[14]	
+28-7	3623-3628	venue	*[14]	Direct Quote[14]	
+
+#Text=" Except as provided in subsectio [ n ] ... ( h ) of this section [ and another provision not relevant for present purposes ] , the United States district courts shall have exclusive original jurisdiction over all controversies arising under this chapter , without regard to the citizenship of the parties or the amount in controversy ....
+29-1	3629-3630	"	*[15]	Direct Quote[15]	
+29-2	3631-3637	Except	*[15]	Direct Quote[15]	
+29-3	3638-3640	as	*[15]	Direct Quote[15]	
+29-4	3641-3649	provided	*[15]	Direct Quote[15]	
+29-5	3650-3652	in	*[15]	Direct Quote[15]	
+29-6	3653-3662	subsectio	*[15]	Direct Quote[15]	
+29-7	3663-3664	[	*[15]	Direct Quote[15]	
+29-8	3665-3666	n	*[15]	Direct Quote[15]	
+29-9	3667-3668	]	*[15]	Direct Quote[15]	
+29-10	3669-3672	...	*[15]	Direct Quote[15]	
+29-11	3673-3674	(	*[15]	Direct Quote[15]	
+29-12	3675-3676	h	*[15]	Direct Quote[15]	
+29-13	3677-3678	)	*[15]	Direct Quote[15]	
+29-14	3679-3681	of	*[15]	Direct Quote[15]	
+29-15	3682-3686	this	*[15]	Direct Quote[15]	
+29-16	3687-3694	section	*[15]	Direct Quote[15]	
+29-17	3695-3696	[	*[15]	Direct Quote[15]	
+29-18	3697-3700	and	*[15]	Direct Quote[15]	
+29-19	3701-3708	another	*[15]	Direct Quote[15]	
+29-20	3709-3718	provision	*[15]	Direct Quote[15]	
+29-21	3719-3722	not	*[15]	Direct Quote[15]	
+29-22	3723-3731	relevant	*[15]	Direct Quote[15]	
+29-23	3732-3735	for	*[15]	Direct Quote[15]	
+29-24	3736-3743	present	*[15]	Direct Quote[15]	
+29-25	3744-3752	purposes	*[15]	Direct Quote[15]	
+29-26	3753-3754	]	*[15]	Direct Quote[15]	
+29-27	3755-3756	,	*[15]	Direct Quote[15]	
+29-28	3757-3760	the	*[15]	Direct Quote[15]	
+29-29	3761-3767	United	*[15]	Direct Quote[15]	
+29-30	3768-3774	States	*[15]	Direct Quote[15]	
+29-31	3775-3783	district	*[15]	Direct Quote[15]	
+29-32	3784-3790	courts	*[15]	Direct Quote[15]	
+29-33	3791-3796	shall	*[15]	Direct Quote[15]	
+29-34	3797-3801	have	*[15]	Direct Quote[15]	
+29-35	3802-3811	exclusive	*[15]	Direct Quote[15]	
+29-36	3812-3820	original	*[15]	Direct Quote[15]	
+29-37	3821-3833	jurisdiction	*[15]	Direct Quote[15]	
+29-38	3834-3838	over	*[15]	Direct Quote[15]	
+29-39	3839-3842	all	*[15]	Direct Quote[15]	
+29-40	3843-3856	controversies	*[15]	Direct Quote[15]	
+29-41	3857-3864	arising	*[15]	Direct Quote[15]	
+29-42	3865-3870	under	*[15]	Direct Quote[15]	
+29-43	3871-3875	this	*[15]	Direct Quote[15]	
+29-44	3876-3883	chapter	*[15]	Direct Quote[15]	
+29-45	3884-3885	,	*[15]	Direct Quote[15]	
+29-46	3886-3893	without	*[15]	Direct Quote[15]	
+29-47	3894-3900	regard	*[15]	Direct Quote[15]	
+29-48	3901-3903	to	*[15]	Direct Quote[15]	
+29-49	3904-3907	the	*[15]	Direct Quote[15]	
+29-50	3908-3919	citizenship	*[15]	Direct Quote[15]	
+29-51	3920-3922	of	*[15]	Direct Quote[15]	
+29-52	3923-3926	the	*[15]	Direct Quote[15]	
+29-53	3927-3934	parties	*[15]	Direct Quote[15]	
+29-54	3935-3937	or	*[15]	Direct Quote[15]	
+29-55	3938-3941	the	*[15]	Direct Quote[15]	
+29-56	3942-3948	amount	*[15]	Direct Quote[15]	
+29-57	3949-3951	in	*[15]	Direct Quote[15]	
+29-58	3952-3963	controversy	*[15]	Direct Quote[15]	
+29-59	3964-3968	....	*[15]	Direct Quote[15]	
+
+#Text=.....
+30-1	3969-3974	.....	*	Direct Quote	
+
+#Text=" ( h ) Timing of review
+31-1	3975-3976	"	*[16]	Direct Quote[16]	
+31-2	3977-3978	(	*[16]	Direct Quote[16]	
+31-3	3979-3980	h	*[16]	Direct Quote[16]	
+31-4	3981-3982	)	*[16]	Direct Quote[16]	
+31-5	3983-3989	Timing	*[16]	Direct Quote[16]	
+31-6	3990-3992	of	*[16]	Direct Quote[16]	
+31-7	3993-3999	review	*[16]	Direct Quote[16]	
+
+#Text=" No Federal court shall have jurisdiction under Federal law other than under section 1332 of title 28 ( relating to diversity of citizenship jurisdiction ) or under State law which is applicable or relevant and appropriate under section 9621 of this title [ CERCLA § 121 , 42 U.S.C. § 9621 ] ( relating to cleanup standards ) to review any challenges to removal or remedial action selected under section 9604 of this title , or to review any order issued under section 9606(a ) of this title [ concerning emergency measures ordered by the President ] , in any action except one of [ a list of specific CERCLA provisions ] . "
+32-1	4000-4001	"	*[17]	Direct Quote[17]	
+32-2	4002-4004	No	*[17]	Direct Quote[17]	
+32-3	4005-4012	Federal	*[17]	Direct Quote[17]	
+32-4	4013-4018	court	*[17]	Direct Quote[17]	
+32-5	4019-4024	shall	*[17]	Direct Quote[17]	
+32-6	4025-4029	have	*[17]	Direct Quote[17]	
+32-7	4030-4042	jurisdiction	*[17]	Direct Quote[17]	
+32-8	4043-4048	under	*[17]	Direct Quote[17]	
+32-9	4049-4056	Federal	*[17]	Direct Quote[17]	
+32-10	4057-4060	law	*[17]	Direct Quote[17]	
+32-11	4061-4066	other	*[17]	Direct Quote[17]	
+32-12	4067-4071	than	*[17]	Direct Quote[17]	
+32-13	4072-4077	under	*[17]	Direct Quote[17]	
+32-14	4078-4085	section	*[17]|*[18]	Direct Quote[17]|Legal Source[18]	
+32-15	4086-4090	1332	*[17]|*[18]	Direct Quote[17]|Legal Source[18]	
+32-16	4091-4093	of	*[17]|*[18]	Direct Quote[17]|Legal Source[18]	
+32-17	4094-4099	title	*[17]|*[18]	Direct Quote[17]|Legal Source[18]	
+32-18	4100-4102	28	*[17]|*[18]	Direct Quote[17]|Legal Source[18]	
+32-19	4103-4104	(	*[17]	Direct Quote[17]	
+32-20	4105-4113	relating	*[17]	Direct Quote[17]	
+32-21	4114-4116	to	*[17]	Direct Quote[17]	
+32-22	4117-4126	diversity	*[17]	Direct Quote[17]	
+32-23	4127-4129	of	*[17]	Direct Quote[17]	
+32-24	4130-4141	citizenship	*[17]	Direct Quote[17]	
+32-25	4142-4154	jurisdiction	*[17]	Direct Quote[17]	
+32-26	4155-4156	)	*[17]	Direct Quote[17]	
+32-27	4157-4159	or	*[17]	Direct Quote[17]	
+32-28	4160-4165	under	*[17]	Direct Quote[17]	
+32-29	4166-4171	State	*[17]	Direct Quote[17]	
+32-30	4172-4175	law	*[17]	Direct Quote[17]	
+32-31	4176-4181	which	*[17]	Direct Quote[17]	
+32-32	4182-4184	is	*[17]	Direct Quote[17]	
+32-33	4185-4195	applicable	*[17]	Direct Quote[17]	
+32-34	4196-4198	or	*[17]	Direct Quote[17]	
+32-35	4199-4207	relevant	*[17]	Direct Quote[17]	
+32-36	4208-4211	and	*[17]	Direct Quote[17]	
+32-37	4212-4223	appropriate	*[17]	Direct Quote[17]	
+32-38	4224-4229	under	*[17]	Direct Quote[17]	
+32-39	4230-4237	section	*[17]|*[19]	Direct Quote[17]|Legal Source[19]	
+32-40	4238-4242	9621	*[17]|*[19]	Direct Quote[17]|Legal Source[19]	
+32-41	4243-4245	of	*[17]	Direct Quote[17]	
+32-42	4246-4250	this	*[17]	Direct Quote[17]	
+32-43	4251-4256	title	*[17]	Direct Quote[17]	
+32-44	4257-4258	[	*[17]	Direct Quote[17]	
+32-45	4259-4265	CERCLA	*[17]|*[20]	Direct Quote[17]|Legal Source[20]	
+32-46	4266-4267	§	*[17]|*[20]	Direct Quote[17]|Legal Source[20]	
+32-47	4268-4271	121	*[17]|*[20]	Direct Quote[17]|Legal Source[20]	
+32-48	4272-4273	,	*[17]|*[20]	Direct Quote[17]|Legal Source[20]	
+32-49	4274-4276	42	*[17]|*[20]	Direct Quote[17]|Legal Source[20]	
+32-50	4277-4283	U.S.C.	*[17]|*[20]	Direct Quote[17]|Legal Source[20]	
+32-51	4284-4285	§	*[17]|*[20]	Direct Quote[17]|Legal Source[20]	
+32-52	4286-4290	9621	*[17]|*[20]	Direct Quote[17]|Legal Source[20]	
+32-53	4291-4292	]	*[17]	Direct Quote[17]	
+32-54	4293-4294	(	*[17]	Direct Quote[17]	
+32-55	4295-4303	relating	*[17]	Direct Quote[17]	
+32-56	4304-4306	to	*[17]	Direct Quote[17]	
+32-57	4307-4314	cleanup	*[17]	Direct Quote[17]	
+32-58	4315-4324	standards	*[17]	Direct Quote[17]	
+32-59	4325-4326	)	*[17]	Direct Quote[17]	
+32-60	4327-4329	to	*[17]	Direct Quote[17]	
+32-61	4330-4336	review	*[17]	Direct Quote[17]	
+32-62	4337-4340	any	*[17]	Direct Quote[17]	
+32-63	4341-4351	challenges	*[17]	Direct Quote[17]	
+32-64	4352-4354	to	*[17]	Direct Quote[17]	
+32-65	4355-4362	removal	*[17]	Direct Quote[17]	
+32-66	4363-4365	or	*[17]	Direct Quote[17]	
+32-67	4366-4374	remedial	*[17]	Direct Quote[17]	
+32-68	4375-4381	action	*[17]	Direct Quote[17]	
+32-69	4382-4390	selected	*[17]	Direct Quote[17]	
+32-70	4391-4396	under	*[17]	Direct Quote[17]	
+32-71	4397-4404	section	*[17]|*[21]	Direct Quote[17]|Legal Source[21]	
+32-72	4405-4409	9604	*[17]|*[21]	Direct Quote[17]|Legal Source[21]	
+32-73	4410-4412	of	*[17]	Direct Quote[17]	
+32-74	4413-4417	this	*[17]	Direct Quote[17]	
+32-75	4418-4423	title	*[17]	Direct Quote[17]	
+32-76	4424-4425	,	*[17]	Direct Quote[17]	
+32-77	4426-4428	or	*[17]	Direct Quote[17]	
+32-78	4429-4431	to	*[17]	Direct Quote[17]	
+32-79	4432-4438	review	*[17]	Direct Quote[17]	
+32-80	4439-4442	any	*[17]	Direct Quote[17]	
+32-81	4443-4448	order	*[17]	Direct Quote[17]	
+32-82	4449-4455	issued	*[17]	Direct Quote[17]	
+32-83	4456-4461	under	*[17]	Direct Quote[17]	
+32-84	4462-4469	section	*[17]|*[22]	Direct Quote[17]|Legal Source[22]	
+32-85	4470-4476	9606(a	*[17]|*[22]	Direct Quote[17]|Legal Source[22]	
+32-86	4477-4478	)	*[17]|*[22]	Direct Quote[17]|Legal Source[22]	
+32-87	4479-4481	of	*[17]	Direct Quote[17]	
+32-88	4482-4486	this	*[17]	Direct Quote[17]	
+32-89	4487-4492	title	*[17]	Direct Quote[17]	
+32-90	4493-4494	[	*[17]	Direct Quote[17]	
+32-91	4495-4505	concerning	*[17]	Direct Quote[17]	
+32-92	4506-4515	emergency	*[17]	Direct Quote[17]	
+32-93	4516-4524	measures	*[17]	Direct Quote[17]	
+32-94	4525-4532	ordered	*[17]	Direct Quote[17]	
+32-95	4533-4535	by	*[17]	Direct Quote[17]	
+32-96	4536-4539	the	*[17]	Direct Quote[17]	
+32-97	4540-4549	President	*[17]	Direct Quote[17]	
+32-98	4550-4551	]	*[17]	Direct Quote[17]	
+32-99	4552-4553	,	*[17]	Direct Quote[17]	
+32-100	4554-4556	in	*[17]	Direct Quote[17]	
+32-101	4557-4560	any	*[17]	Direct Quote[17]	
+32-102	4561-4567	action	*[17]	Direct Quote[17]	
+32-103	4568-4574	except	*[17]	Direct Quote[17]	
+32-104	4575-4578	one	*[17]	Direct Quote[17]	
+32-105	4579-4581	of	*[17]	Direct Quote[17]	
+32-106	4582-4583	[	*[17]	Direct Quote[17]	
+32-107	4584-4585	a	*[17]	Direct Quote[17]	
+32-108	4586-4590	list	*[17]	Direct Quote[17]	
+32-109	4591-4593	of	*[17]	Direct Quote[17]	
+32-110	4594-4602	specific	*[17]	Direct Quote[17]	
+32-111	4603-4609	CERCLA	*[17]|*[23]	Direct Quote[17]|Legal Source[23]	
+32-112	4610-4620	provisions	*[17]	Direct Quote[17]	
+32-113	4621-4622	]	*[17]	Direct Quote[17]	
+32-114	4623-4624	.	*[17]	Direct Quote[17]	
+32-115	4625-4626	"	*[17]	Direct Quote[17]	
+
+#Text=42 U.S.C. § 9613 .
+33-1	4627-4629	42	*[24]	Legal Source[24]	
+33-2	4630-4636	U.S.C.	*[24]	Legal Source[24]	
+33-3	4637-4638	§	*[24]	Legal Source[24]	
+33-4	4639-4643	9613	*[24]	Legal Source[24]	
+33-5	4644-4645	.	*[24]	Legal Source[24]	
+
+#Text=For present purposes , the pertinent parts are as follows :
+34-1	4646-4649	For	_	_	
+34-2	4650-4657	present	_	_	
+34-3	4658-4666	purposes	_	_	
+34-4	4667-4668	,	_	_	
+34-5	4669-4672	the	_	_	
+34-6	4673-4682	pertinent	_	_	
+34-7	4683-4688	parts	_	_	
+34-8	4689-4692	are	_	_	
+34-9	4693-4695	as	_	_	
+34-10	4696-4703	follows	_	_	
+34-11	4704-4705	:	_	_	
+
+#Text=• First , § 113(b ) sets out a general rule conferring on the federal district courts exclusive jurisdiction over claims " arising under " CERCLA .
+35-1	4706-4707	•	_	_	
+35-2	4708-4713	First	_	_	
+35-3	4714-4715	,	_	_	
+35-4	4716-4717	§	*[25]	Legal Source[25]	
+35-5	4718-4723	113(b	*[25]	Legal Source[25]	
+35-6	4724-4725	)	*[25]	Legal Source[25]	
+35-7	4726-4730	sets	_	_	
+35-8	4731-4734	out	_	_	
+35-9	4735-4736	a	_	_	
+35-10	4737-4744	general	_	_	
+35-11	4745-4749	rule	_	_	
+35-12	4750-4760	conferring	_	_	
+35-13	4761-4763	on	_	_	
+35-14	4764-4767	the	_	_	
+35-15	4768-4775	federal	_	_	
+35-16	4776-4784	district	_	_	
+35-17	4785-4791	courts	_	_	
+35-18	4792-4801	exclusive	_	_	
+35-19	4802-4814	jurisdiction	_	_	
+35-20	4815-4819	over	_	_	
+35-21	4820-4826	claims	_	_	
+35-22	4827-4828	"	*[26]	Direct Quote[26]	
+35-23	4829-4836	arising	*[26]	Direct Quote[26]	
+35-24	4837-4842	under	*[26]	Direct Quote[26]	
+35-25	4843-4844	"	*[26]	Direct Quote[26]	
+35-26	4845-4851	CERCLA	*	Legal Source	
+35-27	4852-4853	.	_	_	
+
+#Text=And it does so " without regard to the citizenship of the parties or the amount in controversy . "
+36-1	4854-4857	And	_	_	
+36-2	4858-4860	it	_	_	
+36-3	4861-4865	does	_	_	
+36-4	4866-4868	so	_	_	
+36-5	4869-4870	"	*[27]	Direct Quote[27]	
+36-6	4871-4878	without	*[27]	Direct Quote[27]	
+36-7	4879-4885	regard	*[27]	Direct Quote[27]	
+36-8	4886-4888	to	*[27]	Direct Quote[27]	
+36-9	4889-4892	the	*[27]	Direct Quote[27]	
+36-10	4893-4904	citizenship	*[27]	Direct Quote[27]	
+36-11	4905-4907	of	*[27]	Direct Quote[27]	
+36-12	4908-4911	the	*[27]	Direct Quote[27]	
+36-13	4912-4919	parties	*[27]	Direct Quote[27]	
+36-14	4920-4922	or	*[27]	Direct Quote[27]	
+36-15	4923-4926	the	*[27]	Direct Quote[27]	
+36-16	4927-4933	amount	*[27]	Direct Quote[27]	
+36-17	4934-4936	in	*[27]	Direct Quote[27]	
+36-18	4937-4948	controversy	*[27]	Direct Quote[27]	
+36-19	4949-4950	.	*[27]	Direct Quote[27]	
+36-20	4951-4952	"	*[27]	Direct Quote[27]	
+
+#Text=• Second , § § 113(b ) and ( h ) , taken together , reduce this grant of jurisdiction by taking away jurisdiction over most claims that " challeng [ e ] " a " removal or remedial action . "
+37-1	4953-4954	•	_	_	
+37-2	4955-4961	Second	_	_	
+37-3	4962-4963	,	_	_	
+37-4	4964-4965	§	*[28]	Legal Source[28]	
+37-5	4966-4967	§	*[28]	Legal Source[28]	
+37-6	4968-4973	113(b	*[28]	Legal Source[28]	
+37-7	4974-4975	)	*[28]	Legal Source[28]	
+37-8	4976-4979	and	*[28]	Legal Source[28]	
+37-9	4980-4981	(	*[28]	Legal Source[28]	
+37-10	4982-4983	h	*[28]	Legal Source[28]	
+37-11	4984-4985	)	*[28]	Legal Source[28]	
+37-12	4986-4987	,	_	_	
+37-13	4988-4993	taken	_	_	
+37-14	4994-5002	together	_	_	
+37-15	5003-5004	,	_	_	
+37-16	5005-5011	reduce	_	_	
+37-17	5012-5016	this	_	_	
+37-18	5017-5022	grant	_	_	
+37-19	5023-5025	of	_	_	
+37-20	5026-5038	jurisdiction	_	_	
+37-21	5039-5041	by	_	_	
+37-22	5042-5048	taking	_	_	
+37-23	5049-5053	away	_	_	
+37-24	5054-5066	jurisdiction	_	_	
+37-25	5067-5071	over	_	_	
+37-26	5072-5076	most	_	_	
+37-27	5077-5083	claims	_	_	
+37-28	5084-5088	that	_	_	
+37-29	5089-5090	"	*[29]	Direct Quote[29]	
+37-30	5091-5099	challeng	*[29]	Direct Quote[29]	
+37-31	5100-5101	[	*[29]	Direct Quote[29]	
+37-32	5102-5103	e	*[29]	Direct Quote[29]	
+37-33	5104-5105	]	*[29]	Direct Quote[29]	
+37-34	5106-5107	"	*[29]	Direct Quote[29]	
+37-35	5108-5109	a	_	_	
+37-36	5110-5111	"	*[30]	Direct Quote[30]	
+37-37	5112-5119	removal	*[30]	Direct Quote[30]	
+37-38	5120-5122	or	*[30]	Direct Quote[30]	
+37-39	5123-5131	remedial	*[30]	Direct Quote[30]	
+37-40	5132-5138	action	*[30]	Direct Quote[30]	
+37-41	5139-5140	.	*[30]	Direct Quote[30]	
+37-42	5141-5142	"	*[30]	Direct Quote[30]	
+
+#Text=• Third , this reduction does not apply to a challenge to removal or remedial action if it is brought under the diversity jurisdiction statute , 28 U.S.C. § 1332 .
+38-1	5143-5144	•	_	_	
+38-2	5145-5150	Third	_	_	
+38-3	5151-5152	,	_	_	
+38-4	5153-5157	this	_	_	
+38-5	5158-5167	reduction	_	_	
+38-6	5168-5172	does	_	_	
+38-7	5173-5176	not	_	_	
+38-8	5177-5182	apply	_	_	
+38-9	5183-5185	to	_	_	
+38-10	5186-5187	a	_	_	
+38-11	5188-5197	challenge	_	_	
+38-12	5198-5200	to	_	_	
+38-13	5201-5208	removal	_	_	
+38-14	5209-5211	or	_	_	
+38-15	5212-5220	remedial	_	_	
+38-16	5221-5227	action	_	_	
+38-17	5228-5230	if	_	_	
+38-18	5231-5233	it	_	_	
+38-19	5234-5236	is	_	_	
+38-20	5237-5244	brought	_	_	
+38-21	5245-5250	under	_	_	
+38-22	5251-5254	the	_	_	
+38-23	5255-5264	diversity	_	_	
+38-24	5265-5277	jurisdiction	_	_	
+38-25	5278-5285	statute	_	_	
+38-26	5286-5287	,	_	_	
+38-27	5288-5290	28	*[31]	Legal Source[31]	
+38-28	5291-5297	U.S.C.	*[31]	Legal Source[31]	
+38-29	5298-5299	§	*[31]	Legal Source[31]	
+38-30	5300-5304	1332	*[31]	Legal Source[31]	
+38-31	5305-5306	.	_	_	
+
+#Text=• Fourth , this reduction also does not apply to a challenge to removal or remedial action if it is brought in federal court " under State law which is applicable or relevant and appropriate under [ § 121 ] ( relating to cleanup standards ) . "
+39-1	5307-5308	•	_	_	
+39-2	5309-5315	Fourth	_	_	
+39-3	5316-5317	,	_	_	
+39-4	5318-5322	this	_	_	
+39-5	5323-5332	reduction	_	_	
+39-6	5333-5337	also	_	_	
+39-7	5338-5342	does	_	_	
+39-8	5343-5346	not	_	_	
+39-9	5347-5352	apply	_	_	
+39-10	5353-5355	to	_	_	
+39-11	5356-5357	a	_	_	
+39-12	5358-5367	challenge	_	_	
+39-13	5368-5370	to	_	_	
+39-14	5371-5378	removal	_	_	
+39-15	5379-5381	or	_	_	
+39-16	5382-5390	remedial	_	_	
+39-17	5391-5397	action	_	_	
+39-18	5398-5400	if	_	_	
+39-19	5401-5403	it	_	_	
+39-20	5404-5406	is	_	_	
+39-21	5407-5414	brought	_	_	
+39-22	5415-5417	in	_	_	
+39-23	5418-5425	federal	_	_	
+39-24	5426-5431	court	_	_	
+39-25	5432-5433	"	*[32]	Direct Quote[32]	
+39-26	5434-5439	under	*[32]	Direct Quote[32]	
+39-27	5440-5445	State	*[32]	Direct Quote[32]	
+39-28	5446-5449	law	*[32]	Direct Quote[32]	
+39-29	5450-5455	which	*[32]	Direct Quote[32]	
+39-30	5456-5458	is	*[32]	Direct Quote[32]	
+39-31	5459-5469	applicable	*[32]	Direct Quote[32]	
+39-32	5470-5472	or	*[32]	Direct Quote[32]	
+39-33	5473-5481	relevant	*[32]	Direct Quote[32]	
+39-34	5482-5485	and	*[32]	Direct Quote[32]	
+39-35	5486-5497	appropriate	*[32]	Direct Quote[32]	
+39-36	5498-5503	under	*[32]	Direct Quote[32]	
+39-37	5504-5505	[	*[32]	Direct Quote[32]	
+39-38	5506-5507	§	*[32]|*[33]	Direct Quote[32]|Legal Source[33]	
+39-39	5508-5511	121	*[32]|*[33]	Direct Quote[32]|Legal Source[33]	
+39-40	5512-5513	]	*[32]	Direct Quote[32]	
+39-41	5514-5515	(	*[32]	Direct Quote[32]	
+39-42	5516-5524	relating	*[32]	Direct Quote[32]	
+39-43	5525-5527	to	*[32]	Direct Quote[32]	
+39-44	5528-5535	cleanup	*[32]	Direct Quote[32]	
+39-45	5536-5545	standards	*[32]	Direct Quote[32]	
+39-46	5546-5547	)	*[32]	Direct Quote[32]	
+39-47	5548-5549	.	*[32]	Direct Quote[32]	
+39-48	5550-5551	"	*[32]	Direct Quote[32]	
+
+#Text=Under § 121 , cleanup standards must comply with certain state - law requirements , and thus the thrust of this last provision seems to be that a removal or remedial action may be challenged in federal court for noncompliance with such requirements .
+40-1	5552-5557	Under	_	_	
+40-2	5558-5559	§	*[34]	Legal Source[34]	
+40-3	5560-5563	121	*[34]	Legal Source[34]	
+40-4	5564-5565	,	_	_	
+40-5	5566-5573	cleanup	_	_	
+40-6	5574-5583	standards	_	_	
+40-7	5584-5588	must	_	_	
+40-8	5589-5595	comply	_	_	
+40-9	5596-5600	with	_	_	
+40-10	5601-5608	certain	_	_	
+40-11	5609-5614	state	_	_	
+40-12	5615-5616	-	_	_	
+40-13	5617-5620	law	_	_	
+40-14	5621-5633	requirements	_	_	
+40-15	5634-5635	,	_	_	
+40-16	5636-5639	and	_	_	
+40-17	5640-5644	thus	_	_	
+40-18	5645-5648	the	_	_	
+40-19	5649-5655	thrust	_	_	
+40-20	5656-5658	of	_	_	
+40-21	5659-5663	this	_	_	
+40-22	5664-5668	last	_	_	
+40-23	5669-5678	provision	_	_	
+40-24	5679-5684	seems	_	_	
+40-25	5685-5687	to	_	_	
+40-26	5688-5690	be	_	_	
+40-27	5691-5695	that	_	_	
+40-28	5696-5697	a	_	_	
+40-29	5698-5705	removal	_	_	
+40-30	5706-5708	or	_	_	
+40-31	5709-5717	remedial	_	_	
+40-32	5718-5724	action	_	_	
+40-33	5725-5728	may	_	_	
+40-34	5729-5731	be	_	_	
+40-35	5732-5742	challenged	_	_	
+40-36	5743-5745	in	_	_	
+40-37	5746-5753	federal	_	_	
+40-38	5754-5759	court	_	_	
+40-39	5760-5763	for	_	_	
+40-40	5764-5777	noncompliance	_	_	
+40-41	5778-5782	with	_	_	
+40-42	5783-5787	such	_	_	
+40-43	5788-5800	requirements	_	_	
+40-44	5801-5802	.	_	_	
+
+#Text=With these pieces laid out , we may consider how the Court and respondents , on the one hand , and the Government and petitioner , on the other , try to fit them together .
+41-1	5803-5807	With	_	_	
+41-2	5808-5813	these	_	_	
+41-3	5814-5820	pieces	_	_	
+41-4	5821-5825	laid	_	_	
+41-5	5826-5829	out	_	_	
+41-6	5830-5831	,	_	_	
+41-7	5832-5834	we	_	_	
+41-8	5835-5838	may	_	_	
+41-9	5839-5847	consider	_	_	
+41-10	5848-5851	how	_	_	
+41-11	5852-5855	the	_	_	
+41-12	5856-5861	Court	_	_	
+41-13	5862-5865	and	_	_	
+41-14	5866-5877	respondents	_	_	
+41-15	5878-5879	,	_	_	
+41-16	5880-5882	on	_	_	
+41-17	5883-5886	the	_	_	
+41-18	5887-5890	one	_	_	
+41-19	5891-5895	hand	_	_	
+41-20	5896-5897	,	_	_	
+41-21	5898-5901	and	_	_	
+41-22	5902-5905	the	_	_	
+41-23	5906-5916	Government	_	_	
+41-24	5917-5920	and	_	_	
+41-25	5921-5931	petitioner	_	_	
+41-26	5932-5933	,	_	_	
+41-27	5934-5936	on	_	_	
+41-28	5937-5940	the	_	_	
+41-29	5941-5946	other	_	_	
+41-30	5947-5948	,	_	_	
+41-31	5949-5952	try	_	_	
+41-32	5953-5955	to	_	_	
+41-33	5956-5959	fit	_	_	
+41-34	5960-5964	them	_	_	
+41-35	5965-5973	together	_	_	
+41-36	5974-5975	.	_	_	
+
+#Text=B
+42-1	5976-5977	B	_	_	
+
+#Text=The logical first step in any effort to understand how § § 113(b ) and ( h ) apply to the landowners ' state - law restoration damages claim is to determine whether the claim falls within the scope of the exclusive jurisdiction that § 113(b ) confers on the federal district courts - in other words , whether such a claim is one that " aris[es ] under " CERCLA .
+43-1	5978-5981	The	_	_	
+43-2	5982-5989	logical	_	_	
+43-3	5990-5995	first	_	_	
+43-4	5996-6000	step	_	_	
+43-5	6001-6003	in	_	_	
+43-6	6004-6007	any	_	_	
+43-7	6008-6014	effort	_	_	
+43-8	6015-6017	to	_	_	
+43-9	6018-6028	understand	_	_	
+43-10	6029-6032	how	_	_	
+43-11	6033-6034	§	*[35]	Legal Source[35]	
+43-12	6035-6036	§	*[35]	Legal Source[35]	
+43-13	6037-6042	113(b	*[35]	Legal Source[35]	
+43-14	6043-6044	)	*[35]	Legal Source[35]	
+43-15	6045-6048	and	_	_	
+43-16	6049-6050	(	*[36]	Legal Source[36]	
+43-17	6051-6052	h	*[36]	Legal Source[36]	
+43-18	6053-6054	)	*[36]	Legal Source[36]	
+43-19	6055-6060	apply	_	_	
+43-20	6061-6063	to	_	_	
+43-21	6064-6067	the	_	_	
+43-22	6068-6078	landowners	_	_	
+43-23	6079-6080	'	_	_	
+43-24	6081-6086	state	_	_	
+43-25	6087-6088	-	_	_	
+43-26	6089-6092	law	_	_	
+43-27	6093-6104	restoration	_	_	
+43-28	6105-6112	damages	_	_	
+43-29	6113-6118	claim	_	_	
+43-30	6119-6121	is	_	_	
+43-31	6122-6124	to	_	_	
+43-32	6125-6134	determine	_	_	
+43-33	6135-6142	whether	_	_	
+43-34	6143-6146	the	_	_	
+43-35	6147-6152	claim	_	_	
+43-36	6153-6158	falls	_	_	
+43-37	6159-6165	within	_	_	
+43-38	6166-6169	the	_	_	
+43-39	6170-6175	scope	_	_	
+43-40	6176-6178	of	_	_	
+43-41	6179-6182	the	_	_	
+43-42	6183-6192	exclusive	_	_	
+43-43	6193-6205	jurisdiction	_	_	
+43-44	6206-6210	that	_	_	
+43-45	6211-6212	§	*[37]	Legal Source[37]	
+43-46	6213-6218	113(b	*[37]	Legal Source[37]	
+43-47	6219-6220	)	*[37]	Legal Source[37]	
+43-48	6221-6228	confers	_	_	
+43-49	6229-6231	on	_	_	
+43-50	6232-6235	the	_	_	
+43-51	6236-6243	federal	_	_	
+43-52	6244-6252	district	_	_	
+43-53	6253-6259	courts	_	_	
+43-54	6260-6261	-	_	_	
+43-55	6262-6264	in	_	_	
+43-56	6265-6270	other	_	_	
+43-57	6271-6276	words	_	_	
+43-58	6277-6278	,	_	_	
+43-59	6279-6286	whether	_	_	
+43-60	6287-6291	such	_	_	
+43-61	6292-6293	a	_	_	
+43-62	6294-6299	claim	_	_	
+43-63	6300-6302	is	_	_	
+43-64	6303-6306	one	_	_	
+43-65	6307-6311	that	_	_	
+43-66	6312-6313	"	*[38]	Direct Quote[38]	
+43-67	6314-6321	aris[es	*[38]|*[39]	Direct Quote[38]|Focal Term[39]	
+43-68	6322-6323	]	*[38]|*[39]	Direct Quote[38]|Focal Term[39]	
+43-69	6324-6329	under	*[38]|*[39]	Direct Quote[38]|Focal Term[39]	
+43-70	6330-6331	"	*[38]	Direct Quote[38]	
+43-71	6332-6338	CERCLA	*	Legal Source	
+43-72	6339-6340	.	_	_	
+
+#Text=If it does not , then that ends the inquiry .
+44-1	6341-6343	If	_	_	
+44-2	6344-6346	it	_	_	
+44-3	6347-6351	does	_	_	
+44-4	6352-6355	not	_	_	
+44-5	6356-6357	,	_	_	
+44-6	6358-6362	then	_	_	
+44-7	6363-6367	that	_	_	
+44-8	6368-6372	ends	_	_	
+44-9	6373-6376	the	_	_	
+44-10	6377-6384	inquiry	_	_	
+44-11	6385-6386	.	_	_	
+
+#Text=And that is what the Court holds .
+45-1	6387-6390	And	_	_	
+45-2	6391-6395	that	_	_	
+45-3	6396-6398	is	_	_	
+45-4	6399-6403	what	_	_	
+45-5	6404-6407	the	_	_	
+45-6	6408-6413	Court	_	_	
+45-7	6414-6419	holds	_	_	
+45-8	6420-6421	.	_	_	
+
+#Text=Ante , at 1349 - 1350 .
+46-1	6422-6426	Ante	*[40]	Legal Source[40]	
+46-2	6427-6428	,	*[40]	Legal Source[40]	
+46-3	6429-6431	at	*[40]	Legal Source[40]	
+46-4	6432-6436	1349	*[40]	Legal Source[40]	
+46-5	6437-6438	-	*[40]	Legal Source[40]	
+46-6	6439-6443	1350	*[40]	Legal Source[40]	
+46-7	6444-6445	.	_	_	
+
+#Text=The Court interprets the phrase " arising under " in § 113(b ) to mean the same thing as that phrase means in the federal - question jurisdiction statute , 28 U.S.C. § 1331 .
+47-1	6446-6449	The	*[41]	Appeal to Meaning[41]	
+47-2	6450-6455	Court	*[41]	Appeal to Meaning[41]	
+47-3	6456-6466	interprets	*[41]|*[42]	Appeal to Meaning[41]|Metalinguistic Cue[42]	
+47-4	6467-6470	the	*[41]	Appeal to Meaning[41]	
+47-5	6471-6477	phrase	*[41]|*[43]	Appeal to Meaning[41]|Metalinguistic Cue[43]	
+47-6	6478-6479	"	*[41]|*[44]	Appeal to Meaning[41]|Direct Quote[44]	
+47-7	6480-6487	arising	*[41]|*[44]|*[45]	Appeal to Meaning[41]|Direct Quote[44]|Focal Term[45]	
+47-8	6488-6493	under	*[41]|*[44]|*[45]	Appeal to Meaning[41]|Direct Quote[44]|Focal Term[45]	
+47-9	6494-6495	"	*[41]|*[44]	Appeal to Meaning[41]|Direct Quote[44]	
+47-10	6496-6498	in	*[41]	Appeal to Meaning[41]	
+47-11	6499-6500	§	*[41]|*[46]	Appeal to Meaning[41]|Legal Source[46]	
+47-12	6501-6506	113(b	*[41]|*[46]	Appeal to Meaning[41]|Legal Source[46]	
+47-13	6507-6508	)	*[41]|*[46]	Appeal to Meaning[41]|Legal Source[46]	
+47-14	6509-6511	to	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-15	6512-6516	mean	*[41]|*[47]|*[48]	Appeal to Meaning[41]|Named Interpretive Rule[47]|Metalinguistic Cue[48]	
+47-16	6517-6520	the	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-17	6521-6525	same	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-18	6526-6531	thing	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-19	6532-6534	as	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-20	6535-6539	that	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-21	6540-6546	phrase	*[41]|*[47]|*[49]	Appeal to Meaning[41]|Named Interpretive Rule[47]|Metalinguistic Cue[49]	
+47-22	6547-6552	means	*[41]|*[47]|*[50]	Appeal to Meaning[41]|Named Interpretive Rule[47]|Metalinguistic Cue[50]	
+47-23	6553-6555	in	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-24	6556-6559	the	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-25	6560-6567	federal	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-26	6568-6569	-	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-27	6570-6578	question	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-28	6579-6591	jurisdiction	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-29	6592-6599	statute	*[41]|*[47]	Appeal to Meaning[41]|Named Interpretive Rule[47]	
+47-30	6600-6601	,	*[41]	Appeal to Meaning[41]	
+47-31	6602-6604	28	*[41]|*[51]	Appeal to Meaning[41]|Legal Source[51]	
+47-32	6605-6611	U.S.C.	*[41]|*[51]	Appeal to Meaning[41]|Legal Source[51]	
+47-33	6612-6613	§	*[41]|*[51]	Appeal to Meaning[41]|Legal Source[51]	
+47-34	6614-6618	1331	*[41]|*[51]	Appeal to Meaning[41]|Legal Source[51]	
+47-35	6619-6620	.	_	_	
+
+#Text=Under that provision , as the Court puts it , " [ i]n the mine run of cases , ' [ a ] suit arises under the law that creates the cause of action . ' "
+48-1	6621-6626	Under	_	_	
+48-2	6627-6631	that	_	_	
+48-3	6632-6641	provision	_	_	
+48-4	6642-6643	,	_	_	
+48-5	6644-6646	as	_	_	
+48-6	6647-6650	the	_	_	
+48-7	6651-6656	Court	_	_	
+48-8	6657-6661	puts	_	_	
+48-9	6662-6664	it	_	_	
+48-10	6665-6666	,	_	_	
+48-11	6667-6668	"	*[52]	Direct Quote[52]	
+48-12	6669-6670	[	*[52]	Direct Quote[52]	
+48-13	6671-6674	i]n	*[52]	Direct Quote[52]	
+48-14	6675-6678	the	*[52]	Direct Quote[52]	
+48-15	6679-6683	mine	*[52]	Direct Quote[52]	
+48-16	6684-6687	run	*[52]	Direct Quote[52]	
+48-17	6688-6690	of	*[52]	Direct Quote[52]	
+48-18	6691-6696	cases	*[52]	Direct Quote[52]	
+48-19	6697-6698	,	*[52]	Direct Quote[52]	
+48-20	6699-6700	'	*[52]|*[53]	Direct Quote[52]|Direct Quote[53]	
+48-21	6701-6702	[	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-22	6703-6704	a	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-23	6705-6706	]	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-24	6707-6711	suit	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-25	6712-6718	arises	*[52]|*[53]|*[54]|*[55]	Direct Quote[52]|Direct Quote[53]|Definition[54]|Focal Term[55]	
+48-26	6719-6724	under	*[52]|*[53]|*[54]|*[55]	Direct Quote[52]|Direct Quote[53]|Definition[54]|Focal Term[55]	
+48-27	6725-6728	the	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-28	6729-6732	law	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-29	6733-6737	that	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-30	6738-6745	creates	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-31	6746-6749	the	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-32	6750-6755	cause	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-33	6756-6758	of	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-34	6759-6765	action	*[52]|*[53]|*[54]	Direct Quote[52]|Direct Quote[53]|Definition[54]	
+48-35	6766-6767	.	*[52]|*[53]	Direct Quote[52]|Direct Quote[53]	
+48-36	6768-6769	'	*[52]|*[53]	Direct Quote[52]|Direct Quote[53]	
+48-37	6770-6771	"	*[52]	Direct Quote[52]	
+
+#Text=Ante , at 1349 - 1350 ( quoting American Well Works Co. v. Layne & Bowler Co. , 241 U.S. 257 , 260 , 36 S.Ct . 585 , 60 L.Ed . 987 ( 1916 ) ) .
+49-1	6772-6776	Ante	*[56]	Legal Source[56]	
+49-2	6777-6778	,	*[56]	Legal Source[56]	
+49-3	6779-6781	at	*[56]	Legal Source[56]	
+49-4	6782-6786	1349	*[56]	Legal Source[56]	
+49-5	6787-6788	-	*[56]	Legal Source[56]	
+49-6	6789-6793	1350	*[56]	Legal Source[56]	
+49-7	6794-6795	(	*[56]	Legal Source[56]	
+49-8	6796-6803	quoting	*[56]	Legal Source[56]	
+49-9	6804-6812	American	*[56]	Legal Source[56]	
+49-10	6813-6817	Well	*[56]	Legal Source[56]	
+49-11	6818-6823	Works	*[56]	Legal Source[56]	
+49-12	6824-6827	Co.	*[56]	Legal Source[56]	
+49-13	6828-6830	v.	*[56]	Legal Source[56]	
+49-14	6831-6836	Layne	*[56]	Legal Source[56]	
+49-15	6837-6838	&	*[56]	Legal Source[56]	
+49-16	6839-6845	Bowler	*[56]	Legal Source[56]	
+49-17	6846-6849	Co.	*[56]	Legal Source[56]	
+49-18	6850-6851	,	*[56]	Legal Source[56]	
+49-19	6852-6855	241	*[56]	Legal Source[56]	
+49-20	6856-6860	U.S.	*[56]	Legal Source[56]	
+49-21	6861-6864	257	*[56]	Legal Source[56]	
+49-22	6865-6866	,	*[56]	Legal Source[56]	
+49-23	6867-6870	260	*[56]	Legal Source[56]	
+49-24	6871-6872	,	*[56]	Legal Source[56]	
+49-25	6873-6875	36	*[56]	Legal Source[56]	
+49-26	6876-6880	S.Ct	*[56]	Legal Source[56]	
+49-27	6881-6882	.	*[56]	Legal Source[56]	
+49-28	6883-6886	585	*[56]	Legal Source[56]	
+49-29	6887-6888	,	*[56]	Legal Source[56]	
+49-30	6889-6891	60	*[56]	Legal Source[56]	
+49-31	6892-6896	L.Ed	*[56]	Legal Source[56]	
+49-32	6897-6898	.	*[56]	Legal Source[56]	
+49-33	6899-6902	987	*[56]	Legal Source[56]	
+49-34	6903-6904	(	*[56]	Legal Source[56]	
+49-35	6905-6909	1916	*[56]	Legal Source[56]	
+49-36	6910-6911	)	*[56]	Legal Source[56]	
+49-37	6912-6913	)	*[56]	Legal Source[56]	
+49-38	6914-6915	.	*[56]	Legal Source[56]	
+
+#Text=Thus , the Court concludes , a claim arises under CERCLA only if it is based on CERCLA , and since the landowners ' restoration damages claim is based on Montana law , it is obviously not based on CERCLA and does not fall within the exclusive jurisdiction conferred on the district courts by § 113(b ) .
+50-1	6916-6920	Thus	_	_	
+50-2	6921-6922	,	_	_	
+50-3	6923-6926	the	_	_	
+50-4	6927-6932	Court	_	_	
+50-5	6933-6942	concludes	_	_	
+50-6	6943-6944	,	_	_	
+50-7	6945-6946	a	_	_	
+50-8	6947-6952	claim	_	_	
+50-9	6953-6959	arises	*[57]	Focal Term[57]	
+50-10	6960-6965	under	*[57]	Focal Term[57]	
+50-11	6966-6972	CERCLA	*	Legal Source	
+50-12	6973-6977	only	_	_	
+50-13	6978-6980	if	_	_	
+50-14	6981-6983	it	_	_	
+50-15	6984-6986	is	_	_	
+50-16	6987-6992	based	_	_	
+50-17	6993-6995	on	_	_	
+50-18	6996-7002	CERCLA	*	Legal Source	
+50-19	7003-7004	,	_	_	
+50-20	7005-7008	and	_	_	
+50-21	7009-7014	since	_	_	
+50-22	7015-7018	the	_	_	
+50-23	7019-7029	landowners	_	_	
+50-24	7030-7031	'	_	_	
+50-25	7032-7043	restoration	_	_	
+50-26	7044-7051	damages	_	_	
+50-27	7052-7057	claim	_	_	
+50-28	7058-7060	is	_	_	
+50-29	7061-7066	based	_	_	
+50-30	7067-7069	on	_	_	
+50-31	7070-7077	Montana	_	_	
+50-32	7078-7081	law	_	_	
+50-33	7082-7083	,	_	_	
+50-34	7084-7086	it	_	_	
+50-35	7087-7089	is	_	_	
+50-36	7090-7099	obviously	_	_	
+50-37	7100-7103	not	_	_	
+50-38	7104-7109	based	_	_	
+50-39	7110-7112	on	_	_	
+50-40	7113-7119	CERCLA	*	Legal Source	
+50-41	7120-7123	and	_	_	
+50-42	7124-7128	does	_	_	
+50-43	7129-7132	not	_	_	
+50-44	7133-7137	fall	_	_	
+50-45	7138-7144	within	_	_	
+50-46	7145-7148	the	_	_	
+50-47	7149-7158	exclusive	_	_	
+50-48	7159-7171	jurisdiction	_	_	
+50-49	7172-7181	conferred	_	_	
+50-50	7182-7184	on	_	_	
+50-51	7185-7188	the	_	_	
+50-52	7189-7197	district	_	_	
+50-53	7198-7204	courts	_	_	
+50-54	7205-7207	by	_	_	
+50-55	7208-7209	§	*[58]	Legal Source[58]	
+50-56	7210-7215	113(b	*[58]	Legal Source[58]	
+50-57	7216-7217	)	*[58]	Legal Source[58]	
+50-58	7218-7219	.	_	_	
+
+#Text=This makes short work of the question of state - court jurisdiction , but it presents serious problems .
+51-1	7220-7224	This	_	_	
+51-2	7225-7230	makes	_	_	
+51-3	7231-7236	short	_	_	
+51-4	7237-7241	work	_	_	
+51-5	7242-7244	of	_	_	
+51-6	7245-7248	the	_	_	
+51-7	7249-7257	question	_	_	
+51-8	7258-7260	of	_	_	
+51-9	7261-7266	state	_	_	
+51-10	7267-7268	-	_	_	
+51-11	7269-7274	court	_	_	
+51-12	7275-7287	jurisdiction	_	_	
+51-13	7288-7289	,	_	_	
+51-14	7290-7293	but	_	_	
+51-15	7294-7296	it	_	_	
+51-16	7297-7305	presents	_	_	
+51-17	7306-7313	serious	_	_	
+51-18	7314-7322	problems	_	_	
+51-19	7323-7324	.	_	_	
+
+#Text=First , it can not explain why § 113(b ) says that the jurisdiction it confers is " without regard to the citizenship of the parties or the amount in controversy . "
+52-1	7325-7330	First	_	_	
+52-2	7331-7332	,	_	_	
+52-3	7333-7335	it	_	_	
+52-4	7336-7339	can	_	_	
+52-5	7340-7343	not	_	_	
+52-6	7344-7351	explain	_	_	
+52-7	7352-7355	why	_	_	
+52-8	7356-7357	§	*[59]	Legal Source[59]	
+52-9	7358-7363	113(b	*[59]	Legal Source[59]	
+52-10	7364-7365	)	*[59]	Legal Source[59]	
+52-11	7366-7370	says	_	_	
+52-12	7371-7375	that	_	_	
+52-13	7376-7379	the	_	_	
+52-14	7380-7392	jurisdiction	_	_	
+52-15	7393-7395	it	_	_	
+52-16	7396-7403	confers	_	_	
+52-17	7404-7406	is	_	_	
+52-18	7407-7408	"	*[60]	Direct Quote[60]	
+52-19	7409-7416	without	*[60]	Direct Quote[60]	
+52-20	7417-7423	regard	*[60]	Direct Quote[60]	
+52-21	7424-7426	to	*[60]	Direct Quote[60]	
+52-22	7427-7430	the	*[60]	Direct Quote[60]	
+52-23	7431-7442	citizenship	*[60]	Direct Quote[60]	
+52-24	7443-7445	of	*[60]	Direct Quote[60]	
+52-25	7446-7449	the	*[60]	Direct Quote[60]	
+52-26	7450-7457	parties	*[60]	Direct Quote[60]	
+52-27	7458-7460	or	*[60]	Direct Quote[60]	
+52-28	7461-7464	the	*[60]	Direct Quote[60]	
+52-29	7465-7471	amount	*[60]	Direct Quote[60]	
+52-30	7472-7474	in	*[60]	Direct Quote[60]	
+52-31	7475-7486	controversy	*[60]	Direct Quote[60]	
+52-32	7487-7488	.	*[60]	Direct Quote[60]	
+52-33	7489-7490	"	*[60]	Direct Quote[60]	
+
+#Text=If that jurisdiction is limited to claims that are based on CERCLA , district courts have jurisdiction to entertain all those claims under 28 U.S.C. § 1331 , which does not require either diversity or any minimum amount in controversy .
+53-1	7491-7493	If	_	_	
+53-2	7494-7498	that	_	_	
+53-3	7499-7511	jurisdiction	_	_	
+53-4	7512-7514	is	_	_	
+53-5	7515-7522	limited	_	_	
+53-6	7523-7525	to	_	_	
+53-7	7526-7532	claims	_	_	
+53-8	7533-7537	that	_	_	
+53-9	7538-7541	are	_	_	
+53-10	7542-7547	based	_	_	
+53-11	7548-7550	on	_	_	
+53-12	7551-7557	CERCLA	*	Legal Source	
+53-13	7558-7559	,	_	_	
+53-14	7560-7568	district	_	_	
+53-15	7569-7575	courts	_	_	
+53-16	7576-7580	have	_	_	
+53-17	7581-7593	jurisdiction	_	_	
+53-18	7594-7596	to	_	_	
+53-19	7597-7606	entertain	_	_	
+53-20	7607-7610	all	_	_	
+53-21	7611-7616	those	_	_	
+53-22	7617-7623	claims	_	_	
+53-23	7624-7629	under	_	_	
+53-24	7630-7632	28	*[61]	Legal Source[61]	
+53-25	7633-7639	U.S.C.	*[61]	Legal Source[61]	
+53-26	7640-7641	§	*[61]	Legal Source[61]	
+53-27	7642-7646	1331	*[61]	Legal Source[61]	
+53-28	7647-7648	,	_	_	
+53-29	7649-7654	which	_	_	
+53-30	7655-7659	does	_	_	
+53-31	7660-7663	not	_	_	
+53-32	7664-7671	require	_	_	
+53-33	7672-7678	either	_	_	
+53-34	7679-7688	diversity	_	_	
+53-35	7689-7691	or	_	_	
+53-36	7692-7695	any	_	_	
+53-37	7696-7703	minimum	_	_	
+53-38	7704-7710	amount	_	_	
+53-39	7711-7713	in	_	_	
+53-40	7714-7725	controversy	_	_	
+53-41	7726-7727	.	_	_	
+
+#Text=So why go out of the way to say that § 113(b ) jurisdiction does not require diversity or any minimum amount in controversy ?
+54-1	7728-7730	So	_	_	
+54-2	7731-7734	why	_	_	
+54-3	7735-7737	go	_	_	
+54-4	7738-7741	out	_	_	
+54-5	7742-7744	of	_	_	
+54-6	7745-7748	the	_	_	
+54-7	7749-7752	way	_	_	
+54-8	7753-7755	to	_	_	
+54-9	7756-7759	say	_	_	
+54-10	7760-7764	that	_	_	
+54-11	7765-7766	§	*[62]	Legal Source[62]	
+54-12	7767-7772	113(b	*[62]	Legal Source[62]	
+54-13	7773-7774	)	*[62]	Legal Source[62]	
+54-14	7775-7787	jurisdiction	_	_	
+54-15	7788-7792	does	_	_	
+54-16	7793-7796	not	_	_	
+54-17	7797-7804	require	_	_	
+54-18	7805-7814	diversity	_	_	
+54-19	7815-7817	or	_	_	
+54-20	7818-7821	any	_	_	
+54-21	7822-7829	minimum	_	_	
+54-22	7830-7836	amount	_	_	
+54-23	7837-7839	in	_	_	
+54-24	7840-7851	controversy	_	_	
+54-25	7852-7853	?	_	_	
+
+#Text=The only logical reason is to ensure that the provision covers suits that could not be brought under 28 U.S.C. § 1331 .
+55-1	7854-7857	The	_	_	
+55-2	7858-7862	only	_	_	
+55-3	7863-7870	logical	_	_	
+55-4	7871-7877	reason	_	_	
+55-5	7878-7880	is	_	_	
+55-6	7881-7883	to	_	_	
+55-7	7884-7890	ensure	_	_	
+55-8	7891-7895	that	_	_	
+55-9	7896-7899	the	_	_	
+55-10	7900-7909	provision	_	_	
+55-11	7910-7916	covers	_	_	
+55-12	7917-7922	suits	_	_	
+55-13	7923-7927	that	_	_	
+55-14	7928-7933	could	_	_	
+55-15	7934-7937	not	_	_	
+55-16	7938-7940	be	_	_	
+55-17	7941-7948	brought	_	_	
+55-18	7949-7954	under	_	_	
+55-19	7955-7957	28	*[63]	Legal Source[63]	
+55-20	7958-7964	U.S.C.	*[63]	Legal Source[63]	
+55-21	7965-7966	§	*[63]	Legal Source[63]	
+55-22	7967-7971	1331	*[63]	Legal Source[63]	
+55-23	7972-7973	.	_	_	
+
+#Text=Thus , § 113(b ) jurisdiction must be broader than general federal - question jurisdiction .
+56-1	7974-7978	Thus	_	_	
+56-2	7979-7980	,	_	_	
+56-3	7981-7982	§	*[64]	Legal Source[64]	
+56-4	7983-7988	113(b	*[64]	Legal Source[64]	
+56-5	7989-7990	)	*[64]	Legal Source[64]	
+56-6	7991-8003	jurisdiction	_	_	
+56-7	8004-8008	must	_	_	
+56-8	8009-8011	be	_	_	
+56-9	8012-8019	broader	_	_	
+56-10	8020-8024	than	_	_	
+56-11	8025-8032	general	_	_	
+56-12	8033-8040	federal	_	_	
+56-13	8041-8042	-	_	_	
+56-14	8043-8051	question	_	_	
+56-15	8052-8064	jurisdiction	_	_	
+56-16	8065-8066	.	_	_	
+
+#Text=By denying this , the Court 's interpretation turns the phrase " without regard to the citizenship of the parties or the amount in controversy " into a meaningless and useless appendage .
+57-1	8067-8069	By	_	_	
+57-2	8070-8077	denying	_	_	
+57-3	8078-8082	this	_	_	
+57-4	8083-8084	,	_	_	
+57-5	8085-8088	the	_	_	
+57-6	8089-8094	Court	_	_	
+57-7	8095-8097	's	_	_	
+57-8	8098-8112	interpretation	*	Metalinguistic Cue	
+57-9	8113-8118	turns	_	_	
+57-10	8119-8122	the	_	_	
+57-11	8123-8129	phrase	*	Metalinguistic Cue	
+57-12	8130-8131	"	*[65]	Direct Quote[65]	
+57-13	8132-8139	without	*[65]	Direct Quote[65]	
+57-14	8140-8146	regard	*[65]	Direct Quote[65]	
+57-15	8147-8149	to	*[65]	Direct Quote[65]	
+57-16	8150-8153	the	*[65]	Direct Quote[65]	
+57-17	8154-8165	citizenship	*[65]	Direct Quote[65]	
+57-18	8166-8168	of	*[65]	Direct Quote[65]	
+57-19	8169-8172	the	*[65]	Direct Quote[65]	
+57-20	8173-8180	parties	*[65]	Direct Quote[65]	
+57-21	8181-8183	or	*[65]	Direct Quote[65]	
+57-22	8184-8187	the	*[65]	Direct Quote[65]	
+57-23	8188-8194	amount	*[65]	Direct Quote[65]	
+57-24	8195-8197	in	*[65]	Direct Quote[65]	
+57-25	8198-8209	controversy	*[65]	Direct Quote[65]	
+57-26	8210-8211	"	*[65]	Direct Quote[65]	
+57-27	8212-8216	into	_	_	
+57-28	8217-8218	a	_	_	
+57-29	8219-8230	meaningless	*[66]	Metalinguistic Cue[66]	
+57-30	8231-8234	and	*[66]	Metalinguistic Cue[66]	
+57-31	8235-8242	useless	*[66]	Metalinguistic Cue[66]	
+57-32	8243-8252	appendage	*[66]	Metalinguistic Cue[66]	
+57-33	8253-8254	.	_	_	
+
+#Text=Second , under the Court 's interpretation , there is no reason why § 113(h ) should specify that its reduction of the scope of the jurisdiction conferred by § 113(b ) does not affect a district court 's jurisdiction in diversity cases .
+58-1	8255-8261	Second	_	_	
+58-2	8262-8263	,	_	_	
+58-3	8264-8269	under	_	_	
+58-4	8270-8273	the	_	_	
+58-5	8274-8279	Court	_	_	
+58-6	8280-8282	's	_	_	
+58-7	8283-8297	interpretation	*	Metalinguistic Cue	
+58-8	8298-8299	,	_	_	
+58-9	8300-8305	there	_	_	
+58-10	8306-8308	is	_	_	
+58-11	8309-8311	no	_	_	
+58-12	8312-8318	reason	_	_	
+58-13	8319-8322	why	_	_	
+58-14	8323-8324	§	*[67]	Legal Source[67]	
+58-15	8325-8330	113(h	*[67]	Legal Source[67]	
+58-16	8331-8332	)	*[67]	Legal Source[67]	
+58-17	8333-8339	should	_	_	
+58-18	8340-8347	specify	_	_	
+58-19	8348-8352	that	_	_	
+58-20	8353-8356	its	_	_	
+58-21	8357-8366	reduction	_	_	
+58-22	8367-8369	of	_	_	
+58-23	8370-8373	the	_	_	
+58-24	8374-8379	scope	_	_	
+58-25	8380-8382	of	_	_	
+58-26	8383-8386	the	_	_	
+58-27	8387-8399	jurisdiction	_	_	
+58-28	8400-8409	conferred	_	_	
+58-29	8410-8412	by	_	_	
+58-30	8413-8414	§	*[68]	Legal Source[68]	
+58-31	8415-8420	113(b	*[68]	Legal Source[68]	
+58-32	8421-8422	)	*[68]	Legal Source[68]	
+58-33	8423-8427	does	_	_	
+58-34	8428-8431	not	_	_	
+58-35	8432-8438	affect	_	_	
+58-36	8439-8440	a	_	_	
+58-37	8441-8449	district	_	_	
+58-38	8450-8455	court	_	_	
+58-39	8456-8458	's	_	_	
+58-40	8459-8471	jurisdiction	_	_	
+58-41	8472-8474	in	_	_	
+58-42	8475-8484	diversity	_	_	
+58-43	8485-8490	cases	_	_	
+58-44	8491-8492	.	_	_	
+
+#Text=If the jurisdiction granted by § 113(b ) is limited to claims based on CERCLA , why would anyone think that it had any impact on state - law claims ?
+59-1	8493-8495	If	_	_	
+59-2	8496-8499	the	_	_	
+59-3	8500-8512	jurisdiction	_	_	
+59-4	8513-8520	granted	_	_	
+59-5	8521-8523	by	_	_	
+59-6	8524-8525	§	*[69]	Legal Source[69]	
+59-7	8526-8531	113(b	*[69]	Legal Source[69]	
+59-8	8532-8533	)	*[69]	Legal Source[69]	
+59-9	8534-8536	is	_	_	
+59-10	8537-8544	limited	_	_	
+59-11	8545-8547	to	_	_	
+59-12	8548-8554	claims	_	_	
+59-13	8555-8560	based	_	_	
+59-14	8561-8563	on	_	_	
+59-15	8564-8570	CERCLA	*	Legal Source	
+59-16	8571-8572	,	_	_	
+59-17	8573-8576	why	_	_	
+59-18	8577-8582	would	_	_	
+59-19	8583-8589	anyone	_	_	
+59-20	8590-8595	think	_	_	
+59-21	8596-8600	that	_	_	
+59-22	8601-8603	it	_	_	
+59-23	8604-8607	had	_	_	
+59-24	8608-8611	any	_	_	
+59-25	8612-8618	impact	_	_	
+59-26	8619-8621	on	_	_	
+59-27	8622-8627	state	_	_	
+59-28	8628-8629	-	_	_	
+59-29	8630-8633	law	_	_	
+59-30	8634-8640	claims	_	_	
+59-31	8641-8642	?	_	_	
+
+#Text=Third , if the jurisdiction conferred by § 113(b ) is limited to claims based on CERCLA , it is unclear how a district court could entertain a claim " under State law which is applicable or relevant and appropriate under [ § 121 ] ( relating to cleanup standards ) . "
+60-1	8643-8648	Third	_	_	
+60-2	8649-8650	,	_	_	
+60-3	8651-8653	if	_	_	
+60-4	8654-8657	the	_	_	
+60-5	8658-8670	jurisdiction	_	_	
+60-6	8671-8680	conferred	_	_	
+60-7	8681-8683	by	_	_	
+60-8	8684-8685	§	*[70]	Legal Source[70]	
+60-9	8686-8691	113(b	*[70]	Legal Source[70]	
+60-10	8692-8693	)	*[70]	Legal Source[70]	
+60-11	8694-8696	is	_	_	
+60-12	8697-8704	limited	_	_	
+60-13	8705-8707	to	_	_	
+60-14	8708-8714	claims	_	_	
+60-15	8715-8720	based	_	_	
+60-16	8721-8723	on	_	_	
+60-17	8724-8730	CERCLA	*	Legal Source	
+60-18	8731-8732	,	_	_	
+60-19	8733-8735	it	_	_	
+60-20	8736-8738	is	_	_	
+60-21	8739-8746	unclear	_	_	
+60-22	8747-8750	how	_	_	
+60-23	8751-8752	a	_	_	
+60-24	8753-8761	district	_	_	
+60-25	8762-8767	court	_	_	
+60-26	8768-8773	could	_	_	
+60-27	8774-8783	entertain	_	_	
+60-28	8784-8785	a	_	_	
+60-29	8786-8791	claim	_	_	
+60-30	8792-8793	"	*[71]	Direct Quote[71]	
+60-31	8794-8799	under	*[71]	Direct Quote[71]	
+60-32	8800-8805	State	*[71]	Direct Quote[71]	
+60-33	8806-8809	law	*[71]	Direct Quote[71]	
+60-34	8810-8815	which	*[71]	Direct Quote[71]	
+60-35	8816-8818	is	*[71]	Direct Quote[71]	
+60-36	8819-8829	applicable	*[71]	Direct Quote[71]	
+60-37	8830-8832	or	*[71]	Direct Quote[71]	
+60-38	8833-8841	relevant	*[71]	Direct Quote[71]	
+60-39	8842-8845	and	*[71]	Direct Quote[71]	
+60-40	8846-8857	appropriate	*[71]	Direct Quote[71]	
+60-41	8858-8863	under	*[71]	Direct Quote[71]	
+60-42	8864-8865	[	*[71]	Direct Quote[71]	
+60-43	8866-8867	§	*[71]|*[72]	Direct Quote[71]|Legal Source[72]	
+60-44	8868-8871	121	*[71]|*[72]	Direct Quote[71]|Legal Source[72]	
+60-45	8872-8873	]	*[71]	Direct Quote[71]	
+60-46	8874-8875	(	*[71]	Direct Quote[71]	
+60-47	8876-8884	relating	*[71]	Direct Quote[71]	
+60-48	8885-8887	to	*[71]	Direct Quote[71]	
+60-49	8888-8895	cleanup	*[71]	Direct Quote[71]	
+60-50	8896-8905	standards	*[71]	Direct Quote[71]	
+60-51	8906-8907	)	*[71]	Direct Quote[71]	
+60-52	8908-8909	.	*[71]	Direct Quote[71]	
+60-53	8910-8911	"	*[71]	Direct Quote[71]	
+
+#Text=Yet § 113(h ) exempts such a claim from its general withdrawal of jurisdiction over challenges to removal or remedial action .
+61-1	8912-8915	Yet	_	_	
+61-2	8916-8917	§	*[73]	Legal Source[73]	
+61-3	8918-8923	113(h	*[73]	Legal Source[73]	
+61-4	8924-8925	)	*[73]	Legal Source[73]	
+61-5	8926-8933	exempts	_	_	
+61-6	8934-8938	such	_	_	
+61-7	8939-8940	a	_	_	
+61-8	8941-8946	claim	_	_	
+61-9	8947-8951	from	_	_	
+61-10	8952-8955	its	_	_	
+61-11	8956-8963	general	_	_	
+61-12	8964-8974	withdrawal	_	_	
+61-13	8975-8977	of	_	_	
+61-14	8978-8990	jurisdiction	_	_	
+61-15	8991-8995	over	_	_	
+61-16	8996-9006	challenges	_	_	
+61-17	9007-9009	to	_	_	
+61-18	9010-9017	removal	_	_	
+61-19	9018-9020	or	_	_	
+61-20	9021-9029	remedial	_	_	
+61-21	9030-9036	action	_	_	
+61-22	9037-9038	.	_	_	
+
+#Text=It seems clear that Congress did not regard these claims as claims under CERCLA itself , since it describes them as " under State law " and did not include them on the list of claims under CERCLA that it likewise exempted from § 113(h ) 's general withdrawal of jurisdiction over challenges to removal or remedial action .
+62-1	9039-9041	It	_	_	
+62-2	9042-9047	seems	_	_	
+62-3	9048-9053	clear	_	_	
+62-4	9054-9058	that	_	_	
+62-5	9059-9067	Congress	_	_	
+62-6	9068-9071	did	_	_	
+62-7	9072-9075	not	_	_	
+62-8	9076-9082	regard	_	_	
+62-9	9083-9088	these	_	_	
+62-10	9089-9095	claims	_	_	
+62-11	9096-9098	as	_	_	
+62-12	9099-9105	claims	_	_	
+62-13	9106-9111	under	_	_	
+62-14	9112-9118	CERCLA	*	Legal Source	
+62-15	9119-9125	itself	_	_	
+62-16	9126-9127	,	_	_	
+62-17	9128-9133	since	_	_	
+62-18	9134-9136	it	_	_	
+62-19	9137-9146	describes	_	_	
+62-20	9147-9151	them	_	_	
+62-21	9152-9154	as	_	_	
+62-22	9155-9156	"	*[74]	Direct Quote[74]	
+62-23	9157-9162	under	*[74]	Direct Quote[74]	
+62-24	9163-9168	State	*[74]	Direct Quote[74]	
+62-25	9169-9172	law	*[74]	Direct Quote[74]	
+62-26	9173-9174	"	*[74]	Direct Quote[74]	
+62-27	9175-9178	and	_	_	
+62-28	9179-9182	did	_	_	
+62-29	9183-9186	not	_	_	
+62-30	9187-9194	include	_	_	
+62-31	9195-9199	them	_	_	
+62-32	9200-9202	on	_	_	
+62-33	9203-9206	the	_	_	
+62-34	9207-9211	list	_	_	
+62-35	9212-9214	of	_	_	
+62-36	9215-9221	claims	_	_	
+62-37	9222-9227	under	_	_	
+62-38	9228-9234	CERCLA	*	Legal Source	
+62-39	9235-9239	that	_	_	
+62-40	9240-9242	it	_	_	
+62-41	9243-9251	likewise	_	_	
+62-42	9252-9260	exempted	_	_	
+62-43	9261-9265	from	_	_	
+62-44	9266-9267	§	*[75]	Legal Source[75]	
+62-45	9268-9273	113(h	*[75]	Legal Source[75]	
+62-46	9274-9275	)	*[75]	Legal Source[75]	
+62-47	9276-9278	's	_	_	
+62-48	9279-9286	general	_	_	
+62-49	9287-9297	withdrawal	_	_	
+62-50	9298-9300	of	_	_	
+62-51	9301-9313	jurisdiction	_	_	
+62-52	9314-9318	over	_	_	
+62-53	9319-9329	challenges	_	_	
+62-54	9330-9332	to	_	_	
+62-55	9333-9340	removal	_	_	
+62-56	9341-9343	or	_	_	
+62-57	9344-9352	remedial	_	_	
+62-58	9353-9359	action	_	_	
+62-59	9360-9361	.	_	_	
+
+#Text=§ § 113(h)(1)-(5 ) .
+63-1	9362-9363	§	*[76]	Legal Source[76]	
+63-2	9364-9365	§	*[76]	Legal Source[76]	
+63-3	9366-9378	113(h)(1)-(5	*[76]	Legal Source[76]	
+63-4	9379-9380	)	*[76]	Legal Source[76]	
+63-5	9381-9382	.	_	_	
+
+#Text=These three problems raise serious doubt about the correctness of the Court 's interpretation .
+64-1	9383-9388	These	_	_	
+64-2	9389-9394	three	_	_	
+64-3	9395-9403	problems	_	_	
+64-4	9404-9409	raise	_	_	
+64-5	9410-9417	serious	_	_	
+64-6	9418-9423	doubt	_	_	
+64-7	9424-9429	about	_	_	
+64-8	9430-9433	the	_	_	
+64-9	9434-9445	correctness	_	_	
+64-10	9446-9448	of	_	_	
+64-11	9449-9452	the	_	_	
+64-12	9453-9458	Court	_	_	
+64-13	9459-9461	's	_	_	
+64-14	9462-9476	interpretation	*	Metalinguistic Cue	
+64-15	9477-9478	.	_	_	
+
+#Text=C
+65-1	9479-9480	C	_	_	
+
+#Text=The Government and petitioner advance a different interpretation of § § 113(b ) and ( h ) , and although this interpretation solves the problems noted above , it has problems of its own .
+66-1	9481-9484	The	_	_	
+66-2	9485-9495	Government	_	_	
+66-3	9496-9499	and	_	_	
+66-4	9500-9510	petitioner	_	_	
+66-5	9511-9518	advance	_	_	
+66-6	9519-9520	a	_	_	
+66-7	9521-9530	different	_	_	
+66-8	9531-9545	interpretation	*	Metalinguistic Cue	
+66-9	9546-9548	of	_	_	
+66-10	9549-9550	§	*[77]	Legal Source[77]	
+66-11	9551-9552	§	*[77]	Legal Source[77]	
+66-12	9553-9558	113(b	*[77]	Legal Source[77]	
+66-13	9559-9560	)	*[77]	Legal Source[77]	
+66-14	9561-9564	and	*[77]	Legal Source[77]	
+66-15	9565-9566	(	*[77]	Legal Source[77]	
+66-16	9567-9568	h	*[77]	Legal Source[77]	
+66-17	9569-9570	)	*[77]	Legal Source[77]	
+66-18	9571-9572	,	_	_	
+66-19	9573-9576	and	_	_	
+66-20	9577-9585	although	_	_	
+66-21	9586-9590	this	_	_	
+66-22	9591-9605	interpretation	*	Metalinguistic Cue	
+66-23	9606-9612	solves	_	_	
+66-24	9613-9616	the	_	_	
+66-25	9617-9625	problems	_	_	
+66-26	9626-9631	noted	_	_	
+66-27	9632-9637	above	_	_	
+66-28	9638-9639	,	_	_	
+66-29	9640-9642	it	_	_	
+66-30	9643-9646	has	_	_	
+66-31	9647-9655	problems	_	_	
+66-32	9656-9658	of	_	_	
+66-33	9659-9662	its	_	_	
+66-34	9663-9666	own	_	_	
+66-35	9667-9668	.	_	_	
+
+#Text=The Court , as noted , runs into trouble by interpreting the phrase " arising under " CERCLA in § 113(b ) to mean what " arising under " means in 28 U.S.C. § 1331 .
+67-1	9669-9672	The	_	_	
+67-2	9673-9678	Court	_	_	
+67-3	9679-9680	,	_	_	
+67-4	9681-9683	as	_	_	
+67-5	9684-9689	noted	_	_	
+67-6	9690-9691	,	_	_	
+67-7	9692-9696	runs	_	_	
+67-8	9697-9701	into	_	_	
+67-9	9702-9709	trouble	_	_	
+67-10	9710-9712	by	_	_	
+67-11	9713-9725	interpreting	*[78]|*[79]	Named Interpretive Rule[78]|Metalinguistic Cue[79]	
+67-12	9726-9729	the	*[78]	Named Interpretive Rule[78]	
+67-13	9730-9736	phrase	*[78]|*[80]	Named Interpretive Rule[78]|Metalinguistic Cue[80]	
+67-14	9737-9738	"	*[78]|*[81]	Named Interpretive Rule[78]|Direct Quote[81]	
+67-15	9739-9746	arising	*[78]|*[81]|*[82]	Named Interpretive Rule[78]|Direct Quote[81]|Focal Term[82]	
+67-16	9747-9752	under	*[78]|*[81]|*[82]	Named Interpretive Rule[78]|Direct Quote[81]|Focal Term[82]	
+67-17	9753-9754	"	*[78]|*[81]	Named Interpretive Rule[78]|Direct Quote[81]	
+67-18	9755-9761	CERCLA	*[78]|*[83]	Named Interpretive Rule[78]|Legal Source[83]	
+67-19	9762-9764	in	*[78]	Named Interpretive Rule[78]	
+67-20	9765-9766	§	*[78]|*[84]	Named Interpretive Rule[78]|Legal Source[84]	
+67-21	9767-9772	113(b	*[78]|*[84]	Named Interpretive Rule[78]|Legal Source[84]	
+67-22	9773-9774	)	*[78]|*[84]	Named Interpretive Rule[78]|Legal Source[84]	
+67-23	9775-9777	to	*[78]	Named Interpretive Rule[78]	
+67-24	9778-9782	mean	*[78]|*[85]	Named Interpretive Rule[78]|Metalinguistic Cue[85]	
+67-25	9783-9787	what	*[78]	Named Interpretive Rule[78]	
+67-26	9788-9789	"	*[78]|*[86]	Named Interpretive Rule[78]|Direct Quote[86]	
+67-27	9790-9797	arising	*[78]|*[86]|*[87]	Named Interpretive Rule[78]|Direct Quote[86]|Focal Term[87]	
+67-28	9798-9803	under	*[78]|*[86]|*[87]	Named Interpretive Rule[78]|Direct Quote[86]|Focal Term[87]	
+67-29	9804-9805	"	*[78]|*[86]	Named Interpretive Rule[78]|Direct Quote[86]	
+67-30	9806-9811	means	*[78]|*[88]	Named Interpretive Rule[78]|Metalinguistic Cue[88]	
+67-31	9812-9814	in	*[78]	Named Interpretive Rule[78]	
+67-32	9815-9817	28	*[78]|*[89]	Named Interpretive Rule[78]|Legal Source[89]	
+67-33	9818-9824	U.S.C.	*[78]|*[89]	Named Interpretive Rule[78]|Legal Source[89]	
+67-34	9825-9826	§	*[78]|*[89]	Named Interpretive Rule[78]|Legal Source[89]	
+67-35	9827-9831	1331	*[78]|*[89]	Named Interpretive Rule[78]|Legal Source[89]	
+67-36	9832-9833	.	_	_	
+
+#Text=The Government obviates this difficulty by arguing that " arising under " in § 113(b ) has a broader meaning , such as the meaning of the same phrase in Article III of the Constitution .
+68-1	9834-9837	The	*[90]	Appeal to Meaning[90]	
+68-2	9838-9848	Government	*[90]	Appeal to Meaning[90]	
+68-3	9849-9857	obviates	*[90]	Appeal to Meaning[90]	
+68-4	9858-9862	this	*[90]	Appeal to Meaning[90]	
+68-5	9863-9873	difficulty	*[90]	Appeal to Meaning[90]	
+68-6	9874-9876	by	*[90]	Appeal to Meaning[90]	
+68-7	9877-9884	arguing	*[90]	Appeal to Meaning[90]	
+68-8	9885-9889	that	*[90]	Appeal to Meaning[90]	
+68-9	9890-9891	"	*[90]|*[91]	Appeal to Meaning[90]|Direct Quote[91]	
+68-10	9892-9899	arising	*[90]|*[91]|*[92]	Appeal to Meaning[90]|Direct Quote[91]|Focal Term[92]	
+68-11	9900-9905	under	*[90]|*[91]|*[92]	Appeal to Meaning[90]|Direct Quote[91]|Focal Term[92]	
+68-12	9906-9907	"	*[90]|*[91]	Appeal to Meaning[90]|Direct Quote[91]	
+68-13	9908-9910	in	*[90]	Appeal to Meaning[90]	
+68-14	9911-9912	§	*[90]|*[93]	Appeal to Meaning[90]|Legal Source[93]	
+68-15	9913-9918	113(b	*[90]|*[93]	Appeal to Meaning[90]|Legal Source[93]	
+68-16	9919-9920	)	*[90]|*[93]	Appeal to Meaning[90]|Legal Source[93]	
+68-17	9921-9924	has	*[90]	Appeal to Meaning[90]	
+68-18	9925-9926	a	*[90]	Appeal to Meaning[90]	
+68-19	9927-9934	broader	*[90]|*[94]	Appeal to Meaning[90]|Metalinguistic Cue[94]	
+68-20	9935-9942	meaning	*[90]|*[94]	Appeal to Meaning[90]|Metalinguistic Cue[94]	
+68-21	9943-9944	,	*[90]	Appeal to Meaning[90]	
+68-22	9945-9949	such	*[90]	Appeal to Meaning[90]	
+68-23	9950-9952	as	*[90]	Appeal to Meaning[90]	
+68-24	9953-9956	the	*[90]	Appeal to Meaning[90]	
+68-25	9957-9964	meaning	*[90]|*[95]	Appeal to Meaning[90]|Metalinguistic Cue[95]	
+68-26	9965-9967	of	*[90]	Appeal to Meaning[90]	
+68-27	9968-9971	the	*[90]	Appeal to Meaning[90]	
+68-28	9972-9976	same	*[90]	Appeal to Meaning[90]	
+68-29	9977-9983	phrase	*[90]|*[96]	Appeal to Meaning[90]|Metalinguistic Cue[96]	
+68-30	9984-9986	in	*[90]	Appeal to Meaning[90]	
+68-31	9987-9994	Article	*[90]|*[97]	Appeal to Meaning[90]|Legal Source[97]	
+68-32	9995-9998	III	*[90]|*[97]	Appeal to Meaning[90]|Legal Source[97]	
+68-33	9999-10001	of	*[90]|*[97]	Appeal to Meaning[90]|Legal Source[97]	
+68-34	10002-10005	the	*[90]|*[97]	Appeal to Meaning[90]|Legal Source[97]	
+68-35	10006-10018	Constitution	*[90]|*[97]	Appeal to Meaning[90]|Legal Source[97]	
+68-36	10019-10020	.	_	_	
+
+#Text=See Brief for United States as Amicus Curiae 23 - 24 .
+69-1	10021-10024	See	*[98]	Legal Source[98]	
+69-2	10025-10030	Brief	*[98]	Legal Source[98]	
+69-3	10031-10034	for	*[98]	Legal Source[98]	
+69-4	10035-10041	United	*[98]	Legal Source[98]	
+69-5	10042-10048	States	*[98]	Legal Source[98]	
+69-6	10049-10051	as	*[98]	Legal Source[98]	
+69-7	10052-10058	Amicus	*[98]	Legal Source[98]	
+69-8	10059-10065	Curiae	*[98]	Legal Source[98]	
+69-9	10066-10068	23	*[98]	Legal Source[98]	
+69-10	10069-10070	-	*[98]	Legal Source[98]	
+69-11	10071-10073	24	*[98]	Legal Source[98]	
+69-12	10074-10075	.	_	_	
+
+#Text=The Government suggests that " arising under " in § 113(b ) may reach " ' any case or controversy that might call for the application of federal law . ' "
+70-1	10076-10079	The	_	_	
+70-2	10080-10090	Government	_	_	
+70-3	10091-10099	suggests	_	_	
+70-4	10100-10104	that	_	_	
+70-5	10105-10106	"	*[99]	Direct Quote[99]	
+70-6	10107-10114	arising	*[99]|*[100]	Direct Quote[99]|Focal Term[100]	
+70-7	10115-10120	under	*[99]|*[100]	Direct Quote[99]|Focal Term[100]	
+70-8	10121-10122	"	*[99]	Direct Quote[99]	
+70-9	10123-10125	in	_	_	
+70-10	10126-10127	§	*[101]	Legal Source[101]	
+70-11	10128-10133	113(b	*[101]	Legal Source[101]	
+70-12	10134-10135	)	*[101]	Legal Source[101]	
+70-13	10136-10139	may	_	_	
+70-14	10140-10145	reach	_	_	
+70-15	10146-10147	"	*[102]	Direct Quote[102]	
+70-16	10148-10149	'	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-17	10150-10153	any	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-18	10154-10158	case	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-19	10159-10161	or	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-20	10162-10173	controversy	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-21	10174-10178	that	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-22	10179-10184	might	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-23	10185-10189	call	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-24	10190-10193	for	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-25	10194-10197	the	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-26	10198-10209	application	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-27	10210-10212	of	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-28	10213-10220	federal	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-29	10221-10224	law	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-30	10225-10226	.	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-31	10227-10228	'	*[102]|*[103]	Direct Quote[102]|Direct Quote[103]	
+70-32	10229-10230	"	*[102]	Direct Quote[102]	
+
+#Text=I d . , at 24 ( quoting Verlinden B. V. v. Central Bank of Nigeria , 461 U.S. 480 , 492 , 103 S.Ct . 1962 , 76 L.Ed.2d 81 ( 1983 ) ) .
+71-1	10231-10232	I	*[104]	Legal Source[104]	
+71-2	10233-10234	d	*[104]	Legal Source[104]	
+71-3	10235-10236	.	*[104]	Legal Source[104]	
+71-4	10237-10238	,	*[104]	Legal Source[104]	
+71-5	10239-10241	at	*[104]	Legal Source[104]	
+71-6	10242-10244	24	*[104]	Legal Source[104]	
+71-7	10245-10246	(	_	_	
+71-8	10247-10254	quoting	_	_	
+71-9	10255-10264	Verlinden	*[105]	Legal Source[105]	
+71-10	10265-10267	B.	*[105]	Legal Source[105]	
+71-11	10268-10270	V.	*[105]	Legal Source[105]	
+71-12	10271-10273	v.	*[105]	Legal Source[105]	
+71-13	10274-10281	Central	*[105]	Legal Source[105]	
+71-14	10282-10286	Bank	*[105]	Legal Source[105]	
+71-15	10287-10289	of	*[105]	Legal Source[105]	
+71-16	10290-10297	Nigeria	*[105]	Legal Source[105]	
+71-17	10298-10299	,	*[105]	Legal Source[105]	
+71-18	10300-10303	461	*[105]	Legal Source[105]	
+71-19	10304-10308	U.S.	*[105]	Legal Source[105]	
+71-20	10309-10312	480	*[105]	Legal Source[105]	
+71-21	10313-10314	,	*[105]	Legal Source[105]	
+71-22	10315-10318	492	*[105]	Legal Source[105]	
+71-23	10319-10320	,	*[105]	Legal Source[105]	
+71-24	10321-10324	103	*[105]	Legal Source[105]	
+71-25	10325-10329	S.Ct	*[105]	Legal Source[105]	
+71-26	10330-10331	.	*[105]	Legal Source[105]	
+71-27	10332-10336	1962	*[105]	Legal Source[105]	
+71-28	10337-10338	,	*[105]	Legal Source[105]	
+71-29	10339-10341	76	*[105]	Legal Source[105]	
+71-30	10342-10349	L.Ed.2d	*[105]	Legal Source[105]	
+71-31	10350-10352	81	*[105]	Legal Source[105]	
+71-32	10353-10354	(	*[105]	Legal Source[105]	
+71-33	10355-10359	1983	*[105]	Legal Source[105]	
+71-34	10360-10361	)	*[105]	Legal Source[105]	
+71-35	10362-10363	)	_	_	
+71-36	10364-10365	.	_	_	
+
+#Text=If § 113(b ) uses the phrase in something like this sense , the jurisdiction it confers can reach some claims under state law , and that would explain § 113(b ) 's specification that this jurisdiction is not dependent on either diversity or amount in controversy .
+72-1	10366-10368	If	_	_	
+72-2	10369-10370	§	*[106]	Legal Source[106]	
+72-3	10371-10376	113(b	*[106]	Legal Source[106]	
+72-4	10377-10378	)	*[106]	Legal Source[106]	
+72-5	10379-10383	uses	_	_	
+72-6	10384-10387	the	_	_	
+72-7	10388-10394	phrase	*	Metalinguistic Cue	
+72-8	10395-10397	in	_	_	
+72-9	10398-10407	something	_	_	
+72-10	10408-10412	like	_	_	
+72-11	10413-10417	this	_	_	
+72-12	10418-10423	sense	*	Metalinguistic Cue	
+72-13	10424-10425	,	_	_	
+72-14	10426-10429	the	_	_	
+72-15	10430-10442	jurisdiction	_	_	
+72-16	10443-10445	it	_	_	
+72-17	10446-10453	confers	_	_	
+72-18	10454-10457	can	_	_	
+72-19	10458-10463	reach	_	_	
+72-20	10464-10468	some	_	_	
+72-21	10469-10475	claims	_	_	
+72-22	10476-10481	under	_	_	
+72-23	10482-10487	state	_	_	
+72-24	10488-10491	law	_	_	
+72-25	10492-10493	,	_	_	
+72-26	10494-10497	and	_	_	
+72-27	10498-10502	that	_	_	
+72-28	10503-10508	would	_	_	
+72-29	10509-10516	explain	_	_	
+72-30	10517-10518	§	*[107]	Legal Source[107]	
+72-31	10519-10524	113(b	*[107]	Legal Source[107]	
+72-32	10525-10526	)	*[107]	Legal Source[107]	
+72-33	10527-10529	's	_	_	
+72-34	10530-10543	specification	_	_	
+72-35	10544-10548	that	_	_	
+72-36	10549-10553	this	_	_	
+72-37	10554-10566	jurisdiction	_	_	
+72-38	10567-10569	is	_	_	
+72-39	10570-10573	not	_	_	
+72-40	10574-10583	dependent	_	_	
+72-41	10584-10586	on	_	_	
+72-42	10587-10593	either	_	_	
+72-43	10594-10603	diversity	_	_	
+72-44	10604-10606	or	_	_	
+72-45	10607-10613	amount	_	_	
+72-46	10614-10616	in	_	_	
+72-47	10617-10628	controversy	_	_	
+72-48	10629-10630	.	_	_	
+
+#Text=In other words , this language makes clear that federal district courts have jurisdiction to hear these state - law claims without the restrictions that usually apply when federal courts entertain such claims .
+73-1	10631-10633	In	_	_	
+73-2	10634-10639	other	_	_	
+73-3	10640-10645	words	_	_	
+73-4	10646-10647	,	_	_	
+73-5	10648-10652	this	_	_	
+73-6	10653-10661	language	*	Metalinguistic Cue	
+73-7	10662-10667	makes	_	_	
+73-8	10668-10673	clear	*	Metalinguistic Cue	
+73-9	10674-10678	that	_	_	
+73-10	10679-10686	federal	_	_	
+73-11	10687-10695	district	_	_	
+73-12	10696-10702	courts	_	_	
+73-13	10703-10707	have	_	_	
+73-14	10708-10720	jurisdiction	_	_	
+73-15	10721-10723	to	_	_	
+73-16	10724-10728	hear	_	_	
+73-17	10729-10734	these	_	_	
+73-18	10735-10740	state	_	_	
+73-19	10741-10742	-	_	_	
+73-20	10743-10746	law	_	_	
+73-21	10747-10753	claims	_	_	
+73-22	10754-10761	without	_	_	
+73-23	10762-10765	the	_	_	
+73-24	10766-10778	restrictions	_	_	
+73-25	10779-10783	that	_	_	
+73-26	10784-10791	usually	_	_	
+73-27	10792-10797	apply	_	_	
+73-28	10798-10802	when	_	_	
+73-29	10803-10810	federal	_	_	
+73-30	10811-10817	courts	_	_	
+73-31	10818-10827	entertain	_	_	
+73-32	10828-10832	such	_	_	
+73-33	10833-10839	claims	_	_	
+73-34	10840-10841	.	_	_	
+
+#Text=Up to this point , the interpretation favored by the Government and petitioner proceeds smoothly , but it stumbles when it moves from § 113(b ) to § 113(h ) .
+74-1	10842-10844	Up	_	_	
+74-2	10845-10847	to	_	_	
+74-3	10848-10852	this	_	_	
+74-4	10853-10858	point	_	_	
+74-5	10859-10860	,	_	_	
+74-6	10861-10864	the	_	_	
+74-7	10865-10879	interpretation	*	Metalinguistic Cue	
+74-8	10880-10887	favored	_	_	
+74-9	10888-10890	by	_	_	
+74-10	10891-10894	the	_	_	
+74-11	10895-10905	Government	_	_	
+74-12	10906-10909	and	_	_	
+74-13	10910-10920	petitioner	_	_	
+74-14	10921-10929	proceeds	_	_	
+74-15	10930-10938	smoothly	_	_	
+74-16	10939-10940	,	_	_	
+74-17	10941-10944	but	_	_	
+74-18	10945-10947	it	_	_	
+74-19	10948-10956	stumbles	_	_	
+74-20	10957-10961	when	_	_	
+74-21	10962-10964	it	_	_	
+74-22	10965-10970	moves	_	_	
+74-23	10971-10975	from	_	_	
+74-24	10976-10977	§	*[108]	Legal Source[108]	
+74-25	10978-10983	113(b	*[108]	Legal Source[108]	
+74-26	10984-10985	)	*[108]	Legal Source[108]	
+74-27	10986-10988	to	_	_	
+74-28	10989-10990	§	*[109]	Legal Source[109]	
+74-29	10991-10996	113(h	*[109]	Legal Source[109]	
+74-30	10997-10998	)	*[109]	Legal Source[109]	
+74-31	10999-11000	.	_	_	
+
+#Text=That provision reduces the grant of jurisdiction in § 113(b ) by taking away jurisdiction over challenges to removal and remedial action unless , among other things , those claims are brought in a diversity action .
+75-1	11001-11005	That	_	_	
+75-2	11006-11015	provision	_	_	
+75-3	11016-11023	reduces	_	_	
+75-4	11024-11027	the	_	_	
+75-5	11028-11033	grant	_	_	
+75-6	11034-11036	of	_	_	
+75-7	11037-11049	jurisdiction	_	_	
+75-8	11050-11052	in	_	_	
+75-9	11053-11054	§	*[110]	Legal Source[110]	
+75-10	11055-11060	113(b	*[110]	Legal Source[110]	
+75-11	11061-11062	)	*[110]	Legal Source[110]	
+75-12	11063-11065	by	_	_	
+75-13	11066-11072	taking	_	_	
+75-14	11073-11077	away	_	_	
+75-15	11078-11090	jurisdiction	_	_	
+75-16	11091-11095	over	_	_	
+75-17	11096-11106	challenges	_	_	
+75-18	11107-11109	to	_	_	
+75-19	11110-11117	removal	_	_	
+75-20	11118-11121	and	_	_	
+75-21	11122-11130	remedial	_	_	
+75-22	11131-11137	action	_	_	
+75-23	11138-11144	unless	_	_	
+75-24	11145-11146	,	_	_	
+75-25	11147-11152	among	_	_	
+75-26	11153-11158	other	_	_	
+75-27	11159-11165	things	_	_	
+75-28	11166-11167	,	_	_	
+75-29	11168-11173	those	_	_	
+75-30	11174-11180	claims	_	_	
+75-31	11181-11184	are	_	_	
+75-32	11185-11192	brought	_	_	
+75-33	11193-11195	in	_	_	
+75-34	11196-11197	a	_	_	
+75-35	11198-11207	diversity	_	_	
+75-36	11208-11214	action	_	_	
+75-37	11215-11216	.	_	_	
+
+#Text=The upshot is that federal district courts are left with jurisdiction over most state - law claims that challenge removal and remedial action only where the parties are diverse .
+76-1	11217-11220	The	_	_	
+76-2	11221-11227	upshot	_	_	
+76-3	11228-11230	is	_	_	
+76-4	11231-11235	that	_	_	
+76-5	11236-11243	federal	_	_	
+76-6	11244-11252	district	_	_	
+76-7	11253-11259	courts	_	_	
+76-8	11260-11263	are	_	_	
+76-9	11264-11268	left	_	_	
+76-10	11269-11273	with	_	_	
+76-11	11274-11286	jurisdiction	_	_	
+76-12	11287-11291	over	_	_	
+76-13	11292-11296	most	_	_	
+76-14	11297-11302	state	_	_	
+76-15	11303-11304	-	_	_	
+76-16	11305-11308	law	_	_	
+76-17	11309-11315	claims	_	_	
+76-18	11316-11320	that	_	_	
+76-19	11321-11330	challenge	_	_	
+76-20	11331-11338	removal	_	_	
+76-21	11339-11342	and	_	_	
+76-22	11343-11351	remedial	_	_	
+76-23	11352-11358	action	_	_	
+76-24	11359-11363	only	_	_	
+76-25	11364-11369	where	_	_	
+76-26	11370-11373	the	_	_	
+76-27	11374-11381	parties	_	_	
+76-28	11382-11385	are	_	_	
+76-29	11386-11393	diverse	_	_	
+76-30	11394-11395	.	_	_	
+
+#Text=If it turns out that diversity is lacking , the district courts can not entertain the same claims .
+77-1	11396-11398	If	_	_	
+77-2	11399-11401	it	_	_	
+77-3	11402-11407	turns	_	_	
+77-4	11408-11411	out	_	_	
+77-5	11412-11416	that	_	_	
+77-6	11417-11426	diversity	_	_	
+77-7	11427-11429	is	_	_	
+77-8	11430-11437	lacking	_	_	
+77-9	11438-11439	,	_	_	
+77-10	11440-11443	the	_	_	
+77-11	11444-11452	district	_	_	
+77-12	11453-11459	courts	_	_	
+77-13	11460-11463	can	_	_	
+77-14	11464-11467	not	_	_	
+77-15	11468-11477	entertain	_	_	
+77-16	11478-11481	the	_	_	
+77-17	11482-11486	same	_	_	
+77-18	11487-11493	claims	_	_	
+77-19	11494-11495	.	_	_	
+
+#Text=And not only that .
+78-1	11496-11499	And	_	_	
+78-2	11500-11503	not	_	_	
+78-3	11504-11508	only	_	_	
+78-4	11509-11513	that	_	_	
+78-5	11514-11515	.	_	_	
+
+#Text=Because § 113(b ) 's grant of jurisdiction to the federal district courts is exclusive , the state courts can not entertain those claims either .
+79-1	11516-11523	Because	_	_	
+79-2	11524-11525	§	*[111]	Legal Source[111]	
+79-3	11526-11531	113(b	*[111]	Legal Source[111]	
+79-4	11532-11533	)	*[111]	Legal Source[111]	
+79-5	11534-11536	's	_	_	
+79-6	11537-11542	grant	_	_	
+79-7	11543-11545	of	_	_	
+79-8	11546-11558	jurisdiction	_	_	
+79-9	11559-11561	to	_	_	
+79-10	11562-11565	the	_	_	
+79-11	11566-11573	federal	_	_	
+79-12	11574-11582	district	_	_	
+79-13	11583-11589	courts	_	_	
+79-14	11590-11592	is	_	_	
+79-15	11593-11602	exclusive	_	_	
+79-16	11603-11604	,	_	_	
+79-17	11605-11608	the	_	_	
+79-18	11609-11614	state	_	_	
+79-19	11615-11621	courts	_	_	
+79-20	11622-11625	can	_	_	
+79-21	11626-11629	not	_	_	
+79-22	11630-11639	entertain	_	_	
+79-23	11640-11645	those	_	_	
+79-24	11646-11652	claims	_	_	
+79-25	11653-11659	either	_	_	
+79-26	11660-11661	.	_	_	
+
+#Text=It is hard to fathom why Congress might have wanted such a scheme .
+80-1	11662-11664	It	*[112]	Appeal to Meaning[112]	
+80-2	11665-11667	is	*[112]	Appeal to Meaning[112]	
+80-3	11668-11672	hard	*[112]	Appeal to Meaning[112]	
+80-4	11673-11675	to	*[112]	Appeal to Meaning[112]	
+80-5	11676-11682	fathom	*[112]	Appeal to Meaning[112]	
+80-6	11683-11686	why	*[112]	Appeal to Meaning[112]	
+80-7	11687-11695	Congress	*[112]	Appeal to Meaning[112]	
+80-8	11696-11701	might	*[112]	Appeal to Meaning[112]	
+80-9	11702-11706	have	*[112]	Appeal to Meaning[112]	
+80-10	11707-11713	wanted	*[112]	Appeal to Meaning[112]	
+80-11	11714-11718	such	*[112]	Appeal to Meaning[112]	
+80-12	11719-11720	a	*[112]	Appeal to Meaning[112]	
+80-13	11721-11727	scheme	*[112]	Appeal to Meaning[112]	
+80-14	11728-11729	.	_	_	
+
+#Text=Congress might have wanted all the state - law claims covered by § 113(b ) to be heard exclusively in federal court in order to prevent state courts and juries from unduly favoring home - state interests .
+81-1	11730-11738	Congress	_	_	
+81-2	11739-11744	might	_	_	
+81-3	11745-11749	have	_	_	
+81-4	11750-11756	wanted	_	_	
+81-5	11757-11760	all	_	_	
+81-6	11761-11764	the	_	_	
+81-7	11765-11770	state	_	_	
+81-8	11771-11772	-	_	_	
+81-9	11773-11776	law	_	_	
+81-10	11777-11783	claims	_	_	
+81-11	11784-11791	covered	_	_	
+81-12	11792-11794	by	_	_	
+81-13	11795-11796	§	*[113]	Legal Source[113]	
+81-14	11797-11802	113(b	*[113]	Legal Source[113]	
+81-15	11803-11804	)	*[113]	Legal Source[113]	
+81-16	11805-11807	to	_	_	
+81-17	11808-11810	be	_	_	
+81-18	11811-11816	heard	_	_	
+81-19	11817-11828	exclusively	_	_	
+81-20	11829-11831	in	_	_	
+81-21	11832-11839	federal	_	_	
+81-22	11840-11845	court	_	_	
+81-23	11846-11848	in	_	_	
+81-24	11849-11854	order	_	_	
+81-25	11855-11857	to	_	_	
+81-26	11858-11865	prevent	_	_	
+81-27	11866-11871	state	_	_	
+81-28	11872-11878	courts	_	_	
+81-29	11879-11882	and	_	_	
+81-30	11883-11889	juries	_	_	
+81-31	11890-11894	from	_	_	
+81-32	11895-11901	unduly	_	_	
+81-33	11902-11910	favoring	_	_	
+81-34	11911-11915	home	_	_	
+81-35	11916-11917	-	_	_	
+81-36	11918-11923	state	_	_	
+81-37	11924-11933	interests	_	_	
+81-38	11934-11935	.	_	_	
+
+#Text=But having granted the federal district courts jurisdiction to hear these claims in § 113(b ) , why would Congress take away that jurisdiction in cases where the parties happen not to be diverse ?
+82-1	11936-11939	But	_	_	
+82-2	11940-11946	having	_	_	
+82-3	11947-11954	granted	_	_	
+82-4	11955-11958	the	_	_	
+82-5	11959-11966	federal	_	_	
+82-6	11967-11975	district	_	_	
+82-7	11976-11982	courts	_	_	
+82-8	11983-11995	jurisdiction	_	_	
+82-9	11996-11998	to	_	_	
+82-10	11999-12003	hear	_	_	
+82-11	12004-12009	these	_	_	
+82-12	12010-12016	claims	_	_	
+82-13	12017-12019	in	_	_	
+82-14	12020-12021	§	*[114]	Legal Source[114]	
+82-15	12022-12027	113(b	*[114]	Legal Source[114]	
+82-16	12028-12029	)	*[114]	Legal Source[114]	
+82-17	12030-12031	,	_	_	
+82-18	12032-12035	why	_	_	
+82-19	12036-12041	would	_	_	
+82-20	12042-12050	Congress	_	_	
+82-21	12051-12055	take	_	_	
+82-22	12056-12060	away	_	_	
+82-23	12061-12065	that	_	_	
+82-24	12066-12078	jurisdiction	_	_	
+82-25	12079-12081	in	_	_	
+82-26	12082-12087	cases	_	_	
+82-27	12088-12093	where	_	_	
+82-28	12094-12097	the	_	_	
+82-29	12098-12105	parties	_	_	
+82-30	12106-12112	happen	_	_	
+82-31	12113-12116	not	_	_	
+82-32	12117-12119	to	_	_	
+82-33	12120-12122	be	_	_	
+82-34	12123-12130	diverse	_	_	
+82-35	12131-12132	?	_	_	
+
+#Text=And why would Congress go further and prevent the state courts from hearing these claims ?
+83-1	12133-12136	And	_	_	
+83-2	12137-12140	why	_	_	
+83-3	12141-12146	would	_	_	
+83-4	12147-12155	Congress	_	_	
+83-5	12156-12158	go	_	_	
+83-6	12159-12166	further	_	_	
+83-7	12167-12170	and	_	_	
+83-8	12171-12178	prevent	_	_	
+83-9	12179-12182	the	_	_	
+83-10	12183-12188	state	_	_	
+83-11	12189-12195	courts	_	_	
+83-12	12196-12200	from	_	_	
+83-13	12201-12208	hearing	_	_	
+83-14	12209-12214	these	_	_	
+83-15	12215-12221	claims	_	_	
+83-16	12222-12223	?	_	_	
+
+#Text=The Government and petitioner provide no answer , and none is apparent .
+84-1	12224-12227	The	_	_	
+84-2	12228-12238	Government	_	_	
+84-3	12239-12242	and	_	_	
+84-4	12243-12253	petitioner	_	_	
+84-5	12254-12261	provide	_	_	
+84-6	12262-12264	no	_	_	
+84-7	12265-12271	answer	_	_	
+84-8	12272-12273	,	_	_	
+84-9	12274-12277	and	_	_	
+84-10	12278-12282	none	_	_	
+84-11	12283-12285	is	_	_	
+84-12	12286-12294	apparent	_	_	
+84-13	12295-12296	.	_	_	
+
+#Text=III
+85-1	12297-12300	III	_	_	
+
+#Text=The Court gives three reasons for resolving the question of state - court jurisdiction .
+86-1	12301-12304	The	_	_	
+86-2	12305-12310	Court	_	_	
+86-3	12311-12316	gives	_	_	
+86-4	12317-12322	three	_	_	
+86-5	12323-12330	reasons	_	_	
+86-6	12331-12334	for	_	_	
+86-7	12335-12344	resolving	_	_	
+86-8	12345-12348	the	_	_	
+86-9	12349-12357	question	_	_	
+86-10	12358-12360	of	_	_	
+86-11	12361-12366	state	_	_	
+86-12	12367-12368	-	_	_	
+86-13	12369-12374	court	_	_	
+86-14	12375-12387	jurisdiction	_	_	
+86-15	12388-12389	.	_	_	
+
+#Text=See ante , at 1349 , n. 3 .
+87-1	12390-12393	See	*[115]	Legal Source[115]	
+87-2	12394-12398	ante	*[115]	Legal Source[115]	
+87-3	12399-12400	,	*[115]	Legal Source[115]	
+87-4	12401-12403	at	*[115]	Legal Source[115]	
+87-5	12404-12408	1349	*[115]	Legal Source[115]	
+87-6	12409-12410	,	*[115]	Legal Source[115]	
+87-7	12411-12413	n.	*[115]	Legal Source[115]	
+87-8	12414-12415	3	*[115]	Legal Source[115]	
+87-9	12416-12417	.	_	_	
+
+#Text=None is compelling .
+88-1	12418-12422	None	_	_	
+88-2	12423-12425	is	_	_	
+88-3	12426-12436	compelling	_	_	
+88-4	12437-12438	.	_	_	
+
+#Text=First , the Court explains that " Atlantic Richfield seeks more than a remand , " namely , it seeks a remand with instructions to dismiss on jurisdictional grounds .
+89-1	12439-12444	First	_	_	
+89-2	12445-12446	,	_	_	
+89-3	12447-12450	the	_	_	
+89-4	12451-12456	Court	_	_	
+89-5	12457-12465	explains	_	_	
+89-6	12466-12470	that	_	_	
+89-7	12471-12472	"	*[116]	Direct Quote[116]	
+89-8	12473-12481	Atlantic	*[116]	Direct Quote[116]	
+89-9	12482-12491	Richfield	*[116]	Direct Quote[116]	
+89-10	12492-12497	seeks	*[116]	Direct Quote[116]	
+89-11	12498-12502	more	*[116]	Direct Quote[116]	
+89-12	12503-12507	than	*[116]	Direct Quote[116]	
+89-13	12508-12509	a	*[116]	Direct Quote[116]	
+89-14	12510-12516	remand	*[116]	Direct Quote[116]	
+89-15	12517-12518	,	*[116]	Direct Quote[116]	
+89-16	12519-12520	"	*[116]	Direct Quote[116]	
+89-17	12521-12527	namely	_	_	
+89-18	12528-12529	,	_	_	
+89-19	12530-12532	it	_	_	
+89-20	12533-12538	seeks	_	_	
+89-21	12539-12540	a	_	_	
+89-22	12541-12547	remand	_	_	
+89-23	12548-12552	with	_	_	
+89-24	12553-12565	instructions	_	_	
+89-25	12566-12568	to	_	_	
+89-26	12569-12576	dismiss	_	_	
+89-27	12577-12579	on	_	_	
+89-28	12580-12594	jurisdictional	_	_	
+89-29	12595-12602	grounds	_	_	
+89-30	12603-12604	.	_	_	
+
+#Text=Ibid .
+90-1	12605-12609	Ibid	*	Legal Source	
+90-2	12610-12611	.	_	_	
+
+#Text=But Atlantic Richfield presented its § 122(e)(6 ) theory as an alternate ground for reversal , and has prevailed on that basis .
+91-1	12612-12615	But	_	_	
+91-2	12616-12624	Atlantic	_	_	
+91-3	12625-12634	Richfield	_	_	
+91-4	12635-12644	presented	_	_	
+91-5	12645-12648	its	_	_	
+91-6	12649-12650	§	*[117]	Legal Source[117]	
+91-7	12651-12659	122(e)(6	*[117]	Legal Source[117]	
+91-8	12660-12661	)	*[117]	Legal Source[117]	
+91-9	12662-12668	theory	_	_	
+91-10	12669-12671	as	_	_	
+91-11	12672-12674	an	_	_	
+91-12	12675-12684	alternate	_	_	
+91-13	12685-12691	ground	_	_	
+91-14	12692-12695	for	_	_	
+91-15	12696-12704	reversal	_	_	
+91-16	12705-12706	,	_	_	
+91-17	12707-12710	and	_	_	
+91-18	12711-12714	has	_	_	
+91-19	12715-12724	prevailed	_	_	
+91-20	12725-12727	on	_	_	
+91-21	12728-12732	that	_	_	
+91-22	12733-12738	basis	_	_	
+91-23	12739-12740	.	_	_	
+
+#Text=As Atlantic Richfield 's counsel stated at argument , the § 122(e)(6 ) ruling is " sufficient to resolve the case . " Tr . of Oral Arg . 17 - 18 .
+92-1	12741-12743	As	_	_	
+92-2	12744-12752	Atlantic	_	_	
+92-3	12753-12762	Richfield	_	_	
+92-4	12763-12765	's	_	_	
+92-5	12766-12773	counsel	_	_	
+92-6	12774-12780	stated	_	_	
+92-7	12781-12783	at	_	_	
+92-8	12784-12792	argument	_	_	
+92-9	12793-12794	,	_	_	
+92-10	12795-12798	the	_	_	
+92-11	12799-12800	§	*[118]	Legal Source[118]	
+92-12	12801-12809	122(e)(6	*[118]	Legal Source[118]	
+92-13	12810-12811	)	*[118]	Legal Source[118]	
+92-14	12812-12818	ruling	_	_	
+92-15	12819-12821	is	_	_	
+92-16	12822-12823	"	*[119]	Direct Quote[119]	
+92-17	12824-12834	sufficient	*[119]	Direct Quote[119]	
+92-18	12835-12837	to	*[119]	Direct Quote[119]	
+92-19	12838-12845	resolve	*[119]	Direct Quote[119]	
+92-20	12846-12849	the	*[119]	Direct Quote[119]	
+92-21	12850-12854	case	*[119]	Direct Quote[119]	
+92-22	12855-12856	.	*[119]	Direct Quote[119]	
+92-23	12857-12858	"	*[119]	Direct Quote[119]	
+92-24	12859-12861	Tr	*[120]	Legal Source[120]	
+92-25	12862-12863	.	*[120]	Legal Source[120]	
+92-26	12864-12866	of	*[120]	Legal Source[120]	
+92-27	12867-12871	Oral	*[120]	Legal Source[120]	
+92-28	12872-12875	Arg	*[120]	Legal Source[120]	
+92-29	12876-12877	.	*[120]	Legal Source[120]	
+92-30	12878-12880	17	*[120]	Legal Source[120]	
+92-31	12881-12882	-	*[120]	Legal Source[120]	
+92-32	12883-12885	18	*[120]	Legal Source[120]	
+92-33	12886-12887	.	_	_	
+
+#Text=Second , the Court says , " leaving the [ § 113 ] question unanswered ... would leave the parties in a state of uncertainty . "
+93-1	12888-12894	Second	_	_	
+93-2	12895-12896	,	_	_	
+93-3	12897-12900	the	_	_	
+93-4	12901-12906	Court	_	_	
+93-5	12907-12911	says	_	_	
+93-6	12912-12913	,	_	_	
+93-7	12914-12915	"	*[121]	Direct Quote[121]	
+93-8	12916-12923	leaving	*[121]	Direct Quote[121]	
+93-9	12924-12927	the	*[121]	Direct Quote[121]	
+93-10	12928-12929	[	*[121]	Direct Quote[121]	
+93-11	12930-12931	§	*[121]|*[122]	Direct Quote[121]|Legal Source[122]	
+93-12	12932-12935	113	*[121]|*[122]	Direct Quote[121]|Legal Source[122]	
+93-13	12936-12937	]	*[121]	Direct Quote[121]	
+93-14	12938-12946	question	*[121]	Direct Quote[121]	
+93-15	12947-12957	unanswered	*[121]	Direct Quote[121]	
+93-16	12958-12961	...	*[121]	Direct Quote[121]	
+93-17	12962-12967	would	*[121]	Direct Quote[121]	
+93-18	12968-12973	leave	*[121]	Direct Quote[121]	
+93-19	12974-12977	the	*[121]	Direct Quote[121]	
+93-20	12978-12985	parties	*[121]	Direct Quote[121]	
+93-21	12986-12988	in	*[121]	Direct Quote[121]	
+93-22	12989-12990	a	*[121]	Direct Quote[121]	
+93-23	12991-12996	state	*[121]	Direct Quote[121]	
+93-24	12997-12999	of	*[121]	Direct Quote[121]	
+93-25	13000-13011	uncertainty	*[121]	Direct Quote[121]	
+93-26	13012-13013	.	*[121]	Direct Quote[121]	
+93-27	13014-13015	"	*[121]	Direct Quote[121]	
+
+#Text=Ante , at 1349 , n. 3 .
+94-1	13016-13020	Ante	*[123]	Legal Source[123]	
+94-2	13021-13022	,	*[123]	Legal Source[123]	
+94-3	13023-13025	at	*[123]	Legal Source[123]	
+94-4	13026-13030	1349	*[123]	Legal Source[123]	
+94-5	13031-13032	,	*[123]	Legal Source[123]	
+94-6	13033-13035	n.	*[123]	Legal Source[123]	
+94-7	13036-13037	3	*[123]	Legal Source[123]	
+94-8	13038-13039	.	_	_	
+
+#Text=But , as described above , there appears to be a slim chance that this case will , at least in its current state , " procee[d ] " in the Montana courts .
+95-1	13040-13043	But	_	_	
+95-2	13044-13045	,	_	_	
+95-3	13046-13048	as	_	_	
+95-4	13049-13058	described	_	_	
+95-5	13059-13064	above	_	_	
+95-6	13065-13066	,	_	_	
+95-7	13067-13072	there	_	_	
+95-8	13073-13080	appears	_	_	
+95-9	13081-13083	to	_	_	
+95-10	13084-13086	be	_	_	
+95-11	13087-13088	a	_	_	
+95-12	13089-13093	slim	_	_	
+95-13	13094-13100	chance	_	_	
+95-14	13101-13105	that	_	_	
+95-15	13106-13110	this	_	_	
+95-16	13111-13115	case	_	_	
+95-17	13116-13120	will	_	_	
+95-18	13121-13122	,	_	_	
+95-19	13123-13125	at	_	_	
+95-20	13126-13131	least	_	_	
+95-21	13132-13134	in	_	_	
+95-22	13135-13138	its	_	_	
+95-23	13139-13146	current	_	_	
+95-24	13147-13152	state	_	_	
+95-25	13153-13154	,	_	_	
+95-26	13155-13156	"	_	_	
+95-27	13157-13165	procee[d	_	_	
+95-28	13166-13167	]	_	_	
+95-29	13168-13169	"	_	_	
+95-30	13170-13172	in	_	_	
+95-31	13173-13176	the	_	_	
+95-32	13177-13184	Montana	_	_	
+95-33	13185-13191	courts	_	_	
+95-34	13192-13193	.	_	_	
+
+#Text=Ibid .
+96-1	13194-13198	Ibid	*	Legal Source	
+96-2	13199-13200	.	_	_	
+
+#Text=Third , the Court suggests that the grant of review , briefing , and argument on § 113 may warrant resolving the question of state - court jurisdiction .
+97-1	13201-13206	Third	_	_	
+97-2	13207-13208	,	_	_	
+97-3	13209-13212	the	_	_	
+97-4	13213-13218	Court	_	_	
+97-5	13219-13227	suggests	_	_	
+97-6	13228-13232	that	_	_	
+97-7	13233-13236	the	_	_	
+97-8	13237-13242	grant	_	_	
+97-9	13243-13245	of	_	_	
+97-10	13246-13252	review	_	_	
+97-11	13253-13254	,	_	_	
+97-12	13255-13263	briefing	_	_	
+97-13	13264-13265	,	_	_	
+97-14	13266-13269	and	_	_	
+97-15	13270-13278	argument	_	_	
+97-16	13279-13281	on	_	_	
+97-17	13282-13283	§	*[124]	Legal Source[124]	
+97-18	13284-13287	113	*[124]	Legal Source[124]	
+97-19	13288-13291	may	_	_	
+97-20	13292-13299	warrant	_	_	
+97-21	13300-13309	resolving	_	_	
+97-22	13310-13313	the	_	_	
+97-23	13314-13322	question	_	_	
+97-24	13323-13325	of	_	_	
+97-25	13326-13331	state	_	_	
+97-26	13332-13333	-	_	_	
+97-27	13334-13339	court	_	_	
+97-28	13340-13352	jurisdiction	_	_	
+97-29	13353-13354	.	_	_	
+
+#Text=Ibid .
+98-1	13355-13359	Ibid	*	Legal Source	
+98-2	13360-13361	.	_	_	
+
+#Text=But that presentation has not cleared up serious issues surrounding § § 113(b ) and ( h ) .
+99-1	13362-13365	But	_	_	
+99-2	13366-13370	that	_	_	
+99-3	13371-13383	presentation	_	_	
+99-4	13384-13387	has	_	_	
+99-5	13388-13391	not	_	_	
+99-6	13392-13399	cleared	_	_	
+99-7	13400-13402	up	_	_	
+99-8	13403-13410	serious	_	_	
+99-9	13411-13417	issues	_	_	
+99-10	13418-13429	surrounding	_	_	
+99-11	13430-13431	§	*[125]	Legal Source[125]	
+99-12	13432-13433	§	*[125]	Legal Source[125]	
+99-13	13434-13439	113(b	*[125]	Legal Source[125]	
+99-14	13440-13441	)	*[125]	Legal Source[125]	
+99-15	13442-13445	and	*[125]	Legal Source[125]	
+99-16	13446-13447	(	*[125]	Legal Source[125]	
+99-17	13448-13449	h	*[125]	Legal Source[125]	
+99-18	13450-13451	)	*[125]	Legal Source[125]	
+99-19	13452-13453	.	_	_	
+
+#Text=And sunk costs can not justify a departure from our usual practice of " deciding only what is necessary to the disposition of the immediate case . "
+100-1	13454-13457	And	_	_	
+100-2	13458-13462	sunk	_	_	
+100-3	13463-13468	costs	_	_	
+100-4	13469-13472	can	_	_	
+100-5	13473-13476	not	_	_	
+100-6	13477-13484	justify	_	_	
+100-7	13485-13486	a	_	_	
+100-8	13487-13496	departure	_	_	
+100-9	13497-13501	from	_	_	
+100-10	13502-13505	our	_	_	
+100-11	13506-13511	usual	_	_	
+100-12	13512-13520	practice	_	_	
+100-13	13521-13523	of	_	_	
+100-14	13524-13525	"	*[126]	Direct Quote[126]	
+100-15	13526-13534	deciding	*[126]	Direct Quote[126]	
+100-16	13535-13539	only	*[126]	Direct Quote[126]	
+100-17	13540-13544	what	*[126]	Direct Quote[126]	
+100-18	13545-13547	is	*[126]	Direct Quote[126]	
+100-19	13548-13557	necessary	*[126]	Direct Quote[126]	
+100-20	13558-13560	to	*[126]	Direct Quote[126]	
+100-21	13561-13564	the	*[126]	Direct Quote[126]	
+100-22	13565-13576	disposition	*[126]	Direct Quote[126]	
+100-23	13577-13579	of	*[126]	Direct Quote[126]	
+100-24	13580-13583	the	*[126]	Direct Quote[126]	
+100-25	13584-13593	immediate	*[126]	Direct Quote[126]	
+100-26	13594-13598	case	*[126]	Direct Quote[126]	
+100-27	13599-13600	.	*[126]	Direct Quote[126]	
+100-28	13601-13602	"	*[126]	Direct Quote[126]	
+
+#Text=Whitehouse v. Illinois Central R. Co. , 349 U.S. 366 , 373 , 75 S.Ct . 845 , 99 L.Ed . 1155 ( 1955 ) .
+101-1	13603-13613	Whitehouse	*[127]	Legal Source[127]	
+101-2	13614-13616	v.	*[127]	Legal Source[127]	
+101-3	13617-13625	Illinois	*[127]	Legal Source[127]	
+101-4	13626-13633	Central	*[127]	Legal Source[127]	
+101-5	13634-13636	R.	*[127]	Legal Source[127]	
+101-6	13637-13640	Co.	*[127]	Legal Source[127]	
+101-7	13641-13642	,	*[127]	Legal Source[127]	
+101-8	13643-13646	349	*[127]	Legal Source[127]	
+101-9	13647-13651	U.S.	*[127]	Legal Source[127]	
+101-10	13652-13655	366	*[127]	Legal Source[127]	
+101-11	13656-13657	,	*[127]	Legal Source[127]	
+101-12	13658-13661	373	*[127]	Legal Source[127]	
+101-13	13662-13663	,	*[127]	Legal Source[127]	
+101-14	13664-13666	75	*[127]	Legal Source[127]	
+101-15	13667-13671	S.Ct	*[127]	Legal Source[127]	
+101-16	13672-13673	.	*[127]	Legal Source[127]	
+101-17	13674-13677	845	*[127]	Legal Source[127]	
+101-18	13678-13679	,	*[127]	Legal Source[127]	
+101-19	13680-13682	99	*[127]	Legal Source[127]	
+101-20	13683-13687	L.Ed	*[127]	Legal Source[127]	
+101-21	13688-13689	.	*[127]	Legal Source[127]	
+101-22	13690-13694	1155	*[127]	Legal Source[127]	
+101-23	13695-13696	(	*[127]	Legal Source[127]	
+101-24	13697-13701	1955	*[127]	Legal Source[127]	
+101-25	13702-13703	)	*[127]	Legal Source[127]	
+101-26	13704-13705	.	_	_	
+
+#Text=* * *
+102-1	13706-13707	*	_	_	
+102-2	13708-13709	*	_	_	
+102-3	13710-13711	*	_	_	
+
+#Text=Section 113 may simply be a piece of very bad draftsmanship , with pieces that can not be made to fit together .
+103-1	13712-13719	Section	*[128]	Legal Source[128]	
+103-2	13720-13723	113	*[128]	Legal Source[128]	
+103-3	13724-13727	may	_	_	
+103-4	13728-13734	simply	_	_	
+103-5	13735-13737	be	_	_	
+103-6	13738-13739	a	_	_	
+103-7	13740-13745	piece	_	_	
+103-8	13746-13748	of	_	_	
+103-9	13749-13753	very	_	_	
+103-10	13754-13757	bad	_	_	
+103-11	13758-13771	draftsmanship	_	_	
+103-12	13772-13773	,	_	_	
+103-13	13774-13778	with	_	_	
+103-14	13779-13785	pieces	_	_	
+103-15	13786-13790	that	_	_	
+103-16	13791-13794	can	_	_	
+103-17	13795-13798	not	_	_	
+103-18	13799-13801	be	_	_	
+103-19	13802-13806	made	_	_	
+103-20	13807-13809	to	_	_	
+103-21	13810-13813	fit	_	_	
+103-22	13814-13822	together	_	_	
+103-23	13823-13824	.	_	_	
+
+#Text=Or it may be a puzzle with a solution that neither the parties , the Court , nor I have been able to solve .
+104-1	13825-13827	Or	_	_	
+104-2	13828-13830	it	_	_	
+104-3	13831-13834	may	_	_	
+104-4	13835-13837	be	_	_	
+104-5	13838-13839	a	_	_	
+104-6	13840-13846	puzzle	_	_	
+104-7	13847-13851	with	_	_	
+104-8	13852-13853	a	_	_	
+104-9	13854-13862	solution	_	_	
+104-10	13863-13867	that	_	_	
+104-11	13868-13875	neither	_	_	
+104-12	13876-13879	the	_	_	
+104-13	13880-13887	parties	_	_	
+104-14	13888-13889	,	_	_	
+104-15	13890-13893	the	_	_	
+104-16	13894-13899	Court	_	_	
+104-17	13900-13901	,	_	_	
+104-18	13902-13905	nor	_	_	
+104-19	13906-13907	I	_	_	
+104-20	13908-13912	have	_	_	
+104-21	13913-13917	been	_	_	
+104-22	13918-13922	able	_	_	
+104-23	13923-13925	to	_	_	
+104-24	13926-13931	solve	_	_	
+104-25	13932-13933	.	_	_	
+
+#Text=In a later case , briefing and argument may provide answers that have thus far eluded us .
+105-1	13934-13936	In	_	_	
+105-2	13937-13938	a	_	_	
+105-3	13939-13944	later	_	_	
+105-4	13945-13949	case	_	_	
+105-5	13950-13951	,	_	_	
+105-6	13952-13960	briefing	_	_	
+105-7	13961-13964	and	_	_	
+105-8	13965-13973	argument	_	_	
+105-9	13974-13977	may	_	_	
+105-10	13978-13985	provide	_	_	
+105-11	13986-13993	answers	_	_	
+105-12	13994-13998	that	_	_	
+105-13	13999-14003	have	_	_	
+105-14	14004-14008	thus	_	_	
+105-15	14009-14012	far	_	_	
+105-16	14013-14019	eluded	_	_	
+105-17	14020-14022	us	_	_	
+105-18	14023-14024	.	_	_	
+
+#Text=Since we are not required to attempt an answer in this case , the prudent course is to hold back .
+106-1	14025-14030	Since	_	_	
+106-2	14031-14033	we	_	_	
+106-3	14034-14037	are	_	_	
+106-4	14038-14041	not	_	_	
+106-5	14042-14050	required	_	_	
+106-6	14051-14053	to	_	_	
+106-7	14054-14061	attempt	_	_	
+106-8	14062-14064	an	_	_	
+106-9	14065-14071	answer	_	_	
+106-10	14072-14074	in	_	_	
+106-11	14075-14079	this	_	_	
+106-12	14080-14084	case	_	_	
+106-13	14085-14086	,	_	_	
+106-14	14087-14090	the	_	_	
+106-15	14091-14098	prudent	_	_	
+106-16	14099-14105	course	_	_	
+106-17	14106-14108	is	_	_	
+106-18	14109-14111	to	_	_	
+106-19	14112-14116	hold	_	_	
+106-20	14117-14121	back	_	_	
+106-21	14122-14123	.	_	_	
