@@ -9,6 +9,5 @@ authors = [
     {name = "Michael Kranzlein"}
 ]
 
-[tool.setuptools]
-package-dir = {"" = "src"}
-
+[tool.setuptools.packages.find]
+where = ["src"]
