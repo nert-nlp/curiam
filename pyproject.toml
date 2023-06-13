@@ -8,6 +8,3 @@ version = "0.0"
 authors = [
     {name = "Michael Kranzlein"}
 ]
-
-[tool.setuptools.packages.find]
-where = ["src"]
