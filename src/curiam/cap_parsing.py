@@ -76,8 +76,9 @@ def parse_opinion_html(opinion_html):
     return paragraphs
 
 
-def get_filename_from_docket_number(filename):
-    response = get_case_json_by_id(filename[:-4])
+def get_docket_number_from_id(id):
+    """Returns the docket number for a Harvard CAP case ID."""
+    response = get_case_json_by_id(id)
     docket_number = response["docket_number"][4:]
     docket_number = docket_number.strip()
     docket_number = docket_number[:2] + "_" + docket_number[3:]
