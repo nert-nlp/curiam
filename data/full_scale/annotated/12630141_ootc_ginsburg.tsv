@@ -1,0 +1,3875 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice GINSBURG delivered the opinion of the Court .
+1-1	0-7	Justice	_	_	
+1-2	8-16	GINSBURG	_	_	
+1-3	17-26	delivered	_	_	
+1-4	27-30	the	_	_	
+1-5	31-38	opinion	_	_	
+1-6	39-41	of	_	_	
+1-7	42-45	the	_	_	
+1-8	46-51	Court	_	_	
+1-9	52-53	.	_	_	
+
+#Text=The Armed Career Criminal Act ( ACCA ) , 18 U.S.C. § 924 ( e ) , mandates a 15 - year minimum sentence of imprisonment for certain defendants with prior convictions for a " serious drug offense . "
+2-1	54-57	The	_	_	
+2-2	58-63	Armed	*[1]	Legal Source[1]	
+2-3	64-70	Career	*[1]	Legal Source[1]	
+2-4	71-79	Criminal	*[1]	Legal Source[1]	
+2-5	80-83	Act	*[1]	Legal Source[1]	
+2-6	84-85	(	*[1]	Legal Source[1]	
+2-7	86-90	ACCA	*[1]	Legal Source[1]	
+2-8	91-92	)	*[1]	Legal Source[1]	
+2-9	93-94	,	*[1]	Legal Source[1]	
+2-10	95-97	18	*[1]	Legal Source[1]	
+2-11	98-104	U.S.C.	*[1]	Legal Source[1]	
+2-12	105-106	§	*[1]	Legal Source[1]	
+2-13	107-110	924	*[1]	Legal Source[1]	
+2-14	111-112	(	*[1]	Legal Source[1]	
+2-15	113-114	e	*[1]	Legal Source[1]	
+2-16	115-116	)	*[1]	Legal Source[1]	
+2-17	117-118	,	_	_	
+2-18	119-127	mandates	_	_	
+2-19	128-129	a	_	_	
+2-20	130-132	15	_	_	
+2-21	133-134	-	_	_	
+2-22	135-139	year	_	_	
+2-23	140-147	minimum	_	_	
+2-24	148-156	sentence	_	_	
+2-25	157-159	of	_	_	
+2-26	160-172	imprisonment	_	_	
+2-27	173-176	for	_	_	
+2-28	177-184	certain	_	_	
+2-29	185-195	defendants	_	_	
+2-30	196-200	with	_	_	
+2-31	201-206	prior	_	_	
+2-32	207-218	convictions	_	_	
+2-33	219-222	for	_	_	
+2-34	223-224	a	_	_	
+2-35	225-226	"	*[2]	Direct Quote[2]	
+2-36	227-234	serious	*[2]	Direct Quote[2]	
+2-37	235-239	drug	*[2]	Direct Quote[2]	
+2-38	240-247	offense	*[2]	Direct Quote[2]	
+2-39	248-249	.	*[2]	Direct Quote[2]	
+2-40	250-251	"	*[2]	Direct Quote[2]	
+
+#Text=A state offense ranks as a " serious drug offense " only if it " involv[es ] manufacturing , distributing , or possessing with intent to manufacture or distribute , a controlled substance . "
+3-1	252-253	A	_	_	
+3-2	254-259	state	_	_	
+3-3	260-267	offense	_	_	
+3-4	268-273	ranks	_	_	
+3-5	274-276	as	_	_	
+3-6	277-278	a	_	_	
+3-7	279-280	"	*[3]	Direct Quote[3]	
+3-8	281-288	serious	*[3]|*[4]	Direct Quote[3]|Focal Term[4]	
+3-9	289-293	drug	*[3]|*[4]	Direct Quote[3]|Focal Term[4]	
+3-10	294-301	offense	*[3]|*[4]	Direct Quote[3]|Focal Term[4]	
+3-11	302-303	"	*[3]	Direct Quote[3]	
+3-12	304-308	only	_	_	
+3-13	309-311	if	*[5]	Definition[5]	
+3-14	312-314	it	*[5]	Definition[5]	
+3-15	315-316	"	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-16	317-326	involv[es	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-17	327-328	]	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-18	329-342	manufacturing	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-19	343-344	,	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-20	345-357	distributing	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-21	358-359	,	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-22	360-362	or	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-23	363-373	possessing	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-24	374-378	with	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-25	379-385	intent	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-26	386-388	to	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-27	389-400	manufacture	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-28	401-403	or	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-29	404-414	distribute	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-30	415-416	,	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-31	417-418	a	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-32	419-429	controlled	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-33	430-439	substance	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-34	440-441	.	*[6]	Direct Quote[6]	
+3-35	442-443	"	*[6]	Direct Quote[6]	
+
+#Text=§ 924(e)(2)(A)(ii ) .
+4-1	444-445	§	*[7]	Legal Source[7]	
+4-2	446-461	924(e)(2)(A)(ii	*[7]	Legal Source[7]	
+4-3	462-463	)	*[7]	Legal Source[7]	
+4-4	464-465	.	_	_	
+
+#Text=This case concerns the methodology courts use to apply that definition .
+5-1	466-470	This	_	_	
+5-2	471-475	case	_	_	
+5-3	476-484	concerns	_	_	
+5-4	485-488	the	_	_	
+5-5	489-500	methodology	_	_	
+5-6	501-507	courts	_	_	
+5-7	508-511	use	_	_	
+5-8	512-514	to	_	_	
+5-9	515-520	apply	_	_	
+5-10	521-525	that	_	_	
+5-11	526-536	definition	*	Metalinguistic Cue	
+5-12	537-538	.	_	_	
+
+#Text=While the parties agree that a court should look to the state offense 's elements , they disagree over what the court should measure those elements against .
+6-1	539-544	While	_	_	
+6-2	545-548	the	_	_	
+6-3	549-556	parties	_	_	
+6-4	557-562	agree	_	_	
+6-5	563-567	that	_	_	
+6-6	568-569	a	_	_	
+6-7	570-575	court	_	_	
+6-8	576-582	should	_	_	
+6-9	583-587	look	_	_	
+6-10	588-590	to	_	_	
+6-11	591-594	the	_	_	
+6-12	595-600	state	_	_	
+6-13	601-608	offense	_	_	
+6-14	609-611	's	_	_	
+6-15	612-620	elements	_	_	
+6-16	621-622	,	_	_	
+6-17	623-627	they	_	_	
+6-18	628-636	disagree	_	_	
+6-19	637-641	over	_	_	
+6-20	642-646	what	_	_	
+6-21	647-650	the	_	_	
+6-22	651-656	court	_	_	
+6-23	657-663	should	_	_	
+6-24	664-671	measure	_	_	
+6-25	672-677	those	_	_	
+6-26	678-686	elements	_	_	
+6-27	687-694	against	_	_	
+6-28	695-696	.	_	_	
+
+#Text=In the Government 's view , the court should ask whether those elements involve the conduct identified in § 924(e)(2)(A)(ii ) -namely , " manufacturing , distributing , or possessing with intent to manufacture or distribute , a controlled substance . "
+7-1	697-699	In	_	_	
+7-2	700-703	the	_	_	
+7-3	704-714	Government	_	_	
+7-4	715-717	's	_	_	
+7-5	718-722	view	_	_	
+7-6	723-724	,	_	_	
+7-7	725-728	the	_	_	
+7-8	729-734	court	_	_	
+7-9	735-741	should	_	_	
+7-10	742-745	ask	_	_	
+7-11	746-753	whether	_	_	
+7-12	754-759	those	_	_	
+7-13	760-768	elements	_	_	
+7-14	769-776	involve	_	_	
+7-15	777-780	the	_	_	
+7-16	781-788	conduct	_	_	
+7-17	789-799	identified	_	_	
+7-18	800-802	in	_	_	
+7-19	803-804	§	*[8]	Legal Source[8]	
+7-20	805-820	924(e)(2)(A)(ii	*[8]	Legal Source[8]	
+7-21	821-822	)	*[8]	Legal Source[8]	
+7-22	823-830	-namely	_	_	
+7-23	831-832	,	_	_	
+7-24	833-834	"	*[9]	Direct Quote[9]	
+7-25	835-848	manufacturing	*[9]	Direct Quote[9]	
+7-26	849-850	,	*[9]	Direct Quote[9]	
+7-27	851-863	distributing	*[9]	Direct Quote[9]	
+7-28	864-865	,	*[9]	Direct Quote[9]	
+7-29	866-868	or	*[9]	Direct Quote[9]	
+7-30	869-879	possessing	*[9]	Direct Quote[9]	
+7-31	880-884	with	*[9]	Direct Quote[9]	
+7-32	885-891	intent	*[9]	Direct Quote[9]	
+7-33	892-894	to	*[9]	Direct Quote[9]	
+7-34	895-906	manufacture	*[9]	Direct Quote[9]	
+7-35	907-909	or	*[9]	Direct Quote[9]	
+7-36	910-920	distribute	*[9]	Direct Quote[9]	
+7-37	921-922	,	*[9]	Direct Quote[9]	
+7-38	923-924	a	*[9]	Direct Quote[9]	
+7-39	925-935	controlled	*[9]	Direct Quote[9]	
+7-40	936-945	substance	*[9]	Direct Quote[9]	
+7-41	946-947	.	*[9]	Direct Quote[9]	
+7-42	948-949	"	*[9]	Direct Quote[9]	
+
+#Text=Petitioner Eddie Lee Shular , however , contends that the terms employed in the statute identify not conduct , but offenses .
+8-1	950-960	Petitioner	_	_	
+8-2	961-966	Eddie	_	_	
+8-3	967-970	Lee	_	_	
+8-4	971-977	Shular	_	_	
+8-5	978-979	,	_	_	
+8-6	980-987	however	_	_	
+8-7	988-989	,	_	_	
+8-8	990-998	contends	_	_	
+8-9	999-1003	that	_	_	
+8-10	1004-1007	the	_	_	
+8-11	1008-1013	terms	_	_	
+8-12	1014-1022	employed	_	_	
+8-13	1023-1025	in	_	_	
+8-14	1026-1029	the	_	_	
+8-15	1030-1037	statute	_	_	
+8-16	1038-1046	identify	_	_	
+8-17	1047-1050	not	_	_	
+8-18	1051-1058	conduct	_	_	
+8-19	1059-1060	,	_	_	
+8-20	1061-1064	but	_	_	
+8-21	1065-1073	offenses	_	_	
+8-22	1074-1075	.	_	_	
+
+#Text=In his view , those terms are shorthand for the elements of the offenses as commonly understood .
+9-1	1076-1078	In	_	_	
+9-2	1079-1082	his	_	_	
+9-3	1083-1087	view	_	_	
+9-4	1088-1089	,	_	_	
+9-5	1090-1095	those	_	_	
+9-6	1096-1101	terms	_	_	
+9-7	1102-1105	are	_	_	
+9-8	1106-1115	shorthand	_	_	
+9-9	1116-1119	for	_	_	
+9-10	1120-1123	the	_	_	
+9-11	1124-1132	elements	_	_	
+9-12	1133-1135	of	_	_	
+9-13	1136-1139	the	_	_	
+9-14	1140-1148	offenses	_	_	
+9-15	1149-1151	as	_	_	
+9-16	1152-1160	commonly	_	_	
+9-17	1161-1171	understood	_	_	
+9-18	1172-1173	.	_	_	
+
+#Text=According to Shular , the court must first identify the elements of the " generic " offense , then ask whether the elements of the state offense match those of the generic crime .
+10-1	1174-1183	According	_	_	
+10-2	1184-1186	to	_	_	
+10-3	1187-1193	Shular	_	_	
+10-4	1194-1195	,	_	_	
+10-5	1196-1199	the	_	_	
+10-6	1200-1205	court	_	_	
+10-7	1206-1210	must	_	_	
+10-8	1211-1216	first	_	_	
+10-9	1217-1225	identify	_	_	
+10-10	1226-1229	the	_	_	
+10-11	1230-1238	elements	_	_	
+10-12	1239-1241	of	_	_	
+10-13	1242-1245	the	_	_	
+10-14	1246-1247	"	*[10]	Direct Quote[10]	
+10-15	1248-1255	generic	*[10]	Direct Quote[10]	
+10-16	1256-1257	"	*[10]	Direct Quote[10]	
+10-17	1258-1265	offense	_	_	
+10-18	1266-1267	,	_	_	
+10-19	1268-1272	then	_	_	
+10-20	1273-1276	ask	_	_	
+10-21	1277-1284	whether	_	_	
+10-22	1285-1288	the	_	_	
+10-23	1289-1297	elements	_	_	
+10-24	1298-1300	of	_	_	
+10-25	1301-1304	the	_	_	
+10-26	1305-1310	state	_	_	
+10-27	1311-1318	offense	_	_	
+10-28	1319-1324	match	_	_	
+10-29	1325-1330	those	_	_	
+10-30	1331-1333	of	_	_	
+10-31	1334-1337	the	_	_	
+10-32	1338-1345	generic	_	_	
+10-33	1346-1351	crime	_	_	
+10-34	1352-1353	.	_	_	
+
+#Text=Under the approach he advances , Shular argues , his sentence is not subject to ACCA enhancement .
+11-1	1354-1359	Under	_	_	
+11-2	1360-1363	the	_	_	
+11-3	1364-1372	approach	_	_	
+11-4	1373-1375	he	_	_	
+11-5	1376-1384	advances	_	_	
+11-6	1385-1386	,	_	_	
+11-7	1387-1393	Shular	_	_	
+11-8	1394-1400	argues	_	_	
+11-9	1401-1402	,	_	_	
+11-10	1403-1406	his	_	_	
+11-11	1407-1415	sentence	_	_	
+11-12	1416-1418	is	_	_	
+11-13	1419-1422	not	_	_	
+11-14	1423-1430	subject	_	_	
+11-15	1431-1433	to	_	_	
+11-16	1434-1438	ACCA	_	_	
+11-17	1439-1450	enhancement	_	_	
+11-18	1451-1452	.	_	_	
+
+#Text=The generic offenses named in § 924(e)(2)(A)(ii ) , as Shular understands them , include a mens rea element of knowledge that the substance is illicit .
+12-1	1453-1456	The	_	_	
+12-2	1457-1464	generic	_	_	
+12-3	1465-1473	offenses	_	_	
+12-4	1474-1479	named	_	_	
+12-5	1480-1482	in	_	_	
+12-6	1483-1484	§	*[11]	Legal Source[11]	
+12-7	1485-1500	924(e)(2)(A)(ii	*[11]	Legal Source[11]	
+12-8	1501-1502	)	*[11]	Legal Source[11]	
+12-9	1503-1504	,	_	_	
+12-10	1505-1507	as	_	_	
+12-11	1508-1514	Shular	_	_	
+12-12	1515-1526	understands	_	_	
+12-13	1527-1531	them	_	_	
+12-14	1532-1533	,	_	_	
+12-15	1534-1541	include	_	_	
+12-16	1542-1543	a	_	_	
+12-17	1544-1548	mens	_	_	
+12-18	1549-1552	rea	_	_	
+12-19	1553-1560	element	_	_	
+12-20	1561-1563	of	_	_	
+12-21	1564-1573	knowledge	_	_	
+12-22	1574-1578	that	_	_	
+12-23	1579-1582	the	_	_	
+12-24	1583-1592	substance	_	_	
+12-25	1593-1595	is	_	_	
+12-26	1596-1603	illicit	_	_	
+12-27	1604-1605	.	_	_	
+
+#Text=He emphasizes that his prior convictions were for state offenses that do not make knowledge of the substance 's illegality an element of the offense ; the state offenses , he therefore maintains , do not match the generic offenses in § 924(e)(2)(A)(ii ) .
+13-1	1606-1608	He	_	_	
+13-2	1609-1619	emphasizes	_	_	
+13-3	1620-1624	that	_	_	
+13-4	1625-1628	his	_	_	
+13-5	1629-1634	prior	_	_	
+13-6	1635-1646	convictions	_	_	
+13-7	1647-1651	were	_	_	
+13-8	1652-1655	for	_	_	
+13-9	1656-1661	state	_	_	
+13-10	1662-1670	offenses	_	_	
+13-11	1671-1675	that	_	_	
+13-12	1676-1678	do	_	_	
+13-13	1679-1682	not	_	_	
+13-14	1683-1687	make	_	_	
+13-15	1688-1697	knowledge	_	_	
+13-16	1698-1700	of	_	_	
+13-17	1701-1704	the	_	_	
+13-18	1705-1714	substance	_	_	
+13-19	1715-1717	's	_	_	
+13-20	1718-1728	illegality	_	_	
+13-21	1729-1731	an	_	_	
+13-22	1732-1739	element	_	_	
+13-23	1740-1742	of	_	_	
+13-24	1743-1746	the	_	_	
+13-25	1747-1754	offense	_	_	
+13-26	1755-1756	;	_	_	
+13-27	1757-1760	the	_	_	
+13-28	1761-1766	state	_	_	
+13-29	1767-1775	offenses	_	_	
+13-30	1776-1777	,	_	_	
+13-31	1778-1780	he	_	_	
+13-32	1781-1790	therefore	_	_	
+13-33	1791-1800	maintains	_	_	
+13-34	1801-1802	,	_	_	
+13-35	1803-1805	do	_	_	
+13-36	1806-1809	not	_	_	
+13-37	1810-1815	match	_	_	
+13-38	1816-1819	the	_	_	
+13-39	1820-1827	generic	_	_	
+13-40	1828-1836	offenses	_	_	
+13-41	1837-1839	in	_	_	
+13-42	1840-1841	§	*[12]	Legal Source[12]	
+13-43	1842-1857	924(e)(2)(A)(ii	*[12]	Legal Source[12]	
+13-44	1858-1859	)	*[12]	Legal Source[12]	
+13-45	1860-1861	.	_	_	
+
+#Text=The question presented : Does § 924(e)(2)(A)(ii ) 's " serious drug offense " definition call for a comparison to a generic offense ?
+14-1	1862-1865	The	_	_	
+14-2	1866-1874	question	_	_	
+14-3	1875-1884	presented	_	_	
+14-4	1885-1886	:	_	_	
+14-5	1887-1891	Does	_	_	
+14-6	1892-1893	§	*[13]	Legal Source[13]	
+14-7	1894-1909	924(e)(2)(A)(ii	*[13]	Legal Source[13]	
+14-8	1910-1911	)	*[13]	Legal Source[13]	
+14-9	1912-1914	's	_	_	
+14-10	1915-1916	"	*[14]	Direct Quote[14]	
+14-11	1917-1924	serious	*[14]|*[15]	Direct Quote[14]|Focal Term[15]	
+14-12	1925-1929	drug	*[14]|*[15]	Direct Quote[14]|Focal Term[15]	
+14-13	1930-1937	offense	*[14]|*[15]	Direct Quote[14]|Focal Term[15]	
+14-14	1938-1939	"	*[14]	Direct Quote[14]	
+14-15	1940-1950	definition	*	Metalinguistic Cue	
+14-16	1951-1955	call	_	_	
+14-17	1956-1959	for	_	_	
+14-18	1960-1961	a	_	_	
+14-19	1962-1972	comparison	_	_	
+14-20	1973-1975	to	_	_	
+14-21	1976-1977	a	_	_	
+14-22	1978-1985	generic	_	_	
+14-23	1986-1993	offense	_	_	
+14-24	1994-1995	?	_	_	
+
+#Text=We hold it does not .
+15-1	1996-1998	We	_	_	
+15-2	1999-2003	hold	_	_	
+15-3	2004-2006	it	_	_	
+15-4	2007-2011	does	_	_	
+15-5	2012-2015	not	_	_	
+15-6	2016-2017	.	_	_	
+
+#Text=The " serious drug offense " definition requires only that the state offense involve the conduct specified in the federal statute ; it does not require that the state offense match certain generic offenses .
+16-1	2018-2021	The	_	_	
+16-2	2022-2023	"	*[16]	Direct Quote[16]	
+16-3	2024-2031	serious	*[16]|*[17]	Direct Quote[16]|Focal Term[17]	
+16-4	2032-2036	drug	*[16]|*[17]	Direct Quote[16]|Focal Term[17]	
+16-5	2037-2044	offense	*[16]|*[17]	Direct Quote[16]|Focal Term[17]	
+16-6	2045-2046	"	*[16]	Direct Quote[16]	
+16-7	2047-2057	definition	*	Metalinguistic Cue	
+16-8	2058-2066	requires	_	_	
+16-9	2067-2071	only	_	_	
+16-10	2072-2076	that	_	_	
+16-11	2077-2080	the	_	_	
+16-12	2081-2086	state	_	_	
+16-13	2087-2094	offense	_	_	
+16-14	2095-2102	involve	_	_	
+16-15	2103-2106	the	_	_	
+16-16	2107-2114	conduct	_	_	
+16-17	2115-2124	specified	_	_	
+16-18	2125-2127	in	_	_	
+16-19	2128-2131	the	_	_	
+16-20	2132-2139	federal	_	_	
+16-21	2140-2147	statute	_	_	
+16-22	2148-2149	;	_	_	
+16-23	2150-2152	it	_	_	
+16-24	2153-2157	does	_	_	
+16-25	2158-2161	not	_	_	
+16-26	2162-2169	require	_	_	
+16-27	2170-2174	that	_	_	
+16-28	2175-2178	the	_	_	
+16-29	2179-2184	state	_	_	
+16-30	2185-2192	offense	_	_	
+16-31	2193-2198	match	_	_	
+16-32	2199-2206	certain	_	_	
+16-33	2207-2214	generic	_	_	
+16-34	2215-2223	offenses	_	_	
+16-35	2224-2225	.	_	_	
+
+#Text=I
+17-1	2226-2227	I	_	_	
+
+#Text=Ordinarily , a defendant convicted of being a felon in possession of a firearm , in violation of § 922(g)(1 ) , faces a maximum sentence of ten years .
+18-1	2228-2238	Ordinarily	_	_	
+18-2	2239-2240	,	_	_	
+18-3	2241-2242	a	_	_	
+18-4	2243-2252	defendant	_	_	
+18-5	2253-2262	convicted	_	_	
+18-6	2263-2265	of	_	_	
+18-7	2266-2271	being	_	_	
+18-8	2272-2273	a	_	_	
+18-9	2274-2279	felon	_	_	
+18-10	2280-2282	in	_	_	
+18-11	2283-2293	possession	_	_	
+18-12	2294-2296	of	_	_	
+18-13	2297-2298	a	_	_	
+18-14	2299-2306	firearm	_	_	
+18-15	2307-2308	,	_	_	
+18-16	2309-2311	in	_	_	
+18-17	2312-2321	violation	_	_	
+18-18	2322-2324	of	_	_	
+18-19	2325-2326	§	*[18]	Legal Source[18]	
+18-20	2327-2335	922(g)(1	*[18]	Legal Source[18]	
+18-21	2336-2337	)	*[18]	Legal Source[18]	
+18-22	2338-2339	,	_	_	
+18-23	2340-2345	faces	_	_	
+18-24	2346-2347	a	_	_	
+18-25	2348-2355	maximum	_	_	
+18-26	2356-2364	sentence	_	_	
+18-27	2365-2367	of	_	_	
+18-28	2368-2371	ten	_	_	
+18-29	2372-2377	years	_	_	
+18-30	2378-2379	.	_	_	
+
+#Text=§ 924(a)(2 ) .
+19-1	2380-2381	§	*[19]	Legal Source[19]	
+19-2	2382-2390	924(a)(2	*[19]	Legal Source[19]	
+19-3	2391-2392	)	*[19]	Legal Source[19]	
+19-4	2393-2394	.	_	_	
+
+#Text=If the offender 's prior criminal record includes at least three convictions for " serious drug offense[s ] " or " violent felon[ies ] , " however , ACCA mandates a minimum sentence of 15 years .
+20-1	2395-2397	If	_	_	
+20-2	2398-2401	the	_	_	
+20-3	2402-2410	offender	_	_	
+20-4	2411-2413	's	_	_	
+20-5	2414-2419	prior	_	_	
+20-6	2420-2428	criminal	_	_	
+20-7	2429-2435	record	_	_	
+20-8	2436-2444	includes	_	_	
+20-9	2445-2447	at	_	_	
+20-10	2448-2453	least	_	_	
+20-11	2454-2459	three	_	_	
+20-12	2460-2471	convictions	_	_	
+20-13	2472-2475	for	_	_	
+20-14	2476-2477	"	*[20]	Direct Quote[20]	
+20-15	2478-2485	serious	*[20]	Direct Quote[20]	
+20-16	2486-2490	drug	*[20]	Direct Quote[20]	
+20-17	2491-2500	offense[s	*[20]	Direct Quote[20]	
+20-18	2501-2502	]	*[20]	Direct Quote[20]	
+20-19	2503-2504	"	*[20]	Direct Quote[20]	
+20-20	2505-2507	or	_	_	
+20-21	2508-2509	"	*[21]	Direct Quote[21]	
+20-22	2510-2517	violent	*[21]	Direct Quote[21]	
+20-23	2518-2527	felon[ies	*[21]	Direct Quote[21]	
+20-24	2528-2529	]	*[21]	Direct Quote[21]	
+20-25	2530-2531	,	*[21]	Direct Quote[21]	
+20-26	2532-2533	"	*[21]	Direct Quote[21]	
+20-27	2534-2541	however	_	_	
+20-28	2542-2543	,	_	_	
+20-29	2544-2548	ACCA	_	_	
+20-30	2549-2557	mandates	_	_	
+20-31	2558-2559	a	_	_	
+20-32	2560-2567	minimum	_	_	
+20-33	2568-2576	sentence	_	_	
+20-34	2577-2579	of	_	_	
+20-35	2580-2582	15	_	_	
+20-36	2583-2588	years	_	_	
+20-37	2589-2590	.	_	_	
+
+#Text=§ 924(e)(1 ) .
+21-1	2591-2592	§	*[22]	Legal Source[22]	
+21-2	2593-2601	924(e)(1	*[22]	Legal Source[22]	
+21-3	2602-2603	)	*[22]	Legal Source[22]	
+21-4	2604-2605	.	_	_	
+
+#Text=To determine whether an offender 's prior convictions qualify for ACCA enhancement , we have used a " categorical approach , " under which we look " only to the statutory definitions of the prior offenses . "
+22-1	2606-2608	To	_	_	
+22-2	2609-2618	determine	_	_	
+22-3	2619-2626	whether	_	_	
+22-4	2627-2629	an	_	_	
+22-5	2630-2638	offender	_	_	
+22-6	2639-2641	's	_	_	
+22-7	2642-2647	prior	_	_	
+22-8	2648-2659	convictions	_	_	
+22-9	2660-2667	qualify	_	_	
+22-10	2668-2671	for	_	_	
+22-11	2672-2676	ACCA	_	_	
+22-12	2677-2688	enhancement	_	_	
+22-13	2689-2690	,	_	_	
+22-14	2691-2693	we	_	_	
+22-15	2694-2698	have	_	_	
+22-16	2699-2703	used	_	_	
+22-17	2704-2705	a	_	_	
+22-18	2706-2707	"	*[23]	Direct Quote[23]	
+22-19	2708-2719	categorical	*[23]	Direct Quote[23]	
+22-20	2720-2728	approach	*[23]	Direct Quote[23]	
+22-21	2729-2730	,	*[23]	Direct Quote[23]	
+22-22	2731-2732	"	*[23]	Direct Quote[23]	
+22-23	2733-2738	under	_	_	
+22-24	2739-2744	which	_	_	
+22-25	2745-2747	we	_	_	
+22-26	2748-2752	look	_	_	
+22-27	2753-2754	"	*[24]	Direct Quote[24]	
+22-28	2755-2759	only	*[24]	Direct Quote[24]	
+22-29	2760-2762	to	*[24]	Direct Quote[24]	
+22-30	2763-2766	the	*[24]	Direct Quote[24]	
+22-31	2767-2776	statutory	*[24]|*[25]	Direct Quote[24]|Metalinguistic Cue[25]	
+22-32	2777-2788	definitions	*[24]|*[25]	Direct Quote[24]|Metalinguistic Cue[25]	
+22-33	2789-2791	of	*[24]	Direct Quote[24]	
+22-34	2792-2795	the	*[24]	Direct Quote[24]	
+22-35	2796-2801	prior	*[24]	Direct Quote[24]	
+22-36	2802-2810	offenses	*[24]	Direct Quote[24]	
+22-37	2811-2812	.	*[24]	Direct Quote[24]	
+22-38	2813-2814	"	*[24]	Direct Quote[24]	
+
+#Text=Taylor v. United States , 495 U.S. 575 , 600 , 110 S.Ct . 2143 , 109 L.Ed.2d 607 ( 1990 ) .
+23-1	2815-2821	Taylor	*[26]	Legal Source[26]	
+23-2	2822-2824	v.	*[26]	Legal Source[26]	
+23-3	2825-2831	United	*[26]	Legal Source[26]	
+23-4	2832-2838	States	*[26]	Legal Source[26]	
+23-5	2839-2840	,	*[26]	Legal Source[26]	
+23-6	2841-2844	495	*[26]	Legal Source[26]	
+23-7	2845-2849	U.S.	*[26]	Legal Source[26]	
+23-8	2850-2853	575	*[26]	Legal Source[26]	
+23-9	2854-2855	,	*[26]	Legal Source[26]	
+23-10	2856-2859	600	*[26]	Legal Source[26]	
+23-11	2860-2861	,	*[26]	Legal Source[26]	
+23-12	2862-2865	110	*[26]	Legal Source[26]	
+23-13	2866-2870	S.Ct	*[26]	Legal Source[26]	
+23-14	2871-2872	.	*[26]	Legal Source[26]	
+23-15	2873-2877	2143	*[26]	Legal Source[26]	
+23-16	2878-2879	,	*[26]	Legal Source[26]	
+23-17	2880-2883	109	*[26]	Legal Source[26]	
+23-18	2884-2891	L.Ed.2d	*[26]	Legal Source[26]	
+23-19	2892-2895	607	*[26]	Legal Source[26]	
+23-20	2896-2897	(	*[26]	Legal Source[26]	
+23-21	2898-2902	1990	*[26]	Legal Source[26]	
+23-22	2903-2904	)	*[26]	Legal Source[26]	
+23-23	2905-2906	.	_	_	
+
+#Text=Under this approach , we consider neither " the particular facts underlying the prior convictions " nor " the label a State assigns to [ the ] crime[s ] . "
+24-1	2907-2912	Under	_	_	
+24-2	2913-2917	this	_	_	
+24-3	2918-2926	approach	_	_	
+24-4	2927-2928	,	_	_	
+24-5	2929-2931	we	_	_	
+24-6	2932-2940	consider	_	_	
+24-7	2941-2948	neither	_	_	
+24-8	2949-2950	"	*[27]	Direct Quote[27]	
+24-9	2951-2954	the	*[27]	Direct Quote[27]	
+24-10	2955-2965	particular	*[27]	Direct Quote[27]	
+24-11	2966-2971	facts	*[27]	Direct Quote[27]	
+24-12	2972-2982	underlying	*[27]	Direct Quote[27]	
+24-13	2983-2986	the	*[27]	Direct Quote[27]	
+24-14	2987-2992	prior	*[27]	Direct Quote[27]	
+24-15	2993-3004	convictions	*[27]	Direct Quote[27]	
+24-16	3005-3006	"	*[27]	Direct Quote[27]	
+24-17	3007-3010	nor	_	_	
+24-18	3011-3012	"	*[28]	Direct Quote[28]	
+24-19	3013-3016	the	*[28]	Direct Quote[28]	
+24-20	3017-3022	label	*[28]	Direct Quote[28]	
+24-21	3023-3024	a	*[28]	Direct Quote[28]	
+24-22	3025-3030	State	*[28]	Direct Quote[28]	
+24-23	3031-3038	assigns	*[28]	Direct Quote[28]	
+24-24	3039-3041	to	*[28]	Direct Quote[28]	
+24-25	3042-3043	[	*[28]	Direct Quote[28]	
+24-26	3044-3047	the	*[28]	Direct Quote[28]	
+24-27	3048-3049	]	*[28]	Direct Quote[28]	
+24-28	3050-3057	crime[s	*[28]	Direct Quote[28]	
+24-29	3058-3059	]	*[28]	Direct Quote[28]	
+24-30	3060-3061	.	*[28]	Direct Quote[28]	
+24-31	3062-3063	"	*[28]	Direct Quote[28]	
+
+#Text=Mathis v. United States , 579 U.S. ---- , ---- , 136 S.Ct . 2243 , 2251 , 195 L.Ed.2d 604 ( 2016 ) ( internal quotation marks and alterations omitted ) .
+25-1	3064-3070	Mathis	*[29]	Legal Source[29]	
+25-2	3071-3073	v.	*[29]	Legal Source[29]	
+25-3	3074-3080	United	*[29]	Legal Source[29]	
+25-4	3081-3087	States	*[29]	Legal Source[29]	
+25-5	3088-3089	,	*[29]	Legal Source[29]	
+25-6	3090-3093	579	*[29]	Legal Source[29]	
+25-7	3094-3098	U.S.	*[29]	Legal Source[29]	
+25-8	3099-3103	----	*[29]	Legal Source[29]	
+25-9	3104-3105	,	*[29]	Legal Source[29]	
+25-10	3106-3110	----	*[29]	Legal Source[29]	
+25-11	3111-3112	,	*[29]	Legal Source[29]	
+25-12	3113-3116	136	*[29]	Legal Source[29]	
+25-13	3117-3121	S.Ct	*[29]	Legal Source[29]	
+25-14	3122-3123	.	*[29]	Legal Source[29]	
+25-15	3124-3128	2243	*[29]	Legal Source[29]	
+25-16	3129-3130	,	*[29]	Legal Source[29]	
+25-17	3131-3135	2251	*[29]	Legal Source[29]	
+25-18	3136-3137	,	*[29]	Legal Source[29]	
+25-19	3138-3141	195	*[29]	Legal Source[29]	
+25-20	3142-3149	L.Ed.2d	*[29]	Legal Source[29]	
+25-21	3150-3153	604	*[29]	Legal Source[29]	
+25-22	3154-3155	(	*[29]	Legal Source[29]	
+25-23	3156-3160	2016	*[29]	Legal Source[29]	
+25-24	3161-3162	)	*[29]	Legal Source[29]	
+25-25	3163-3164	(	_	_	
+25-26	3165-3173	internal	_	_	
+25-27	3174-3183	quotation	_	_	
+25-28	3184-3189	marks	_	_	
+25-29	3190-3193	and	_	_	
+25-30	3194-3205	alterations	_	_	
+25-31	3206-3213	omitted	_	_	
+25-32	3214-3215	)	_	_	
+25-33	3216-3217	.	_	_	
+
+#Text=So , for example , to apply ACCA 's provision defining " violent felony " to include " burglary , " § 924(e)(2)(B)(ii ) , we ask only whether the elements of the prior conviction constitute burglary ; we do not ask what the person did or whether the offense of conviction was named " burglary . "
+26-1	3218-3220	So	_	_	
+26-2	3221-3222	,	_	_	
+26-3	3223-3226	for	_	_	
+26-4	3227-3234	example	_	_	
+26-5	3235-3236	,	_	_	
+26-6	3237-3239	to	_	_	
+26-7	3240-3245	apply	_	_	
+26-8	3246-3250	ACCA	*	Legal Source	
+26-9	3251-3253	's	_	_	
+26-10	3254-3263	provision	_	_	
+26-11	3264-3272	defining	*	Metalinguistic Cue	
+26-12	3273-3274	"	*[30]	Direct Quote[30]	
+26-13	3275-3282	violent	*[30]|*[31]	Direct Quote[30]|Focal Term[31]	
+26-14	3283-3289	felony	*[30]|*[31]	Direct Quote[30]|Focal Term[31]	
+26-15	3290-3291	"	*[30]	Direct Quote[30]	
+26-16	3292-3294	to	_	_	
+26-17	3295-3302	include	*[32]	Definition[32]	
+26-18	3303-3304	"	*[32]|*[33]	Definition[32]|Direct Quote[33]	
+26-19	3305-3313	burglary	*[32]|*[33]	Definition[32]|Direct Quote[33]	
+26-20	3314-3315	,	*[33]	Direct Quote[33]	
+26-21	3316-3317	"	*[33]	Direct Quote[33]	
+26-22	3318-3319	§	*[34]	Legal Source[34]	
+26-23	3320-3335	924(e)(2)(B)(ii	*[34]	Legal Source[34]	
+26-24	3336-3337	)	*[34]	Legal Source[34]	
+26-25	3338-3339	,	_	_	
+26-26	3340-3342	we	_	_	
+26-27	3343-3346	ask	_	_	
+26-28	3347-3351	only	_	_	
+26-29	3352-3359	whether	_	_	
+26-30	3360-3363	the	_	_	
+26-31	3364-3372	elements	_	_	
+26-32	3373-3375	of	_	_	
+26-33	3376-3379	the	_	_	
+26-34	3380-3385	prior	_	_	
+26-35	3386-3396	conviction	_	_	
+26-36	3397-3407	constitute	_	_	
+26-37	3408-3416	burglary	_	_	
+26-38	3417-3418	;	_	_	
+26-39	3419-3421	we	_	_	
+26-40	3422-3424	do	_	_	
+26-41	3425-3428	not	_	_	
+26-42	3429-3432	ask	_	_	
+26-43	3433-3437	what	_	_	
+26-44	3438-3441	the	_	_	
+26-45	3442-3448	person	_	_	
+26-46	3449-3452	did	_	_	
+26-47	3453-3455	or	_	_	
+26-48	3456-3463	whether	_	_	
+26-49	3464-3467	the	_	_	
+26-50	3468-3475	offense	_	_	
+26-51	3476-3478	of	_	_	
+26-52	3479-3489	conviction	_	_	
+26-53	3490-3493	was	_	_	
+26-54	3494-3499	named	_	_	
+26-55	3500-3501	"	*[35]	Direct Quote[35]	
+26-56	3502-3510	burglary	*[35]	Direct Quote[35]	
+26-57	3511-3512	.	*[35]	Direct Quote[35]	
+26-58	3513-3514	"	*[35]	Direct Quote[35]	
+
+#Text=Under some statutes , using a categorical approach requires the court to come up with a " generic " version of a crime - that is , the elements of " the offense as commonly understood , "
+27-1	3515-3520	Under	_	_	
+27-2	3521-3525	some	_	_	
+27-3	3526-3534	statutes	_	_	
+27-4	3535-3536	,	_	_	
+27-5	3537-3542	using	_	_	
+27-6	3543-3544	a	_	_	
+27-7	3545-3556	categorical	_	_	
+27-8	3557-3565	approach	_	_	
+27-9	3566-3574	requires	_	_	
+27-10	3575-3578	the	_	_	
+27-11	3579-3584	court	_	_	
+27-12	3585-3587	to	_	_	
+27-13	3588-3592	come	_	_	
+27-14	3593-3595	up	_	_	
+27-15	3596-3600	with	_	_	
+27-16	3601-3602	a	_	_	
+27-17	3603-3604	"	*[36]	Direct Quote[36]	
+27-18	3605-3612	generic	*[36]|*[37]	Direct Quote[36]|Focal Term[37]	
+27-19	3613-3614	"	*[36]	Direct Quote[36]	
+27-20	3615-3622	version	_	_	
+27-21	3623-3625	of	_	_	
+27-22	3626-3627	a	_	_	
+27-23	3628-3633	crime	_	_	
+27-24	3634-3635	-	_	_	
+27-25	3636-3640	that	_	_	
+27-26	3641-3643	is	_	_	
+27-27	3644-3645	,	_	_	
+27-28	3646-3649	the	*[38]	Definition[38]	
+27-29	3650-3658	elements	*[38]	Definition[38]	
+27-30	3659-3661	of	*[38]	Definition[38]	
+27-31	3662-3663	"	*[38]|*[39]	Definition[38]|Direct Quote[39]	
+27-32	3664-3667	the	*[38]|*[39]	Definition[38]|Direct Quote[39]	
+27-33	3668-3675	offense	*[38]|*[39]	Definition[38]|Direct Quote[39]	
+27-34	3676-3678	as	*[38]|*[39]	Definition[38]|Direct Quote[39]	
+27-35	3679-3687	commonly	*[38]|*[39]	Definition[38]|Direct Quote[39]	
+27-36	3688-3698	understood	*[38]|*[39]	Definition[38]|Direct Quote[39]	
+27-37	3699-3700	,	*[39]	Direct Quote[39]	
+27-38	3701-3702	"	*[39]	Direct Quote[39]	
+
+#Text=i d. , at ---- , 136 S.Ct . , at 2247 .
+28-1	3703-3704	i	*[40]	Legal Source[40]	
+28-2	3705-3707	d.	*[40]	Legal Source[40]	
+28-3	3708-3709	,	*[40]	Legal Source[40]	
+28-4	3710-3712	at	*[40]	Legal Source[40]	
+28-5	3713-3717	----	*[40]	Legal Source[40]	
+28-6	3718-3719	,	*[40]	Legal Source[40]	
+28-7	3720-3723	136	*[40]	Legal Source[40]	
+28-8	3724-3728	S.Ct	*[40]	Legal Source[40]	
+28-9	3729-3730	.	*[40]	Legal Source[40]	
+28-10	3731-3732	,	*[40]	Legal Source[40]	
+28-11	3733-3735	at	*[40]	Legal Source[40]	
+28-12	3736-3740	2247	*[40]	Legal Source[40]	
+28-13	3741-3742	.	_	_	
+
+#Text=We have required that step when the statute refers generally to an offense without specifying its elements .
+29-1	3743-3745	We	_	_	
+29-2	3746-3750	have	_	_	
+29-3	3751-3759	required	_	_	
+29-4	3760-3764	that	_	_	
+29-5	3765-3769	step	_	_	
+29-6	3770-3774	when	_	_	
+29-7	3775-3778	the	_	_	
+29-8	3779-3786	statute	_	_	
+29-9	3787-3793	refers	_	_	
+29-10	3794-3803	generally	_	_	
+29-11	3804-3806	to	_	_	
+29-12	3807-3809	an	_	_	
+29-13	3810-3817	offense	_	_	
+29-14	3818-3825	without	_	_	
+29-15	3826-3836	specifying	_	_	
+29-16	3837-3840	its	_	_	
+29-17	3841-3849	elements	_	_	
+29-18	3850-3851	.	_	_	
+
+#Text=In that situation , the court must define the offense so that it can compare elements , not labels .
+30-1	3852-3854	In	_	_	
+30-2	3855-3859	that	_	_	
+30-3	3860-3869	situation	_	_	
+30-4	3870-3871	,	_	_	
+30-5	3872-3875	the	_	_	
+30-6	3876-3881	court	_	_	
+30-7	3882-3886	must	_	_	
+30-8	3887-3893	define	_	_	
+30-9	3894-3897	the	_	_	
+30-10	3898-3905	offense	_	_	
+30-11	3906-3908	so	_	_	
+30-12	3909-3913	that	_	_	
+30-13	3914-3916	it	_	_	
+30-14	3917-3920	can	_	_	
+30-15	3921-3928	compare	_	_	
+30-16	3929-3937	elements	_	_	
+30-17	3938-3939	,	_	_	
+30-18	3940-3943	not	_	_	
+30-19	3944-3950	labels	_	_	
+30-20	3951-3952	.	_	_	
+
+#Text=For example , in Taylor , confronted with ACCA 's unadorned reference to " burglary , " we identified the elements of " generic burglary " based on the " sense in which the term is now used in the criminal codes of most States . "
+31-1	3953-3956	For	_	_	
+31-2	3957-3964	example	_	_	
+31-3	3965-3966	,	_	_	
+31-4	3967-3969	in	_	_	
+31-5	3970-3976	Taylor	_	_	
+31-6	3977-3978	,	_	_	
+31-7	3979-3989	confronted	_	_	
+31-8	3990-3994	with	_	_	
+31-9	3995-3999	ACCA	*	Legal Source	
+31-10	4000-4002	's	_	_	
+31-11	4003-4012	unadorned	_	_	
+31-12	4013-4022	reference	_	_	
+31-13	4023-4025	to	_	_	
+31-14	4026-4027	"	*[41]	Direct Quote[41]	
+31-15	4028-4036	burglary	*[41]|*[42]	Direct Quote[41]|Focal Term[42]	
+31-16	4037-4038	,	*[41]	Direct Quote[41]	
+31-17	4039-4040	"	*[41]	Direct Quote[41]	
+31-18	4041-4043	we	_	_	
+31-19	4044-4054	identified	_	_	
+31-20	4055-4058	the	_	_	
+31-21	4059-4067	elements	_	_	
+31-22	4068-4070	of	_	_	
+31-23	4071-4072	"	*[43]	Direct Quote[43]	
+31-24	4073-4080	generic	*[43]|*[44]	Direct Quote[43]|Focal Term[44]	
+31-25	4081-4089	burglary	*[43]|*[44]	Direct Quote[43]|Focal Term[44]	
+31-26	4090-4091	"	*[43]	Direct Quote[43]	
+31-27	4092-4097	based	_	_	
+31-28	4098-4100	on	_	_	
+31-29	4101-4104	the	_	_	
+31-30	4105-4106	"	*[45]	Direct Quote[45]	
+31-31	4107-4112	sense	*[45]|*[46]	Direct Quote[45]|Metalinguistic Cue[46]	
+31-32	4113-4115	in	*[45]	Direct Quote[45]	
+31-33	4116-4121	which	*[45]	Direct Quote[45]	
+31-34	4122-4125	the	*[45]	Direct Quote[45]	
+31-35	4126-4130	term	*[45]|*[47]	Direct Quote[45]|Metalinguistic Cue[47]	
+31-36	4131-4133	is	*[45]	Direct Quote[45]	
+31-37	4134-4137	now	*[45]	Direct Quote[45]	
+31-38	4138-4142	used	*[45]	Direct Quote[45]	
+31-39	4143-4145	in	*[45]	Direct Quote[45]	
+31-40	4146-4149	the	*[45]	Direct Quote[45]	
+31-41	4150-4158	criminal	*[45]	Direct Quote[45]	
+31-42	4159-4164	codes	*[45]	Direct Quote[45]	
+31-43	4165-4167	of	*[45]	Direct Quote[45]	
+31-44	4168-4172	most	*[45]	Direct Quote[45]	
+31-45	4173-4179	States	*[45]	Direct Quote[45]	
+31-46	4180-4181	.	*[45]	Direct Quote[45]	
+31-47	4182-4183	"	*[45]	Direct Quote[45]	
+
+#Text=495 U.S. at 598 - 599 , 110 S.Ct . 2143 ; § 924(e)(2)(B)(ii ) .
+32-1	4184-4187	495	*[48]	Legal Source[48]	
+32-2	4188-4192	U.S.	*[48]	Legal Source[48]	
+32-3	4193-4195	at	*[48]	Legal Source[48]	
+32-4	4196-4199	598	*[48]	Legal Source[48]	
+32-5	4200-4201	-	*[48]	Legal Source[48]	
+32-6	4202-4205	599	*[48]	Legal Source[48]	
+32-7	4206-4207	,	*[48]	Legal Source[48]	
+32-8	4208-4211	110	*[48]	Legal Source[48]	
+32-9	4212-4216	S.Ct	*[48]	Legal Source[48]	
+32-10	4217-4218	.	*[48]	Legal Source[48]	
+32-11	4219-4223	2143	*[48]	Legal Source[48]	
+32-12	4224-4225	;	*[48]	Legal Source[48]	
+32-13	4226-4227	§	*[48]	Legal Source[48]	
+32-14	4228-4243	924(e)(2)(B)(ii	*[48]	Legal Source[48]	
+32-15	4244-4245	)	*[48]	Legal Source[48]	
+32-16	4246-4247	.	_	_	
+
+#Text=We then inquired whether the elements of the offense of conviction matched those of the generic crime .
+33-1	4248-4250	We	_	_	
+33-2	4251-4255	then	_	_	
+33-3	4256-4264	inquired	_	_	
+33-4	4265-4272	whether	_	_	
+33-5	4273-4276	the	_	_	
+33-6	4277-4285	elements	_	_	
+33-7	4286-4288	of	_	_	
+33-8	4289-4292	the	_	_	
+33-9	4293-4300	offense	_	_	
+33-10	4301-4303	of	_	_	
+33-11	4304-4314	conviction	_	_	
+33-12	4315-4322	matched	_	_	
+33-13	4323-4328	those	_	_	
+33-14	4329-4331	of	_	_	
+33-15	4332-4335	the	_	_	
+33-16	4336-4343	generic	_	_	
+33-17	4344-4349	crime	_	_	
+33-18	4350-4351	.	_	_	
+
+#Text=Id. , at 602 , 110 S.Ct . 2143 .
+34-1	4352-4355	Id.	*[49]	Legal Source[49]	
+34-2	4356-4357	,	*[49]	Legal Source[49]	
+34-3	4358-4360	at	*[49]	Legal Source[49]	
+34-4	4361-4364	602	*[49]	Legal Source[49]	
+34-5	4365-4366	,	*[49]	Legal Source[49]	
+34-6	4367-4370	110	*[49]	Legal Source[49]	
+34-7	4371-4375	S.Ct	*[49]	Legal Source[49]	
+34-8	4376-4377	.	*[49]	Legal Source[49]	
+34-9	4378-4382	2143	*[49]	Legal Source[49]	
+34-10	4383-4384	.	_	_	
+
+#Text=See also , e.g. , Esquivel - Quintana v. Sessions , 581 U.S. ---- , ---- , 137 S.Ct . 1562 , 1568 , 198 L.Ed.2d 22 ( 2017 ) ( " generic federal definition of sexual abuse of a minor " for purposes of 8 U.S.C. § 1101 ( a)(43)(A ) ) .
+35-1	4385-4388	See	_	_	
+35-2	4389-4393	also	_	_	
+35-3	4394-4395	,	_	_	
+35-4	4396-4400	e.g.	_	_	
+35-5	4401-4402	,	_	_	
+35-6	4403-4411	Esquivel	*[50]	Legal Source[50]	
+35-7	4412-4413	-	*[50]	Legal Source[50]	
+35-8	4414-4422	Quintana	*[50]	Legal Source[50]	
+35-9	4423-4425	v.	*[50]	Legal Source[50]	
+35-10	4426-4434	Sessions	*[50]	Legal Source[50]	
+35-11	4435-4436	,	*[50]	Legal Source[50]	
+35-12	4437-4440	581	*[50]	Legal Source[50]	
+35-13	4441-4445	U.S.	*[50]	Legal Source[50]	
+35-14	4446-4450	----	*[50]	Legal Source[50]	
+35-15	4451-4452	,	*[50]	Legal Source[50]	
+35-16	4453-4457	----	*[50]	Legal Source[50]	
+35-17	4458-4459	,	*[50]	Legal Source[50]	
+35-18	4460-4463	137	*[50]	Legal Source[50]	
+35-19	4464-4468	S.Ct	*[50]	Legal Source[50]	
+35-20	4469-4470	.	*[50]	Legal Source[50]	
+35-21	4471-4475	1562	*[50]	Legal Source[50]	
+35-22	4476-4477	,	*[50]	Legal Source[50]	
+35-23	4478-4482	1568	*[50]	Legal Source[50]	
+35-24	4483-4484	,	*[50]	Legal Source[50]	
+35-25	4485-4488	198	*[50]	Legal Source[50]	
+35-26	4489-4496	L.Ed.2d	*[50]	Legal Source[50]	
+35-27	4497-4499	22	*[50]	Legal Source[50]	
+35-28	4500-4501	(	*[50]	Legal Source[50]	
+35-29	4502-4506	2017	*[50]	Legal Source[50]	
+35-30	4507-4508	)	*[50]	Legal Source[50]	
+35-31	4509-4510	(	_	_	
+35-32	4511-4512	"	*[51]	Direct Quote[51]	
+35-33	4513-4520	generic	*[51]	Direct Quote[51]	
+35-34	4521-4528	federal	*[51]	Direct Quote[51]	
+35-35	4529-4539	definition	*[51]|*[52]	Direct Quote[51]|Metalinguistic Cue[52]	
+35-36	4540-4542	of	*[51]	Direct Quote[51]	
+35-37	4543-4549	sexual	*[51]	Direct Quote[51]	
+35-38	4550-4555	abuse	*[51]	Direct Quote[51]	
+35-39	4556-4558	of	*[51]	Direct Quote[51]	
+35-40	4559-4560	a	*[51]	Direct Quote[51]	
+35-41	4561-4566	minor	*[51]	Direct Quote[51]	
+35-42	4567-4568	"	*[51]	Direct Quote[51]	
+35-43	4569-4572	for	_	_	
+35-44	4573-4581	purposes	_	_	
+35-45	4582-4584	of	_	_	
+35-46	4585-4586	8	*[53]	Legal Source[53]	
+35-47	4587-4593	U.S.C.	*[53]	Legal Source[53]	
+35-48	4594-4595	§	*[53]	Legal Source[53]	
+35-49	4596-4600	1101	*[53]	Legal Source[53]	
+35-50	4601-4602	(	*[53]	Legal Source[53]	
+35-51	4603-4611	a)(43)(A	*[53]	Legal Source[53]	
+35-52	4612-4613	)	*[53]	Legal Source[53]	
+35-53	4614-4615	)	_	_	
+35-54	4616-4617	.	_	_	
+
+#Text=In contrast , other statutes calling for a categorical approach ask the court to determine not whether the prior conviction was for a certain offense , but whether the conviction meets some other criterion .
+36-1	4618-4620	In	_	_	
+36-2	4621-4629	contrast	_	_	
+36-3	4630-4631	,	_	_	
+36-4	4632-4637	other	_	_	
+36-5	4638-4646	statutes	_	_	
+36-6	4647-4654	calling	_	_	
+36-7	4655-4658	for	_	_	
+36-8	4659-4660	a	_	_	
+36-9	4661-4672	categorical	_	_	
+36-10	4673-4681	approach	_	_	
+36-11	4682-4685	ask	_	_	
+36-12	4686-4689	the	_	_	
+36-13	4690-4695	court	_	_	
+36-14	4696-4698	to	_	_	
+36-15	4699-4708	determine	_	_	
+36-16	4709-4712	not	_	_	
+36-17	4713-4720	whether	_	_	
+36-18	4721-4724	the	_	_	
+36-19	4725-4730	prior	_	_	
+36-20	4731-4741	conviction	_	_	
+36-21	4742-4745	was	_	_	
+36-22	4746-4749	for	_	_	
+36-23	4750-4751	a	_	_	
+36-24	4752-4759	certain	_	_	
+36-25	4760-4767	offense	_	_	
+36-26	4768-4769	,	_	_	
+36-27	4770-4773	but	_	_	
+36-28	4774-4781	whether	_	_	
+36-29	4782-4785	the	_	_	
+36-30	4786-4796	conviction	_	_	
+36-31	4797-4802	meets	_	_	
+36-32	4803-4807	some	_	_	
+36-33	4808-4813	other	_	_	
+36-34	4814-4823	criterion	_	_	
+36-35	4824-4825	.	_	_	
+
+#Text=For example , in Kawashima v. Holder , 565 U.S. 478 , 132 S.Ct . 1166 , 182 L.Ed.2d 1 ( 2012 ) , we applied a categorical approach to a statute assigning immigration consequences to prior convictions for " an offense that ... involves fraud or deceit " with a loss exceeding $ 10,000 .
+37-1	4826-4829	For	_	_	
+37-2	4830-4837	example	_	_	
+37-3	4838-4839	,	_	_	
+37-4	4840-4842	in	_	_	
+37-5	4843-4852	Kawashima	*[54]	Legal Source[54]	
+37-6	4853-4855	v.	*[54]	Legal Source[54]	
+37-7	4856-4862	Holder	*[54]	Legal Source[54]	
+37-8	4863-4864	,	*[54]	Legal Source[54]	
+37-9	4865-4868	565	*[54]	Legal Source[54]	
+37-10	4869-4873	U.S.	*[54]	Legal Source[54]	
+37-11	4874-4877	478	*[54]	Legal Source[54]	
+37-12	4878-4879	,	*[54]	Legal Source[54]	
+37-13	4880-4883	132	*[54]	Legal Source[54]	
+37-14	4884-4888	S.Ct	*[54]	Legal Source[54]	
+37-15	4889-4890	.	*[54]	Legal Source[54]	
+37-16	4891-4895	1166	*[54]	Legal Source[54]	
+37-17	4896-4897	,	*[54]	Legal Source[54]	
+37-18	4898-4901	182	*[54]	Legal Source[54]	
+37-19	4902-4909	L.Ed.2d	*[54]	Legal Source[54]	
+37-20	4910-4911	1	*[54]	Legal Source[54]	
+37-21	4912-4913	(	*[54]	Legal Source[54]	
+37-22	4914-4918	2012	*[54]	Legal Source[54]	
+37-23	4919-4920	)	*[54]	Legal Source[54]	
+37-24	4921-4922	,	_	_	
+37-25	4923-4925	we	_	_	
+37-26	4926-4933	applied	_	_	
+37-27	4934-4935	a	_	_	
+37-28	4936-4947	categorical	_	_	
+37-29	4948-4956	approach	_	_	
+37-30	4957-4959	to	_	_	
+37-31	4960-4961	a	_	_	
+37-32	4962-4969	statute	_	_	
+37-33	4970-4979	assigning	_	_	
+37-34	4980-4991	immigration	_	_	
+37-35	4992-5004	consequences	_	_	
+37-36	5005-5007	to	_	_	
+37-37	5008-5013	prior	_	_	
+37-38	5014-5025	convictions	_	_	
+37-39	5026-5029	for	_	_	
+37-40	5030-5031	"	*[55]	Direct Quote[55]	
+37-41	5032-5034	an	*[55]|*[56]	Direct Quote[55]|Focal Term[56]	
+37-42	5035-5042	offense	*[55]|*[56]	Direct Quote[55]|Focal Term[56]	
+37-43	5043-5047	that	*[55]|*[56]	Direct Quote[55]|Focal Term[56]	
+37-44	5048-5051	...	*[55]|*[56]	Direct Quote[55]|Focal Term[56]	
+37-45	5052-5060	involves	*[55]|*[56]	Direct Quote[55]|Focal Term[56]	
+37-46	5061-5066	fraud	*[55]|*[56]	Direct Quote[55]|Focal Term[56]	
+37-47	5067-5069	or	*[55]|*[56]	Direct Quote[55]|Focal Term[56]	
+37-48	5070-5076	deceit	*[55]|*[56]	Direct Quote[55]|Focal Term[56]	
+37-49	5077-5078	"	*[55]	Direct Quote[55]	
+37-50	5079-5083	with	_	_	
+37-51	5084-5085	a	_	_	
+37-52	5086-5090	loss	_	_	
+37-53	5091-5100	exceeding	_	_	
+37-54	5101-5102	$	_	_	
+37-55	5103-5109	10,000	_	_	
+37-56	5110-5111	.	_	_	
+
+#Text=§ 1101(a)(43)(M)(i ) .
+38-1	5112-5113	§	*[57]	Legal Source[57]	
+38-2	5114-5130	1101(a)(43)(M)(i	*[57]	Legal Source[57]	
+38-3	5131-5132	)	*[57]	Legal Source[57]	
+38-4	5133-5134	.	_	_	
+
+#Text=The quoted language , we held , " mean[s ] offenses with elements that necessarily entail fraudulent or deceitful conduct . "
+39-1	5135-5138	The	_	_	
+39-2	5139-5145	quoted	_	_	
+39-3	5146-5154	language	*	Metalinguistic Cue	
+39-4	5155-5156	,	_	_	
+39-5	5157-5159	we	_	_	
+39-6	5160-5164	held	_	_	
+39-7	5165-5166	,	_	_	
+39-8	5167-5168	"	*[58]	Direct Quote[58]	
+39-9	5169-5175	mean[s	*[58]|*[59]	Direct Quote[58]|Metalinguistic Cue[59]	
+39-10	5176-5177	]	*[58]|*[59]	Direct Quote[58]|Metalinguistic Cue[59]	
+39-11	5178-5186	offenses	*[58]|*[60]	Direct Quote[58]|Definition[60]	
+39-12	5187-5191	with	*[58]|*[60]	Direct Quote[58]|Definition[60]	
+39-13	5192-5200	elements	*[58]|*[60]	Direct Quote[58]|Definition[60]	
+39-14	5201-5205	that	*[58]|*[60]	Direct Quote[58]|Definition[60]	
+39-15	5206-5217	necessarily	*[58]|*[60]	Direct Quote[58]|Definition[60]	
+39-16	5218-5224	entail	*[58]|*[60]	Direct Quote[58]|Definition[60]	
+39-17	5225-5235	fraudulent	*[58]|*[60]	Direct Quote[58]|Definition[60]	
+39-18	5236-5238	or	*[58]|*[60]	Direct Quote[58]|Definition[60]	
+39-19	5239-5248	deceitful	*[58]|*[60]	Direct Quote[58]|Definition[60]	
+39-20	5249-5256	conduct	*[58]|*[60]	Direct Quote[58]|Definition[60]	
+39-21	5257-5258	.	*[58]	Direct Quote[58]	
+39-22	5259-5260	"	*[58]	Direct Quote[58]	
+
+#Text=Id. , at 484 , 132 S.Ct . 1166 ( emphasis added ) .
+40-1	5261-5264	Id.	*[61]	Legal Source[61]	
+40-2	5265-5266	,	*[61]	Legal Source[61]	
+40-3	5267-5269	at	*[61]	Legal Source[61]	
+40-4	5270-5273	484	*[61]	Legal Source[61]	
+40-5	5274-5275	,	*[61]	Legal Source[61]	
+40-6	5276-5279	132	*[61]	Legal Source[61]	
+40-7	5280-5284	S.Ct	*[61]	Legal Source[61]	
+40-8	5285-5286	.	*[61]	Legal Source[61]	
+40-9	5287-5291	1166	*[61]	Legal Source[61]	
+40-10	5292-5293	(	_	_	
+40-11	5294-5302	emphasis	_	_	
+40-12	5303-5308	added	_	_	
+40-13	5309-5310	)	_	_	
+40-14	5311-5312	.	_	_	
+
+#Text=Consequently , no identification of generic offense elements was necessary ; we simply asked whether the prior convictions before us met that measure .
+41-1	5313-5325	Consequently	_	_	
+41-2	5326-5327	,	_	_	
+41-3	5328-5330	no	_	_	
+41-4	5331-5345	identification	_	_	
+41-5	5346-5348	of	_	_	
+41-6	5349-5356	generic	_	_	
+41-7	5357-5364	offense	_	_	
+41-8	5365-5373	elements	_	_	
+41-9	5374-5377	was	_	_	
+41-10	5378-5387	necessary	_	_	
+41-11	5388-5389	;	_	_	
+41-12	5390-5392	we	_	_	
+41-13	5393-5399	simply	_	_	
+41-14	5400-5405	asked	_	_	
+41-15	5406-5413	whether	_	_	
+41-16	5414-5417	the	_	_	
+41-17	5418-5423	prior	_	_	
+41-18	5424-5435	convictions	_	_	
+41-19	5436-5442	before	_	_	
+41-20	5443-5445	us	_	_	
+41-21	5446-5449	met	_	_	
+41-22	5450-5454	that	_	_	
+41-23	5455-5462	measure	_	_	
+41-24	5463-5464	.	_	_	
+
+#Text=Id. , at 483 - 485 , 132 S.Ct . 1166 .
+42-1	5465-5468	Id.	*[62]	Legal Source[62]	
+42-2	5469-5470	,	*[62]	Legal Source[62]	
+42-3	5471-5473	at	*[62]	Legal Source[62]	
+42-4	5474-5477	483	*[62]	Legal Source[62]	
+42-5	5478-5479	-	*[62]	Legal Source[62]	
+42-6	5480-5483	485	*[62]	Legal Source[62]	
+42-7	5484-5485	,	*[62]	Legal Source[62]	
+42-8	5486-5489	132	*[62]	Legal Source[62]	
+42-9	5490-5494	S.Ct	*[62]	Legal Source[62]	
+42-10	5495-5496	.	*[62]	Legal Source[62]	
+42-11	5497-5501	1166	*[62]	Legal Source[62]	
+42-12	5502-5503	.	_	_	
+
+#Text=See also , e.g. , Stokeling v. United States , 586 U.S. ---- , ---- - ---- , 139 S.Ct . 544 , 554 , 202 L.Ed.2d 512 ( 2019 ) ( determining whether an offense " has as an element the use , attempted use , or threatened use of physical force against the person of another , " 18 U.S.C. § 924 ( e)(2)(B)(i ) ) .
+43-1	5504-5507	See	_	_	
+43-2	5508-5512	also	_	_	
+43-3	5513-5514	,	_	_	
+43-4	5515-5519	e.g.	_	_	
+43-5	5520-5521	,	_	_	
+43-6	5522-5531	Stokeling	*[63]	Legal Source[63]	
+43-7	5532-5534	v.	*[63]	Legal Source[63]	
+43-8	5535-5541	United	*[63]	Legal Source[63]	
+43-9	5542-5548	States	*[63]	Legal Source[63]	
+43-10	5549-5550	,	*[63]	Legal Source[63]	
+43-11	5551-5554	586	*[63]	Legal Source[63]	
+43-12	5555-5559	U.S.	*[63]	Legal Source[63]	
+43-13	5560-5564	----	*[63]	Legal Source[63]	
+43-14	5565-5566	,	*[63]	Legal Source[63]	
+43-15	5567-5571	----	*[63]	Legal Source[63]	
+43-16	5572-5573	-	*[63]	Legal Source[63]	
+43-17	5574-5578	----	*[63]	Legal Source[63]	
+43-18	5579-5580	,	*[63]	Legal Source[63]	
+43-19	5581-5584	139	*[63]	Legal Source[63]	
+43-20	5585-5589	S.Ct	*[63]	Legal Source[63]	
+43-21	5590-5591	.	*[63]	Legal Source[63]	
+43-22	5592-5595	544	*[63]	Legal Source[63]	
+43-23	5596-5597	,	*[63]	Legal Source[63]	
+43-24	5598-5601	554	*[63]	Legal Source[63]	
+43-25	5602-5603	,	*[63]	Legal Source[63]	
+43-26	5604-5607	202	*[63]	Legal Source[63]	
+43-27	5608-5615	L.Ed.2d	*[63]	Legal Source[63]	
+43-28	5616-5619	512	*[63]	Legal Source[63]	
+43-29	5620-5621	(	*[63]	Legal Source[63]	
+43-30	5622-5626	2019	*[63]	Legal Source[63]	
+43-31	5627-5628	)	*[63]	Legal Source[63]	
+43-32	5629-5630	(	_	_	
+43-33	5631-5642	determining	_	_	
+43-34	5643-5650	whether	_	_	
+43-35	5651-5653	an	_	_	
+43-36	5654-5661	offense	_	_	
+43-37	5662-5663	"	*[64]	Direct Quote[64]	
+43-38	5664-5667	has	*[64]	Direct Quote[64]	
+43-39	5668-5670	as	*[64]	Direct Quote[64]	
+43-40	5671-5673	an	*[64]	Direct Quote[64]	
+43-41	5674-5681	element	*[64]	Direct Quote[64]	
+43-42	5682-5685	the	*[64]	Direct Quote[64]	
+43-43	5686-5689	use	*[64]	Direct Quote[64]	
+43-44	5690-5691	,	*[64]	Direct Quote[64]	
+43-45	5692-5701	attempted	*[64]	Direct Quote[64]	
+43-46	5702-5705	use	*[64]	Direct Quote[64]	
+43-47	5706-5707	,	*[64]	Direct Quote[64]	
+43-48	5708-5710	or	*[64]	Direct Quote[64]	
+43-49	5711-5721	threatened	*[64]	Direct Quote[64]	
+43-50	5722-5725	use	*[64]	Direct Quote[64]	
+43-51	5726-5728	of	*[64]	Direct Quote[64]	
+43-52	5729-5737	physical	*[64]	Direct Quote[64]	
+43-53	5738-5743	force	*[64]	Direct Quote[64]	
+43-54	5744-5751	against	*[64]	Direct Quote[64]	
+43-55	5752-5755	the	*[64]	Direct Quote[64]	
+43-56	5756-5762	person	*[64]	Direct Quote[64]	
+43-57	5763-5765	of	*[64]	Direct Quote[64]	
+43-58	5766-5773	another	*[64]	Direct Quote[64]	
+43-59	5774-5775	,	*[64]	Direct Quote[64]	
+43-60	5776-5777	"	*[64]	Direct Quote[64]	
+43-61	5778-5780	18	*[65]	Legal Source[65]	
+43-62	5781-5787	U.S.C.	*[65]	Legal Source[65]	
+43-63	5788-5789	§	*[65]	Legal Source[65]	
+43-64	5790-5793	924	*[65]	Legal Source[65]	
+43-65	5794-5795	(	*[65]	Legal Source[65]	
+43-66	5796-5806	e)(2)(B)(i	*[65]	Legal Source[65]	
+43-67	5807-5808	)	*[65]	Legal Source[65]	
+43-68	5809-5810	)	_	_	
+43-69	5811-5812	.	_	_	
+
+#Text=This case invites us to decide which of the two categorical methodologies just described applies in determining whether a state offense is a " serious drug offense " under ACCA . ACCA defines that term to include :
+44-1	5813-5817	This	_	_	
+44-2	5818-5822	case	_	_	
+44-3	5823-5830	invites	_	_	
+44-4	5831-5833	us	_	_	
+44-5	5834-5836	to	_	_	
+44-6	5837-5843	decide	_	_	
+44-7	5844-5849	which	_	_	
+44-8	5850-5852	of	_	_	
+44-9	5853-5856	the	_	_	
+44-10	5857-5860	two	_	_	
+44-11	5861-5872	categorical	_	_	
+44-12	5873-5886	methodologies	_	_	
+44-13	5887-5891	just	_	_	
+44-14	5892-5901	described	_	_	
+44-15	5902-5909	applies	_	_	
+44-16	5910-5912	in	_	_	
+44-17	5913-5924	determining	_	_	
+44-18	5925-5932	whether	_	_	
+44-19	5933-5934	a	_	_	
+44-20	5935-5940	state	_	_	
+44-21	5941-5948	offense	_	_	
+44-22	5949-5951	is	_	_	
+44-23	5952-5953	a	_	_	
+44-24	5954-5955	"	*[66]	Direct Quote[66]	
+44-25	5956-5963	serious	*[66]|*[67]	Direct Quote[66]|Focal Term[67]	
+44-26	5964-5968	drug	*[66]|*[67]	Direct Quote[66]|Focal Term[67]	
+44-27	5969-5976	offense	*[66]|*[67]	Direct Quote[66]|Focal Term[67]	
+44-28	5977-5978	"	*[66]	Direct Quote[66]	
+44-29	5979-5984	under	_	_	
+44-30	5985-5989	ACCA	*	Legal Source	
+44-31	5990-5991	.	_	_	
+44-32	5992-5996	ACCA	*	Legal Source	
+44-33	5997-6004	defines	*	Metalinguistic Cue	
+44-34	6005-6009	that	_	_	
+44-35	6010-6014	term	*	Metalinguistic Cue	
+44-36	6015-6017	to	_	_	
+44-37	6018-6025	include	_	_	
+44-38	6026-6027	:	_	_	
+
+#Text=" an offense under State law , involving manufacturing , distributing , or possessing with intent to manufacture or distribute , a controlled substance ( as defined in section 102 of the Controlled Substances Act ( 21 U.S.C. [ § ] 802 ) ) , for which a maximum term of imprisonment of ten years or more is prescribed by law . "
+45-1	6028-6029	"	*[68]	Direct Quote[68]	
+45-2	6030-6032	an	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-3	6033-6040	offense	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-4	6041-6046	under	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-5	6047-6052	State	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-6	6053-6056	law	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-7	6057-6058	,	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-8	6059-6068	involving	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-9	6069-6082	manufacturing	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-10	6083-6084	,	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-11	6085-6097	distributing	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-12	6098-6099	,	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-13	6100-6102	or	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-14	6103-6113	possessing	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-15	6114-6118	with	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-16	6119-6125	intent	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-17	6126-6128	to	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-18	6129-6140	manufacture	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-19	6141-6143	or	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-20	6144-6154	distribute	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-21	6155-6156	,	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-22	6157-6158	a	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-23	6159-6169	controlled	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-24	6170-6179	substance	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-25	6180-6181	(	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-26	6182-6184	as	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-27	6185-6192	defined	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-28	6193-6195	in	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-29	6196-6203	section	*[68]|*[69]|*[70]	Direct Quote[68]|Definition[69]|Legal Source[70]	
+45-30	6204-6207	102	*[68]|*[69]|*[70]	Direct Quote[68]|Definition[69]|Legal Source[70]	
+45-31	6208-6210	of	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-32	6211-6214	the	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-33	6215-6225	Controlled	*[68]|*[69]|*[71]	Direct Quote[68]|Definition[69]|Legal Source[71]	
+45-34	6226-6236	Substances	*[68]|*[69]|*[71]	Direct Quote[68]|Definition[69]|Legal Source[71]	
+45-35	6237-6240	Act	*[68]|*[69]|*[71]	Direct Quote[68]|Definition[69]|Legal Source[71]	
+45-36	6241-6242	(	*[68]|*[69]|*[71]	Direct Quote[68]|Definition[69]|Legal Source[71]	
+45-37	6243-6245	21	*[68]|*[69]|*[71]	Direct Quote[68]|Definition[69]|Legal Source[71]	
+45-38	6246-6252	U.S.C.	*[68]|*[69]|*[71]	Direct Quote[68]|Definition[69]|Legal Source[71]	
+45-39	6253-6254	[	*[68]|*[69]|*[71]	Direct Quote[68]|Definition[69]|Legal Source[71]	
+45-40	6255-6256	§	*[68]|*[69]|*[71]	Direct Quote[68]|Definition[69]|Legal Source[71]	
+45-41	6257-6258	]	*[68]|*[69]|*[71]	Direct Quote[68]|Definition[69]|Legal Source[71]	
+45-42	6259-6262	802	*[68]|*[69]|*[71]	Direct Quote[68]|Definition[69]|Legal Source[71]	
+45-43	6263-6264	)	*[68]|*[69]|*[71]	Direct Quote[68]|Definition[69]|Legal Source[71]	
+45-44	6265-6266	)	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-45	6267-6268	,	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-46	6269-6272	for	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-47	6273-6278	which	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-48	6279-6280	a	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-49	6281-6288	maximum	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-50	6289-6293	term	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-51	6294-6296	of	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-52	6297-6309	imprisonment	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-53	6310-6312	of	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-54	6313-6316	ten	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-55	6317-6322	years	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-56	6323-6325	or	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-57	6326-6330	more	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-58	6331-6333	is	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-59	6334-6344	prescribed	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-60	6345-6347	by	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-61	6348-6351	law	*[68]|*[69]	Direct Quote[68]|Definition[69]	
+45-62	6352-6353	.	*[68]	Direct Quote[68]	
+45-63	6354-6355	"	*[68]	Direct Quote[68]	
+
+#Text=18 U.S.C. § 924 ( e)(2)(A)(ii ) .
+46-1	6356-6358	18	*[72]	Legal Source[72]	
+46-2	6359-6365	U.S.C.	*[72]	Legal Source[72]	
+46-3	6366-6367	§	*[72]	Legal Source[72]	
+46-4	6368-6371	924	*[72]	Legal Source[72]	
+46-5	6372-6373	(	*[72]	Legal Source[72]	
+46-6	6374-6385	e)(2)(A)(ii	*[72]	Legal Source[72]	
+46-7	6386-6387	)	*[72]	Legal Source[72]	
+46-8	6388-6389	.	_	_	
+
+#Text=II
+47-1	6390-6392	II	_	_	
+
+#Text=Shular pleaded guilty in the United States District Court for the Northern District of Florida to possessing a firearm after having been convicted of a felony , in violation of § 922(g)(1 ) , and possessing with intent to distribute cocaine and cocaine base , in violation of 21 U.S.C. § 841 ( a)(1 ) and ( b)(1)(C ) .
+48-1	6393-6399	Shular	_	_	
+48-2	6400-6407	pleaded	_	_	
+48-3	6408-6414	guilty	_	_	
+48-4	6415-6417	in	_	_	
+48-5	6418-6421	the	_	_	
+48-6	6422-6428	United	_	_	
+48-7	6429-6435	States	_	_	
+48-8	6436-6444	District	_	_	
+48-9	6445-6450	Court	_	_	
+48-10	6451-6454	for	_	_	
+48-11	6455-6458	the	_	_	
+48-12	6459-6467	Northern	_	_	
+48-13	6468-6476	District	_	_	
+48-14	6477-6479	of	_	_	
+48-15	6480-6487	Florida	_	_	
+48-16	6488-6490	to	_	_	
+48-17	6491-6501	possessing	_	_	
+48-18	6502-6503	a	_	_	
+48-19	6504-6511	firearm	_	_	
+48-20	6512-6517	after	_	_	
+48-21	6518-6524	having	_	_	
+48-22	6525-6529	been	_	_	
+48-23	6530-6539	convicted	_	_	
+48-24	6540-6542	of	_	_	
+48-25	6543-6544	a	_	_	
+48-26	6545-6551	felony	_	_	
+48-27	6552-6553	,	_	_	
+48-28	6554-6556	in	_	_	
+48-29	6557-6566	violation	_	_	
+48-30	6567-6569	of	_	_	
+48-31	6570-6571	§	*[73]	Legal Source[73]	
+48-32	6572-6580	922(g)(1	*[73]	Legal Source[73]	
+48-33	6581-6582	)	*[73]	Legal Source[73]	
+48-34	6583-6584	,	_	_	
+48-35	6585-6588	and	_	_	
+48-36	6589-6599	possessing	_	_	
+48-37	6600-6604	with	_	_	
+48-38	6605-6611	intent	_	_	
+48-39	6612-6614	to	_	_	
+48-40	6615-6625	distribute	_	_	
+48-41	6626-6633	cocaine	_	_	
+48-42	6634-6637	and	_	_	
+48-43	6638-6645	cocaine	_	_	
+48-44	6646-6650	base	_	_	
+48-45	6651-6652	,	_	_	
+48-46	6653-6655	in	_	_	
+48-47	6656-6665	violation	_	_	
+48-48	6666-6668	of	_	_	
+48-49	6669-6671	21	*[74]	Legal Source[74]	
+48-50	6672-6678	U.S.C.	*[74]	Legal Source[74]	
+48-51	6679-6680	§	*[74]	Legal Source[74]	
+48-52	6681-6684	841	*[74]	Legal Source[74]	
+48-53	6685-6686	(	*[74]	Legal Source[74]	
+48-54	6687-6691	a)(1	*[74]	Legal Source[74]	
+48-55	6692-6693	)	*[74]	Legal Source[74]	
+48-56	6694-6697	and	*[74]	Legal Source[74]	
+48-57	6698-6699	(	*[74]	Legal Source[74]	
+48-58	6700-6707	b)(1)(C	*[74]	Legal Source[74]	
+48-59	6708-6709	)	*[74]	Legal Source[74]	
+48-60	6710-6711	.	_	_	
+
+#Text=The District Court sentenced Shular to imprisonment for 15 years , the mandatory minimum under ACCA , to be followed by three years of supervised release .
+49-1	6712-6715	The	_	_	
+49-2	6716-6724	District	_	_	
+49-3	6725-6730	Court	_	_	
+49-4	6731-6740	sentenced	_	_	
+49-5	6741-6747	Shular	_	_	
+49-6	6748-6750	to	_	_	
+49-7	6751-6763	imprisonment	_	_	
+49-8	6764-6767	for	_	_	
+49-9	6768-6770	15	_	_	
+49-10	6771-6776	years	_	_	
+49-11	6777-6778	,	_	_	
+49-12	6779-6782	the	_	_	
+49-13	6783-6792	mandatory	_	_	
+49-14	6793-6800	minimum	_	_	
+49-15	6801-6806	under	_	_	
+49-16	6807-6811	ACCA	*	Legal Source	
+49-17	6812-6813	,	_	_	
+49-18	6814-6816	to	_	_	
+49-19	6817-6819	be	_	_	
+49-20	6820-6828	followed	_	_	
+49-21	6829-6831	by	_	_	
+49-22	6832-6837	three	_	_	
+49-23	6838-6843	years	_	_	
+49-24	6844-6846	of	_	_	
+49-25	6847-6857	supervised	_	_	
+49-26	6858-6865	release	_	_	
+49-27	6866-6867	.	_	_	
+
+#Text=In imposing that enhanced sentence , the District Court took account of Shular 's prior convictions under Florida law .
+50-1	6868-6870	In	_	_	
+50-2	6871-6879	imposing	_	_	
+50-3	6880-6884	that	_	_	
+50-4	6885-6893	enhanced	_	_	
+50-5	6894-6902	sentence	_	_	
+50-6	6903-6904	,	_	_	
+50-7	6905-6908	the	_	_	
+50-8	6909-6917	District	_	_	
+50-9	6918-6923	Court	_	_	
+50-10	6924-6928	took	_	_	
+50-11	6929-6936	account	_	_	
+50-12	6937-6939	of	_	_	
+50-13	6940-6946	Shular	_	_	
+50-14	6947-6949	's	_	_	
+50-15	6950-6955	prior	_	_	
+50-16	6956-6967	convictions	_	_	
+50-17	6968-6973	under	_	_	
+50-18	6974-6981	Florida	_	_	
+50-19	6982-6985	law	_	_	
+50-20	6986-6987	.	_	_	
+
+#Text=In 2012 , Shular pleaded guilty to five counts of selling cocaine and one count of possessing cocaine with intent to sell , all in violation of Fla. Stat . § 893.13 ( 1)(a ) .
+51-1	6988-6990	In	_	_	
+51-2	6991-6995	2012	_	_	
+51-3	6996-6997	,	_	_	
+51-4	6998-7004	Shular	_	_	
+51-5	7005-7012	pleaded	_	_	
+51-6	7013-7019	guilty	_	_	
+51-7	7020-7022	to	_	_	
+51-8	7023-7027	five	_	_	
+51-9	7028-7034	counts	_	_	
+51-10	7035-7037	of	_	_	
+51-11	7038-7045	selling	_	_	
+51-12	7046-7053	cocaine	_	_	
+51-13	7054-7057	and	_	_	
+51-14	7058-7061	one	_	_	
+51-15	7062-7067	count	_	_	
+51-16	7068-7070	of	_	_	
+51-17	7071-7081	possessing	_	_	
+51-18	7082-7089	cocaine	_	_	
+51-19	7090-7094	with	_	_	
+51-20	7095-7101	intent	_	_	
+51-21	7102-7104	to	_	_	
+51-22	7105-7109	sell	_	_	
+51-23	7110-7111	,	_	_	
+51-24	7112-7115	all	_	_	
+51-25	7116-7118	in	_	_	
+51-26	7119-7128	violation	_	_	
+51-27	7129-7131	of	_	_	
+51-28	7132-7136	Fla.	*[75]	Legal Source[75]	
+51-29	7137-7141	Stat	*[75]	Legal Source[75]	
+51-30	7142-7143	.	*[75]	Legal Source[75]	
+51-31	7144-7145	§	*[75]	Legal Source[75]	
+51-32	7146-7152	893.13	*[75]	Legal Source[75]	
+51-33	7153-7154	(	*[75]	Legal Source[75]	
+51-34	7155-7159	1)(a	*[75]	Legal Source[75]	
+51-35	7160-7161	)	*[75]	Legal Source[75]	
+51-36	7162-7163	.	_	_	
+
+#Text=That law makes it a crime to " sell , manufacture , or deliver , or possess with intent to sell , manufacture , or deliver , a controlled substance . "
+52-1	7164-7168	That	_	_	
+52-2	7169-7172	law	_	_	
+52-3	7173-7178	makes	_	_	
+52-4	7179-7181	it	_	_	
+52-5	7182-7183	a	_	_	
+52-6	7184-7189	crime	_	_	
+52-7	7190-7192	to	_	_	
+52-8	7193-7194	"	*[76]	Direct Quote[76]	
+52-9	7195-7199	sell	*[76]	Direct Quote[76]	
+52-10	7200-7201	,	*[76]	Direct Quote[76]	
+52-11	7202-7213	manufacture	*[76]	Direct Quote[76]	
+52-12	7214-7215	,	*[76]	Direct Quote[76]	
+52-13	7216-7218	or	*[76]	Direct Quote[76]	
+52-14	7219-7226	deliver	*[76]	Direct Quote[76]	
+52-15	7227-7228	,	*[76]	Direct Quote[76]	
+52-16	7229-7231	or	*[76]	Direct Quote[76]	
+52-17	7232-7239	possess	*[76]	Direct Quote[76]	
+52-18	7240-7244	with	*[76]	Direct Quote[76]	
+52-19	7245-7251	intent	*[76]	Direct Quote[76]	
+52-20	7252-7254	to	*[76]	Direct Quote[76]	
+52-21	7255-7259	sell	*[76]	Direct Quote[76]	
+52-22	7260-7261	,	*[76]	Direct Quote[76]	
+52-23	7262-7273	manufacture	*[76]	Direct Quote[76]	
+52-24	7274-7275	,	*[76]	Direct Quote[76]	
+52-25	7276-7278	or	*[76]	Direct Quote[76]	
+52-26	7279-7286	deliver	*[76]	Direct Quote[76]	
+52-27	7287-7288	,	*[76]	Direct Quote[76]	
+52-28	7289-7290	a	*[76]	Direct Quote[76]	
+52-29	7291-7301	controlled	*[76]	Direct Quote[76]	
+52-30	7302-7311	substance	*[76]	Direct Quote[76]	
+52-31	7312-7313	.	*[76]	Direct Quote[76]	
+52-32	7314-7315	"	*[76]	Direct Quote[76]	
+
+#Text=Ibid .
+53-1	7316-7320	Ibid	*[77]	Legal Source[77]	
+53-2	7321-7322	.	*[77]	Legal Source[77]	
+
+#Text=For those offenses , " knowledge of the illicit nature of a controlled substance is not an element , " but lack of such knowledge " is an affirmative defense . "
+54-1	7323-7326	For	_	_	
+54-2	7327-7332	those	_	_	
+54-3	7333-7341	offenses	_	_	
+54-4	7342-7343	,	_	_	
+54-5	7344-7345	"	*[78]	Direct Quote[78]	
+54-6	7346-7355	knowledge	*[78]	Direct Quote[78]	
+54-7	7356-7358	of	*[78]	Direct Quote[78]	
+54-8	7359-7362	the	*[78]	Direct Quote[78]	
+54-9	7363-7370	illicit	*[78]	Direct Quote[78]	
+54-10	7371-7377	nature	*[78]	Direct Quote[78]	
+54-11	7378-7380	of	*[78]	Direct Quote[78]	
+54-12	7381-7382	a	*[78]	Direct Quote[78]	
+54-13	7383-7393	controlled	*[78]	Direct Quote[78]	
+54-14	7394-7403	substance	*[78]	Direct Quote[78]	
+54-15	7404-7406	is	*[78]	Direct Quote[78]	
+54-16	7407-7410	not	*[78]	Direct Quote[78]	
+54-17	7411-7413	an	*[78]	Direct Quote[78]	
+54-18	7414-7421	element	*[78]	Direct Quote[78]	
+54-19	7422-7423	,	*[78]	Direct Quote[78]	
+54-20	7424-7425	"	*[78]	Direct Quote[78]	
+54-21	7426-7429	but	_	_	
+54-22	7430-7434	lack	_	_	
+54-23	7435-7437	of	_	_	
+54-24	7438-7442	such	_	_	
+54-25	7443-7452	knowledge	_	_	
+54-26	7453-7454	"	*[79]	Direct Quote[79]	
+54-27	7455-7457	is	*[79]	Direct Quote[79]	
+54-28	7458-7460	an	*[79]	Direct Quote[79]	
+54-29	7461-7472	affirmative	*[79]	Direct Quote[79]	
+54-30	7473-7480	defense	*[79]	Direct Quote[79]	
+54-31	7481-7482	.	*[79]	Direct Quote[79]	
+54-32	7483-7484	"	*[79]	Direct Quote[79]	
+
+#Text=§ 893.101(2 ) .
+55-1	7485-7486	§	*[80]	Legal Source[80]	
+55-2	7487-7496	893.101(2	*[80]	Legal Source[80]	
+55-3	7497-7498	)	*[80]	Legal Source[80]	
+55-4	7499-7500	.	_	_	
+
+#Text=Shular 's six convictions under that Florida law , the District Court concluded , qualified as " serious drug offense[s ] " triggering ACCA enhancement under 18 U.S.C. § 924 ( e)(2)(A)(ii ) .
+56-1	7501-7507	Shular	_	_	
+56-2	7508-7510	's	_	_	
+56-3	7511-7514	six	_	_	
+56-4	7515-7526	convictions	_	_	
+56-5	7527-7532	under	_	_	
+56-6	7533-7537	that	_	_	
+56-7	7538-7545	Florida	_	_	
+56-8	7546-7549	law	_	_	
+56-9	7550-7551	,	_	_	
+56-10	7552-7555	the	_	_	
+56-11	7556-7564	District	_	_	
+56-12	7565-7570	Court	_	_	
+56-13	7571-7580	concluded	_	_	
+56-14	7581-7582	,	_	_	
+56-15	7583-7592	qualified	_	_	
+56-16	7593-7595	as	_	_	
+56-17	7596-7597	"	*[81]	Direct Quote[81]	
+56-18	7598-7605	serious	*[81]	Direct Quote[81]	
+56-19	7606-7610	drug	*[81]	Direct Quote[81]	
+56-20	7611-7620	offense[s	*[81]	Direct Quote[81]	
+56-21	7621-7622	]	*[81]	Direct Quote[81]	
+56-22	7623-7624	"	*[81]	Direct Quote[81]	
+56-23	7625-7635	triggering	_	_	
+56-24	7636-7640	ACCA	_	_	
+56-25	7641-7652	enhancement	_	_	
+56-26	7653-7658	under	_	_	
+56-27	7659-7661	18	*[82]	Legal Source[82]	
+56-28	7662-7668	U.S.C.	*[82]	Legal Source[82]	
+56-29	7669-7670	§	*[82]	Legal Source[82]	
+56-30	7671-7674	924	*[82]	Legal Source[82]	
+56-31	7675-7676	(	*[82]	Legal Source[82]	
+56-32	7677-7688	e)(2)(A)(ii	*[82]	Legal Source[82]	
+56-33	7689-7690	)	*[82]	Legal Source[82]	
+56-34	7691-7692	.	_	_	
+
+#Text=The United States Court of Appeals for the Eleventh Circuit affirmed the sentence .
+57-1	7693-7696	The	_	_	
+57-2	7697-7703	United	_	_	
+57-3	7704-7710	States	_	_	
+57-4	7711-7716	Court	_	_	
+57-5	7717-7719	of	_	_	
+57-6	7720-7727	Appeals	_	_	
+57-7	7728-7731	for	_	_	
+57-8	7732-7735	the	_	_	
+57-9	7736-7744	Eleventh	_	_	
+57-10	7745-7752	Circuit	_	_	
+57-11	7753-7761	affirmed	_	_	
+57-12	7762-7765	the	_	_	
+57-13	7766-7774	sentence	_	_	
+57-14	7775-7776	.	_	_	
+
+#Text=736 Fed . Appx . 876 ( 2018 ) .
+58-1	7777-7780	736	*[83]	Legal Source[83]	
+58-2	7781-7784	Fed	*[83]	Legal Source[83]	
+58-3	7785-7786	.	*[83]	Legal Source[83]	
+58-4	7787-7791	Appx	*[83]	Legal Source[83]	
+58-5	7792-7793	.	*[83]	Legal Source[83]	
+58-6	7794-7797	876	*[83]	Legal Source[83]	
+58-7	7798-7799	(	*[83]	Legal Source[83]	
+58-8	7800-7804	2018	*[83]	Legal Source[83]	
+58-9	7805-7806	)	*[83]	Legal Source[83]	
+58-10	7807-7808	.	_	_	
+
+#Text=It relied on Circuit precedent holding that a court applying § 924(e)(2)(A)(ii ) " need not search for the elements of ' generic ' definitions " of any offense , because the statute " require[s ] only that the predicate offense ' involv[e ] ' ... certain activities . "
+59-1	7809-7811	It	_	_	
+59-2	7812-7818	relied	_	_	
+59-3	7819-7821	on	_	_	
+59-4	7822-7829	Circuit	_	_	
+59-5	7830-7839	precedent	_	_	
+59-6	7840-7847	holding	_	_	
+59-7	7848-7852	that	_	_	
+59-8	7853-7854	a	_	_	
+59-9	7855-7860	court	_	_	
+59-10	7861-7869	applying	_	_	
+59-11	7870-7871	§	*[84]	Legal Source[84]	
+59-12	7872-7887	924(e)(2)(A)(ii	*[84]	Legal Source[84]	
+59-13	7888-7889	)	*[84]	Legal Source[84]	
+59-14	7890-7891	"	*[85]	Direct Quote[85]	
+59-15	7892-7896	need	*[85]	Direct Quote[85]	
+59-16	7897-7900	not	*[85]	Direct Quote[85]	
+59-17	7901-7907	search	*[85]	Direct Quote[85]	
+59-18	7908-7911	for	*[85]	Direct Quote[85]	
+59-19	7912-7915	the	*[85]	Direct Quote[85]	
+59-20	7916-7924	elements	*[85]	Direct Quote[85]	
+59-21	7925-7927	of	*[85]	Direct Quote[85]	
+59-22	7928-7929	'	*[85]|*[86]	Direct Quote[85]|Direct Quote[86]	
+59-23	7930-7937	generic	*[85]|*[86]	Direct Quote[85]|Direct Quote[86]	
+59-24	7938-7939	'	*[85]|*[86]	Direct Quote[85]|Direct Quote[86]	
+59-25	7940-7951	definitions	*[85]|*[87]	Direct Quote[85]|Metalinguistic Cue[87]	
+59-26	7952-7953	"	*[85]	Direct Quote[85]	
+59-27	7954-7956	of	_	_	
+59-28	7957-7960	any	_	_	
+59-29	7961-7968	offense	_	_	
+59-30	7969-7970	,	_	_	
+59-31	7971-7978	because	_	_	
+59-32	7979-7982	the	_	_	
+59-33	7983-7990	statute	_	_	
+59-34	7991-7992	"	*[88]	Direct Quote[88]	
+59-35	7993-8002	require[s	*[88]	Direct Quote[88]	
+59-36	8003-8004	]	*[88]	Direct Quote[88]	
+59-37	8005-8009	only	*[88]	Direct Quote[88]	
+59-38	8010-8014	that	*[88]	Direct Quote[88]	
+59-39	8015-8018	the	*[88]	Direct Quote[88]	
+59-40	8019-8028	predicate	*[88]	Direct Quote[88]	
+59-41	8029-8036	offense	*[88]	Direct Quote[88]	
+59-42	8037-8038	'	*[88]|*[89]	Direct Quote[88]|Direct Quote[89]	
+59-43	8039-8047	involv[e	*[88]|*[89]	Direct Quote[88]|Direct Quote[89]	
+59-44	8048-8049	]	*[88]|*[89]	Direct Quote[88]|Direct Quote[89]	
+59-45	8050-8051	'	*[88]|*[89]	Direct Quote[88]|Direct Quote[89]	
+59-46	8052-8055	...	*[88]	Direct Quote[88]	
+59-47	8056-8063	certain	*[88]	Direct Quote[88]	
+59-48	8064-8074	activities	*[88]	Direct Quote[88]	
+59-49	8075-8076	.	*[88]	Direct Quote[88]	
+59-50	8077-8078	"	*[88]	Direct Quote[88]	
+
+#Text=United States v. Smith , 775 F.3d 1262 , 1267 ( 2014 ) .
+60-1	8079-8085	United	_	_	
+60-2	8086-8092	States	_	_	
+60-3	8093-8095	v.	_	_	
+60-4	8096-8101	Smith	_	_	
+60-5	8102-8103	,	_	_	
+60-6	8104-8107	775	_	_	
+60-7	8108-8112	F.3d	_	_	
+60-8	8113-8117	1262	_	_	
+60-9	8118-8119	,	_	_	
+60-10	8120-8124	1267	_	_	
+60-11	8125-8126	(	_	_	
+60-12	8127-8131	2014	_	_	
+60-13	8132-8133	)	_	_	
+60-14	8134-8135	.	_	_	
+
+#Text=Courts of Appeals have divided on whether § 924(e)(2)(A)(ii ) 's " serious drug offense " definition requires a comparison to a generic offense .
+61-1	8136-8142	Courts	_	_	
+61-2	8143-8145	of	_	_	
+61-3	8146-8153	Appeals	_	_	
+61-4	8154-8158	have	_	_	
+61-5	8159-8166	divided	_	_	
+61-6	8167-8169	on	_	_	
+61-7	8170-8177	whether	_	_	
+61-8	8178-8179	§	*[90]	Legal Source[90]	
+61-9	8180-8195	924(e)(2)(A)(ii	*[90]	Legal Source[90]	
+61-10	8196-8197	)	*[90]	Legal Source[90]	
+61-11	8198-8200	's	_	_	
+61-12	8201-8202	"	*[91]	Direct Quote[91]	
+61-13	8203-8210	serious	*[91]|*[92]	Direct Quote[91]|Focal Term[92]	
+61-14	8211-8215	drug	*[91]|*[92]	Direct Quote[91]|Focal Term[92]	
+61-15	8216-8223	offense	*[91]|*[92]	Direct Quote[91]|Focal Term[92]	
+61-16	8224-8225	"	*[91]	Direct Quote[91]	
+61-17	8226-8236	definition	*	Metalinguistic Cue	
+61-18	8237-8245	requires	_	_	
+61-19	8246-8247	a	_	_	
+61-20	8248-8258	comparison	_	_	
+61-21	8259-8261	to	_	_	
+61-22	8262-8263	a	_	_	
+61-23	8264-8271	generic	_	_	
+61-24	8272-8279	offense	_	_	
+61-25	8280-8281	.	_	_	
+
+#Text=Compare , e.g. , i d. , at 1267 ( no generic - offense comparison ) , with United States v. Franklin , 904 F.3d 793 , 800 ( C.A.9 2018 ) ( court must define a generic crime ) .
+62-1	8282-8289	Compare	_	_	
+62-2	8290-8291	,	_	_	
+62-3	8292-8296	e.g.	_	_	
+62-4	8297-8298	,	_	_	
+62-5	8299-8300	i	*[93]	Legal Source[93]	
+62-6	8301-8303	d.	*[93]	Legal Source[93]	
+62-7	8304-8305	,	*[93]	Legal Source[93]	
+62-8	8306-8308	at	*[93]	Legal Source[93]	
+62-9	8309-8313	1267	*[93]	Legal Source[93]	
+62-10	8314-8315	(	_	_	
+62-11	8316-8318	no	_	_	
+62-12	8319-8326	generic	_	_	
+62-13	8327-8328	-	_	_	
+62-14	8329-8336	offense	_	_	
+62-15	8337-8347	comparison	_	_	
+62-16	8348-8349	)	_	_	
+62-17	8350-8351	,	_	_	
+62-18	8352-8356	with	_	_	
+62-19	8357-8363	United	*[94]	Legal Source[94]	
+62-20	8364-8370	States	*[94]	Legal Source[94]	
+62-21	8371-8373	v.	*[94]	Legal Source[94]	
+62-22	8374-8382	Franklin	*[94]	Legal Source[94]	
+62-23	8383-8384	,	*[94]	Legal Source[94]	
+62-24	8385-8388	904	*[94]	Legal Source[94]	
+62-25	8389-8393	F.3d	*[94]	Legal Source[94]	
+62-26	8394-8397	793	*[94]	Legal Source[94]	
+62-27	8398-8399	,	*[94]	Legal Source[94]	
+62-28	8400-8403	800	*[94]	Legal Source[94]	
+62-29	8404-8405	(	*[94]	Legal Source[94]	
+62-30	8406-8411	C.A.9	*[94]	Legal Source[94]	
+62-31	8412-8416	2018	*[94]	Legal Source[94]	
+62-32	8417-8418	)	*[94]	Legal Source[94]	
+62-33	8419-8420	(	_	_	
+62-34	8421-8426	court	_	_	
+62-35	8427-8431	must	_	_	
+62-36	8432-8438	define	_	_	
+62-37	8439-8440	a	_	_	
+62-38	8441-8448	generic	_	_	
+62-39	8449-8454	crime	_	_	
+62-40	8455-8456	)	_	_	
+62-41	8457-8458	.	_	_	
+
+#Text=We granted certiorari to resolve this conflict , 588 U.S. ---- , 139 S.Ct . 2690 , 204 L.Ed.2d 1088 ( 2019 ) , and now affirm the Eleventh Circuit 's judgment .
+63-1	8459-8461	We	_	_	
+63-2	8462-8469	granted	_	_	
+63-3	8470-8480	certiorari	_	_	
+63-4	8481-8483	to	_	_	
+63-5	8484-8491	resolve	_	_	
+63-6	8492-8496	this	_	_	
+63-7	8497-8505	conflict	_	_	
+63-8	8506-8507	,	_	_	
+63-9	8508-8511	588	*[95]	Legal Source[95]	
+63-10	8512-8516	U.S.	*[95]	Legal Source[95]	
+63-11	8517-8521	----	*[95]	Legal Source[95]	
+63-12	8522-8523	,	*[95]	Legal Source[95]	
+63-13	8524-8527	139	*[95]	Legal Source[95]	
+63-14	8528-8532	S.Ct	*[95]	Legal Source[95]	
+63-15	8533-8534	.	*[95]	Legal Source[95]	
+63-16	8535-8539	2690	*[95]	Legal Source[95]	
+63-17	8540-8541	,	*[95]	Legal Source[95]	
+63-18	8542-8545	204	*[95]	Legal Source[95]	
+63-19	8546-8553	L.Ed.2d	*[95]	Legal Source[95]	
+63-20	8554-8558	1088	*[95]	Legal Source[95]	
+63-21	8559-8560	(	*[95]	Legal Source[95]	
+63-22	8561-8565	2019	*[95]	Legal Source[95]	
+63-23	8566-8567	)	*[95]	Legal Source[95]	
+63-24	8568-8569	,	_	_	
+63-25	8570-8573	and	_	_	
+63-26	8574-8577	now	_	_	
+63-27	8578-8584	affirm	_	_	
+63-28	8585-8588	the	_	_	
+63-29	8589-8597	Eleventh	_	_	
+63-30	8598-8605	Circuit	_	_	
+63-31	8606-8608	's	_	_	
+63-32	8609-8617	judgment	_	_	
+63-33	8618-8619	.	_	_	
+
+#Text=III
+64-1	8620-8623	III	_	_	
+
+#Text=A
+65-1	8624-8625	A	_	_	
+
+#Text=The parties here agree that § 924(e)(2)(A)(ii ) requires a categorical approach .
+66-1	8626-8629	The	_	_	
+66-2	8630-8637	parties	_	_	
+66-3	8638-8642	here	_	_	
+66-4	8643-8648	agree	_	_	
+66-5	8649-8653	that	_	_	
+66-6	8654-8655	§	*[96]	Legal Source[96]	
+66-7	8656-8671	924(e)(2)(A)(ii	*[96]	Legal Source[96]	
+66-8	8672-8673	)	*[96]	Legal Source[96]	
+66-9	8674-8682	requires	_	_	
+66-10	8683-8684	a	_	_	
+66-11	8685-8696	categorical	_	_	
+66-12	8697-8705	approach	_	_	
+66-13	8706-8707	.	_	_	
+
+#Text=A court must look only to the state offense 's elements , not the facts of the case or labels pinned to the state conviction .
+67-1	8708-8709	A	_	_	
+67-2	8710-8715	court	_	_	
+67-3	8716-8720	must	_	_	
+67-4	8721-8725	look	_	_	
+67-5	8726-8730	only	_	_	
+67-6	8731-8733	to	_	_	
+67-7	8734-8737	the	_	_	
+67-8	8738-8743	state	_	_	
+67-9	8744-8751	offense	_	_	
+67-10	8752-8754	's	_	_	
+67-11	8755-8763	elements	_	_	
+67-12	8764-8765	,	_	_	
+67-13	8766-8769	not	_	_	
+67-14	8770-8773	the	_	_	
+67-15	8774-8779	facts	_	_	
+67-16	8780-8782	of	_	_	
+67-17	8783-8786	the	_	_	
+67-18	8787-8791	case	_	_	
+67-19	8792-8794	or	_	_	
+67-20	8795-8801	labels	_	_	
+67-21	8802-8808	pinned	_	_	
+67-22	8809-8811	to	_	_	
+67-23	8812-8815	the	_	_	
+67-24	8816-8821	state	_	_	
+67-25	8822-8832	conviction	_	_	
+67-26	8833-8834	.	_	_	
+
+#Text=They differ , however , on what comparison § 924(e)(2)(A)(ii ) requires .
+68-1	8835-8839	They	_	_	
+68-2	8840-8846	differ	_	_	
+68-3	8847-8848	,	_	_	
+68-4	8849-8856	however	_	_	
+68-5	8857-8858	,	_	_	
+68-6	8859-8861	on	_	_	
+68-7	8862-8866	what	_	_	
+68-8	8867-8877	comparison	_	_	
+68-9	8878-8879	§	*[97]	Legal Source[97]	
+68-10	8880-8895	924(e)(2)(A)(ii	*[97]	Legal Source[97]	
+68-11	8896-8897	)	*[97]	Legal Source[97]	
+68-12	8898-8906	requires	_	_	
+68-13	8907-8908	.	_	_	
+
+#Text=Shular would require " a generic - offense matching exercise " : A court should define the elements of the generic offenses identified in § 924(e)(2)(A)(ii ) , then compare those elements to the elements of the state offense .
+69-1	8909-8915	Shular	_	_	
+69-2	8916-8921	would	_	_	
+69-3	8922-8929	require	_	_	
+69-4	8930-8931	"	*[98]	Direct Quote[98]	
+69-5	8932-8933	a	*[98]	Direct Quote[98]	
+69-6	8934-8941	generic	*[98]|*[99]	Direct Quote[98]|Focal Term[99]	
+69-7	8942-8943	-	*[98]|*[99]	Direct Quote[98]|Focal Term[99]	
+69-8	8944-8951	offense	*[98]|*[99]	Direct Quote[98]|Focal Term[99]	
+69-9	8952-8960	matching	*[98]|*[99]	Direct Quote[98]|Focal Term[99]	
+69-10	8961-8969	exercise	*[98]|*[99]	Direct Quote[98]|Focal Term[99]	
+69-11	8970-8971	"	*[98]	Direct Quote[98]	
+69-12	8972-8973	:	_	_	
+69-13	8974-8975	A	*[100]	Definition[100]	
+69-14	8976-8981	court	*[100]	Definition[100]	
+69-15	8982-8988	should	*[100]	Definition[100]	
+69-16	8989-8995	define	*[100]	Definition[100]	
+69-17	8996-8999	the	*[100]	Definition[100]	
+69-18	9000-9008	elements	*[100]	Definition[100]	
+69-19	9009-9011	of	*[100]	Definition[100]	
+69-20	9012-9015	the	*[100]	Definition[100]	
+69-21	9016-9023	generic	*[100]	Definition[100]	
+69-22	9024-9032	offenses	*[100]	Definition[100]	
+69-23	9033-9043	identified	*[100]	Definition[100]	
+69-24	9044-9046	in	*[100]	Definition[100]	
+69-25	9047-9048	§	*[100]|*[101]	Definition[100]|Legal Source[101]	
+69-26	9049-9064	924(e)(2)(A)(ii	*[100]|*[101]	Definition[100]|Legal Source[101]	
+69-27	9065-9066	)	*[100]|*[101]	Definition[100]|Legal Source[101]	
+69-28	9067-9068	,	*[100]	Definition[100]	
+69-29	9069-9073	then	*[100]	Definition[100]	
+69-30	9074-9081	compare	*[100]	Definition[100]	
+69-31	9082-9087	those	*[100]	Definition[100]	
+69-32	9088-9096	elements	*[100]	Definition[100]	
+69-33	9097-9099	to	*[100]	Definition[100]	
+69-34	9100-9103	the	*[100]	Definition[100]	
+69-35	9104-9112	elements	*[100]	Definition[100]	
+69-36	9113-9115	of	*[100]	Definition[100]	
+69-37	9116-9119	the	*[100]	Definition[100]	
+69-38	9120-9125	state	*[100]	Definition[100]	
+69-39	9126-9133	offense	*[100]	Definition[100]	
+69-40	9134-9135	.	_	_	
+
+#Text=Brief for Petitioner 13 - 14 .
+70-1	9136-9141	Brief	*[102]	Legal Source[102]	
+70-2	9142-9145	for	*[102]	Legal Source[102]	
+70-3	9146-9156	Petitioner	*[102]	Legal Source[102]	
+70-4	9157-9159	13	*[102]	Legal Source[102]	
+70-5	9160-9161	-	*[102]	Legal Source[102]	
+70-6	9162-9164	14	*[102]	Legal Source[102]	
+70-7	9165-9166	.	_	_	
+
+#Text=In the Government 's view , a court should apply " the Kawashima categorical approach " : It should ask whether the state offense 's elements " necessarily entail one of the types of conduct " identified in § 924(e)(2)(A)(ii ) .
+71-1	9167-9169	In	_	_	
+71-2	9170-9173	the	_	_	
+71-3	9174-9184	Government	_	_	
+71-4	9185-9187	's	_	_	
+71-5	9188-9192	view	_	_	
+71-6	9193-9194	,	_	_	
+71-7	9195-9196	a	_	_	
+71-8	9197-9202	court	_	_	
+71-9	9203-9209	should	_	_	
+71-10	9210-9215	apply	_	_	
+71-11	9216-9217	"	*[103]	Direct Quote[103]	
+71-12	9218-9221	the	*[103]|*[104]	Direct Quote[103]|Focal Term[104]	
+71-13	9222-9231	Kawashima	*[103]|*[104]	Direct Quote[103]|Focal Term[104]	
+71-14	9232-9243	categorical	*[103]|*[104]	Direct Quote[103]|Focal Term[104]	
+71-15	9244-9252	approach	*[103]|*[104]	Direct Quote[103]|Focal Term[104]	
+71-16	9253-9254	"	*[103]	Direct Quote[103]	
+71-17	9255-9256	:	_	_	
+71-18	9257-9259	It	*[105]	Definition[105]	
+71-19	9260-9266	should	*[105]	Definition[105]	
+71-20	9267-9270	ask	*[105]	Definition[105]	
+71-21	9271-9278	whether	*[105]	Definition[105]	
+71-22	9279-9282	the	*[105]	Definition[105]	
+71-23	9283-9288	state	*[105]	Definition[105]	
+71-24	9289-9296	offense	*[105]	Definition[105]	
+71-25	9297-9299	's	*[105]	Definition[105]	
+71-26	9300-9308	elements	*[105]	Definition[105]	
+71-27	9309-9310	"	*[105]|*[106]	Definition[105]|Direct Quote[106]	
+71-28	9311-9322	necessarily	*[105]|*[106]	Definition[105]|Direct Quote[106]	
+71-29	9323-9329	entail	*[105]|*[106]	Definition[105]|Direct Quote[106]	
+71-30	9330-9333	one	*[105]|*[106]	Definition[105]|Direct Quote[106]	
+71-31	9334-9336	of	*[105]|*[106]	Definition[105]|Direct Quote[106]	
+71-32	9337-9340	the	*[105]|*[106]	Definition[105]|Direct Quote[106]	
+71-33	9341-9346	types	*[105]|*[106]	Definition[105]|Direct Quote[106]	
+71-34	9347-9349	of	*[105]|*[106]	Definition[105]|Direct Quote[106]	
+71-35	9350-9357	conduct	*[105]|*[106]	Definition[105]|Direct Quote[106]	
+71-36	9358-9359	"	*[105]|*[106]	Definition[105]|Direct Quote[106]	
+71-37	9360-9370	identified	*[105]	Definition[105]	
+71-38	9371-9373	in	*[105]	Definition[105]	
+71-39	9374-9375	§	*[105]|*[107]	Definition[105]|Legal Source[107]	
+71-40	9376-9391	924(e)(2)(A)(ii	*[105]|*[107]	Definition[105]|Legal Source[107]	
+71-41	9392-9393	)	*[105]|*[107]	Definition[105]|Legal Source[107]	
+71-42	9394-9395	.	_	_	
+
+#Text=Brief for United States 13 , 20 ( emphasis added ) .
+72-1	9396-9401	Brief	*[108]	Legal Source[108]	
+72-2	9402-9405	for	*[108]	Legal Source[108]	
+72-3	9406-9412	United	*[108]	Legal Source[108]	
+72-4	9413-9419	States	*[108]	Legal Source[108]	
+72-5	9420-9422	13	*[108]	Legal Source[108]	
+72-6	9423-9424	,	*[108]	Legal Source[108]	
+72-7	9425-9427	20	*[108]	Legal Source[108]	
+72-8	9428-9429	(	_	_	
+72-9	9430-9438	emphasis	_	_	
+72-10	9439-9444	added	_	_	
+72-11	9445-9446	)	_	_	
+72-12	9447-9448	.	_	_	
+
+#Text=This methodological dispute is occasioned by an interpretive disagreement over § 924(e)(2)(A)(ii ) 's reference to " manufacturing , distributing , or possessing with intent to manufacture or distribute , a controlled substance . "
+73-1	9449-9453	This	_	_	
+73-2	9454-9468	methodological	_	_	
+73-3	9469-9476	dispute	_	_	
+73-4	9477-9479	is	_	_	
+73-5	9480-9490	occasioned	_	_	
+73-6	9491-9493	by	_	_	
+73-7	9494-9496	an	_	_	
+73-8	9497-9509	interpretive	_	_	
+73-9	9510-9522	disagreement	_	_	
+73-10	9523-9527	over	_	_	
+73-11	9528-9529	§	*[109]	Legal Source[109]	
+73-12	9530-9545	924(e)(2)(A)(ii	*[109]	Legal Source[109]	
+73-13	9546-9547	)	*[109]	Legal Source[109]	
+73-14	9548-9550	's	_	_	
+73-15	9551-9560	reference	_	_	
+73-16	9561-9563	to	_	_	
+73-17	9564-9565	"	*[110]	Direct Quote[110]	
+73-18	9566-9579	manufacturing	*[110]	Direct Quote[110]	
+73-19	9580-9581	,	*[110]	Direct Quote[110]	
+73-20	9582-9594	distributing	*[110]	Direct Quote[110]	
+73-21	9595-9596	,	*[110]	Direct Quote[110]	
+73-22	9597-9599	or	*[110]	Direct Quote[110]	
+73-23	9600-9610	possessing	*[110]	Direct Quote[110]	
+73-24	9611-9615	with	*[110]	Direct Quote[110]	
+73-25	9616-9622	intent	*[110]	Direct Quote[110]	
+73-26	9623-9625	to	*[110]	Direct Quote[110]	
+73-27	9626-9637	manufacture	*[110]	Direct Quote[110]	
+73-28	9638-9640	or	*[110]	Direct Quote[110]	
+73-29	9641-9651	distribute	*[110]	Direct Quote[110]	
+73-30	9652-9653	,	*[110]	Direct Quote[110]	
+73-31	9654-9655	a	*[110]	Direct Quote[110]	
+73-32	9656-9666	controlled	*[110]	Direct Quote[110]	
+73-33	9667-9676	substance	*[110]	Direct Quote[110]	
+73-34	9677-9678	.	*[110]	Direct Quote[110]	
+73-35	9679-9680	"	*[110]	Direct Quote[110]	
+
+#Text=Those terms , in the Government 's view , describe conduct a court can compare directly against the state crime 's elements .
+74-1	9681-9686	Those	_	_	
+74-2	9687-9692	terms	_	_	
+74-3	9693-9694	,	_	_	
+74-4	9695-9697	in	_	_	
+74-5	9698-9701	the	_	_	
+74-6	9702-9712	Government	_	_	
+74-7	9713-9715	's	_	_	
+74-8	9716-9720	view	_	_	
+74-9	9721-9722	,	_	_	
+74-10	9723-9731	describe	_	_	
+74-11	9732-9739	conduct	_	_	
+74-12	9740-9741	a	_	_	
+74-13	9742-9747	court	_	_	
+74-14	9748-9751	can	_	_	
+74-15	9752-9759	compare	_	_	
+74-16	9760-9768	directly	_	_	
+74-17	9769-9776	against	_	_	
+74-18	9777-9780	the	_	_	
+74-19	9781-9786	state	_	_	
+74-20	9787-9792	crime	_	_	
+74-21	9793-9795	's	_	_	
+74-22	9796-9804	elements	_	_	
+74-23	9805-9806	.	_	_	
+
+#Text=Shular sees them instead as offenses whose elements a court must first expound .
+75-1	9807-9813	Shular	_	_	
+75-2	9814-9818	sees	_	_	
+75-3	9819-9823	them	_	_	
+75-4	9824-9831	instead	_	_	
+75-5	9832-9834	as	_	_	
+75-6	9835-9843	offenses	_	_	
+75-7	9844-9849	whose	_	_	
+75-8	9850-9858	elements	_	_	
+75-9	9859-9860	a	_	_	
+75-10	9861-9866	court	_	_	
+75-11	9867-9871	must	_	_	
+75-12	9872-9877	first	_	_	
+75-13	9878-9885	expound	_	_	
+75-14	9886-9887	.	_	_	
+
+#Text=B
+76-1	9888-9889	B	_	_	
+
+#Text=The Government 's reading , we are convinced , correctly interprets the statutory text and context .
+77-1	9890-9893	The	_	_	
+77-2	9894-9904	Government	_	_	
+77-3	9905-9907	's	_	_	
+77-4	9908-9915	reading	_	_	
+77-5	9916-9917	,	_	_	
+77-6	9918-9920	we	_	_	
+77-7	9921-9924	are	_	_	
+77-8	9925-9934	convinced	_	_	
+77-9	9935-9936	,	_	_	
+77-10	9937-9946	correctly	_	_	
+77-11	9947-9957	interprets	*	Metalinguistic Cue	
+77-12	9958-9961	the	_	_	
+77-13	9962-9971	statutory	*[111]	Metalinguistic Cue[111]	
+77-14	9972-9976	text	*[111]	Metalinguistic Cue[111]	
+77-15	9977-9980	and	*[111]	Metalinguistic Cue[111]	
+77-16	9981-9988	context	*[111]	Metalinguistic Cue[111]	
+77-17	9989-9990	.	_	_	
+
+#Text=Two features of § 924(e)(2)(A)(ii ) , compared against a neighboring provision referring to offenses , § 924(e)(2)(B)(ii ) , show that § 924(e)(2)(A)(ii ) refers to conduct .
+78-1	9991-9994	Two	_	_	
+78-2	9995-10003	features	_	_	
+78-3	10004-10006	of	_	_	
+78-4	10007-10008	§	*[112]	Direct Quote[112]	
+78-5	10009-10024	924(e)(2)(A)(ii	*[112]	Direct Quote[112]	
+78-6	10025-10026	)	*[112]	Direct Quote[112]	
+78-7	10027-10028	,	_	_	
+78-8	10029-10037	compared	_	_	
+78-9	10038-10045	against	_	_	
+78-10	10046-10047	a	_	_	
+78-11	10048-10059	neighboring	_	_	
+78-12	10060-10069	provision	_	_	
+78-13	10070-10079	referring	_	_	
+78-14	10080-10082	to	_	_	
+78-15	10083-10091	offenses	_	_	
+78-16	10092-10093	,	_	_	
+78-17	10094-10095	§	*[113]	Direct Quote[113]	
+78-18	10096-10111	924(e)(2)(B)(ii	*[113]	Direct Quote[113]	
+78-19	10112-10113	)	*[113]	Direct Quote[113]	
+78-20	10114-10115	,	_	_	
+78-21	10116-10120	show	_	_	
+78-22	10121-10125	that	_	_	
+78-23	10126-10127	§	*[114]	Direct Quote[114]	
+78-24	10128-10143	924(e)(2)(A)(ii	*[114]	Direct Quote[114]	
+78-25	10144-10145	)	*[114]	Direct Quote[114]	
+78-26	10146-10152	refers	_	_	
+78-27	10153-10155	to	_	_	
+78-28	10156-10163	conduct	_	_	
+78-29	10164-10165	.	_	_	
+
+#Text=First , the terms in § 924(e)(2)(A)(ii ) -"manufacturing , distributing , or possessing with intent to manufacture or distribute , a controlled substance"-are unlikely names for generic offenses .
+79-1	10166-10171	First	_	_	
+79-2	10172-10173	,	_	_	
+79-3	10174-10177	the	_	_	
+79-4	10178-10183	terms	*	Metalinguistic Cue	
+79-5	10184-10186	in	_	_	
+79-6	10187-10188	§	*[115]	Direct Quote[115]	
+79-7	10189-10204	924(e)(2)(A)(ii	*[115]	Direct Quote[115]	
+79-8	10205-10206	)	*[115]	Direct Quote[115]	
+79-9	10207-10222	-"manufacturing	*[116]	Direct Quote[116]	
+79-10	10223-10224	,	*[116]	Direct Quote[116]	
+79-11	10225-10237	distributing	*[116]	Direct Quote[116]	
+79-12	10238-10239	,	*[116]	Direct Quote[116]	
+79-13	10240-10242	or	*[116]	Direct Quote[116]	
+79-14	10243-10253	possessing	*[116]	Direct Quote[116]	
+79-15	10254-10258	with	*[116]	Direct Quote[116]	
+79-16	10259-10265	intent	*[116]	Direct Quote[116]	
+79-17	10266-10268	to	*[116]	Direct Quote[116]	
+79-18	10269-10280	manufacture	*[116]	Direct Quote[116]	
+79-19	10281-10283	or	*[116]	Direct Quote[116]	
+79-20	10284-10294	distribute	*[116]	Direct Quote[116]	
+79-21	10295-10296	,	*[116]	Direct Quote[116]	
+79-22	10297-10298	a	*[116]	Direct Quote[116]	
+79-23	10299-10309	controlled	*[116]	Direct Quote[116]	
+79-24	10310-10324	substance"-are	*[116]	Direct Quote[116]	
+79-25	10325-10333	unlikely	_	_	
+79-26	10334-10339	names	_	_	
+79-27	10340-10343	for	_	_	
+79-28	10344-10351	generic	_	_	
+79-29	10352-10360	offenses	_	_	
+79-30	10361-10362	.	_	_	
+
+#Text=Those words undoubtedly can be used to describe conduct .
+80-1	10363-10368	Those	_	_	
+80-2	10369-10374	words	*	Metalinguistic Cue	
+80-3	10375-10386	undoubtedly	_	_	
+80-4	10387-10390	can	_	_	
+80-5	10391-10393	be	_	_	
+80-6	10394-10398	used	_	_	
+80-7	10399-10401	to	_	_	
+80-8	10402-10410	describe	*	Metalinguistic Cue	
+80-9	10411-10418	conduct	_	_	
+80-10	10419-10420	.	_	_	
+
+#Text=But as Shular acknowledges , they are not universal names of offenses ; instead , States define " core drug offenses with all manner of terminology , including : trafficking , selling , giving , dispensing , distributing , delivering , promoting , and producing . "
+81-1	10421-10424	But	_	_	
+81-2	10425-10427	as	_	_	
+81-3	10428-10434	Shular	_	_	
+81-4	10435-10447	acknowledges	_	_	
+81-5	10448-10449	,	_	_	
+81-6	10450-10454	they	_	_	
+81-7	10455-10458	are	_	_	
+81-8	10459-10462	not	_	_	
+81-9	10463-10472	universal	_	_	
+81-10	10473-10478	names	_	_	
+81-11	10479-10481	of	_	_	
+81-12	10482-10490	offenses	_	_	
+81-13	10491-10492	;	_	_	
+81-14	10493-10500	instead	_	_	
+81-15	10501-10502	,	_	_	
+81-16	10503-10509	States	_	_	
+81-17	10510-10516	define	*	Metalinguistic Cue	
+81-18	10517-10518	"	*[117]	Direct Quote[117]	
+81-19	10519-10523	core	*[117]|*[118]	Direct Quote[117]|Focal Term[118]	
+81-20	10524-10528	drug	*[117]|*[118]	Direct Quote[117]|Focal Term[118]	
+81-21	10529-10537	offenses	*[117]|*[118]	Direct Quote[117]|Focal Term[118]	
+81-22	10538-10542	with	*[117]	Direct Quote[117]	
+81-23	10543-10546	all	*[117]	Direct Quote[117]	
+81-24	10547-10553	manner	*[117]	Direct Quote[117]	
+81-25	10554-10556	of	*[117]	Direct Quote[117]	
+81-26	10557-10568	terminology	*[117]	Direct Quote[117]	
+81-27	10569-10570	,	*[117]	Direct Quote[117]	
+81-28	10571-10580	including	*[117]	Direct Quote[117]	
+81-29	10581-10582	:	*[117]	Direct Quote[117]	
+81-30	10583-10594	trafficking	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-31	10595-10596	,	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-32	10597-10604	selling	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-33	10605-10606	,	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-34	10607-10613	giving	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-35	10614-10615	,	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-36	10616-10626	dispensing	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-37	10627-10628	,	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-38	10629-10641	distributing	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-39	10642-10643	,	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-40	10644-10654	delivering	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-41	10655-10656	,	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-42	10657-10666	promoting	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-43	10667-10668	,	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-44	10669-10672	and	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-45	10673-10682	producing	*[117]|*[119]	Direct Quote[117]|Example Use[119]	
+81-46	10683-10684	.	*[117]	Direct Quote[117]	
+81-47	10685-10686	"	*[117]	Direct Quote[117]	
+
+#Text=Reply Brief 7 .
+82-1	10687-10692	Reply	*[120]	Legal Source[120]	
+82-2	10693-10698	Brief	*[120]	Legal Source[120]	
+82-3	10699-10700	7	*[120]	Legal Source[120]	
+82-4	10701-10702	.	_	_	
+
+#Text=Contrast § 924(e)(2)(A)(ii ) with § 924(e)(2)(B)(ii ) , the enumerated - offense clause of ACCA 's " violent felony " definition , appearing in the same section of the Career Criminals Amendment Act of 1986 , 100 Stat . 3207 -39 to 3207 - 40 .
+83-1	10703-10711	Contrast	_	_	
+83-2	10712-10713	§	*[121]	Legal Source[121]	
+83-3	10714-10729	924(e)(2)(A)(ii	*[121]	Legal Source[121]	
+83-4	10730-10731	)	*[121]	Legal Source[121]	
+83-5	10732-10736	with	_	_	
+83-6	10737-10738	§	*[122]	Legal Source[122]	
+83-7	10739-10754	924(e)(2)(B)(ii	*[122]	Legal Source[122]	
+83-8	10755-10756	)	*[122]	Legal Source[122]	
+83-9	10757-10758	,	_	_	
+83-10	10759-10762	the	_	_	
+83-11	10763-10773	enumerated	_	_	
+83-12	10774-10775	-	_	_	
+83-13	10776-10783	offense	_	_	
+83-14	10784-10790	clause	_	_	
+83-15	10791-10793	of	_	_	
+83-16	10794-10798	ACCA	_	_	
+83-17	10799-10801	's	_	_	
+83-18	10802-10803	"	*[123]	Direct Quote[123]	
+83-19	10804-10811	violent	*[123]|*[124]	Direct Quote[123]|Focal Term[124]	
+83-20	10812-10818	felony	*[123]|*[124]	Direct Quote[123]|Focal Term[124]	
+83-21	10819-10820	"	*[123]	Direct Quote[123]	
+83-22	10821-10831	definition	*	Metalinguistic Cue	
+83-23	10832-10833	,	_	_	
+83-24	10834-10843	appearing	_	_	
+83-25	10844-10846	in	_	_	
+83-26	10847-10850	the	_	_	
+83-27	10851-10855	same	_	_	
+83-28	10856-10863	section	_	_	
+83-29	10864-10866	of	_	_	
+83-30	10867-10870	the	_	_	
+83-31	10871-10877	Career	*[125]	Legal Source[125]	
+83-32	10878-10887	Criminals	*[125]	Legal Source[125]	
+83-33	10888-10897	Amendment	*[125]	Legal Source[125]	
+83-34	10898-10901	Act	*[125]	Legal Source[125]	
+83-35	10902-10904	of	*[125]	Legal Source[125]	
+83-36	10905-10909	1986	*[125]	Legal Source[125]	
+83-37	10910-10911	,	*[125]	Legal Source[125]	
+83-38	10912-10915	100	*[125]	Legal Source[125]	
+83-39	10916-10920	Stat	*[125]	Legal Source[125]	
+83-40	10921-10922	.	*[125]	Legal Source[125]	
+83-41	10923-10927	3207	*[125]	Legal Source[125]	
+83-42	10928-10931	-39	*[125]	Legal Source[125]	
+83-43	10932-10934	to	*[125]	Legal Source[125]	
+83-44	10935-10939	3207	*[125]	Legal Source[125]	
+83-45	10940-10941	-	*[125]	Legal Source[125]	
+83-46	10942-10944	40	*[125]	Legal Source[125]	
+83-47	10945-10946	.	_	_	
+
+#Text=That provision , which refers to a crime that " is burglary , arson , or extortion , " requires a generic - offense analysis .
+84-1	10947-10951	That	_	_	
+84-2	10952-10961	provision	_	_	
+84-3	10962-10963	,	_	_	
+84-4	10964-10969	which	_	_	
+84-5	10970-10976	refers	_	_	
+84-6	10977-10979	to	_	_	
+84-7	10980-10981	a	_	_	
+84-8	10982-10987	crime	_	_	
+84-9	10988-10992	that	_	_	
+84-10	10993-10994	"	*[126]	Direct Quote[126]	
+84-11	10995-10997	is	*[126]	Direct Quote[126]	
+84-12	10998-11006	burglary	*[126]	Direct Quote[126]	
+84-13	11007-11008	,	*[126]	Direct Quote[126]	
+84-14	11009-11014	arson	*[126]	Direct Quote[126]	
+84-15	11015-11016	,	*[126]	Direct Quote[126]	
+84-16	11017-11019	or	*[126]	Direct Quote[126]	
+84-17	11020-11029	extortion	*[126]	Direct Quote[126]	
+84-18	11030-11031	,	*[126]	Direct Quote[126]	
+84-19	11032-11033	"	*[126]	Direct Quote[126]	
+84-20	11034-11042	requires	_	_	
+84-21	11043-11044	a	_	_	
+84-22	11045-11052	generic	_	_	
+84-23	11053-11054	-	_	_	
+84-24	11055-11062	offense	_	_	
+84-25	11063-11071	analysis	_	_	
+84-26	11072-11073	.	_	_	
+
+#Text=See Mathis , 579 U.S. , at ---- , 136 S.Ct . , at 2248 .
+85-1	11074-11077	See	_	_	
+85-2	11078-11084	Mathis	*[127]	Legal Source[127]	
+85-3	11085-11086	,	*[127]	Legal Source[127]	
+85-4	11087-11090	579	*[127]	Legal Source[127]	
+85-5	11091-11095	U.S.	*[127]	Legal Source[127]	
+85-6	11096-11097	,	*[127]	Legal Source[127]	
+85-7	11098-11100	at	*[127]	Legal Source[127]	
+85-8	11101-11105	----	*[127]	Legal Source[127]	
+85-9	11106-11107	,	*[127]	Legal Source[127]	
+85-10	11108-11111	136	*[127]	Legal Source[127]	
+85-11	11112-11116	S.Ct	*[127]	Legal Source[127]	
+85-12	11117-11118	.	*[127]	Legal Source[127]	
+85-13	11119-11120	,	*[127]	Legal Source[127]	
+85-14	11121-11123	at	*[127]	Legal Source[127]	
+85-15	11124-11128	2248	*[127]	Legal Source[127]	
+85-16	11129-11130	.	_	_	
+
+#Text=The terms " burglary , " " arson , " and " extortion"-given their common - law history and widespread usage - unambiguously name offenses .
+86-1	11131-11134	The	_	_	
+86-2	11135-11140	terms	*	Metalinguistic Cue	
+86-3	11141-11142	"	*[128]	Direct Quote[128]	
+86-4	11143-11151	burglary	*[128]|*[129]	Direct Quote[128]|Focal Term[129]	
+86-5	11152-11153	,	*[128]	Direct Quote[128]	
+86-6	11154-11155	"	*[128]	Direct Quote[128]	
+86-7	11156-11157	"	*[130]	Direct Quote[130]	
+86-8	11158-11163	arson	*[130]|*[131]	Direct Quote[130]|Focal Term[131]	
+86-9	11164-11165	,	*[130]	Direct Quote[130]	
+86-10	11166-11167	"	*[130]	Direct Quote[130]	
+86-11	11168-11171	and	_	_	
+86-12	11172-11173	"	*[132]	Direct Quote[132]	
+86-13	11174-11190	extortion"-given	*[132]|*[133]	Direct Quote[132]|Focal Term[133]	
+86-14	11191-11196	their	_	_	
+86-15	11197-11203	common	_	_	
+86-16	11204-11205	-	_	_	
+86-17	11206-11209	law	_	_	
+86-18	11210-11217	history	_	_	
+86-19	11218-11221	and	_	_	
+86-20	11222-11232	widespread	_	_	
+86-21	11233-11238	usage	_	_	
+86-22	11239-11240	-	_	_	
+86-23	11241-11254	unambiguously	*	Metalinguistic Cue	
+86-24	11255-11259	name	_	_	
+86-25	11260-11268	offenses	_	_	
+86-26	11269-11270	.	_	_	
+
+#Text=Cf . , e.g. , Taylor , 495 U.S. at 590 - 599 , 110 S.Ct . 2143 ( discussing " burglary " ) .
+87-1	11271-11273	Cf	_	_	
+87-2	11274-11275	.	_	_	
+87-3	11276-11277	,	_	_	
+87-4	11278-11282	e.g.	_	_	
+87-5	11283-11284	,	_	_	
+87-6	11285-11291	Taylor	*[134]	Legal Source[134]	
+87-7	11292-11293	,	*[134]	Legal Source[134]	
+87-8	11294-11297	495	*[134]	Legal Source[134]	
+87-9	11298-11302	U.S.	*[134]	Legal Source[134]	
+87-10	11303-11305	at	*[134]	Legal Source[134]	
+87-11	11306-11309	590	*[134]	Legal Source[134]	
+87-12	11310-11311	-	*[134]	Legal Source[134]	
+87-13	11312-11315	599	*[134]	Legal Source[134]	
+87-14	11316-11317	,	*[134]	Legal Source[134]	
+87-15	11318-11321	110	*[134]	Legal Source[134]	
+87-16	11322-11326	S.Ct	*[134]	Legal Source[134]	
+87-17	11327-11328	.	*[134]	Legal Source[134]	
+87-18	11329-11333	2143	*[134]	Legal Source[134]	
+87-19	11334-11335	(	_	_	
+87-20	11336-11346	discussing	_	_	
+87-21	11347-11348	"	*[135]	Direct Quote[135]	
+87-22	11349-11357	burglary	*[135]|*[136]	Direct Quote[135]|Focal Term[136]	
+87-23	11358-11359	"	*[135]	Direct Quote[135]	
+87-24	11360-11361	)	_	_	
+87-25	11362-11363	.	_	_	
+
+#Text=Drug offenses , Shular admits , lack " the same heritage and the same established lexicon . "
+88-1	11364-11368	Drug	_	_	
+88-2	11369-11377	offenses	_	_	
+88-3	11378-11379	,	_	_	
+88-4	11380-11386	Shular	_	_	
+88-5	11387-11393	admits	_	_	
+88-6	11394-11395	,	_	_	
+88-7	11396-11400	lack	_	_	
+88-8	11401-11402	"	*[137]	Direct Quote[137]	
+88-9	11403-11406	the	*[137]	Direct Quote[137]	
+88-10	11407-11411	same	*[137]	Direct Quote[137]	
+88-11	11412-11420	heritage	*[137]	Direct Quote[137]	
+88-12	11421-11424	and	*[137]	Direct Quote[137]	
+88-13	11425-11428	the	*[137]	Direct Quote[137]	
+88-14	11429-11433	same	*[137]	Direct Quote[137]	
+88-15	11434-11445	established	*[137]	Direct Quote[137]	
+88-16	11446-11453	lexicon	*[137]|*[138]	Direct Quote[137]|Metalinguistic Cue[138]	
+88-17	11454-11455	.	*[137]	Direct Quote[137]	
+88-18	11456-11457	"	*[137]	Direct Quote[137]	
+
+#Text=Brief for Petitioner 14 .
+89-1	11458-11463	Brief	*[139]	Legal Source[139]	
+89-2	11464-11467	for	*[139]	Legal Source[139]	
+89-3	11468-11478	Petitioner	*[139]	Legal Source[139]	
+89-4	11479-11481	14	*[139]	Legal Source[139]	
+89-5	11482-11483	.	_	_	
+
+#Text=Second , by speaking of activities a state - law drug offense " involv[es ] , " § 924(e)(2)(A)(ii ) suggests that the descriptive terms immediately following the word " involving " identify conduct .
+90-1	11484-11490	Second	_	_	
+90-2	11491-11492	,	_	_	
+90-3	11493-11495	by	_	_	
+90-4	11496-11504	speaking	_	_	
+90-5	11505-11507	of	_	_	
+90-6	11508-11518	activities	_	_	
+90-7	11519-11520	a	_	_	
+90-8	11521-11526	state	_	_	
+90-9	11527-11528	-	_	_	
+90-10	11529-11532	law	_	_	
+90-11	11533-11537	drug	_	_	
+90-12	11538-11545	offense	_	_	
+90-13	11546-11547	"	*[140]	Direct Quote[140]	
+90-14	11548-11557	involv[es	*[140]	Direct Quote[140]	
+90-15	11558-11559	]	*[140]	Direct Quote[140]	
+90-16	11560-11561	,	*[140]	Direct Quote[140]	
+90-17	11562-11563	"	*[140]	Direct Quote[140]	
+90-18	11564-11565	§	*[141]	Legal Source[141]	
+90-19	11566-11581	924(e)(2)(A)(ii	*[141]	Legal Source[141]	
+90-20	11582-11583	)	*[141]	Legal Source[141]	
+90-21	11584-11592	suggests	_	_	
+90-22	11593-11597	that	_	_	
+90-23	11598-11601	the	_	_	
+90-24	11602-11613	descriptive	*[142]	Metalinguistic Cue[142]	
+90-25	11614-11619	terms	*[142]	Metalinguistic Cue[142]	
+90-26	11620-11631	immediately	_	_	
+90-27	11632-11641	following	_	_	
+90-28	11642-11645	the	_	_	
+90-29	11646-11650	word	*	Metalinguistic Cue	
+90-30	11651-11652	"	*[143]	Direct Quote[143]	
+90-31	11653-11662	involving	*[143]|*[144]	Direct Quote[143]|Focal Term[144]	
+90-32	11663-11664	"	*[143]	Direct Quote[143]	
+90-33	11665-11673	identify	_	_	
+90-34	11674-11681	conduct	_	_	
+90-35	11682-11683	.	_	_	
+
+#Text=The parties agree that " involve " means " necessarily requir[e ] . "
+91-1	11684-11687	The	_	_	
+91-2	11688-11695	parties	_	_	
+91-3	11696-11701	agree	_	_	
+91-4	11702-11706	that	_	_	
+91-5	11707-11708	"	*[145]	Direct Quote[145]	
+91-6	11709-11716	involve	*[145]|*[146]	Direct Quote[145]|Focal Term[146]	
+91-7	11717-11718	"	*[145]	Direct Quote[145]	
+91-8	11719-11724	means	*	Metalinguistic Cue	
+91-9	11725-11726	"	*[147]	Direct Quote[147]	
+91-10	11727-11738	necessarily	*[147]|*[148]	Direct Quote[147]|Definition[148]	
+91-11	11739-11747	requir[e	*[147]|*[148]	Direct Quote[147]|Definition[148]	
+91-12	11748-11749	]	*[147]|*[148]	Direct Quote[147]|Definition[148]	
+91-13	11750-11751	.	*[147]	Direct Quote[147]	
+91-14	11752-11753	"	*[147]	Direct Quote[147]	
+
+#Text=Brief for Petitioner 14 ( citing Random House Dictionary of the English Language 1005 ( 2d ed . 1987 ) ( " to include as a necessary circumstance , condition , or consequence " ) ) ; Brief for United States 21 ( same ) .
+92-1	11754-11759	Brief	*[149]	Legal Source[149]	
+92-2	11760-11763	for	*[149]	Legal Source[149]	
+92-3	11764-11774	Petitioner	*[149]	Legal Source[149]	
+92-4	11775-11777	14	*[149]	Legal Source[149]	
+92-5	11778-11779	(	_	_	
+92-6	11780-11786	citing	_	_	
+92-7	11787-11793	Random	*[150]	Language Source[150]	
+92-8	11794-11799	House	*[150]	Language Source[150]	
+92-9	11800-11810	Dictionary	*[150]	Language Source[150]	
+92-10	11811-11813	of	*[150]	Language Source[150]	
+92-11	11814-11817	the	*[150]	Language Source[150]	
+92-12	11818-11825	English	*[150]	Language Source[150]	
+92-13	11826-11834	Language	*[150]	Language Source[150]	
+92-14	11835-11839	1005	*[150]	Language Source[150]	
+92-15	11840-11841	(	*[150]	Language Source[150]	
+92-16	11842-11844	2d	*[150]	Language Source[150]	
+92-17	11845-11847	ed	*[150]	Language Source[150]	
+92-18	11848-11849	.	*[150]	Language Source[150]	
+92-19	11850-11854	1987	*[150]	Language Source[150]	
+92-20	11855-11856	)	*[150]	Language Source[150]	
+92-21	11857-11858	(	_	_	
+92-22	11859-11860	"	*[151]	Direct Quote[151]	
+92-23	11861-11863	to	*[151]|*[152]	Direct Quote[151]|Definition[152]	
+92-24	11864-11871	include	*[151]|*[152]	Direct Quote[151]|Definition[152]	
+92-25	11872-11874	as	*[151]|*[152]	Direct Quote[151]|Definition[152]	
+92-26	11875-11876	a	*[151]|*[152]	Direct Quote[151]|Definition[152]	
+92-27	11877-11886	necessary	*[151]|*[152]	Direct Quote[151]|Definition[152]	
+92-28	11887-11899	circumstance	*[151]|*[152]	Direct Quote[151]|Definition[152]	
+92-29	11900-11901	,	*[151]|*[152]	Direct Quote[151]|Definition[152]	
+92-30	11902-11911	condition	*[151]|*[152]	Direct Quote[151]|Definition[152]	
+92-31	11912-11913	,	*[151]|*[152]	Direct Quote[151]|Definition[152]	
+92-32	11914-11916	or	*[151]|*[152]	Direct Quote[151]|Definition[152]	
+92-33	11917-11928	consequence	*[151]|*[152]	Direct Quote[151]|Definition[152]	
+92-34	11929-11930	"	*[151]	Direct Quote[151]	
+92-35	11931-11932	)	_	_	
+92-36	11933-11934	)	_	_	
+92-37	11935-11936	;	_	_	
+92-38	11937-11942	Brief	*[153]	Legal Source[153]	
+92-39	11943-11946	for	*[153]	Legal Source[153]	
+92-40	11947-11953	United	*[153]	Legal Source[153]	
+92-41	11954-11960	States	*[153]	Legal Source[153]	
+92-42	11961-11963	21	*[153]	Legal Source[153]	
+92-43	11964-11965	(	_	_	
+92-44	11966-11970	same	_	_	
+92-45	11971-11972	)	_	_	
+92-46	11973-11974	.	_	_	
+
+#Text=It is natural to say that an offense " involves " or " requires " certain conduct .
+93-1	11975-11977	It	*[154]	Example Use[154]	
+93-2	11978-11980	is	*[154]	Example Use[154]	
+93-3	11981-11988	natural	*[154]	Example Use[154]	
+93-4	11989-11991	to	*[154]	Example Use[154]	
+93-5	11992-11995	say	*[154]	Example Use[154]	
+93-6	11996-12000	that	*[154]	Example Use[154]	
+93-7	12001-12003	an	*[154]	Example Use[154]	
+93-8	12004-12011	offense	*[154]	Example Use[154]	
+93-9	12012-12013	"	*[154]|*[155]	Example Use[154]|Direct Quote[155]	
+93-10	12014-12022	involves	*[154]|*[155]|*[156]	Example Use[154]|Direct Quote[155]|Focal Term[156]	
+93-11	12023-12024	"	*[154]|*[155]	Example Use[154]|Direct Quote[155]	
+93-12	12025-12027	or	*[154]	Example Use[154]	
+93-13	12028-12029	"	*[154]|*[157]	Example Use[154]|Direct Quote[157]	
+93-14	12030-12038	requires	*[154]|*[157]|*[158]	Example Use[154]|Direct Quote[157]|Focal Term[158]	
+93-15	12039-12040	"	*[154]|*[157]	Example Use[154]|Direct Quote[157]	
+93-16	12041-12048	certain	*[154]	Example Use[154]	
+93-17	12049-12056	conduct	*[154]	Example Use[154]	
+93-18	12057-12058	.	_	_	
+
+#Text=E.g. , § 924(e)(2)(B)(ii ) ( addressing a crime " involv[ing ] conduct that presents a serious potential risk of physical injury to another " ) ; Mathis , 579 U.S. , at ---- , 136 S.Ct . , at 2250 ( " The generic offense [ of burglary ] requires unlawful entry into a building or other structure . " ( internal quotation marks omitted ) ) .
+94-1	12059-12063	E.g.	_	_	
+94-2	12064-12065	,	_	_	
+94-3	12066-12067	§	*[159]	Legal Source[159]	
+94-4	12068-12083	924(e)(2)(B)(ii	*[159]	Legal Source[159]	
+94-5	12084-12085	)	*[159]	Legal Source[159]	
+94-6	12086-12087	(	_	_	
+94-7	12088-12098	addressing	_	_	
+94-8	12099-12100	a	_	_	
+94-9	12101-12106	crime	_	_	
+94-10	12107-12108	"	*[160]	Direct Quote[160]	
+94-11	12109-12119	involv[ing	*[160]|*[161]|*[162]	Direct Quote[160]|Example Use[161]|Focal Term[162]	
+94-12	12120-12121	]	*[160]|*[161]|*[162]	Direct Quote[160]|Example Use[161]|Focal Term[162]	
+94-13	12122-12129	conduct	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-14	12130-12134	that	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-15	12135-12143	presents	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-16	12144-12145	a	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-17	12146-12153	serious	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-18	12154-12163	potential	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-19	12164-12168	risk	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-20	12169-12171	of	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-21	12172-12180	physical	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-22	12181-12187	injury	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-23	12188-12190	to	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-24	12191-12198	another	*[160]|*[161]	Direct Quote[160]|Example Use[161]	
+94-25	12199-12200	"	*[160]	Direct Quote[160]	
+94-26	12201-12202	)	_	_	
+94-27	12203-12204	;	_	_	
+94-28	12205-12211	Mathis	*[163]	Legal Source[163]	
+94-29	12212-12213	,	*[163]	Legal Source[163]	
+94-30	12214-12217	579	*[163]	Legal Source[163]	
+94-31	12218-12222	U.S.	*[163]	Legal Source[163]	
+94-32	12223-12224	,	*[163]	Legal Source[163]	
+94-33	12225-12227	at	*[163]	Legal Source[163]	
+94-34	12228-12232	----	*[163]	Legal Source[163]	
+94-35	12233-12234	,	*[163]	Legal Source[163]	
+94-36	12235-12238	136	*[163]	Legal Source[163]	
+94-37	12239-12243	S.Ct	*[163]	Legal Source[163]	
+94-38	12244-12245	.	*[163]	Legal Source[163]	
+94-39	12246-12247	,	*[163]	Legal Source[163]	
+94-40	12248-12250	at	*[163]	Legal Source[163]	
+94-41	12251-12255	2250	*[163]	Legal Source[163]	
+94-42	12256-12257	(	_	_	
+94-43	12258-12259	"	*[164]	Direct Quote[164]	
+94-44	12260-12263	The	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-45	12264-12271	generic	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-46	12272-12279	offense	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-47	12280-12281	[	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-48	12282-12284	of	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-49	12285-12293	burglary	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-50	12294-12295	]	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-51	12296-12304	requires	*[164]|*[165]|*[166]	Direct Quote[164]|Example Use[165]|Focal Term[166]	
+94-52	12305-12313	unlawful	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-53	12314-12319	entry	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-54	12320-12324	into	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-55	12325-12326	a	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-56	12327-12335	building	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-57	12336-12338	or	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-58	12339-12344	other	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-59	12345-12354	structure	*[164]|*[165]	Direct Quote[164]|Example Use[165]	
+94-60	12355-12356	.	*[164]	Direct Quote[164]	
+94-61	12357-12358	"	*[164]	Direct Quote[164]	
+94-62	12359-12360	(	_	_	
+94-63	12361-12369	internal	_	_	
+94-64	12370-12379	quotation	_	_	
+94-65	12380-12385	marks	_	_	
+94-66	12386-12393	omitted	_	_	
+94-67	12394-12395	)	_	_	
+94-68	12396-12397	)	_	_	
+94-69	12398-12399	.	_	_	
+
+#Text=To refer to offenses as Shular urges , it would have been far more natural for the drafter to follow the enumerated - offense clause in using " is , " not " involving . "
+95-1	12400-12402	To	*[167]	Appeal to Meaning[167]	
+95-2	12403-12408	refer	*[167]	Appeal to Meaning[167]	
+95-3	12409-12411	to	*[167]	Appeal to Meaning[167]	
+95-4	12412-12420	offenses	*[167]	Appeal to Meaning[167]	
+95-5	12421-12423	as	*[167]	Appeal to Meaning[167]	
+95-6	12424-12430	Shular	*[167]	Appeal to Meaning[167]	
+95-7	12431-12436	urges	*[167]	Appeal to Meaning[167]	
+95-8	12437-12438	,	*[167]	Appeal to Meaning[167]	
+95-9	12439-12441	it	*[167]	Appeal to Meaning[167]	
+95-10	12442-12447	would	*[167]	Appeal to Meaning[167]	
+95-11	12448-12452	have	*[167]	Appeal to Meaning[167]	
+95-12	12453-12457	been	*[167]	Appeal to Meaning[167]	
+95-13	12458-12461	far	*[167]	Appeal to Meaning[167]	
+95-14	12462-12466	more	*[167]	Appeal to Meaning[167]	
+95-15	12467-12474	natural	*[167]	Appeal to Meaning[167]	
+95-16	12475-12478	for	*[167]	Appeal to Meaning[167]	
+95-17	12479-12482	the	*[167]	Appeal to Meaning[167]	
+95-18	12483-12490	drafter	*[167]	Appeal to Meaning[167]	
+95-19	12491-12493	to	*[167]	Appeal to Meaning[167]	
+95-20	12494-12500	follow	*[167]	Appeal to Meaning[167]	
+95-21	12501-12504	the	*[167]	Appeal to Meaning[167]	
+95-22	12505-12515	enumerated	*[167]	Appeal to Meaning[167]	
+95-23	12516-12517	-	*[167]	Appeal to Meaning[167]	
+95-24	12518-12525	offense	*[167]	Appeal to Meaning[167]	
+95-25	12526-12532	clause	*[167]	Appeal to Meaning[167]	
+95-26	12533-12535	in	*[167]	Appeal to Meaning[167]	
+95-27	12536-12541	using	*[167]	Appeal to Meaning[167]	
+95-28	12542-12543	"	*[167]|*[168]	Appeal to Meaning[167]|Direct Quote[168]	
+95-29	12544-12546	is	*[167]|*[168]|*[169]	Appeal to Meaning[167]|Direct Quote[168]|Focal Term[169]	
+95-30	12547-12548	,	*[167]|*[168]	Appeal to Meaning[167]|Direct Quote[168]	
+95-31	12549-12550	"	*[167]|*[168]	Appeal to Meaning[167]|Direct Quote[168]	
+95-32	12551-12554	not	*[167]	Appeal to Meaning[167]	
+95-33	12555-12556	"	*[167]|*[170]	Appeal to Meaning[167]|Direct Quote[170]	
+95-34	12557-12566	involving	*[167]|*[170]|*[171]	Appeal to Meaning[167]|Direct Quote[170]|Focal Term[171]	
+95-35	12567-12568	.	*[167]|*[170]	Appeal to Meaning[167]|Direct Quote[170]	
+95-36	12569-12570	"	*[167]|*[170]	Appeal to Meaning[167]|Direct Quote[170]	
+
+#Text=See § 924(e)(2)(B)(ii ) ( crime that " is burglary , arson , or extortion " ) .
+96-1	12571-12574	See	_	_	
+96-2	12575-12576	§	*[172]	Legal Source[172]	
+96-3	12577-12592	924(e)(2)(B)(ii	*[172]	Legal Source[172]	
+96-4	12593-12594	)	*[172]	Legal Source[172]	
+96-5	12595-12596	(	_	_	
+96-6	12597-12602	crime	_	_	
+96-7	12603-12607	that	_	_	
+96-8	12608-12609	"	*[173]	Direct Quote[173]	
+96-9	12610-12612	is	*[173]	Direct Quote[173]	
+96-10	12613-12621	burglary	*[173]	Direct Quote[173]	
+96-11	12622-12623	,	*[173]	Direct Quote[173]	
+96-12	12624-12629	arson	*[173]	Direct Quote[173]	
+96-13	12630-12631	,	*[173]	Direct Quote[173]	
+96-14	12632-12634	or	*[173]	Direct Quote[173]	
+96-15	12635-12644	extortion	*[173]	Direct Quote[173]	
+96-16	12645-12646	"	*[173]	Direct Quote[173]	
+96-17	12647-12648	)	_	_	
+96-18	12649-12650	.	_	_	
+
+#Text=There , the word " is " indicates a congruence between " crime " and the terms that follow , terms that are also crimes .
+97-1	12651-12656	There	_	_	
+97-2	12657-12658	,	_	_	
+97-3	12659-12662	the	_	_	
+97-4	12663-12667	word	*	Metalinguistic Cue	
+97-5	12668-12669	"	*[174]	Direct Quote[174]	
+97-6	12670-12672	is	*[174]|*[175]	Direct Quote[174]|Focal Term[175]	
+97-7	12673-12674	"	*[174]	Direct Quote[174]	
+97-8	12675-12684	indicates	*	Metalinguistic Cue	
+97-9	12685-12686	a	_	_	
+97-10	12687-12697	congruence	_	_	
+97-11	12698-12705	between	_	_	
+97-12	12706-12707	"	*[176]	Direct Quote[176]	
+97-13	12708-12713	crime	*[176]	Direct Quote[176]	
+97-14	12714-12715	"	*[176]	Direct Quote[176]	
+97-15	12716-12719	and	_	_	
+97-16	12720-12723	the	_	_	
+97-17	12724-12729	terms	*	Metalinguistic Cue	
+97-18	12730-12734	that	_	_	
+97-19	12735-12741	follow	_	_	
+97-20	12742-12743	,	_	_	
+97-21	12744-12749	terms	*	Metalinguistic Cue	
+97-22	12750-12754	that	_	_	
+97-23	12755-12758	are	_	_	
+97-24	12759-12763	also	_	_	
+97-25	12764-12770	crimes	_	_	
+97-26	12771-12772	.	_	_	
+
+#Text=See American Heritage Dictionary 114 ( def . 7a ) ( 1981 ) ( " To equal in meaning or identity " ) .
+98-1	12773-12776	See	_	_	
+98-2	12777-12785	American	*[177]	Language Source[177]	
+98-3	12786-12794	Heritage	*[177]	Language Source[177]	
+98-4	12795-12805	Dictionary	*[177]	Language Source[177]	
+98-5	12806-12809	114	*[177]	Language Source[177]	
+98-6	12810-12811	(	*[177]	Language Source[177]	
+98-7	12812-12815	def	*[177]	Language Source[177]	
+98-8	12816-12817	.	*[177]	Language Source[177]	
+98-9	12818-12820	7a	*[177]	Language Source[177]	
+98-10	12821-12822	)	*[177]	Language Source[177]	
+98-11	12823-12824	(	*[177]	Language Source[177]	
+98-12	12825-12829	1981	*[177]	Language Source[177]	
+98-13	12830-12831	)	*[177]	Language Source[177]	
+98-14	12832-12833	(	_	_	
+98-15	12834-12835	"	*[178]	Direct Quote[178]	
+98-16	12836-12838	To	*[178]|*[179]	Direct Quote[178]|Definition[179]	
+98-17	12839-12844	equal	*[178]|*[179]	Direct Quote[178]|Definition[179]	
+98-18	12845-12847	in	*[178]|*[179]	Direct Quote[178]|Definition[179]	
+98-19	12848-12855	meaning	*[178]|*[179]	Direct Quote[178]|Definition[179]	
+98-20	12856-12858	or	*[178]|*[179]	Direct Quote[178]|Definition[179]	
+98-21	12859-12867	identity	*[178]|*[179]	Direct Quote[178]|Definition[179]	
+98-22	12868-12869	"	*[178]	Direct Quote[178]	
+98-23	12870-12871	)	_	_	
+98-24	12872-12873	.	_	_	
+
+#Text=Yet Congress did not adopt that formulation in § 924(e)(2)(A)(ii ) , opting instead for language suited to conduct .
+99-1	12874-12877	Yet	_	_	
+99-2	12878-12886	Congress	_	_	
+99-3	12887-12890	did	_	_	
+99-4	12891-12894	not	_	_	
+99-5	12895-12900	adopt	_	_	
+99-6	12901-12905	that	_	_	
+99-7	12906-12917	formulation	_	_	
+99-8	12918-12920	in	_	_	
+99-9	12921-12922	§	*[180]	Legal Source[180]	
+99-10	12923-12938	924(e)(2)(A)(ii	*[180]	Legal Source[180]	
+99-11	12939-12940	)	*[180]	Legal Source[180]	
+99-12	12941-12942	,	_	_	
+99-13	12943-12949	opting	_	_	
+99-14	12950-12957	instead	_	_	
+99-15	12958-12961	for	_	_	
+99-16	12962-12970	language	*	Metalinguistic Cue	
+99-17	12971-12977	suited	_	_	
+99-18	12978-12980	to	_	_	
+99-19	12981-12988	conduct	_	_	
+99-20	12989-12990	.	_	_	
+
+#Text=C
+100-1	12991-12992	C	_	_	
+
+#Text=Shular principally urges that at the time of § 924(e)(2)(A)(ii ) 's enactment , federal and state criminal laws widely prohibited the " core conduct " of manufacturing , distributing , and possessing with intent to manufacture or distribute drugs .
+101-1	12993-12999	Shular	_	_	
+101-2	13000-13011	principally	_	_	
+101-3	13012-13017	urges	_	_	
+101-4	13018-13022	that	_	_	
+101-5	13023-13025	at	_	_	
+101-6	13026-13029	the	_	_	
+101-7	13030-13034	time	_	_	
+101-8	13035-13037	of	_	_	
+101-9	13038-13039	§	*[181]	Legal Source[181]	
+101-10	13040-13055	924(e)(2)(A)(ii	*[181]	Legal Source[181]	
+101-11	13056-13057	)	*[181]	Legal Source[181]	
+101-12	13058-13060	's	_	_	
+101-13	13061-13070	enactment	_	_	
+101-14	13071-13072	,	_	_	
+101-15	13073-13080	federal	_	_	
+101-16	13081-13084	and	_	_	
+101-17	13085-13090	state	_	_	
+101-18	13091-13099	criminal	_	_	
+101-19	13100-13104	laws	_	_	
+101-20	13105-13111	widely	_	_	
+101-21	13112-13122	prohibited	_	_	
+101-22	13123-13126	the	_	_	
+101-23	13127-13128	"	*[182]	Direct Quote[182]	
+101-24	13129-13133	core	*[182]	Direct Quote[182]	
+101-25	13134-13141	conduct	*[182]	Direct Quote[182]	
+101-26	13142-13143	"	*[182]	Direct Quote[182]	
+101-27	13144-13146	of	_	_	
+101-28	13147-13160	manufacturing	_	_	
+101-29	13161-13162	,	_	_	
+101-30	13163-13175	distributing	_	_	
+101-31	13176-13177	,	_	_	
+101-32	13178-13181	and	_	_	
+101-33	13182-13192	possessing	_	_	
+101-34	13193-13197	with	_	_	
+101-35	13198-13204	intent	_	_	
+101-36	13205-13207	to	_	_	
+101-37	13208-13219	manufacture	_	_	
+101-38	13220-13222	or	_	_	
+101-39	13223-13233	distribute	_	_	
+101-40	13234-13239	drugs	_	_	
+101-41	13240-13241	.	_	_	
+
+#Text=Brief for Petitioner 10 - 12 .
+102-1	13242-13247	Brief	*[183]	Legal Source[183]	
+102-2	13248-13251	for	*[183]	Legal Source[183]	
+102-3	13252-13262	Petitioner	*[183]	Legal Source[183]	
+102-4	13263-13265	10	*[183]	Legal Source[183]	
+102-5	13266-13267	-	*[183]	Legal Source[183]	
+102-6	13268-13270	12	*[183]	Legal Source[183]	
+102-7	13271-13272	.	_	_	
+
+#Text=Some laws , Shular observes , used those very terms .
+103-1	13273-13277	Some	_	_	
+103-2	13278-13282	laws	_	_	
+103-3	13283-13284	,	_	_	
+103-4	13285-13291	Shular	_	_	
+103-5	13292-13300	observes	_	_	
+103-6	13301-13302	,	_	_	
+103-7	13303-13307	used	_	_	
+103-8	13308-13313	those	_	_	
+103-9	13314-13318	very	_	_	
+103-10	13319-13324	terms	*	Metalinguistic Cue	
+103-11	13325-13326	.	_	_	
+
+#Text=See , e.g. , 21 U.S.C. § 841 ( a)(1 ) ( 1982 ed . ) .
+104-1	13327-13330	See	_	_	
+104-2	13331-13332	,	_	_	
+104-3	13333-13337	e.g.	_	_	
+104-4	13338-13339	,	_	_	
+104-5	13340-13342	21	*[184]	Legal Source[184]	
+104-6	13343-13349	U.S.C.	*[184]	Legal Source[184]	
+104-7	13350-13351	§	*[184]	Legal Source[184]	
+104-8	13352-13355	841	*[184]	Legal Source[184]	
+104-9	13356-13357	(	*[184]	Legal Source[184]	
+104-10	13358-13362	a)(1	*[184]	Legal Source[184]	
+104-11	13363-13364	)	*[184]	Legal Source[184]	
+104-12	13365-13366	(	*[184]	Legal Source[184]	
+104-13	13367-13371	1982	*[184]	Legal Source[184]	
+104-14	13372-13374	ed	*[184]	Legal Source[184]	
+104-15	13375-13376	.	*[184]	Legal Source[184]	
+104-16	13377-13378	)	*[184]	Legal Source[184]	
+104-17	13379-13380	.	_	_	
+
+#Text=But even if the substance of state drug laws was well established - rather than their nomenclature , which Shular concedes was not - Congress could capture that substance by reference to conduct , rather than offenses .
+105-1	13381-13384	But	_	_	
+105-2	13385-13389	even	_	_	
+105-3	13390-13392	if	_	_	
+105-4	13393-13396	the	_	_	
+105-5	13397-13406	substance	_	_	
+105-6	13407-13409	of	_	_	
+105-7	13410-13415	state	_	_	
+105-8	13416-13420	drug	_	_	
+105-9	13421-13425	laws	_	_	
+105-10	13426-13429	was	_	_	
+105-11	13430-13434	well	_	_	
+105-12	13435-13446	established	_	_	
+105-13	13447-13448	-	_	_	
+105-14	13449-13455	rather	_	_	
+105-15	13456-13460	than	_	_	
+105-16	13461-13466	their	_	_	
+105-17	13467-13479	nomenclature	_	_	
+105-18	13480-13481	,	_	_	
+105-19	13482-13487	which	_	_	
+105-20	13488-13494	Shular	_	_	
+105-21	13495-13503	concedes	_	_	
+105-22	13504-13507	was	_	_	
+105-23	13508-13511	not	_	_	
+105-24	13512-13513	-	_	_	
+105-25	13514-13522	Congress	_	_	
+105-26	13523-13528	could	_	_	
+105-27	13529-13536	capture	_	_	
+105-28	13537-13541	that	_	_	
+105-29	13542-13551	substance	_	_	
+105-30	13552-13554	by	_	_	
+105-31	13555-13564	reference	_	_	
+105-32	13565-13567	to	_	_	
+105-33	13568-13575	conduct	_	_	
+105-34	13576-13577	,	_	_	
+105-35	13578-13584	rather	_	_	
+105-36	13585-13589	than	_	_	
+105-37	13590-13598	offenses	_	_	
+105-38	13599-13600	.	_	_	
+
+#Text=Shular points out that the word " involving " can accommodate a generic - offense approach .
+106-1	13601-13607	Shular	_	_	
+106-2	13608-13614	points	_	_	
+106-3	13615-13618	out	_	_	
+106-4	13619-13623	that	_	_	
+106-5	13624-13627	the	_	_	
+106-6	13628-13632	word	*	Metalinguistic Cue	
+106-7	13633-13634	"	*[185]	Direct Quote[185]	
+106-8	13635-13644	involving	*[185]|*[186]	Direct Quote[185]|Focal Term[186]	
+106-9	13645-13646	"	*[185]	Direct Quote[185]	
+106-10	13647-13650	can	_	_	
+106-11	13651-13662	accommodate	_	_	
+106-12	13663-13664	a	_	_	
+106-13	13665-13672	generic	_	_	
+106-14	13673-13674	-	_	_	
+106-15	13675-13682	offense	_	_	
+106-16	13683-13691	approach	_	_	
+106-17	13692-13693	.	_	_	
+
+#Text=Cf . Scheidler v. National Organization for Women , Inc. , 537 U.S. 393 , 409 , 123 S.Ct . 1057 , 154 L.Ed.2d 991 ( 2003 ) ( " act or threat involving ... extortion , " 18 U.S.C. § 1961 ( 1 ) , contemplates " ' generic ' extortion " ( some internal quotation marks omitted ) ) .
+107-1	13694-13696	Cf	_	_	
+107-2	13697-13698	.	_	_	
+107-3	13699-13708	Scheidler	*[187]	Legal Source[187]	
+107-4	13709-13711	v.	*[187]	Legal Source[187]	
+107-5	13712-13720	National	*[187]	Legal Source[187]	
+107-6	13721-13733	Organization	*[187]	Legal Source[187]	
+107-7	13734-13737	for	*[187]	Legal Source[187]	
+107-8	13738-13743	Women	*[187]	Legal Source[187]	
+107-9	13744-13745	,	*[187]	Legal Source[187]	
+107-10	13746-13750	Inc.	*[187]	Legal Source[187]	
+107-11	13751-13752	,	*[187]	Legal Source[187]	
+107-12	13753-13756	537	*[187]	Legal Source[187]	
+107-13	13757-13761	U.S.	*[187]	Legal Source[187]	
+107-14	13762-13765	393	*[187]	Legal Source[187]	
+107-15	13766-13767	,	*[187]	Legal Source[187]	
+107-16	13768-13771	409	*[187]	Legal Source[187]	
+107-17	13772-13773	,	*[187]	Legal Source[187]	
+107-18	13774-13777	123	*[187]	Legal Source[187]	
+107-19	13778-13782	S.Ct	*[187]	Legal Source[187]	
+107-20	13783-13784	.	*[187]	Legal Source[187]	
+107-21	13785-13789	1057	*[187]	Legal Source[187]	
+107-22	13790-13791	,	*[187]	Legal Source[187]	
+107-23	13792-13795	154	*[187]	Legal Source[187]	
+107-24	13796-13803	L.Ed.2d	*[187]	Legal Source[187]	
+107-25	13804-13807	991	*[187]	Legal Source[187]	
+107-26	13808-13809	(	*[187]	Legal Source[187]	
+107-27	13810-13814	2003	*[187]	Legal Source[187]	
+107-28	13815-13816	)	*[187]	Legal Source[187]	
+107-29	13817-13818	(	_	_	
+107-30	13819-13820	"	*[188]	Direct Quote[188]	
+107-31	13821-13824	act	*[188]|*[189]	Direct Quote[188]|Example Use[189]	
+107-32	13825-13827	or	*[188]|*[189]	Direct Quote[188]|Example Use[189]	
+107-33	13828-13834	threat	*[188]|*[189]	Direct Quote[188]|Example Use[189]	
+107-34	13835-13844	involving	*[188]|*[189]|*[190]	Direct Quote[188]|Example Use[189]|Focal Term[190]	
+107-35	13845-13848	...	*[188]|*[189]	Direct Quote[188]|Example Use[189]	
+107-36	13849-13858	extortion	*[188]|*[189]	Direct Quote[188]|Example Use[189]	
+107-37	13859-13860	,	*[188]	Direct Quote[188]	
+107-38	13861-13862	"	*[188]	Direct Quote[188]	
+107-39	13863-13865	18	*[191]	Legal Source[191]	
+107-40	13866-13872	U.S.C.	*[191]	Legal Source[191]	
+107-41	13873-13874	§	*[191]	Legal Source[191]	
+107-42	13875-13879	1961	*[191]	Legal Source[191]	
+107-43	13880-13881	(	*[191]	Legal Source[191]	
+107-44	13882-13883	1	*[191]	Legal Source[191]	
+107-45	13884-13885	)	*[191]	Legal Source[191]	
+107-46	13886-13887	,	_	_	
+107-47	13888-13900	contemplates	_	_	
+107-48	13901-13902	"	*[192]	Direct Quote[192]	
+107-49	13903-13904	'	*[192]|*[193]	Direct Quote[192]|Direct Quote[193]	
+107-50	13905-13912	generic	*[192]|*[193]	Direct Quote[192]|Direct Quote[193]	
+107-51	13913-13914	'	*[192]|*[193]	Direct Quote[192]|Direct Quote[193]	
+107-52	13915-13924	extortion	*[192]	Direct Quote[192]	
+107-53	13925-13926	"	*[192]	Direct Quote[192]	
+107-54	13927-13928	(	_	_	
+107-55	13929-13933	some	_	_	
+107-56	13934-13942	internal	_	_	
+107-57	13943-13952	quotation	_	_	
+107-58	13953-13958	marks	_	_	
+107-59	13959-13966	omitted	_	_	
+107-60	13967-13968	)	_	_	
+107-61	13969-13970	)	_	_	
+107-62	13971-13972	.	_	_	
+
+#Text=But we have no reason to think Congress intended that approach for § 924(e)(2)(A)(ii ) -which uses no deeply rooted offense name like " extortion " and contrasts with the offense - oriented language of a neighboring provision .
+108-1	13973-13976	But	_	_	
+108-2	13977-13979	we	_	_	
+108-3	13980-13984	have	_	_	
+108-4	13985-13987	no	_	_	
+108-5	13988-13994	reason	_	_	
+108-6	13995-13997	to	_	_	
+108-7	13998-14003	think	_	_	
+108-8	14004-14012	Congress	_	_	
+108-9	14013-14021	intended	*	Metalinguistic Cue	
+108-10	14022-14026	that	_	_	
+108-11	14027-14035	approach	_	_	
+108-12	14036-14039	for	_	_	
+108-13	14040-14041	§	*[194]	Legal Source[194]	
+108-14	14042-14057	924(e)(2)(A)(ii	*[194]	Legal Source[194]	
+108-15	14058-14059	)	*[194]	Legal Source[194]	
+108-16	14060-14066	-which	_	_	
+108-17	14067-14071	uses	_	_	
+108-18	14072-14074	no	_	_	
+108-19	14075-14081	deeply	_	_	
+108-20	14082-14088	rooted	_	_	
+108-21	14089-14096	offense	_	_	
+108-22	14097-14101	name	_	_	
+108-23	14102-14106	like	_	_	
+108-24	14107-14108	"	*[195]	Direct Quote[195]	
+108-25	14109-14118	extortion	*[195]	Direct Quote[195]	
+108-26	14119-14120	"	*[195]	Direct Quote[195]	
+108-27	14121-14124	and	_	_	
+108-28	14125-14134	contrasts	_	_	
+108-29	14135-14139	with	_	_	
+108-30	14140-14143	the	_	_	
+108-31	14144-14151	offense	_	_	
+108-32	14152-14153	-	_	_	
+108-33	14154-14162	oriented	_	_	
+108-34	14163-14171	language	*	Metalinguistic Cue	
+108-35	14172-14174	of	_	_	
+108-36	14175-14176	a	_	_	
+108-37	14177-14188	neighboring	_	_	
+108-38	14189-14198	provision	_	_	
+108-39	14199-14200	.	_	_	
+
+#Text=Endeavoring to explain why Congress might have chosen " involving " over " is " in § 924(e)(2)(A)(ii ) , Shular suggests that variation in state drug - offense terminology required a word more approximate than " is . "
+109-1	14201-14212	Endeavoring	_	_	
+109-2	14213-14215	to	_	_	
+109-3	14216-14223	explain	_	_	
+109-4	14224-14227	why	_	_	
+109-5	14228-14236	Congress	_	_	
+109-6	14237-14242	might	_	_	
+109-7	14243-14247	have	_	_	
+109-8	14248-14254	chosen	_	_	
+109-9	14255-14256	"	*[196]	Direct Quote[196]	
+109-10	14257-14266	involving	*[196]|*[197]	Direct Quote[196]|Focal Term[197]	
+109-11	14267-14268	"	*[196]	Direct Quote[196]	
+109-12	14269-14273	over	_	_	
+109-13	14274-14275	"	*[198]	Direct Quote[198]	
+109-14	14276-14278	is	*[198]|*[199]	Direct Quote[198]|Focal Term[199]	
+109-15	14279-14280	"	*[198]	Direct Quote[198]	
+109-16	14281-14283	in	_	_	
+109-17	14284-14285	§	*[200]	Legal Source[200]	
+109-18	14286-14301	924(e)(2)(A)(ii	*[200]	Legal Source[200]	
+109-19	14302-14303	)	*[200]	Legal Source[200]	
+109-20	14304-14305	,	_	_	
+109-21	14306-14312	Shular	_	_	
+109-22	14313-14321	suggests	_	_	
+109-23	14322-14326	that	_	_	
+109-24	14327-14336	variation	_	_	
+109-25	14337-14339	in	_	_	
+109-26	14340-14345	state	_	_	
+109-27	14346-14350	drug	_	_	
+109-28	14351-14352	-	_	_	
+109-29	14353-14360	offense	_	_	
+109-30	14361-14372	terminology	_	_	
+109-31	14373-14381	required	_	_	
+109-32	14382-14383	a	_	_	
+109-33	14384-14388	word	*	Metalinguistic Cue	
+109-34	14389-14393	more	_	_	
+109-35	14394-14405	approximate	_	_	
+109-36	14406-14410	than	_	_	
+109-37	14411-14412	"	*[201]	Direct Quote[201]	
+109-38	14413-14415	is	*[201]|*[202]	Direct Quote[201]|Focal Term[202]	
+109-39	14416-14417	.	*[201]	Direct Quote[201]	
+109-40	14418-14419	"	*[201]	Direct Quote[201]	
+
+#Text=But if Congress was concerned that state drug offenses lacked clear , universally employed names , the evident solution was to identify them instead by conduct .
+110-1	14420-14423	But	_	_	
+110-2	14424-14426	if	_	_	
+110-3	14427-14435	Congress	_	_	
+110-4	14436-14439	was	_	_	
+110-5	14440-14449	concerned	_	_	
+110-6	14450-14454	that	_	_	
+110-7	14455-14460	state	_	_	
+110-8	14461-14465	drug	_	_	
+110-9	14466-14474	offenses	_	_	
+110-10	14475-14481	lacked	_	_	
+110-11	14482-14487	clear	_	_	
+110-12	14488-14489	,	_	_	
+110-13	14490-14501	universally	_	_	
+110-14	14502-14510	employed	_	_	
+110-15	14511-14516	names	_	_	
+110-16	14517-14518	,	_	_	
+110-17	14519-14522	the	_	_	
+110-18	14523-14530	evident	_	_	
+110-19	14531-14539	solution	_	_	
+110-20	14540-14543	was	_	_	
+110-21	14544-14546	to	_	_	
+110-22	14547-14555	identify	_	_	
+110-23	14556-14560	them	_	_	
+110-24	14561-14568	instead	_	_	
+110-25	14569-14571	by	_	_	
+110-26	14572-14579	conduct	_	_	
+110-27	14580-14581	.	_	_	
+
+#Text=Using " involving " rather than " is " does not clarify that the terms are names of offenses ; quite the opposite .
+111-1	14582-14587	Using	_	_	
+111-2	14588-14589	"	*[203]	Direct Quote[203]	
+111-3	14590-14599	involving	*[203]|*[204]	Direct Quote[203]|Focal Term[204]	
+111-4	14600-14601	"	*[203]	Direct Quote[203]	
+111-5	14602-14608	rather	_	_	
+111-6	14609-14613	than	_	_	
+111-7	14614-14615	"	*[205]	Direct Quote[205]	
+111-8	14616-14618	is	*[205]|*[206]	Direct Quote[205]|Focal Term[206]	
+111-9	14619-14620	"	*[205]	Direct Quote[205]	
+111-10	14621-14625	does	_	_	
+111-11	14626-14629	not	_	_	
+111-12	14630-14637	clarify	*	Metalinguistic Cue	
+111-13	14638-14642	that	_	_	
+111-14	14643-14646	the	_	_	
+111-15	14647-14652	terms	*	Metalinguistic Cue	
+111-16	14653-14656	are	_	_	
+111-17	14657-14662	names	_	_	
+111-18	14663-14665	of	_	_	
+111-19	14666-14674	offenses	_	_	
+111-20	14675-14676	;	_	_	
+111-21	14677-14682	quite	_	_	
+111-22	14683-14686	the	_	_	
+111-23	14687-14695	opposite	_	_	
+111-24	14696-14697	.	_	_	
+
+#Text=See supra , at 785 .
+112-1	14698-14701	See	_	_	
+112-2	14702-14707	supra	*[207]	Metalinguistic Cue[207]	
+112-3	14708-14709	,	*[207]	Metalinguistic Cue[207]	
+112-4	14710-14712	at	*[207]	Metalinguistic Cue[207]	
+112-5	14713-14716	785	*[207]	Metalinguistic Cue[207]	
+112-6	14717-14718	.	_	_	
+
+#Text=Shular asserts that to describe conduct rather than offenses , Congress would have used the language of the elements clause of the " violent felony " definition , which captures a crime that " has as an element the use , attempted use , or threatened use of physical force against the person of another . "
+113-1	14719-14725	Shular	*[208]	Appeal to Meaning[208]	
+113-2	14726-14733	asserts	*[208]	Appeal to Meaning[208]	
+113-3	14734-14738	that	*[208]	Appeal to Meaning[208]	
+113-4	14739-14741	to	*[208]	Appeal to Meaning[208]	
+113-5	14742-14750	describe	*[208]	Appeal to Meaning[208]	
+113-6	14751-14758	conduct	*[208]	Appeal to Meaning[208]	
+113-7	14759-14765	rather	*[208]	Appeal to Meaning[208]	
+113-8	14766-14770	than	*[208]	Appeal to Meaning[208]	
+113-9	14771-14779	offenses	*[208]	Appeal to Meaning[208]	
+113-10	14780-14781	,	*[208]	Appeal to Meaning[208]	
+113-11	14782-14790	Congress	*[208]	Appeal to Meaning[208]	
+113-12	14791-14796	would	*[208]	Appeal to Meaning[208]	
+113-13	14797-14801	have	*[208]	Appeal to Meaning[208]	
+113-14	14802-14806	used	*[208]	Appeal to Meaning[208]	
+113-15	14807-14810	the	*[208]	Appeal to Meaning[208]	
+113-16	14811-14819	language	*[208]|*[209]	Appeal to Meaning[208]|Metalinguistic Cue[209]	
+113-17	14820-14822	of	*[208]	Appeal to Meaning[208]	
+113-18	14823-14826	the	*[208]	Appeal to Meaning[208]	
+113-19	14827-14835	elements	*[208]	Appeal to Meaning[208]	
+113-20	14836-14842	clause	*[208]	Appeal to Meaning[208]	
+113-21	14843-14845	of	*[208]	Appeal to Meaning[208]	
+113-22	14846-14849	the	*[208]	Appeal to Meaning[208]	
+113-23	14850-14851	"	*[208]|*[210]	Appeal to Meaning[208]|Direct Quote[210]	
+113-24	14852-14859	violent	*[208]|*[210]|*[211]	Appeal to Meaning[208]|Direct Quote[210]|Focal Term[211]	
+113-25	14860-14866	felony	*[208]|*[210]|*[211]	Appeal to Meaning[208]|Direct Quote[210]|Focal Term[211]	
+113-26	14867-14868	"	*[208]|*[210]	Appeal to Meaning[208]|Direct Quote[210]	
+113-27	14869-14879	definition	*[208]|*[212]	Appeal to Meaning[208]|Metalinguistic Cue[212]	
+113-28	14880-14881	,	*[208]	Appeal to Meaning[208]	
+113-29	14882-14887	which	*[208]	Appeal to Meaning[208]	
+113-30	14888-14896	captures	*[208]	Appeal to Meaning[208]	
+113-31	14897-14898	a	*[208]|*[213]	Appeal to Meaning[208]|Definition[213]	
+113-32	14899-14904	crime	*[208]|*[213]	Appeal to Meaning[208]|Definition[213]	
+113-33	14905-14909	that	*[208]|*[213]	Appeal to Meaning[208]|Definition[213]	
+113-34	14910-14911	"	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-35	14912-14915	has	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-36	14916-14918	as	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-37	14919-14921	an	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-38	14922-14929	element	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-39	14930-14933	the	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-40	14934-14937	use	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-41	14938-14939	,	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-42	14940-14949	attempted	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-43	14950-14953	use	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-44	14954-14955	,	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-45	14956-14958	or	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-46	14959-14969	threatened	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-47	14970-14973	use	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-48	14974-14976	of	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-49	14977-14985	physical	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-50	14986-14991	force	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-51	14992-14999	against	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-52	15000-15003	the	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-53	15004-15010	person	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-54	15011-15013	of	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-55	15014-15021	another	*[208]|*[213]|*[214]	Appeal to Meaning[208]|Definition[213]|Direct Quote[214]	
+113-56	15022-15023	.	*[208]|*[214]	Appeal to Meaning[208]|Direct Quote[214]	
+113-57	15024-15025	"	*[208]|*[214]	Appeal to Meaning[208]|Direct Quote[214]	
+
+#Text=§ 924(e)(2)(B)(i ) ( emphasis added ) .
+114-1	15026-15027	§	*[215]	Legal Source[215]	
+114-2	15028-15042	924(e)(2)(B)(i	*[215]	Legal Source[215]	
+114-3	15043-15044	)	*[215]	Legal Source[215]	
+114-4	15045-15046	(	_	_	
+114-5	15047-15055	emphasis	_	_	
+114-6	15056-15061	added	_	_	
+114-7	15062-15063	)	_	_	
+114-8	15064-15065	.	_	_	
+
+#Text=It would have been awkward , however , to describe " possessing with intent to manufacture or distribute"-requiring both possession and intent - as " an element . "
+115-1	15066-15068	It	_	_	
+115-2	15069-15074	would	_	_	
+115-3	15075-15079	have	_	_	
+115-4	15080-15084	been	_	_	
+115-5	15085-15092	awkward	_	_	
+115-6	15093-15094	,	_	_	
+115-7	15095-15102	however	_	_	
+115-8	15103-15104	,	_	_	
+115-9	15105-15107	to	_	_	
+115-10	15108-15116	describe	_	_	
+115-11	15117-15118	"	*[216]	Direct Quote[216]	
+115-12	15119-15129	possessing	*[216]	Direct Quote[216]	
+115-13	15130-15134	with	*[216]	Direct Quote[216]	
+115-14	15135-15141	intent	*[216]	Direct Quote[216]	
+115-15	15142-15144	to	*[216]	Direct Quote[216]	
+115-16	15145-15156	manufacture	*[216]	Direct Quote[216]	
+115-17	15157-15159	or	*[216]	Direct Quote[216]	
+115-18	15160-15181	distribute"-requiring	*[216]	Direct Quote[216]	
+115-19	15182-15186	both	_	_	
+115-20	15187-15197	possession	_	_	
+115-21	15198-15201	and	_	_	
+115-22	15202-15208	intent	_	_	
+115-23	15209-15210	-	_	_	
+115-24	15211-15213	as	_	_	
+115-25	15214-15215	"	*[217]	Direct Quote[217]	
+115-26	15216-15218	an	*[217]	Direct Quote[217]	
+115-27	15219-15226	element	*[217]	Direct Quote[217]	
+115-28	15227-15228	.	*[217]	Direct Quote[217]	
+115-29	15229-15230	"	*[217]	Direct Quote[217]	
+
+#Text=Congress may also have wanted to clarify that the state offense need not include the identified conduct as a formal element .
+116-1	15231-15239	Congress	_	_	
+116-2	15240-15243	may	_	_	
+116-3	15244-15248	also	_	_	
+116-4	15249-15253	have	_	_	
+116-5	15254-15260	wanted	_	_	
+116-6	15261-15263	to	_	_	
+116-7	15264-15271	clarify	*	Metalinguistic Cue	
+116-8	15272-15276	that	_	_	
+116-9	15277-15280	the	_	_	
+116-10	15281-15286	state	_	_	
+116-11	15287-15294	offense	_	_	
+116-12	15295-15299	need	_	_	
+116-13	15300-15303	not	_	_	
+116-14	15304-15311	include	_	_	
+116-15	15312-15315	the	_	_	
+116-16	15316-15326	identified	_	_	
+116-17	15327-15334	conduct	_	_	
+116-18	15335-15337	as	_	_	
+116-19	15338-15339	a	_	_	
+116-20	15340-15346	formal	_	_	
+116-21	15347-15354	element	_	_	
+116-22	15355-15356	.	_	_	
+
+#Text=Cf . Kawashima , 565 U.S. at 483 - 484 , 132 S.Ct . 1166 ( the statutory phrase " an offense that ... involves fraud or deceit " " is not limited to offenses that include fraud or deceit as formal elements " but extends to offenses " that necessarily entail fraudulent or deceitful conduct " ) .
+117-1	15357-15359	Cf	_	_	
+117-2	15360-15361	.	_	_	
+117-3	15362-15371	Kawashima	*[218]	Legal Source[218]	
+117-4	15372-15373	,	*[218]	Legal Source[218]	
+117-5	15374-15377	565	*[218]	Legal Source[218]	
+117-6	15378-15382	U.S.	*[218]	Legal Source[218]	
+117-7	15383-15385	at	*[218]	Legal Source[218]	
+117-8	15386-15389	483	*[218]	Legal Source[218]	
+117-9	15390-15391	-	*[218]	Legal Source[218]	
+117-10	15392-15395	484	*[218]	Legal Source[218]	
+117-11	15396-15397	,	*[218]	Legal Source[218]	
+117-12	15398-15401	132	*[218]	Legal Source[218]	
+117-13	15402-15406	S.Ct	*[218]	Legal Source[218]	
+117-14	15407-15408	.	*[218]	Legal Source[218]	
+117-15	15409-15413	1166	*[218]	Legal Source[218]	
+117-16	15414-15415	(	_	_	
+117-17	15416-15419	the	_	_	
+117-18	15420-15429	statutory	*[219]	Metalinguistic Cue[219]	
+117-19	15430-15436	phrase	*[219]	Metalinguistic Cue[219]	
+117-20	15437-15438	"	*[220]	Direct Quote[220]	
+117-21	15439-15441	an	*[220]|*[221]	Direct Quote[220]|Focal Term[221]	
+117-22	15442-15449	offense	*[220]|*[221]	Direct Quote[220]|Focal Term[221]	
+117-23	15450-15454	that	*[220]|*[221]	Direct Quote[220]|Focal Term[221]	
+117-24	15455-15458	...	*[220]|*[221]	Direct Quote[220]|Focal Term[221]	
+117-25	15459-15467	involves	*[220]|*[221]	Direct Quote[220]|Focal Term[221]	
+117-26	15468-15473	fraud	*[220]|*[221]	Direct Quote[220]|Focal Term[221]	
+117-27	15474-15476	or	*[220]|*[221]	Direct Quote[220]|Focal Term[221]	
+117-28	15477-15483	deceit	*[220]|*[221]	Direct Quote[220]|Focal Term[221]	
+117-29	15484-15485	"	*[220]	Direct Quote[220]	
+117-30	15486-15487	"	*[222]	Direct Quote[222]	
+117-31	15488-15490	is	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-32	15491-15494	not	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-33	15495-15502	limited	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-34	15503-15505	to	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-35	15506-15514	offenses	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-36	15515-15519	that	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-37	15520-15527	include	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-38	15528-15533	fraud	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-39	15534-15536	or	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-40	15537-15543	deceit	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-41	15544-15546	as	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-42	15547-15553	formal	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-43	15554-15562	elements	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-44	15563-15564	"	*[222]|*[223]	Direct Quote[222]|Definition[223]	
+117-45	15565-15568	but	*[223]	Definition[223]	
+117-46	15569-15576	extends	*[223]	Definition[223]	
+117-47	15577-15579	to	*[223]	Definition[223]	
+117-48	15580-15588	offenses	*[223]	Definition[223]	
+117-49	15589-15590	"	*[223]|*[224]	Definition[223]|Direct Quote[224]	
+117-50	15591-15595	that	*[223]|*[224]	Definition[223]|Direct Quote[224]	
+117-51	15596-15607	necessarily	*[223]|*[224]	Definition[223]|Direct Quote[224]	
+117-52	15608-15614	entail	*[223]|*[224]	Definition[223]|Direct Quote[224]	
+117-53	15615-15625	fraudulent	*[223]|*[224]	Definition[223]|Direct Quote[224]	
+117-54	15626-15628	or	*[223]|*[224]	Definition[223]|Direct Quote[224]	
+117-55	15629-15638	deceitful	*[223]|*[224]	Definition[223]|Direct Quote[224]	
+117-56	15639-15646	conduct	*[223]|*[224]	Definition[223]|Direct Quote[224]	
+117-57	15647-15648	"	*[224]	Direct Quote[224]	
+117-58	15649-15650	)	_	_	
+117-59	15651-15652	.	_	_	
+
+#Text=Whatever the reason , Congress ' choice not to describe each term in § 924(e)(2)(A)(ii ) as " an element " neither refutes that those terms refer to conduct nor shows that they refer to offenses .
+118-1	15653-15661	Whatever	_	_	
+118-2	15662-15665	the	_	_	
+118-3	15666-15672	reason	_	_	
+118-4	15673-15674	,	_	_	
+118-5	15675-15683	Congress	_	_	
+118-6	15684-15685	'	_	_	
+118-7	15686-15692	choice	_	_	
+118-8	15693-15696	not	_	_	
+118-9	15697-15699	to	_	_	
+118-10	15700-15708	describe	_	_	
+118-11	15709-15713	each	_	_	
+118-12	15714-15718	term	_	_	
+118-13	15719-15721	in	_	_	
+118-14	15722-15723	§	*[225]	Legal Source[225]	
+118-15	15724-15739	924(e)(2)(A)(ii	*[225]	Legal Source[225]	
+118-16	15740-15741	)	*[225]	Legal Source[225]	
+118-17	15742-15744	as	_	_	
+118-18	15745-15746	"	*[226]	Direct Quote[226]	
+118-19	15747-15749	an	*[226]	Direct Quote[226]	
+118-20	15750-15757	element	*[226]	Direct Quote[226]	
+118-21	15758-15759	"	*[226]	Direct Quote[226]	
+118-22	15760-15767	neither	_	_	
+118-23	15768-15775	refutes	_	_	
+118-24	15776-15780	that	_	_	
+118-25	15781-15786	those	_	_	
+118-26	15787-15792	terms	_	_	
+118-27	15793-15798	refer	_	_	
+118-28	15799-15801	to	_	_	
+118-29	15802-15809	conduct	_	_	
+118-30	15810-15813	nor	_	_	
+118-31	15814-15819	shows	_	_	
+118-32	15820-15824	that	_	_	
+118-33	15825-15829	they	_	_	
+118-34	15830-15835	refer	_	_	
+118-35	15836-15838	to	_	_	
+118-36	15839-15847	offenses	_	_	
+118-37	15848-15849	.	_	_	
+
+#Text=Nor does the other clause of the " serious drug offense " definition shed light on the question before us .
+119-1	15850-15853	Nor	_	_	
+119-2	15854-15858	does	_	_	
+119-3	15859-15862	the	_	_	
+119-4	15863-15868	other	_	_	
+119-5	15869-15875	clause	_	_	
+119-6	15876-15878	of	_	_	
+119-7	15879-15882	the	_	_	
+119-8	15883-15884	"	*[227]	Direct Quote[227]	
+119-9	15885-15892	serious	*[227]	Direct Quote[227]	
+119-10	15893-15897	drug	*[227]	Direct Quote[227]	
+119-11	15898-15905	offense	*[227]	Direct Quote[227]	
+119-12	15906-15907	"	*[227]	Direct Quote[227]	
+119-13	15908-15918	definition	_	_	
+119-14	15919-15923	shed	_	_	
+119-15	15924-15929	light	_	_	
+119-16	15930-15932	on	_	_	
+119-17	15933-15936	the	_	_	
+119-18	15937-15945	question	_	_	
+119-19	15946-15952	before	_	_	
+119-20	15953-15955	us	_	_	
+119-21	15956-15957	.	_	_	
+
+#Text=Section 924(e)(2)(A)(i ) includes as " serious drug offenses " " offense[s ] under " specific portions of the U.S. Code .
+120-1	15958-15965	Section	*[228]	Legal Source[228]	
+120-2	15966-15980	924(e)(2)(A)(i	*[228]	Legal Source[228]	
+120-3	15981-15982	)	*[228]	Legal Source[228]	
+120-4	15983-15991	includes	_	_	
+120-5	15992-15994	as	_	_	
+120-6	15995-15996	"	*[229]	Direct Quote[229]	
+120-7	15997-16004	serious	*[229]	Direct Quote[229]	
+120-8	16005-16009	drug	*[229]	Direct Quote[229]	
+120-9	16010-16018	offenses	*[229]	Direct Quote[229]	
+120-10	16019-16020	"	*[229]	Direct Quote[229]	
+120-11	16021-16022	"	*[230]	Direct Quote[230]	
+120-12	16023-16032	offense[s	*[230]	Direct Quote[230]	
+120-13	16033-16034	]	*[230]	Direct Quote[230]	
+120-14	16035-16040	under	*[230]	Direct Quote[230]	
+120-15	16041-16042	"	*[230]	Direct Quote[230]	
+120-16	16043-16051	specific	_	_	
+120-17	16052-16060	portions	_	_	
+120-18	16061-16063	of	_	_	
+120-19	16064-16067	the	_	_	
+120-20	16068-16072	U.S.	_	_	
+120-21	16073-16077	Code	_	_	
+120-22	16078-16079	.	_	_	
+
+#Text=That provision , Shular observes , refers to fully defined crimes .
+121-1	16080-16084	That	_	_	
+121-2	16085-16094	provision	_	_	
+121-3	16095-16096	,	_	_	
+121-4	16097-16103	Shular	_	_	
+121-5	16104-16112	observes	_	_	
+121-6	16113-16114	,	_	_	
+121-7	16115-16121	refers	_	_	
+121-8	16122-16124	to	_	_	
+121-9	16125-16130	fully	_	_	
+121-10	16131-16138	defined	_	_	
+121-11	16139-16145	crimes	_	_	
+121-12	16146-16147	.	_	_	
+
+#Text=But " the divergent text of the two provisions " of the serious - drug - offense definition , as the Government explains , " makes any divergence in their application unremarkable . "
+122-1	16148-16151	But	_	_	
+122-2	16152-16153	"	*[231]	Direct Quote[231]	
+122-3	16154-16157	the	*[231]	Direct Quote[231]	
+122-4	16158-16167	divergent	*[231]|*[232]	Direct Quote[231]|Metalinguistic Cue[232]	
+122-5	16168-16172	text	*[231]|*[232]	Direct Quote[231]|Metalinguistic Cue[232]	
+122-6	16173-16175	of	*[231]	Direct Quote[231]	
+122-7	16176-16179	the	*[231]	Direct Quote[231]	
+122-8	16180-16183	two	*[231]	Direct Quote[231]	
+122-9	16184-16194	provisions	*[231]	Direct Quote[231]	
+122-10	16195-16196	"	*[231]	Direct Quote[231]	
+122-11	16197-16199	of	_	_	
+122-12	16200-16203	the	_	_	
+122-13	16204-16211	serious	_	_	
+122-14	16212-16213	-	_	_	
+122-15	16214-16218	drug	_	_	
+122-16	16219-16220	-	_	_	
+122-17	16221-16228	offense	_	_	
+122-18	16229-16239	definition	*	Metalinguistic Cue	
+122-19	16240-16241	,	_	_	
+122-20	16242-16244	as	_	_	
+122-21	16245-16248	the	_	_	
+122-22	16249-16259	Government	_	_	
+122-23	16260-16268	explains	_	_	
+122-24	16269-16270	,	_	_	
+122-25	16271-16272	"	*[233]	Direct Quote[233]	
+122-26	16273-16278	makes	*[233]	Direct Quote[233]	
+122-27	16279-16282	any	*[233]	Direct Quote[233]	
+122-28	16283-16293	divergence	*[233]	Direct Quote[233]	
+122-29	16294-16296	in	*[233]	Direct Quote[233]	
+122-30	16297-16302	their	*[233]	Direct Quote[233]	
+122-31	16303-16314	application	*[233]	Direct Quote[233]	
+122-32	16315-16327	unremarkable	*[233]	Direct Quote[233]	
+122-33	16328-16329	.	*[233]	Direct Quote[233]	
+122-34	16330-16331	"	*[233]	Direct Quote[233]	
+
+#Text=Brief for United States 22 . Congress ' decision to identify federal offenses by reference to the U.S. Code does not speak to whether it identified state offenses by reference to named offenses or conduct .
+123-1	16332-16337	Brief	*[234]	Legal Source[234]	
+123-2	16338-16341	for	*[234]	Legal Source[234]	
+123-3	16342-16348	United	*[234]	Legal Source[234]	
+123-4	16349-16355	States	*[234]	Legal Source[234]	
+123-5	16356-16358	22	*[234]	Legal Source[234]	
+123-6	16359-16360	.	_	_	
+123-7	16361-16369	Congress	_	_	
+123-8	16370-16371	'	_	_	
+123-9	16372-16380	decision	_	_	
+123-10	16381-16383	to	_	_	
+123-11	16384-16392	identify	_	_	
+123-12	16393-16400	federal	_	_	
+123-13	16401-16409	offenses	_	_	
+123-14	16410-16412	by	_	_	
+123-15	16413-16422	reference	_	_	
+123-16	16423-16425	to	_	_	
+123-17	16426-16429	the	_	_	
+123-18	16430-16434	U.S.	_	_	
+123-19	16435-16439	Code	_	_	
+123-20	16440-16444	does	_	_	
+123-21	16445-16448	not	_	_	
+123-22	16449-16454	speak	_	_	
+123-23	16455-16457	to	_	_	
+123-24	16458-16465	whether	_	_	
+123-25	16466-16468	it	_	_	
+123-26	16469-16479	identified	_	_	
+123-27	16480-16485	state	_	_	
+123-28	16486-16494	offenses	_	_	
+123-29	16495-16497	by	_	_	
+123-30	16498-16507	reference	_	_	
+123-31	16508-16510	to	_	_	
+123-32	16511-16516	named	_	_	
+123-33	16517-16525	offenses	_	_	
+123-34	16526-16528	or	_	_	
+123-35	16529-16536	conduct	_	_	
+123-36	16537-16538	.	_	_	
+
+#Text=D
+124-1	16539-16540	D	_	_	
+
+#Text=Shular expresses concern that rejecting a generic - offense approach would yield an anomalous result .
+125-1	16541-16547	Shular	_	_	
+125-2	16548-16557	expresses	_	_	
+125-3	16558-16565	concern	_	_	
+125-4	16566-16570	that	_	_	
+125-5	16571-16580	rejecting	_	_	
+125-6	16581-16582	a	_	_	
+125-7	16583-16590	generic	_	_	
+125-8	16591-16592	-	_	_	
+125-9	16593-16600	offense	_	_	
+125-10	16601-16609	approach	_	_	
+125-11	16610-16615	would	_	_	
+125-12	16616-16621	yield	_	_	
+125-13	16622-16624	an	_	_	
+125-14	16625-16634	anomalous	_	_	
+125-15	16635-16641	result	_	_	
+125-16	16642-16643	.	_	_	
+
+#Text=Unlike other drug laws , Shular contends , the Florida law under which he was previously convicted does not require that the defendant know the substance is illicit .
+126-1	16644-16650	Unlike	_	_	
+126-2	16651-16656	other	_	_	
+126-3	16657-16661	drug	_	_	
+126-4	16662-16666	laws	_	_	
+126-5	16667-16668	,	_	_	
+126-6	16669-16675	Shular	_	_	
+126-7	16676-16684	contends	_	_	
+126-8	16685-16686	,	_	_	
+126-9	16687-16690	the	_	_	
+126-10	16691-16698	Florida	_	_	
+126-11	16699-16702	law	_	_	
+126-12	16703-16708	under	_	_	
+126-13	16709-16714	which	_	_	
+126-14	16715-16717	he	_	_	
+126-15	16718-16721	was	_	_	
+126-16	16722-16732	previously	_	_	
+126-17	16733-16742	convicted	_	_	
+126-18	16743-16747	does	_	_	
+126-19	16748-16751	not	_	_	
+126-20	16752-16759	require	_	_	
+126-21	16760-16764	that	_	_	
+126-22	16765-16768	the	_	_	
+126-23	16769-16778	defendant	_	_	
+126-24	16779-16783	know	_	_	
+126-25	16784-16787	the	_	_	
+126-26	16788-16797	substance	_	_	
+126-27	16798-16800	is	_	_	
+126-28	16801-16808	illicit	_	_	
+126-29	16809-16810	.	_	_	
+
+#Text=Unless § 924(e)(2)(A)(ii ) takes into account all the elements of the offense as commonly understood , Shular maintains , defendants would face ACCA enhancement based on outlier state laws .
+127-1	16811-16817	Unless	_	_	
+127-2	16818-16819	§	*[235]	Legal Source[235]	
+127-3	16820-16835	924(e)(2)(A)(ii	*[235]	Legal Source[235]	
+127-4	16836-16837	)	*[235]	Legal Source[235]	
+127-5	16838-16843	takes	_	_	
+127-6	16844-16848	into	_	_	
+127-7	16849-16856	account	_	_	
+127-8	16857-16860	all	_	_	
+127-9	16861-16864	the	_	_	
+127-10	16865-16873	elements	_	_	
+127-11	16874-16876	of	_	_	
+127-12	16877-16880	the	_	_	
+127-13	16881-16888	offense	_	_	
+127-14	16889-16891	as	_	_	
+127-15	16892-16900	commonly	_	_	
+127-16	16901-16911	understood	_	_	
+127-17	16912-16913	,	_	_	
+127-18	16914-16920	Shular	_	_	
+127-19	16921-16930	maintains	_	_	
+127-20	16931-16932	,	_	_	
+127-21	16933-16943	defendants	_	_	
+127-22	16944-16949	would	_	_	
+127-23	16950-16954	face	_	_	
+127-24	16955-16959	ACCA	*	Legal Source	
+127-25	16960-16971	enhancement	_	_	
+127-26	16972-16977	based	_	_	
+127-27	16978-16980	on	_	_	
+127-28	16981-16988	outlier	_	_	
+127-29	16989-16994	state	_	_	
+127-30	16995-16999	laws	_	_	
+127-31	17000-17001	.	_	_	
+
+#Text=As an initial matter , Shular overstates Florida 's disregard for mens rea .
+128-1	17002-17004	As	_	_	
+128-2	17005-17007	an	_	_	
+128-3	17008-17015	initial	_	_	
+128-4	17016-17022	matter	_	_	
+128-5	17023-17024	,	_	_	
+128-6	17025-17031	Shular	_	_	
+128-7	17032-17042	overstates	_	_	
+128-8	17043-17050	Florida	_	_	
+128-9	17051-17053	's	_	_	
+128-10	17054-17063	disregard	_	_	
+128-11	17064-17067	for	_	_	
+128-12	17068-17072	mens	_	_	
+128-13	17073-17076	rea	_	_	
+128-14	17077-17078	.	_	_	
+
+#Text=Charged under Fla. Stat . § 893.13 ( 1)(a ) , a defendant unaware of the substance 's illicit nature can raise that unawareness as an affirmative defense , in which case the standard jury instructions require a finding of knowledge beyond a reasonable doubt .
+129-1	17079-17086	Charged	_	_	
+129-2	17087-17092	under	_	_	
+129-3	17093-17097	Fla.	*[236]	Legal Source[236]	
+129-4	17098-17102	Stat	*[236]	Legal Source[236]	
+129-5	17103-17104	.	*[236]	Legal Source[236]	
+129-6	17105-17106	§	*[236]	Legal Source[236]	
+129-7	17107-17113	893.13	*[236]	Legal Source[236]	
+129-8	17114-17115	(	*[236]	Legal Source[236]	
+129-9	17116-17120	1)(a	*[236]	Legal Source[236]	
+129-10	17121-17122	)	*[236]	Legal Source[236]	
+129-11	17123-17124	,	_	_	
+129-12	17125-17126	a	_	_	
+129-13	17127-17136	defendant	_	_	
+129-14	17137-17144	unaware	_	_	
+129-15	17145-17147	of	_	_	
+129-16	17148-17151	the	_	_	
+129-17	17152-17161	substance	_	_	
+129-18	17162-17164	's	_	_	
+129-19	17165-17172	illicit	_	_	
+129-20	17173-17179	nature	_	_	
+129-21	17180-17183	can	_	_	
+129-22	17184-17189	raise	_	_	
+129-23	17190-17194	that	_	_	
+129-24	17195-17206	unawareness	_	_	
+129-25	17207-17209	as	_	_	
+129-26	17210-17212	an	_	_	
+129-27	17213-17224	affirmative	_	_	
+129-28	17225-17232	defense	_	_	
+129-29	17233-17234	,	_	_	
+129-30	17235-17237	in	_	_	
+129-31	17238-17243	which	_	_	
+129-32	17244-17248	case	_	_	
+129-33	17249-17252	the	_	_	
+129-34	17253-17261	standard	_	_	
+129-35	17262-17266	jury	_	_	
+129-36	17267-17279	instructions	_	_	
+129-37	17280-17287	require	_	_	
+129-38	17288-17289	a	_	_	
+129-39	17290-17297	finding	_	_	
+129-40	17298-17300	of	_	_	
+129-41	17301-17310	knowledge	_	_	
+129-42	17311-17317	beyond	_	_	
+129-43	17318-17319	a	_	_	
+129-44	17320-17330	reasonable	_	_	
+129-45	17331-17336	doubt	_	_	
+129-46	17337-17338	.	_	_	
+
+#Text=§ 893.101(2 ) ; Fla. Crim . Jury Instr . § 25.2 ( 2020 ) , https://www.floridasupremecourt.org/content/download/568865/6425767/file/EntireDocument.rtf .
+130-1	17339-17340	§	*[237]	Legal Source[237]	
+130-2	17341-17350	893.101(2	*[237]	Legal Source[237]	
+130-3	17351-17352	)	*[237]	Legal Source[237]	
+130-4	17353-17354	;	*[237]	Legal Source[237]	
+130-5	17355-17359	Fla.	*[237]	Legal Source[237]	
+130-6	17360-17364	Crim	*[237]	Legal Source[237]	
+130-7	17365-17366	.	*[237]	Legal Source[237]	
+130-8	17367-17371	Jury	*[237]	Legal Source[237]	
+130-9	17372-17377	Instr	*[237]	Legal Source[237]	
+130-10	17378-17379	.	*[237]	Legal Source[237]	
+130-11	17380-17381	§	*[237]	Legal Source[237]	
+130-12	17382-17386	25.2	*[237]	Legal Source[237]	
+130-13	17387-17388	(	*[237]	Legal Source[237]	
+130-14	17389-17393	2020	*[237]	Legal Source[237]	
+130-15	17394-17395	)	*[237]	Legal Source[237]	
+130-16	17396-17397	,	_	_	
+130-17	17398-17489	https://www.floridasupremecourt.org/content/download/568865/6425767/file/EntireDocument.rtf	_	_	
+130-18	17490-17491	.	_	_	
+
+#Text=In any event , both parties ' interpretations of 18 U.S.C. § 924 ( e)(2)(A)(ii ) achieve a measure of consistency .
+131-1	17492-17494	In	_	_	
+131-2	17495-17498	any	_	_	
+131-3	17499-17504	event	_	_	
+131-4	17505-17506	,	_	_	
+131-5	17507-17511	both	_	_	
+131-6	17512-17519	parties	_	_	
+131-7	17520-17521	'	_	_	
+131-8	17522-17537	interpretations	*	Metalinguistic Cue	
+131-9	17538-17540	of	_	_	
+131-10	17541-17543	18	*[238]	Legal Source[238]	
+131-11	17544-17550	U.S.C.	*[238]	Legal Source[238]	
+131-12	17551-17552	§	*[238]	Legal Source[238]	
+131-13	17553-17556	924	*[238]	Legal Source[238]	
+131-14	17557-17558	(	*[238]	Legal Source[238]	
+131-15	17559-17570	e)(2)(A)(ii	*[238]	Legal Source[238]	
+131-16	17571-17572	)	*[238]	Legal Source[238]	
+131-17	17573-17580	achieve	_	_	
+131-18	17581-17582	a	_	_	
+131-19	17583-17590	measure	_	_	
+131-20	17591-17593	of	_	_	
+131-21	17594-17605	consistency	_	_	
+131-22	17606-17607	.	_	_	
+
+#Text=Resolving this case requires us to determine which form of consistency Congress intended : application of ACCA to all offenders who engaged in certain conduct or to all who committed certain generic offenses ( in either reading , judging only by the elements of their prior convictions ) .
+132-1	17608-17617	Resolving	_	_	
+132-2	17618-17622	this	_	_	
+132-3	17623-17627	case	_	_	
+132-4	17628-17636	requires	_	_	
+132-5	17637-17639	us	_	_	
+132-6	17640-17642	to	_	_	
+132-7	17643-17652	determine	_	_	
+132-8	17653-17658	which	_	_	
+132-9	17659-17663	form	_	_	
+132-10	17664-17666	of	_	_	
+132-11	17667-17678	consistency	_	_	
+132-12	17679-17687	Congress	_	_	
+132-13	17688-17696	intended	*	Metalinguistic Cue	
+132-14	17697-17698	:	_	_	
+132-15	17699-17710	application	_	_	
+132-16	17711-17713	of	_	_	
+132-17	17714-17718	ACCA	*	Legal Source	
+132-18	17719-17721	to	_	_	
+132-19	17722-17725	all	_	_	
+132-20	17726-17735	offenders	_	_	
+132-21	17736-17739	who	_	_	
+132-22	17740-17747	engaged	_	_	
+132-23	17748-17750	in	_	_	
+132-24	17751-17758	certain	_	_	
+132-25	17759-17766	conduct	_	_	
+132-26	17767-17769	or	_	_	
+132-27	17770-17772	to	_	_	
+132-28	17773-17776	all	_	_	
+132-29	17777-17780	who	_	_	
+132-30	17781-17790	committed	_	_	
+132-31	17791-17798	certain	_	_	
+132-32	17799-17806	generic	_	_	
+132-33	17807-17815	offenses	_	_	
+132-34	17816-17817	(	_	_	
+132-35	17818-17820	in	_	_	
+132-36	17821-17827	either	_	_	
+132-37	17828-17835	reading	_	_	
+132-38	17836-17837	,	_	_	
+132-39	17838-17845	judging	_	_	
+132-40	17846-17850	only	_	_	
+132-41	17851-17853	by	_	_	
+132-42	17854-17857	the	_	_	
+132-43	17858-17866	elements	_	_	
+132-44	17867-17869	of	_	_	
+132-45	17870-17875	their	_	_	
+132-46	17876-17881	prior	_	_	
+132-47	17882-17893	convictions	_	_	
+132-48	17894-17895	)	_	_	
+132-49	17896-17897	.	_	_	
+
+#Text=For the reasons explained , we are persuaded that Congress chose the former .
+133-1	17898-17901	For	_	_	
+133-2	17902-17905	the	_	_	
+133-3	17906-17913	reasons	_	_	
+133-4	17914-17923	explained	_	_	
+133-5	17924-17925	,	_	_	
+133-6	17926-17928	we	_	_	
+133-7	17929-17932	are	_	_	
+133-8	17933-17942	persuaded	_	_	
+133-9	17943-17947	that	_	_	
+133-10	17948-17956	Congress	_	_	
+133-11	17957-17962	chose	_	_	
+133-12	17963-17966	the	_	_	
+133-13	17967-17973	former	_	_	
+133-14	17974-17975	.	_	_	
+
+#Text=E
+134-1	17976-17977	E	_	_	
+
+#Text=Shular urges us to apply the rule of lenity in determining whether § 924(e)(2)(A)(ii ) requires a generic - offense - matching analysis .
+135-1	17978-17984	Shular	_	_	
+135-2	17985-17990	urges	_	_	
+135-3	17991-17993	us	_	_	
+135-4	17994-17996	to	_	_	
+135-5	17997-18002	apply	_	_	
+135-6	18003-18006	the	_	_	
+135-7	18007-18011	rule	Don't remember decision on rule of lenity[239]	*[239]	
+135-8	18012-18014	of	Don't remember decision on rule of lenity[239]	*[239]	
+135-9	18015-18021	lenity	Don't remember decision on rule of lenity[239]	*[239]	
+135-10	18022-18024	in	_	_	
+135-11	18025-18036	determining	_	_	
+135-12	18037-18044	whether	_	_	
+135-13	18045-18046	§	*[240]	Legal Source[240]	
+135-14	18047-18062	924(e)(2)(A)(ii	*[240]	Legal Source[240]	
+135-15	18063-18064	)	*[240]	Legal Source[240]	
+135-16	18065-18073	requires	_	_	
+135-17	18074-18075	a	_	_	
+135-18	18076-18083	generic	_	_	
+135-19	18084-18085	-	_	_	
+135-20	18086-18093	offense	_	_	
+135-21	18094-18095	-	_	_	
+135-22	18096-18104	matching	_	_	
+135-23	18105-18113	analysis	_	_	
+135-24	18114-18115	.	_	_	
+
+#Text=The rule " applies only when , after consulting traditional canons of statutory construction , we are left with an ambiguous statute . "
+136-1	18116-18119	The	_	_	
+136-2	18120-18124	rule	_	_	
+136-3	18125-18126	"	*[241]	Direct Quote[241]	
+136-4	18127-18134	applies	*[241]	Direct Quote[241]	
+136-5	18135-18139	only	*[241]	Direct Quote[241]	
+136-6	18140-18144	when	*[241]	Direct Quote[241]	
+136-7	18145-18146	,	*[241]	Direct Quote[241]	
+136-8	18147-18152	after	*[241]	Direct Quote[241]	
+136-9	18153-18163	consulting	*[241]	Direct Quote[241]	
+136-10	18164-18175	traditional	*[241]|*[242]	Direct Quote[241]|Named Interpretive Rule[242]	
+136-11	18176-18182	canons	*[241]|*[242]	Direct Quote[241]|Named Interpretive Rule[242]	
+136-12	18183-18185	of	*[241]|*[242]	Direct Quote[241]|Named Interpretive Rule[242]	
+136-13	18186-18195	statutory	*[241]|*[242]	Direct Quote[241]|Named Interpretive Rule[242]	
+136-14	18196-18208	construction	*[241]|*[242]	Direct Quote[241]|Named Interpretive Rule[242]	
+136-15	18209-18210	,	*[241]	Direct Quote[241]	
+136-16	18211-18213	we	*[241]	Direct Quote[241]	
+136-17	18214-18217	are	*[241]	Direct Quote[241]	
+136-18	18218-18222	left	*[241]	Direct Quote[241]	
+136-19	18223-18227	with	*[241]	Direct Quote[241]	
+136-20	18228-18230	an	*[241]	Direct Quote[241]	
+136-21	18231-18240	ambiguous	*[241]|*[243]	Direct Quote[241]|Metalinguistic Cue[243]	
+136-22	18241-18248	statute	*[241]|*[243]	Direct Quote[241]|Metalinguistic Cue[243]	
+136-23	18249-18250	.	*[241]	Direct Quote[241]	
+136-24	18251-18252	"	*[241]	Direct Quote[241]	
+
+#Text=United States v. Shabani , 513 U.S. 10 , 17 , 115 S.Ct . 382 , 130 L.Ed.2d 225 ( 1994 ) .
+137-1	18253-18259	United	*[244]	Legal Source[244]	
+137-2	18260-18266	States	*[244]	Legal Source[244]	
+137-3	18267-18269	v.	*[244]	Legal Source[244]	
+137-4	18270-18277	Shabani	*[244]	Legal Source[244]	
+137-5	18278-18279	,	*[244]	Legal Source[244]	
+137-6	18280-18283	513	*[244]	Legal Source[244]	
+137-7	18284-18288	U.S.	*[244]	Legal Source[244]	
+137-8	18289-18291	10	*[244]	Legal Source[244]	
+137-9	18292-18293	,	*[244]	Legal Source[244]	
+137-10	18294-18296	17	*[244]	Legal Source[244]	
+137-11	18297-18298	,	*[244]	Legal Source[244]	
+137-12	18299-18302	115	*[244]	Legal Source[244]	
+137-13	18303-18307	S.Ct	*[244]	Legal Source[244]	
+137-14	18308-18309	.	*[244]	Legal Source[244]	
+137-15	18310-18313	382	*[244]	Legal Source[244]	
+137-16	18314-18315	,	*[244]	Legal Source[244]	
+137-17	18316-18319	130	*[244]	Legal Source[244]	
+137-18	18320-18327	L.Ed.2d	*[244]	Legal Source[244]	
+137-19	18328-18331	225	*[244]	Legal Source[244]	
+137-20	18332-18333	(	*[244]	Legal Source[244]	
+137-21	18334-18338	1994	*[244]	Legal Source[244]	
+137-22	18339-18340	)	*[244]	Legal Source[244]	
+137-23	18341-18342	.	_	_	
+
+#Text=Here , we are left with no ambiguity for the rule of lenity to resolve .
+138-1	18343-18347	Here	_	_	
+138-2	18348-18349	,	_	_	
+138-3	18350-18352	we	_	_	
+138-4	18353-18356	are	_	_	
+138-5	18357-18361	left	_	_	
+138-6	18362-18366	with	_	_	
+138-7	18367-18369	no	_	_	
+138-8	18370-18379	ambiguity	*	Metalinguistic Cue	
+138-9	18380-18383	for	_	_	
+138-10	18384-18387	the	_	_	
+138-11	18388-18392	rule	*[245]	Named Interpretive Rule[245]	
+138-12	18393-18395	of	*[245]	Named Interpretive Rule[245]	
+138-13	18396-18402	lenity	*[245]	Named Interpretive Rule[245]	
+138-14	18403-18405	to	_	_	
+138-15	18406-18413	resolve	_	_	
+138-16	18414-18415	.	_	_	
+
+#Text=Section 924(e)(2)(A)(ii ) 's text and context leave no doubt that it refers to an offense involving the conduct of " manufacturing , distributing , or possessing with intent to manufacture or distribute , a controlled substance . "
+139-1	18416-18423	Section	*[246]	Legal Source[246]	
+139-2	18424-18439	924(e)(2)(A)(ii	*[246]	Legal Source[246]	
+139-3	18440-18441	)	*[246]	Legal Source[246]	
+139-4	18442-18444	's	_	_	
+139-5	18445-18449	text	*[247]	Metalinguistic Cue[247]	
+139-6	18450-18453	and	*[247]	Metalinguistic Cue[247]	
+139-7	18454-18461	context	*[247]	Metalinguistic Cue[247]	
+139-8	18462-18467	leave	_	_	
+139-9	18468-18470	no	_	_	
+139-10	18471-18476	doubt	_	_	
+139-11	18477-18481	that	_	_	
+139-12	18482-18484	it	_	_	
+139-13	18485-18491	refers	_	_	
+139-14	18492-18494	to	_	_	
+139-15	18495-18497	an	_	_	
+139-16	18498-18505	offense	_	_	
+139-17	18506-18515	involving	_	_	
+139-18	18516-18519	the	_	_	
+139-19	18520-18527	conduct	_	_	
+139-20	18528-18530	of	_	_	
+139-21	18531-18532	"	*[248]	Direct Quote[248]	
+139-22	18533-18546	manufacturing	*[248]	Direct Quote[248]	
+139-23	18547-18548	,	*[248]	Direct Quote[248]	
+139-24	18549-18561	distributing	*[248]	Direct Quote[248]	
+139-25	18562-18563	,	*[248]	Direct Quote[248]	
+139-26	18564-18566	or	*[248]	Direct Quote[248]	
+139-27	18567-18577	possessing	*[248]	Direct Quote[248]	
+139-28	18578-18582	with	*[248]	Direct Quote[248]	
+139-29	18583-18589	intent	*[248]	Direct Quote[248]	
+139-30	18590-18592	to	*[248]	Direct Quote[248]	
+139-31	18593-18604	manufacture	*[248]	Direct Quote[248]	
+139-32	18605-18607	or	*[248]	Direct Quote[248]	
+139-33	18608-18618	distribute	*[248]	Direct Quote[248]	
+139-34	18619-18620	,	*[248]	Direct Quote[248]	
+139-35	18621-18622	a	*[248]	Direct Quote[248]	
+139-36	18623-18633	controlled	*[248]	Direct Quote[248]	
+139-37	18634-18643	substance	*[248]	Direct Quote[248]	
+139-38	18644-18645	.	*[248]	Direct Quote[248]	
+139-39	18646-18647	"	*[248]	Direct Quote[248]	
+
+#Text=Because those terms describe conduct and do not name offenses , a court applying § 924(e)(2)(A)(ii ) need not delineate the elements of generic offenses .
+140-1	18648-18655	Because	_	_	
+140-2	18656-18661	those	_	_	
+140-3	18662-18667	terms	*	Metalinguistic Cue	
+140-4	18668-18676	describe	_	_	
+140-5	18677-18684	conduct	_	_	
+140-6	18685-18688	and	_	_	
+140-7	18689-18691	do	_	_	
+140-8	18692-18695	not	_	_	
+140-9	18696-18700	name	_	_	
+140-10	18701-18709	offenses	_	_	
+140-11	18710-18711	,	_	_	
+140-12	18712-18713	a	_	_	
+140-13	18714-18719	court	_	_	
+140-14	18720-18728	applying	_	_	
+140-15	18729-18730	§	*[249]	Legal Source[249]	
+140-16	18731-18746	924(e)(2)(A)(ii	*[249]	Legal Source[249]	
+140-17	18747-18748	)	*[249]	Legal Source[249]	
+140-18	18749-18753	need	_	_	
+140-19	18754-18757	not	_	_	
+140-20	18758-18767	delineate	_	_	
+140-21	18768-18771	the	_	_	
+140-22	18772-18780	elements	_	_	
+140-23	18781-18783	of	_	_	
+140-24	18784-18791	generic	_	_	
+140-25	18792-18800	offenses	_	_	
+140-26	18801-18802	.	_	_	
+
+#Text=* * *
+141-1	18803-18804	*	_	_	
+141-2	18805-18806	*	_	_	
+141-3	18807-18808	*	_	_	
+
+#Text=For the reasons stated , the judgment of the Court of Appeals for the Eleventh Circuit is Affirmed .
+142-1	18809-18812	For	_	_	
+142-2	18813-18816	the	_	_	
+142-3	18817-18824	reasons	_	_	
+142-4	18825-18831	stated	_	_	
+142-5	18832-18833	,	_	_	
+142-6	18834-18837	the	_	_	
+142-7	18838-18846	judgment	_	_	
+142-8	18847-18849	of	_	_	
+142-9	18850-18853	the	_	_	
+142-10	18854-18859	Court	_	_	
+142-11	18860-18862	of	_	_	
+142-12	18863-18870	Appeals	_	_	
+142-13	18871-18874	for	_	_	
+142-14	18875-18878	the	_	_	
+142-15	18879-18887	Eleventh	_	_	
+142-16	18888-18895	Circuit	_	_	
+142-17	18896-18898	is	_	_	
+142-18	18899-18907	Affirmed	_	_	
+142-19	18908-18909	.	_	_	

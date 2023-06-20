@@ -1,0 +1,4435 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice ALITO delivered the opinion of the Court .
+1-1	0-7	Justice	_	_	
+1-2	8-13	ALITO	_	_	
+1-3	14-23	delivered	_	_	
+1-4	24-27	the	_	_	
+1-5	28-35	opinion	_	_	
+1-6	36-38	of	_	_	
+1-7	39-42	the	_	_	
+1-8	43-48	Court	_	_	
+1-9	49-50	.	_	_	
+
+#Text=The Employee Retirement Income Security Act of 1974 ( ERISA ) requires plaintiffs with " actual knowledge " of an alleged fiduciary breach to file suit within three years of gaining that knowledge rather than within the 6 - year period that would otherwise apply .
+2-1	51-54	The	_	_	
+2-2	55-63	Employee	*[1]	Legal Source[1]	
+2-3	64-74	Retirement	*[1]	Legal Source[1]	
+2-4	75-81	Income	*[1]	Legal Source[1]	
+2-5	82-90	Security	*[1]	Legal Source[1]	
+2-6	91-94	Act	*[1]	Legal Source[1]	
+2-7	95-97	of	*[1]	Legal Source[1]	
+2-8	98-102	1974	*[1]	Legal Source[1]	
+2-9	103-104	(	*[1]	Legal Source[1]	
+2-10	105-110	ERISA	*[1]	Legal Source[1]	
+2-11	111-112	)	*[1]	Legal Source[1]	
+2-12	113-121	requires	_	_	
+2-13	122-132	plaintiffs	_	_	
+2-14	133-137	with	_	_	
+2-15	138-139	"	*[2]	Direct Quote[2]	
+2-16	140-146	actual	*[2]	Direct Quote[2]	
+2-17	147-156	knowledge	*[2]	Direct Quote[2]	
+2-18	157-158	"	*[2]	Direct Quote[2]	
+2-19	159-161	of	_	_	
+2-20	162-164	an	_	_	
+2-21	165-172	alleged	_	_	
+2-22	173-182	fiduciary	_	_	
+2-23	183-189	breach	_	_	
+2-24	190-192	to	_	_	
+2-25	193-197	file	_	_	
+2-26	198-202	suit	_	_	
+2-27	203-209	within	_	_	
+2-28	210-215	three	_	_	
+2-29	216-221	years	_	_	
+2-30	222-224	of	_	_	
+2-31	225-232	gaining	_	_	
+2-32	233-237	that	_	_	
+2-33	238-247	knowledge	_	_	
+2-34	248-254	rather	_	_	
+2-35	255-259	than	_	_	
+2-36	260-266	within	_	_	
+2-37	267-270	the	_	_	
+2-38	271-272	6	_	_	
+2-39	273-274	-	_	_	
+2-40	275-279	year	_	_	
+2-41	280-286	period	_	_	
+2-42	287-291	that	_	_	
+2-43	292-297	would	_	_	
+2-44	298-307	otherwise	_	_	
+2-45	308-313	apply	_	_	
+2-46	314-315	.	_	_	
+
+#Text=§ 413(a)(2)(A ) , 88 Stat . 889 , as amended , 29 U.S.C. § 1113 .
+3-1	316-317	§	*[3]	Legal Source[3]	
+3-2	318-329	413(a)(2)(A	*[3]	Legal Source[3]	
+3-3	330-331	)	*[3]	Legal Source[3]	
+3-4	332-333	,	*[3]	Legal Source[3]	
+3-5	334-336	88	*[3]	Legal Source[3]	
+3-6	337-341	Stat	*[3]	Legal Source[3]	
+3-7	342-343	.	*[3]	Legal Source[3]	
+3-8	344-347	889	*[3]	Legal Source[3]	
+3-9	348-349	,	*[3]	Legal Source[3]	
+3-10	350-352	as	*[3]	Legal Source[3]	
+3-11	353-360	amended	*[3]	Legal Source[3]	
+3-12	361-362	,	*[3]	Legal Source[3]	
+3-13	363-365	29	*[3]	Legal Source[3]	
+3-14	366-372	U.S.C.	*[3]	Legal Source[3]	
+3-15	373-374	§	*[3]	Legal Source[3]	
+3-16	375-379	1113	*[3]	Legal Source[3]	
+3-17	380-381	.	_	_	
+
+#Text=The question here is whether a plaintiff necessarily has " actual knowledge " of the information contained in disclosures that he receives but does not read or can not recall reading .
+4-1	382-385	The	_	_	
+4-2	386-394	question	_	_	
+4-3	395-399	here	_	_	
+4-4	400-402	is	_	_	
+4-5	403-410	whether	_	_	
+4-6	411-412	a	_	_	
+4-7	413-422	plaintiff	_	_	
+4-8	423-434	necessarily	_	_	
+4-9	435-438	has	_	_	
+4-10	439-440	"	*[4]	Direct Quote[4]	
+4-11	441-447	actual	*[4]|*[5]	Direct Quote[4]|Focal Term[5]	
+4-12	448-457	knowledge	*[4]|*[5]	Direct Quote[4]|Focal Term[5]	
+4-13	458-459	"	*[4]	Direct Quote[4]	
+4-14	460-462	of	_	_	
+4-15	463-466	the	_	_	
+4-16	467-478	information	_	_	
+4-17	479-488	contained	_	_	
+4-18	489-491	in	_	_	
+4-19	492-503	disclosures	_	_	
+4-20	504-508	that	_	_	
+4-21	509-511	he	_	_	
+4-22	512-520	receives	_	_	
+4-23	521-524	but	_	_	
+4-24	525-529	does	_	_	
+4-25	530-533	not	_	_	
+4-26	534-538	read	_	_	
+4-27	539-541	or	_	_	
+4-28	542-545	can	_	_	
+4-29	546-549	not	_	_	
+4-30	550-556	recall	_	_	
+4-31	557-564	reading	_	_	
+4-32	565-566	.	_	_	
+
+#Text=We hold that he does not and therefore affirm .
+5-1	567-569	We	_	_	
+5-2	570-574	hold	_	_	
+5-3	575-579	that	_	_	
+5-4	580-582	he	_	_	
+5-5	583-587	does	_	_	
+5-6	588-591	not	_	_	
+5-7	592-595	and	_	_	
+5-8	596-605	therefore	_	_	
+5-9	606-612	affirm	_	_	
+5-10	613-614	.	_	_	
+
+#Text=I
+6-1	615-616	I	_	_	
+
+#Text=A
+7-1	617-618	A	_	_	
+
+#Text=Retirement plans governed by ERISA must have at least one named fiduciary , § 1102(a)(1 ) , who must manage the plan prudently and solely in the interests of participants and their beneficiaries , § 1104(a ) .
+8-1	619-629	Retirement	_	_	
+8-2	630-635	plans	_	_	
+8-3	636-644	governed	_	_	
+8-4	645-647	by	_	_	
+8-5	648-653	ERISA	*	Legal Source	
+8-6	654-658	must	_	_	
+8-7	659-663	have	_	_	
+8-8	664-666	at	_	_	
+8-9	667-672	least	_	_	
+8-10	673-676	one	_	_	
+8-11	677-682	named	_	_	
+8-12	683-692	fiduciary	_	_	
+8-13	693-694	,	_	_	
+8-14	695-696	§	*[6]	Legal Source[6]	
+8-15	697-706	1102(a)(1	*[6]	Legal Source[6]	
+8-16	707-708	)	*[6]	Legal Source[6]	
+8-17	709-710	,	_	_	
+8-18	711-714	who	_	_	
+8-19	715-719	must	_	_	
+8-20	720-726	manage	_	_	
+8-21	727-730	the	_	_	
+8-22	731-735	plan	_	_	
+8-23	736-745	prudently	_	_	
+8-24	746-749	and	_	_	
+8-25	750-756	solely	_	_	
+8-26	757-759	in	_	_	
+8-27	760-763	the	_	_	
+8-28	764-773	interests	_	_	
+8-29	774-776	of	_	_	
+8-30	777-789	participants	_	_	
+8-31	790-793	and	_	_	
+8-32	794-799	their	_	_	
+8-33	800-813	beneficiaries	_	_	
+8-34	814-815	,	_	_	
+8-35	816-817	§	*[7]	Legal Source[7]	
+8-36	818-824	1104(a	*[7]	Legal Source[7]	
+8-37	825-826	)	*[7]	Legal Source[7]	
+8-38	827-828	.	_	_	
+
+#Text=Fiduciaries who breach these duties are personally liable to the plan for any resulting losses .
+9-1	829-840	Fiduciaries	_	_	
+9-2	841-844	who	_	_	
+9-3	845-851	breach	_	_	
+9-4	852-857	these	_	_	
+9-5	858-864	duties	_	_	
+9-6	865-868	are	_	_	
+9-7	869-879	personally	_	_	
+9-8	880-886	liable	_	_	
+9-9	887-889	to	_	_	
+9-10	890-893	the	_	_	
+9-11	894-898	plan	_	_	
+9-12	899-902	for	_	_	
+9-13	903-906	any	_	_	
+9-14	907-916	resulting	_	_	
+9-15	917-923	losses	_	_	
+9-16	924-925	.	_	_	
+
+#Text=§ 1109(a ) .
+10-1	926-927	§	*[8]	Legal Source[8]	
+10-2	928-934	1109(a	*[8]	Legal Source[8]	
+10-3	935-936	)	*[8]	Legal Source[8]	
+10-4	937-938	.	_	_	
+
+#Text=ERISA authorizes participants and their beneficiaries , as well as co - fiduciaries and the Secretary of Labor , to sue for that relief .
+11-1	939-944	ERISA	*	Legal Source	
+11-2	945-955	authorizes	_	_	
+11-3	956-968	participants	_	_	
+11-4	969-972	and	_	_	
+11-5	973-978	their	_	_	
+11-6	979-992	beneficiaries	_	_	
+11-7	993-994	,	_	_	
+11-8	995-997	as	_	_	
+11-9	998-1002	well	_	_	
+11-10	1003-1005	as	_	_	
+11-11	1006-1008	co	_	_	
+11-12	1009-1010	-	_	_	
+11-13	1011-1022	fiduciaries	_	_	
+11-14	1023-1026	and	_	_	
+11-15	1027-1030	the	_	_	
+11-16	1031-1040	Secretary	_	_	
+11-17	1041-1043	of	_	_	
+11-18	1044-1049	Labor	_	_	
+11-19	1050-1051	,	_	_	
+11-20	1052-1054	to	_	_	
+11-21	1055-1058	sue	_	_	
+11-22	1059-1062	for	_	_	
+11-23	1063-1067	that	_	_	
+11-24	1068-1074	relief	_	_	
+11-25	1075-1076	.	_	_	
+
+#Text=§ 1132(a)(2 ) .
+12-1	1077-1078	§	*[9]	Legal Source[9]	
+12-2	1079-1088	1132(a)(2	*[9]	Legal Source[9]	
+12-3	1089-1090	)	*[9]	Legal Source[9]	
+12-4	1091-1092	.	_	_	
+
+#Text=Such suits must be filed within one of three time periods , each with different triggering events .
+13-1	1093-1097	Such	_	_	
+13-2	1098-1103	suits	_	_	
+13-3	1104-1108	must	_	_	
+13-4	1109-1111	be	_	_	
+13-5	1112-1117	filed	_	_	
+13-6	1118-1124	within	_	_	
+13-7	1125-1128	one	_	_	
+13-8	1129-1131	of	_	_	
+13-9	1132-1137	three	_	_	
+13-10	1138-1142	time	_	_	
+13-11	1143-1150	periods	_	_	
+13-12	1151-1152	,	_	_	
+13-13	1153-1157	each	_	_	
+13-14	1158-1162	with	_	_	
+13-15	1163-1172	different	_	_	
+13-16	1173-1183	triggering	_	_	
+13-17	1184-1190	events	_	_	
+13-18	1191-1192	.	_	_	
+
+#Text=The first begins when the breach occurs .
+14-1	1193-1196	The	_	_	
+14-2	1197-1202	first	_	_	
+14-3	1203-1209	begins	_	_	
+14-4	1210-1214	when	_	_	
+14-5	1215-1218	the	_	_	
+14-6	1219-1225	breach	_	_	
+14-7	1226-1232	occurs	_	_	
+14-8	1233-1234	.	_	_	
+
+#Text=Specifically , under § 1113(1 ) , suit must be filed within six years of " the date of the last action which constituted a part of the breach or violation " or , in cases of breach by omission , " the latest date on which the fiduciary could have cured the breach or violation . "
+15-1	1235-1247	Specifically	_	_	
+15-2	1248-1249	,	_	_	
+15-3	1250-1255	under	_	_	
+15-4	1256-1257	§	*[10]	Legal Source[10]	
+15-5	1258-1264	1113(1	*[10]	Legal Source[10]	
+15-6	1265-1266	)	*[10]	Legal Source[10]	
+15-7	1267-1268	,	_	_	
+15-8	1269-1273	suit	_	_	
+15-9	1274-1278	must	_	_	
+15-10	1279-1281	be	_	_	
+15-11	1282-1287	filed	_	_	
+15-12	1288-1294	within	_	_	
+15-13	1295-1298	six	_	_	
+15-14	1299-1304	years	_	_	
+15-15	1305-1307	of	_	_	
+15-16	1308-1309	"	*[11]	Direct Quote[11]	
+15-17	1310-1313	the	*[11]	Direct Quote[11]	
+15-18	1314-1318	date	*[11]	Direct Quote[11]	
+15-19	1319-1321	of	*[11]	Direct Quote[11]	
+15-20	1322-1325	the	*[11]	Direct Quote[11]	
+15-21	1326-1330	last	*[11]	Direct Quote[11]	
+15-22	1331-1337	action	*[11]	Direct Quote[11]	
+15-23	1338-1343	which	*[11]	Direct Quote[11]	
+15-24	1344-1355	constituted	*[11]	Direct Quote[11]	
+15-25	1356-1357	a	*[11]	Direct Quote[11]	
+15-26	1358-1362	part	*[11]	Direct Quote[11]	
+15-27	1363-1365	of	*[11]	Direct Quote[11]	
+15-28	1366-1369	the	*[11]	Direct Quote[11]	
+15-29	1370-1376	breach	*[11]	Direct Quote[11]	
+15-30	1377-1379	or	*[11]	Direct Quote[11]	
+15-31	1380-1389	violation	*[11]	Direct Quote[11]	
+15-32	1390-1391	"	*[11]	Direct Quote[11]	
+15-33	1392-1394	or	_	_	
+15-34	1395-1396	,	_	_	
+15-35	1397-1399	in	_	_	
+15-36	1400-1405	cases	_	_	
+15-37	1406-1408	of	_	_	
+15-38	1409-1415	breach	_	_	
+15-39	1416-1418	by	_	_	
+15-40	1419-1427	omission	_	_	
+15-41	1428-1429	,	_	_	
+15-42	1430-1431	"	*[12]	Direct Quote[12]	
+15-43	1432-1435	the	*[12]	Direct Quote[12]	
+15-44	1436-1442	latest	*[12]	Direct Quote[12]	
+15-45	1443-1447	date	*[12]	Direct Quote[12]	
+15-46	1448-1450	on	*[12]	Direct Quote[12]	
+15-47	1451-1456	which	*[12]	Direct Quote[12]	
+15-48	1457-1460	the	*[12]	Direct Quote[12]	
+15-49	1461-1470	fiduciary	*[12]	Direct Quote[12]	
+15-50	1471-1476	could	*[12]	Direct Quote[12]	
+15-51	1477-1481	have	*[12]	Direct Quote[12]	
+15-52	1482-1487	cured	*[12]	Direct Quote[12]	
+15-53	1488-1491	the	*[12]	Direct Quote[12]	
+15-54	1492-1498	breach	*[12]	Direct Quote[12]	
+15-55	1499-1501	or	*[12]	Direct Quote[12]	
+15-56	1502-1511	violation	*[12]	Direct Quote[12]	
+15-57	1512-1513	.	*[12]	Direct Quote[12]	
+15-58	1514-1515	"	*[12]	Direct Quote[12]	
+
+#Text=We have referred to § 1113(1 ) as a statute of repose , which " effect[s ] a legislative judgment that a defendant should be free from liability after the legislatively determined period of time . "
+16-1	1516-1518	We	_	_	
+16-2	1519-1523	have	_	_	
+16-3	1524-1532	referred	_	_	
+16-4	1533-1535	to	_	_	
+16-5	1536-1537	§	_	_	
+16-6	1538-1544	1113(1	_	_	
+16-7	1545-1546	)	_	_	
+16-8	1547-1549	as	_	_	
+16-9	1550-1551	a	_	_	
+16-10	1552-1559	statute	_	_	
+16-11	1560-1562	of	_	_	
+16-12	1563-1569	repose	_	_	
+16-13	1570-1571	,	_	_	
+16-14	1572-1577	which	_	_	
+16-15	1578-1579	"	*[13]	Direct Quote[13]	
+16-16	1580-1588	effect[s	*[13]	Direct Quote[13]	
+16-17	1589-1590	]	*[13]	Direct Quote[13]	
+16-18	1591-1592	a	*[13]	Direct Quote[13]	
+16-19	1593-1604	legislative	*[13]	Direct Quote[13]	
+16-20	1605-1613	judgment	*[13]	Direct Quote[13]	
+16-21	1614-1618	that	*[13]	Direct Quote[13]	
+16-22	1619-1620	a	*[13]	Direct Quote[13]	
+16-23	1621-1630	defendant	*[13]	Direct Quote[13]	
+16-24	1631-1637	should	*[13]	Direct Quote[13]	
+16-25	1638-1640	be	*[13]	Direct Quote[13]	
+16-26	1641-1645	free	*[13]	Direct Quote[13]	
+16-27	1646-1650	from	*[13]	Direct Quote[13]	
+16-28	1651-1660	liability	*[13]	Direct Quote[13]	
+16-29	1661-1666	after	*[13]	Direct Quote[13]	
+16-30	1667-1670	the	*[13]	Direct Quote[13]	
+16-31	1671-1684	legislatively	*[13]	Direct Quote[13]	
+16-32	1685-1695	determined	*[13]	Direct Quote[13]	
+16-33	1696-1702	period	*[13]	Direct Quote[13]	
+16-34	1703-1705	of	*[13]	Direct Quote[13]	
+16-35	1706-1710	time	*[13]	Direct Quote[13]	
+16-36	1711-1712	.	*[13]	Direct Quote[13]	
+16-37	1713-1714	"	*[13]	Direct Quote[13]	
+
+#Text=California Public Employees ' Retirement System v. ANZ Securities , Inc. , 582 U.S. ---- , ---- , 137 S.Ct . 2042 , 2049 , 198 L.Ed.2d 584 ( 2017 ) ( internal quotation marks omitted ) .
+17-1	1715-1725	California	*[14]	Legal Source[14]	
+17-2	1726-1732	Public	*[14]	Legal Source[14]	
+17-3	1733-1742	Employees	*[14]	Legal Source[14]	
+17-4	1743-1744	'	*[14]	Legal Source[14]	
+17-5	1745-1755	Retirement	*[14]	Legal Source[14]	
+17-6	1756-1762	System	*[14]	Legal Source[14]	
+17-7	1763-1765	v.	*[14]	Legal Source[14]	
+17-8	1766-1769	ANZ	*[14]	Legal Source[14]	
+17-9	1770-1780	Securities	*[14]	Legal Source[14]	
+17-10	1781-1782	,	*[14]	Legal Source[14]	
+17-11	1783-1787	Inc.	*[14]	Legal Source[14]	
+17-12	1788-1789	,	*[14]	Legal Source[14]	
+17-13	1790-1793	582	*[14]	Legal Source[14]	
+17-14	1794-1798	U.S.	*[14]	Legal Source[14]	
+17-15	1799-1803	----	*[14]	Legal Source[14]	
+17-16	1804-1805	,	*[14]	Legal Source[14]	
+17-17	1806-1810	----	*[14]	Legal Source[14]	
+17-18	1811-1812	,	*[14]	Legal Source[14]	
+17-19	1813-1816	137	*[14]	Legal Source[14]	
+17-20	1817-1821	S.Ct	*[14]	Legal Source[14]	
+17-21	1822-1823	.	*[14]	Legal Source[14]	
+17-22	1824-1828	2042	*[14]	Legal Source[14]	
+17-23	1829-1830	,	*[14]	Legal Source[14]	
+17-24	1831-1835	2049	*[14]	Legal Source[14]	
+17-25	1836-1837	,	*[14]	Legal Source[14]	
+17-26	1838-1841	198	*[14]	Legal Source[14]	
+17-27	1842-1849	L.Ed.2d	*[14]	Legal Source[14]	
+17-28	1850-1853	584	*[14]	Legal Source[14]	
+17-29	1854-1855	(	*[14]	Legal Source[14]	
+17-30	1856-1860	2017	*[14]	Legal Source[14]	
+17-31	1861-1862	)	*[14]	Legal Source[14]	
+17-32	1863-1864	(	_	_	
+17-33	1865-1873	internal	_	_	
+17-34	1874-1883	quotation	_	_	
+17-35	1884-1889	marks	_	_	
+17-36	1890-1897	omitted	_	_	
+17-37	1898-1899	)	_	_	
+17-38	1900-1901	.	_	_	
+
+#Text=The second period , which accelerates the filing deadline , begins when the plaintiff gains " actual knowledge " of the breach .
+18-1	1902-1905	The	_	_	
+18-2	1906-1912	second	_	_	
+18-3	1913-1919	period	_	_	
+18-4	1920-1921	,	_	_	
+18-5	1922-1927	which	_	_	
+18-6	1928-1939	accelerates	_	_	
+18-7	1940-1943	the	_	_	
+18-8	1944-1950	filing	_	_	
+18-9	1951-1959	deadline	_	_	
+18-10	1960-1961	,	_	_	
+18-11	1962-1968	begins	_	_	
+18-12	1969-1973	when	_	_	
+18-13	1974-1977	the	_	_	
+18-14	1978-1987	plaintiff	_	_	
+18-15	1988-1993	gains	_	_	
+18-16	1994-1995	"	*[15]	Direct Quote[15]	
+18-17	1996-2002	actual	*[15]	Direct Quote[15]	
+18-18	2003-2012	knowledge	*[15]	Direct Quote[15]	
+18-19	2013-2014	"	*[15]	Direct Quote[15]	
+18-20	2015-2017	of	_	_	
+18-21	2018-2021	the	_	_	
+18-22	2022-2028	breach	_	_	
+18-23	2029-2030	.	_	_	
+
+#Text=Under § 1113(2 ) , suit must be filed within three years of " the earliest date on which the plaintiff had actual knowledge of the breach or violation . "
+19-1	2031-2036	Under	_	_	
+19-2	2037-2038	§	*[16]	Legal Source[16]	
+19-3	2039-2045	1113(2	*[16]	Legal Source[16]	
+19-4	2046-2047	)	*[16]	Legal Source[16]	
+19-5	2048-2049	,	_	_	
+19-6	2050-2054	suit	_	_	
+19-7	2055-2059	must	_	_	
+19-8	2060-2062	be	_	_	
+19-9	2063-2068	filed	_	_	
+19-10	2069-2075	within	_	_	
+19-11	2076-2081	three	_	_	
+19-12	2082-2087	years	_	_	
+19-13	2088-2090	of	_	_	
+19-14	2091-2092	"	*[17]	Direct Quote[17]	
+19-15	2093-2096	the	*[17]	Direct Quote[17]	
+19-16	2097-2105	earliest	*[17]	Direct Quote[17]	
+19-17	2106-2110	date	*[17]	Direct Quote[17]	
+19-18	2111-2113	on	*[17]	Direct Quote[17]	
+19-19	2114-2119	which	*[17]	Direct Quote[17]	
+19-20	2120-2123	the	*[17]	Direct Quote[17]	
+19-21	2124-2133	plaintiff	*[17]	Direct Quote[17]	
+19-22	2134-2137	had	*[17]	Direct Quote[17]	
+19-23	2138-2144	actual	*[17]	Direct Quote[17]	
+19-24	2145-2154	knowledge	*[17]	Direct Quote[17]	
+19-25	2155-2157	of	*[17]	Direct Quote[17]	
+19-26	2158-2161	the	*[17]	Direct Quote[17]	
+19-27	2162-2168	breach	*[17]	Direct Quote[17]	
+19-28	2169-2171	or	*[17]	Direct Quote[17]	
+19-29	2172-2181	violation	*[17]	Direct Quote[17]	
+19-30	2182-2183	.	*[17]	Direct Quote[17]	
+19-31	2184-2185	"	*[17]	Direct Quote[17]	
+
+#Text=Section 1113(2 ) is a statute of limitations , which " encourage[s ] plaintiffs to pursue diligent prosecution of known claims . "
+20-1	2186-2193	Section	*[18]	Legal Source[18]	
+20-2	2194-2200	1113(2	*[18]	Legal Source[18]	
+20-3	2201-2202	)	*[18]	Legal Source[18]	
+20-4	2203-2205	is	_	_	
+20-5	2206-2207	a	_	_	
+20-6	2208-2215	statute	_	_	
+20-7	2216-2218	of	_	_	
+20-8	2219-2230	limitations	_	_	
+20-9	2231-2232	,	_	_	
+20-10	2233-2238	which	_	_	
+20-11	2239-2240	"	*[19]	Direct Quote[19]	
+20-12	2241-2252	encourage[s	*[19]	Direct Quote[19]	
+20-13	2253-2254	]	*[19]	Direct Quote[19]	
+20-14	2255-2265	plaintiffs	*[19]	Direct Quote[19]	
+20-15	2266-2268	to	*[19]	Direct Quote[19]	
+20-16	2269-2275	pursue	*[19]	Direct Quote[19]	
+20-17	2276-2284	diligent	*[19]	Direct Quote[19]	
+20-18	2285-2296	prosecution	*[19]	Direct Quote[19]	
+20-19	2297-2299	of	*[19]	Direct Quote[19]	
+20-20	2300-2305	known	*[19]	Direct Quote[19]	
+20-21	2306-2312	claims	*[19]	Direct Quote[19]	
+20-22	2313-2314	.	*[19]	Direct Quote[19]	
+20-23	2315-2316	"	*[19]	Direct Quote[19]	
+
+#Text=Id. , at ---- , 137 S.Ct . , at 2049 ( internal quotation marks omitted ) .
+21-1	2317-2320	Id.	*[20]	Legal Source[20]	
+21-2	2321-2322	,	*[20]	Legal Source[20]	
+21-3	2323-2325	at	*[20]	Legal Source[20]	
+21-4	2326-2330	----	*[20]	Legal Source[20]	
+21-5	2331-2332	,	*[20]	Legal Source[20]	
+21-6	2333-2336	137	*[20]	Legal Source[20]	
+21-7	2337-2341	S.Ct	*[20]	Legal Source[20]	
+21-8	2342-2343	.	*[20]	Legal Source[20]	
+21-9	2344-2345	,	*[20]	Legal Source[20]	
+21-10	2346-2348	at	*[20]	Legal Source[20]	
+21-11	2349-2353	2049	*[20]	Legal Source[20]	
+21-12	2354-2355	(	_	_	
+21-13	2356-2364	internal	_	_	
+21-14	2365-2374	quotation	_	_	
+21-15	2375-2380	marks	_	_	
+21-16	2381-2388	omitted	_	_	
+21-17	2389-2390	)	_	_	
+21-18	2391-2392	.	_	_	
+
+#Text=The third period , which applies " in the case of fraud or concealment , " begins when the plaintiff discovers the alleged breach .
+22-1	2393-2396	The	_	_	
+22-2	2397-2402	third	_	_	
+22-3	2403-2409	period	_	_	
+22-4	2410-2411	,	_	_	
+22-5	2412-2417	which	_	_	
+22-6	2418-2425	applies	_	_	
+22-7	2426-2427	"	*[21]	Direct Quote[21]	
+22-8	2428-2430	in	*[21]	Direct Quote[21]	
+22-9	2431-2434	the	*[21]	Direct Quote[21]	
+22-10	2435-2439	case	*[21]	Direct Quote[21]	
+22-11	2440-2442	of	*[21]	Direct Quote[21]	
+22-12	2443-2448	fraud	*[21]	Direct Quote[21]	
+22-13	2449-2451	or	*[21]	Direct Quote[21]	
+22-14	2452-2463	concealment	*[21]	Direct Quote[21]	
+22-15	2464-2465	,	*[21]	Direct Quote[21]	
+22-16	2466-2467	"	*[21]	Direct Quote[21]	
+22-17	2468-2474	begins	_	_	
+22-18	2475-2479	when	_	_	
+22-19	2480-2483	the	_	_	
+22-20	2484-2493	plaintiff	_	_	
+22-21	2494-2503	discovers	_	_	
+22-22	2504-2507	the	_	_	
+22-23	2508-2515	alleged	_	_	
+22-24	2516-2522	breach	_	_	
+22-25	2523-2524	.	_	_	
+
+#Text=§ 1113 .
+23-1	2525-2526	§	*[22]	Legal Source[22]	
+23-2	2527-2531	1113	*[22]	Legal Source[22]	
+23-3	2532-2533	.	_	_	
+
+#Text=In such cases , suit must be filed within six years of " the date of discovery . "
+24-1	2534-2536	In	_	_	
+24-2	2537-2541	such	_	_	
+24-3	2542-2547	cases	_	_	
+24-4	2548-2549	,	_	_	
+24-5	2550-2554	suit	_	_	
+24-6	2555-2559	must	_	_	
+24-7	2560-2562	be	_	_	
+24-8	2563-2568	filed	_	_	
+24-9	2569-2575	within	_	_	
+24-10	2576-2579	six	_	_	
+24-11	2580-2585	years	_	_	
+24-12	2586-2588	of	_	_	
+24-13	2589-2590	"	*[23]	Direct Quote[23]	
+24-14	2591-2594	the	*[23]	Direct Quote[23]	
+24-15	2595-2599	date	*[23]	Direct Quote[23]	
+24-16	2600-2602	of	*[23]	Direct Quote[23]	
+24-17	2603-2612	discovery	*[23]	Direct Quote[23]	
+24-18	2613-2614	.	*[23]	Direct Quote[23]	
+24-19	2615-2616	"	*[23]	Direct Quote[23]	
+
+#Text=Ibid .
+25-1	2617-2621	Ibid	*	Legal Source	
+25-2	2622-2623	.	_	_	
+
+#Text=B
+26-1	2624-2625	B	_	_	
+
+#Text=Respondent Sulyma worked at Intel Corporation from 2010 to 2012 .
+27-1	2626-2636	Respondent	_	_	
+27-2	2637-2643	Sulyma	_	_	
+27-3	2644-2650	worked	_	_	
+27-4	2651-2653	at	_	_	
+27-5	2654-2659	Intel	_	_	
+27-6	2660-2671	Corporation	_	_	
+27-7	2672-2676	from	_	_	
+27-8	2677-2681	2010	_	_	
+27-9	2682-2684	to	_	_	
+27-10	2685-2689	2012	_	_	
+27-11	2690-2691	.	_	_	
+
+#Text=He participated in two Intel retirement plans , the Intel Retirement Contribution Plan and the Intel 401(k ) Savings Plan .
+28-1	2692-2694	He	_	_	
+28-2	2695-2707	participated	_	_	
+28-3	2708-2710	in	_	_	
+28-4	2711-2714	two	_	_	
+28-5	2715-2720	Intel	_	_	
+28-6	2721-2731	retirement	_	_	
+28-7	2732-2737	plans	_	_	
+28-8	2738-2739	,	_	_	
+28-9	2740-2743	the	_	_	
+28-10	2744-2749	Intel	_	_	
+28-11	2750-2760	Retirement	_	_	
+28-12	2761-2773	Contribution	_	_	
+28-13	2774-2778	Plan	_	_	
+28-14	2779-2782	and	_	_	
+28-15	2783-2786	the	_	_	
+28-16	2787-2792	Intel	_	_	
+28-17	2793-2798	401(k	_	_	
+28-18	2799-2800	)	_	_	
+28-19	2801-2808	Savings	_	_	
+28-20	2809-2813	Plan	_	_	
+28-21	2814-2815	.	_	_	
+
+#Text=Payments into these plans were in turn invested in two funds managed by the Intel Investment Policy Committee .
+29-1	2816-2824	Payments	_	_	
+29-2	2825-2829	into	_	_	
+29-3	2830-2835	these	_	_	
+29-4	2836-2841	plans	_	_	
+29-5	2842-2846	were	_	_	
+29-6	2847-2849	in	_	_	
+29-7	2850-2854	turn	_	_	
+29-8	2855-2863	invested	_	_	
+29-9	2864-2866	in	_	_	
+29-10	2867-2870	two	_	_	
+29-11	2871-2876	funds	_	_	
+29-12	2877-2884	managed	_	_	
+29-13	2885-2887	by	_	_	
+29-14	2888-2891	the	_	_	
+29-15	2892-2897	Intel	_	_	
+29-16	2898-2908	Investment	_	_	
+29-17	2909-2915	Policy	_	_	
+29-18	2916-2925	Committee	_	_	
+29-19	2926-2927	.	_	_	
+
+#Text=These funds mostly comprised stocks and bonds .
+30-1	2928-2933	These	_	_	
+30-2	2934-2939	funds	_	_	
+30-3	2940-2946	mostly	_	_	
+30-4	2947-2956	comprised	_	_	
+30-5	2957-2963	stocks	_	_	
+30-6	2964-2967	and	_	_	
+30-7	2968-2973	bonds	_	_	
+30-8	2974-2975	.	_	_	
+
+#Text=After the stock market decline in 2008 , however , the committee increased the funds ' shares of alternative assets , such as hedge funds , private equity , and commodities .
+31-1	2976-2981	After	_	_	
+31-2	2982-2985	the	_	_	
+31-3	2986-2991	stock	_	_	
+31-4	2992-2998	market	_	_	
+31-5	2999-3006	decline	_	_	
+31-6	3007-3009	in	_	_	
+31-7	3010-3014	2008	_	_	
+31-8	3015-3016	,	_	_	
+31-9	3017-3024	however	_	_	
+31-10	3025-3026	,	_	_	
+31-11	3027-3030	the	_	_	
+31-12	3031-3040	committee	_	_	
+31-13	3041-3050	increased	_	_	
+31-14	3051-3054	the	_	_	
+31-15	3055-3060	funds	_	_	
+31-16	3061-3062	'	_	_	
+31-17	3063-3069	shares	_	_	
+31-18	3070-3072	of	_	_	
+31-19	3073-3084	alternative	_	_	
+31-20	3085-3091	assets	_	_	
+31-21	3092-3093	,	_	_	
+31-22	3094-3098	such	_	_	
+31-23	3099-3101	as	_	_	
+31-24	3102-3107	hedge	_	_	
+31-25	3108-3113	funds	_	_	
+31-26	3114-3115	,	_	_	
+31-27	3116-3123	private	_	_	
+31-28	3124-3130	equity	_	_	
+31-29	3131-3132	,	_	_	
+31-30	3133-3136	and	_	_	
+31-31	3137-3148	commodities	_	_	
+31-32	3149-3150	.	_	_	
+
+#Text=These assets carried relatively high fees .
+32-1	3151-3156	These	_	_	
+32-2	3157-3163	assets	_	_	
+32-3	3164-3171	carried	_	_	
+32-4	3172-3182	relatively	_	_	
+32-5	3183-3187	high	_	_	
+32-6	3188-3192	fees	_	_	
+32-7	3193-3194	.	_	_	
+
+#Text=And as the stock market rebounded , Sulyma 's funds lagged behind others such as index funds .
+33-1	3195-3198	And	_	_	
+33-2	3199-3201	as	_	_	
+33-3	3202-3205	the	_	_	
+33-4	3206-3211	stock	_	_	
+33-5	3212-3218	market	_	_	
+33-6	3219-3228	rebounded	_	_	
+33-7	3229-3230	,	_	_	
+33-8	3231-3237	Sulyma	_	_	
+33-9	3238-3240	's	_	_	
+33-10	3241-3246	funds	_	_	
+33-11	3247-3253	lagged	_	_	
+33-12	3254-3260	behind	_	_	
+33-13	3261-3267	others	_	_	
+33-14	3268-3272	such	_	_	
+33-15	3273-3275	as	_	_	
+33-16	3276-3281	index	_	_	
+33-17	3282-3287	funds	_	_	
+33-18	3288-3289	.	_	_	
+
+#Text=Sulyma filed this suit on behalf of a putative class in October 2015 , alleging primarily that the committee and other plan administrators ( petitioners here ) had breached their fiduciary duties by overinvesting in alternative assets .
+34-1	3290-3296	Sulyma	_	_	
+34-2	3297-3302	filed	_	_	
+34-3	3303-3307	this	_	_	
+34-4	3308-3312	suit	_	_	
+34-5	3313-3315	on	_	_	
+34-6	3316-3322	behalf	_	_	
+34-7	3323-3325	of	_	_	
+34-8	3326-3327	a	_	_	
+34-9	3328-3336	putative	_	_	
+34-10	3337-3342	class	_	_	
+34-11	3343-3345	in	_	_	
+34-12	3346-3353	October	_	_	
+34-13	3354-3358	2015	_	_	
+34-14	3359-3360	,	_	_	
+34-15	3361-3369	alleging	_	_	
+34-16	3370-3379	primarily	_	_	
+34-17	3380-3384	that	_	_	
+34-18	3385-3388	the	_	_	
+34-19	3389-3398	committee	_	_	
+34-20	3399-3402	and	_	_	
+34-21	3403-3408	other	_	_	
+34-22	3409-3413	plan	_	_	
+34-23	3414-3428	administrators	_	_	
+34-24	3429-3430	(	_	_	
+34-25	3431-3442	petitioners	_	_	
+34-26	3443-3447	here	_	_	
+34-27	3448-3449	)	_	_	
+34-28	3450-3453	had	_	_	
+34-29	3454-3462	breached	_	_	
+34-30	3463-3468	their	_	_	
+34-31	3469-3478	fiduciary	_	_	
+34-32	3479-3485	duties	_	_	
+34-33	3486-3488	by	_	_	
+34-34	3489-3502	overinvesting	_	_	
+34-35	3503-3505	in	_	_	
+34-36	3506-3517	alternative	_	_	
+34-37	3518-3524	assets	_	_	
+34-38	3525-3526	.	_	_	
+
+#Text=Petitioners countered that the suit was untimely under § 1113(2 ) .
+35-1	3527-3538	Petitioners	_	_	
+35-2	3539-3548	countered	_	_	
+35-3	3549-3553	that	_	_	
+35-4	3554-3557	the	_	_	
+35-5	3558-3562	suit	_	_	
+35-6	3563-3566	was	_	_	
+35-7	3567-3575	untimely	_	_	
+35-8	3576-3581	under	_	_	
+35-9	3582-3583	§	*[24]	Legal Source[24]	
+35-10	3584-3590	1113(2	*[24]	Legal Source[24]	
+35-11	3591-3592	)	*[24]	Legal Source[24]	
+35-12	3593-3594	.	_	_	
+
+#Text=Although Sulyma filed it within six years of the alleged breaches , he filed it more than three years after petitioners had disclosed their investment decisions to him .
+36-1	3595-3603	Although	_	_	
+36-2	3604-3610	Sulyma	_	_	
+36-3	3611-3616	filed	_	_	
+36-4	3617-3619	it	_	_	
+36-5	3620-3626	within	_	_	
+36-6	3627-3630	six	_	_	
+36-7	3631-3636	years	_	_	
+36-8	3637-3639	of	_	_	
+36-9	3640-3643	the	_	_	
+36-10	3644-3651	alleged	_	_	
+36-11	3652-3660	breaches	_	_	
+36-12	3661-3662	,	_	_	
+36-13	3663-3665	he	_	_	
+36-14	3666-3671	filed	_	_	
+36-15	3672-3674	it	_	_	
+36-16	3675-3679	more	_	_	
+36-17	3680-3684	than	_	_	
+36-18	3685-3690	three	_	_	
+36-19	3691-3696	years	_	_	
+36-20	3697-3702	after	_	_	
+36-21	3703-3714	petitioners	_	_	
+36-22	3715-3718	had	_	_	
+36-23	3719-3728	disclosed	_	_	
+36-24	3729-3734	their	_	_	
+36-25	3735-3745	investment	_	_	
+36-26	3746-3755	decisions	_	_	
+36-27	3756-3758	to	_	_	
+36-28	3759-3762	him	_	_	
+36-29	3763-3764	.	_	_	
+
+#Text=ERISA and its implementing regulations mandate various disclosures to plan participants .
+37-1	3765-3770	ERISA	*	Legal Source	
+37-2	3771-3774	and	_	_	
+37-3	3775-3778	its	_	_	
+37-4	3779-3791	implementing	_	_	
+37-5	3792-3803	regulations	_	_	
+37-6	3804-3811	mandate	_	_	
+37-7	3812-3819	various	_	_	
+37-8	3820-3831	disclosures	_	_	
+37-9	3832-3834	to	_	_	
+37-10	3835-3839	plan	_	_	
+37-11	3840-3852	participants	_	_	
+37-12	3853-3854	.	_	_	
+
+#Text=See generally 29 U.S.C. § § 1021 - 1031 ; see also Gobeille v. Liberty Mut . Ins . Co. , 577 U.S. ---- , ---- - ---- , 136 S.Ct . 936 , 944 , 194 L.Ed.2d 20 ( 2016 ) .
+38-1	3855-3858	See	_	_	
+38-2	3859-3868	generally	_	_	
+38-3	3869-3871	29	*[25]	Legal Source[25]	
+38-4	3872-3878	U.S.C.	*[25]	Legal Source[25]	
+38-5	3879-3880	§	*[25]	Legal Source[25]	
+38-6	3881-3882	§	*[25]	Legal Source[25]	
+38-7	3883-3887	1021	*[25]	Legal Source[25]	
+38-8	3888-3889	-	*[25]	Legal Source[25]	
+38-9	3890-3894	1031	*[25]	Legal Source[25]	
+38-10	3895-3896	;	_	_	
+38-11	3897-3900	see	_	_	
+38-12	3901-3905	also	_	_	
+38-13	3906-3914	Gobeille	*[26]	Legal Source[26]	
+38-14	3915-3917	v.	*[26]	Legal Source[26]	
+38-15	3918-3925	Liberty	*[26]	Legal Source[26]	
+38-16	3926-3929	Mut	*[26]	Legal Source[26]	
+38-17	3930-3931	.	*[26]	Legal Source[26]	
+38-18	3932-3935	Ins	*[26]	Legal Source[26]	
+38-19	3936-3937	.	*[26]	Legal Source[26]	
+38-20	3938-3941	Co.	*[26]	Legal Source[26]	
+38-21	3942-3943	,	*[26]	Legal Source[26]	
+38-22	3944-3947	577	*[26]	Legal Source[26]	
+38-23	3948-3952	U.S.	*[26]	Legal Source[26]	
+38-24	3953-3957	----	*[26]	Legal Source[26]	
+38-25	3958-3959	,	*[26]	Legal Source[26]	
+38-26	3960-3964	----	*[26]	Legal Source[26]	
+38-27	3965-3966	-	*[26]	Legal Source[26]	
+38-28	3967-3971	----	*[26]	Legal Source[26]	
+38-29	3972-3973	,	*[26]	Legal Source[26]	
+38-30	3974-3977	136	*[26]	Legal Source[26]	
+38-31	3978-3982	S.Ct	*[26]	Legal Source[26]	
+38-32	3983-3984	.	*[26]	Legal Source[26]	
+38-33	3985-3988	936	*[26]	Legal Source[26]	
+38-34	3989-3990	,	*[26]	Legal Source[26]	
+38-35	3991-3994	944	*[26]	Legal Source[26]	
+38-36	3995-3996	,	*[26]	Legal Source[26]	
+38-37	3997-4000	194	*[26]	Legal Source[26]	
+38-38	4001-4008	L.Ed.2d	*[26]	Legal Source[26]	
+38-39	4009-4011	20	*[26]	Legal Source[26]	
+38-40	4012-4013	(	*[26]	Legal Source[26]	
+38-41	4014-4018	2016	*[26]	Legal Source[26]	
+38-42	4019-4020	)	*[26]	Legal Source[26]	
+38-43	4021-4022	.	_	_	
+
+#Text=Sulyma received numerous disclosures while working at Intel , some explaining the extent to which his retirement plans were invested in alternative assets .
+39-1	4023-4029	Sulyma	_	_	
+39-2	4030-4038	received	_	_	
+39-3	4039-4047	numerous	_	_	
+39-4	4048-4059	disclosures	_	_	
+39-5	4060-4065	while	_	_	
+39-6	4066-4073	working	_	_	
+39-7	4074-4076	at	_	_	
+39-8	4077-4082	Intel	_	_	
+39-9	4083-4084	,	_	_	
+39-10	4085-4089	some	_	_	
+39-11	4090-4100	explaining	_	_	
+39-12	4101-4104	the	_	_	
+39-13	4105-4111	extent	_	_	
+39-14	4112-4114	to	_	_	
+39-15	4115-4120	which	_	_	
+39-16	4121-4124	his	_	_	
+39-17	4125-4135	retirement	_	_	
+39-18	4136-4141	plans	_	_	
+39-19	4142-4146	were	_	_	
+39-20	4147-4155	invested	_	_	
+39-21	4156-4158	in	_	_	
+39-22	4159-4170	alternative	_	_	
+39-23	4171-4177	assets	_	_	
+39-24	4178-4179	.	_	_	
+
+#Text=In November 2011 , for example , he received an e - mail informing him that a Qualified Default Investment Alternative ( QDIA ) notice was available on a website called NetBenefits , where many of his disclosures were hosted .
+40-1	4180-4182	In	_	_	
+40-2	4183-4191	November	_	_	
+40-3	4192-4196	2011	_	_	
+40-4	4197-4198	,	_	_	
+40-5	4199-4202	for	_	_	
+40-6	4203-4210	example	_	_	
+40-7	4211-4212	,	_	_	
+40-8	4213-4215	he	_	_	
+40-9	4216-4224	received	_	_	
+40-10	4225-4227	an	_	_	
+40-11	4228-4229	e	_	_	
+40-12	4230-4231	-	_	_	
+40-13	4232-4236	mail	_	_	
+40-14	4237-4246	informing	_	_	
+40-15	4247-4250	him	_	_	
+40-16	4251-4255	that	_	_	
+40-17	4256-4257	a	_	_	
+40-18	4258-4267	Qualified	_	_	
+40-19	4268-4275	Default	_	_	
+40-20	4276-4286	Investment	_	_	
+40-21	4287-4298	Alternative	_	_	
+40-22	4299-4300	(	_	_	
+40-23	4301-4305	QDIA	_	_	
+40-24	4306-4307	)	_	_	
+40-25	4308-4314	notice	_	_	
+40-26	4315-4318	was	_	_	
+40-27	4319-4328	available	_	_	
+40-28	4329-4331	on	_	_	
+40-29	4332-4333	a	_	_	
+40-30	4334-4341	website	_	_	
+40-31	4342-4348	called	_	_	
+40-32	4349-4360	NetBenefits	_	_	
+40-33	4361-4362	,	_	_	
+40-34	4363-4368	where	_	_	
+40-35	4369-4373	many	_	_	
+40-36	4374-4376	of	_	_	
+40-37	4377-4380	his	_	_	
+40-38	4381-4392	disclosures	_	_	
+40-39	4393-4397	were	_	_	
+40-40	4398-4404	hosted	_	_	
+40-41	4405-4406	.	_	_	
+
+#Text=See App . 149 - 151 ; see also 29 CFR § § 2550 .404c-5(b ) - ( d ) ( 2019 ) ( QDIA
+41-1	4407-4410	See	_	_	
+41-2	4411-4414	App	*[27]	Legal Source[27]	
+41-3	4415-4416	.	*[27]	Legal Source[27]	
+41-4	4417-4420	149	*[27]	Legal Source[27]	
+41-5	4421-4422	-	*[27]	Legal Source[27]	
+41-6	4423-4426	151	*[27]	Legal Source[27]	
+41-7	4427-4428	;	_	_	
+41-8	4429-4432	see	_	_	
+41-9	4433-4437	also	_	_	
+41-10	4438-4440	29	*[28]	Legal Source[28]	
+41-11	4441-4444	CFR	*[28]	Legal Source[28]	
+41-12	4445-4446	§	*[28]	Legal Source[28]	
+41-13	4447-4448	§	*[28]	Legal Source[28]	
+41-14	4449-4453	2550	*[28]	Legal Source[28]	
+41-15	4454-4463	.404c-5(b	*[28]	Legal Source[28]	
+41-16	4464-4465	)	*[28]	Legal Source[28]	
+41-17	4466-4467	-	*[28]	Legal Source[28]	
+41-18	4468-4469	(	*[28]	Legal Source[28]	
+41-19	4470-4471	d	*[28]	Legal Source[28]	
+41-20	4472-4473	)	*[28]	Legal Source[28]	
+41-21	4474-4475	(	*[28]	Legal Source[28]	
+41-22	4476-4480	2019	*[28]	Legal Source[28]	
+41-23	4481-4482	)	*[28]	Legal Source[28]	
+41-24	4483-4484	(	_	_	
+41-25	4485-4489	QDIA	_	_	
+
+#Text=notices ) ; § 2520.104b-1(c ) ( regulating electronic disclosure ) .
+42-1	4490-4497	notices	_	_	
+42-2	4498-4499	)	_	_	
+42-3	4500-4501	;	_	_	
+42-4	4502-4503	§	*[29]	Legal Source[29]	
+42-5	4504-4517	2520.104b-1(c	*[29]	Legal Source[29]	
+42-6	4518-4519	)	*[29]	Legal Source[29]	
+42-7	4520-4521	(	_	_	
+42-8	4522-4532	regulating	_	_	
+42-9	4533-4543	electronic	_	_	
+42-10	4544-4554	disclosure	_	_	
+42-11	4555-4556	)	_	_	
+42-12	4557-4558	.	_	_	
+
+#Text=This notice broke down the percentages at which his 401(k ) fund was invested in stocks , bonds , hedge funds , and commodities .
+43-1	4559-4563	This	_	_	
+43-2	4564-4570	notice	_	_	
+43-3	4571-4576	broke	_	_	
+43-4	4577-4581	down	_	_	
+43-5	4582-4585	the	_	_	
+43-6	4586-4597	percentages	_	_	
+43-7	4598-4600	at	_	_	
+43-8	4601-4606	which	_	_	
+43-9	4607-4610	his	_	_	
+43-10	4611-4616	401(k	_	_	
+43-11	4617-4618	)	_	_	
+43-12	4619-4623	fund	_	_	
+43-13	4624-4627	was	_	_	
+43-14	4628-4636	invested	_	_	
+43-15	4637-4639	in	_	_	
+43-16	4640-4646	stocks	_	_	
+43-17	4647-4648	,	_	_	
+43-18	4649-4654	bonds	_	_	
+43-19	4655-4656	,	_	_	
+43-20	4657-4662	hedge	_	_	
+43-21	4663-4668	funds	_	_	
+43-22	4669-4670	,	_	_	
+43-23	4671-4674	and	_	_	
+43-24	4675-4686	commodities	_	_	
+43-25	4687-4688	.	_	_	
+
+#Text=See App . 236 .
+44-1	4689-4692	See	_	_	
+44-2	4693-4696	App	*[30]	Legal Source[30]	
+44-3	4697-4698	.	*[30]	Legal Source[30]	
+44-4	4699-4702	236	*[30]	Legal Source[30]	
+44-5	4703-4704	.	_	_	
+
+#Text=In 2012 , he received a summary plan description explaining that the funds were invested in stocks and alternative assets , i d . , at 227 , and referring him to other documents - called fund fact sheets - with the percentages in graphical form .
+45-1	4705-4707	In	_	_	
+45-2	4708-4712	2012	_	_	
+45-3	4713-4714	,	_	_	
+45-4	4715-4717	he	_	_	
+45-5	4718-4726	received	_	_	
+45-6	4727-4728	a	_	_	
+45-7	4729-4736	summary	_	_	
+45-8	4737-4741	plan	_	_	
+45-9	4742-4753	description	_	_	
+45-10	4754-4764	explaining	_	_	
+45-11	4765-4769	that	_	_	
+45-12	4770-4773	the	_	_	
+45-13	4774-4779	funds	_	_	
+45-14	4780-4784	were	_	_	
+45-15	4785-4793	invested	_	_	
+45-16	4794-4796	in	_	_	
+45-17	4797-4803	stocks	_	_	
+45-18	4804-4807	and	_	_	
+45-19	4808-4819	alternative	_	_	
+45-20	4820-4826	assets	_	_	
+45-21	4827-4828	,	_	_	
+45-22	4829-4830	i	*[31]	Legal Source[31]	
+45-23	4831-4832	d	*[31]	Legal Source[31]	
+45-24	4833-4834	.	*[31]	Legal Source[31]	
+45-25	4835-4836	,	*[31]	Legal Source[31]	
+45-26	4837-4839	at	*[31]	Legal Source[31]	
+45-27	4840-4843	227	*[31]	Legal Source[31]	
+45-28	4844-4845	,	_	_	
+45-29	4846-4849	and	_	_	
+45-30	4850-4859	referring	_	_	
+45-31	4860-4863	him	_	_	
+45-32	4864-4866	to	_	_	
+45-33	4867-4872	other	_	_	
+45-34	4873-4882	documents	_	_	
+45-35	4883-4884	-	_	_	
+45-36	4885-4891	called	_	_	
+45-37	4892-4896	fund	_	_	
+45-38	4897-4901	fact	_	_	
+45-39	4902-4908	sheets	_	_	
+45-40	4909-4910	-	_	_	
+45-41	4911-4915	with	_	_	
+45-42	4916-4919	the	_	_	
+45-43	4920-4931	percentages	_	_	
+45-44	4932-4934	in	_	_	
+45-45	4935-4944	graphical	_	_	
+45-46	4945-4949	form	_	_	
+45-47	4950-4951	.	_	_	
+
+#Text=See 29 U.S.C. § § 1022 , 1024(b ) ( summary plan descriptions ) ; see also App . 307 ( June 2012 fact sheet for his 401(k ) plan fund ) ; i d . , at 338 ( June 2012 fact sheet for his retirement contribution plan fund ) ; i d . , at 277 - 340 ( other fact sheets provided during his tenure at Intel ) .
+46-1	4952-4955	See	_	_	
+46-2	4956-4958	29	*[32]	Legal Source[32]	
+46-3	4959-4965	U.S.C.	*[32]	Legal Source[32]	
+46-4	4966-4967	§	*[32]	Legal Source[32]	
+46-5	4968-4969	§	*[32]	Legal Source[32]	
+46-6	4970-4974	1022	*[32]	Legal Source[32]	
+46-7	4975-4976	,	*[32]	Legal Source[32]	
+46-8	4977-4983	1024(b	*[32]	Legal Source[32]	
+46-9	4984-4985	)	*[32]	Legal Source[32]	
+46-10	4986-4987	(	_	_	
+46-11	4988-4995	summary	_	_	
+46-12	4996-5000	plan	_	_	
+46-13	5001-5013	descriptions	_	_	
+46-14	5014-5015	)	_	_	
+46-15	5016-5017	;	_	_	
+46-16	5018-5021	see	_	_	
+46-17	5022-5026	also	_	_	
+46-18	5027-5030	App	*[33]	Legal Source[33]	
+46-19	5031-5032	.	*[33]	Legal Source[33]	
+46-20	5033-5036	307	*[33]	Legal Source[33]	
+46-21	5037-5038	(	_	_	
+46-22	5039-5043	June	_	_	
+46-23	5044-5048	2012	_	_	
+46-24	5049-5053	fact	_	_	
+46-25	5054-5059	sheet	_	_	
+46-26	5060-5063	for	_	_	
+46-27	5064-5067	his	_	_	
+46-28	5068-5073	401(k	_	_	
+46-29	5074-5075	)	_	_	
+46-30	5076-5080	plan	_	_	
+46-31	5081-5085	fund	_	_	
+46-32	5086-5087	)	_	_	
+46-33	5088-5089	;	_	_	
+46-34	5090-5091	i	*[34]	Legal Source[34]	
+46-35	5092-5093	d	*[34]	Legal Source[34]	
+46-36	5094-5095	.	*[34]	Legal Source[34]	
+46-37	5096-5097	,	*[34]	Legal Source[34]	
+46-38	5098-5100	at	*[34]	Legal Source[34]	
+46-39	5101-5104	338	*[34]	Legal Source[34]	
+46-40	5105-5106	(	_	_	
+46-41	5107-5111	June	_	_	
+46-42	5112-5116	2012	_	_	
+46-43	5117-5121	fact	_	_	
+46-44	5122-5127	sheet	_	_	
+46-45	5128-5131	for	_	_	
+46-46	5132-5135	his	_	_	
+46-47	5136-5146	retirement	_	_	
+46-48	5147-5159	contribution	_	_	
+46-49	5160-5164	plan	_	_	
+46-50	5165-5169	fund	_	_	
+46-51	5170-5171	)	_	_	
+46-52	5172-5173	;	_	_	
+46-53	5174-5175	i	*[35]	Legal Source[35]	
+46-54	5176-5177	d	*[35]	Legal Source[35]	
+46-55	5178-5179	.	*[35]	Legal Source[35]	
+46-56	5180-5181	,	*[35]	Legal Source[35]	
+46-57	5182-5184	at	*[35]	Legal Source[35]	
+46-58	5185-5188	277	*[35]	Legal Source[35]	
+46-59	5189-5190	-	*[35]	Legal Source[35]	
+46-60	5191-5194	340	*[35]	Legal Source[35]	
+46-61	5195-5196	(	_	_	
+46-62	5197-5202	other	_	_	
+46-63	5203-5207	fact	_	_	
+46-64	5208-5214	sheets	_	_	
+46-65	5215-5223	provided	_	_	
+46-66	5224-5230	during	_	_	
+46-67	5231-5234	his	_	_	
+46-68	5235-5241	tenure	_	_	
+46-69	5242-5244	at	_	_	
+46-70	5245-5250	Intel	_	_	
+46-71	5251-5252	)	_	_	
+46-72	5253-5254	.	_	_	
+
+#Text=Also in 2012 , he received e - mails directing him to annual disclosures that petitioners provided for both his plans , which showed the underlying funds ' return rates and again directed him to the NetBenefits site for further information .
+47-1	5255-5259	Also	_	_	
+47-2	5260-5262	in	_	_	
+47-3	5263-5267	2012	_	_	
+47-4	5268-5269	,	_	_	
+47-5	5270-5272	he	_	_	
+47-6	5273-5281	received	_	_	
+47-7	5282-5283	e	_	_	
+47-8	5284-5285	-	_	_	
+47-9	5286-5291	mails	_	_	
+47-10	5292-5301	directing	_	_	
+47-11	5302-5305	him	_	_	
+47-12	5306-5308	to	_	_	
+47-13	5309-5315	annual	_	_	
+47-14	5316-5327	disclosures	_	_	
+47-15	5328-5332	that	_	_	
+47-16	5333-5344	petitioners	_	_	
+47-17	5345-5353	provided	_	_	
+47-18	5354-5357	for	_	_	
+47-19	5358-5362	both	_	_	
+47-20	5363-5366	his	_	_	
+47-21	5367-5372	plans	_	_	
+47-22	5373-5374	,	_	_	
+47-23	5375-5380	which	_	_	
+47-24	5381-5387	showed	_	_	
+47-25	5388-5391	the	_	_	
+47-26	5392-5402	underlying	_	_	
+47-27	5403-5408	funds	_	_	
+47-28	5409-5410	'	_	_	
+47-29	5411-5417	return	_	_	
+47-30	5418-5423	rates	_	_	
+47-31	5424-5427	and	_	_	
+47-32	5428-5433	again	_	_	
+47-33	5434-5442	directed	_	_	
+47-34	5443-5446	him	_	_	
+47-35	5447-5449	to	_	_	
+47-36	5450-5453	the	_	_	
+47-37	5454-5465	NetBenefits	_	_	
+47-38	5466-5470	site	_	_	
+47-39	5471-5474	for	_	_	
+47-40	5475-5482	further	_	_	
+47-41	5483-5494	information	_	_	
+47-42	5495-5496	.	_	_	
+
+#Text=See 29 CFR § 2550 .404a-5 ; see also App . 242 - 243 ( retirement contribution plan annual disclosure ) ; i d . , at 250 - 251 ( 401(k ) plan annual disclosure ) .
+48-1	5497-5500	See	_	_	
+48-2	5501-5503	29	*[36]	Legal Source[36]	
+48-3	5504-5507	CFR	*[36]	Legal Source[36]	
+48-4	5508-5509	§	*[36]	Legal Source[36]	
+48-5	5510-5514	2550	*[36]	Legal Source[36]	
+48-6	5515-5522	.404a-5	*[36]	Legal Source[36]	
+48-7	5523-5524	;	*[36]	Legal Source[36]	
+48-8	5525-5528	see	*[36]	Legal Source[36]	
+48-9	5529-5533	also	*[36]	Legal Source[36]	
+48-10	5534-5537	App	*[36]	Legal Source[36]	
+48-11	5538-5539	.	*[36]	Legal Source[36]	
+48-12	5540-5543	242	*[36]	Legal Source[36]	
+48-13	5544-5545	-	*[36]	Legal Source[36]	
+48-14	5546-5549	243	*[36]	Legal Source[36]	
+48-15	5550-5551	(	_	_	
+48-16	5552-5562	retirement	_	_	
+48-17	5563-5575	contribution	_	_	
+48-18	5576-5580	plan	_	_	
+48-19	5581-5587	annual	_	_	
+48-20	5588-5598	disclosure	_	_	
+48-21	5599-5600	)	_	_	
+48-22	5601-5602	;	_	_	
+48-23	5603-5604	i	*[37]	Legal Source[37]	
+48-24	5605-5606	d	*[37]	Legal Source[37]	
+48-25	5607-5608	.	*[37]	Legal Source[37]	
+48-26	5609-5610	,	*[37]	Legal Source[37]	
+48-27	5611-5613	at	*[37]	Legal Source[37]	
+48-28	5614-5617	250	*[37]	Legal Source[37]	
+48-29	5618-5619	-	*[37]	Legal Source[37]	
+48-30	5620-5623	251	*[37]	Legal Source[37]	
+48-31	5624-5625	(	_	_	
+48-32	5626-5631	401(k	_	_	
+48-33	5632-5633	)	_	_	
+48-34	5634-5638	plan	_	_	
+48-35	5639-5645	annual	_	_	
+48-36	5646-5656	disclosure	_	_	
+48-37	5657-5658	)	_	_	
+48-38	5659-5660	.	_	_	
+
+#Text=Petitioners submitted records showing that Sulyma visited the NetBenefits site repeatedly during his employment .
+49-1	5661-5672	Petitioners	_	_	
+49-2	5673-5682	submitted	_	_	
+49-3	5683-5690	records	_	_	
+49-4	5691-5698	showing	_	_	
+49-5	5699-5703	that	_	_	
+49-6	5704-5710	Sulyma	_	_	
+49-7	5711-5718	visited	_	_	
+49-8	5719-5722	the	_	_	
+49-9	5723-5734	NetBenefits	_	_	
+49-10	5735-5739	site	_	_	
+49-11	5740-5750	repeatedly	_	_	
+49-12	5751-5757	during	_	_	
+49-13	5758-5761	his	_	_	
+49-14	5762-5772	employment	_	_	
+49-15	5773-5774	.	_	_	
+
+#Text=I d . , at 258 - 276 .
+50-1	5775-5776	I	*[38]	Legal Source[38]	
+50-2	5777-5778	d	*[38]	Legal Source[38]	
+50-3	5779-5780	.	*[38]	Legal Source[38]	
+50-4	5781-5782	,	*[38]	Legal Source[38]	
+50-5	5783-5785	at	*[38]	Legal Source[38]	
+50-6	5786-5789	258	*[38]	Legal Source[38]	
+50-7	5790-5791	-	*[38]	Legal Source[38]	
+50-8	5792-5795	276	*[38]	Legal Source[38]	
+50-9	5796-5797	.	_	_	
+
+#Text=But he testified in his deposition that he did not " remember reviewing " the above disclosures during his tenure .
+51-1	5798-5801	But	_	_	
+51-2	5802-5804	he	_	_	
+51-3	5805-5814	testified	_	_	
+51-4	5815-5817	in	_	_	
+51-5	5818-5821	his	_	_	
+51-6	5822-5832	deposition	_	_	
+51-7	5833-5837	that	_	_	
+51-8	5838-5840	he	_	_	
+51-9	5841-5844	did	_	_	
+51-10	5845-5848	not	_	_	
+51-11	5849-5850	"	*[39]	Direct Quote[39]	
+51-12	5851-5859	remember	*[39]	Direct Quote[39]	
+51-13	5860-5869	reviewing	*[39]	Direct Quote[39]	
+51-14	5870-5871	"	*[39]	Direct Quote[39]	
+51-15	5872-5875	the	_	_	
+51-16	5876-5881	above	_	_	
+51-17	5882-5893	disclosures	_	_	
+51-18	5894-5900	during	_	_	
+51-19	5901-5904	his	_	_	
+51-20	5905-5911	tenure	_	_	
+51-21	5912-5913	.	_	_	
+
+#Text=I d . , at 175 ; see also i d . , at 183 , 193 , 196 - 197 .
+52-1	5914-5915	I	*[40]	Legal Source[40]	
+52-2	5916-5917	d	*[40]	Legal Source[40]	
+52-3	5918-5919	.	*[40]	Legal Source[40]	
+52-4	5920-5921	,	*[40]	Legal Source[40]	
+52-5	5922-5924	at	*[40]	Legal Source[40]	
+52-6	5925-5928	175	*[40]	Legal Source[40]	
+52-7	5929-5930	;	_	_	
+52-8	5931-5934	see	_	_	
+52-9	5935-5939	also	_	_	
+52-10	5940-5941	i	*[41]	Legal Source[41]	
+52-11	5942-5943	d	*[41]	Legal Source[41]	
+52-12	5944-5945	.	*[41]	Legal Source[41]	
+52-13	5946-5947	,	*[41]	Legal Source[41]	
+52-14	5948-5950	at	*[41]	Legal Source[41]	
+52-15	5951-5954	183	*[41]	Legal Source[41]	
+52-16	5955-5956	,	*[41]	Legal Source[41]	
+52-17	5957-5960	193	*[41]	Legal Source[41]	
+52-18	5961-5962	,	*[41]	Legal Source[41]	
+52-19	5963-5966	196	*[41]	Legal Source[41]	
+52-20	5967-5968	-	*[41]	Legal Source[41]	
+52-21	5969-5972	197	*[41]	Legal Source[41]	
+52-22	5973-5974	.	_	_	
+
+#Text=He also stated in a declaration that he was " unaware " while working at Intel " that the monies that [ he ] had invested through the Intel retirement plans had been invested in hedge funds or private equity . "
+53-1	5975-5977	He	_	_	
+53-2	5978-5982	also	_	_	
+53-3	5983-5989	stated	_	_	
+53-4	5990-5992	in	_	_	
+53-5	5993-5994	a	_	_	
+53-6	5995-6006	declaration	_	_	
+53-7	6007-6011	that	_	_	
+53-8	6012-6014	he	_	_	
+53-9	6015-6018	was	_	_	
+53-10	6019-6020	"	*[42]	Direct Quote[42]	
+53-11	6021-6028	unaware	*[42]	Direct Quote[42]	
+53-12	6029-6030	"	*[42]	Direct Quote[42]	
+53-13	6031-6036	while	_	_	
+53-14	6037-6044	working	_	_	
+53-15	6045-6047	at	_	_	
+53-16	6048-6053	Intel	_	_	
+53-17	6054-6055	"	*[43]	Direct Quote[43]	
+53-18	6056-6060	that	*[43]	Direct Quote[43]	
+53-19	6061-6064	the	*[43]	Direct Quote[43]	
+53-20	6065-6071	monies	*[43]	Direct Quote[43]	
+53-21	6072-6076	that	*[43]	Direct Quote[43]	
+53-22	6077-6078	[	*[43]	Direct Quote[43]	
+53-23	6079-6081	he	*[43]	Direct Quote[43]	
+53-24	6082-6083	]	*[43]	Direct Quote[43]	
+53-25	6084-6087	had	*[43]	Direct Quote[43]	
+53-26	6088-6096	invested	*[43]	Direct Quote[43]	
+53-27	6097-6104	through	*[43]	Direct Quote[43]	
+53-28	6105-6108	the	*[43]	Direct Quote[43]	
+53-29	6109-6114	Intel	*[43]	Direct Quote[43]	
+53-30	6115-6125	retirement	*[43]	Direct Quote[43]	
+53-31	6126-6131	plans	*[43]	Direct Quote[43]	
+53-32	6132-6135	had	*[43]	Direct Quote[43]	
+53-33	6136-6140	been	*[43]	Direct Quote[43]	
+53-34	6141-6149	invested	*[43]	Direct Quote[43]	
+53-35	6150-6152	in	*[43]	Direct Quote[43]	
+53-36	6153-6158	hedge	*[43]	Direct Quote[43]	
+53-37	6159-6164	funds	*[43]	Direct Quote[43]	
+53-38	6165-6167	or	*[43]	Direct Quote[43]	
+53-39	6168-6175	private	*[43]	Direct Quote[43]	
+53-40	6176-6182	equity	*[43]	Direct Quote[43]	
+53-41	6183-6184	.	*[43]	Direct Quote[43]	
+53-42	6185-6186	"	*[43]	Direct Quote[43]	
+
+#Text=I d . , at 212 .
+54-1	6187-6188	I	*[44]	Legal Source[44]	
+54-2	6189-6190	d	*[44]	Legal Source[44]	
+54-3	6191-6192	.	*[44]	Legal Source[44]	
+54-4	6193-6194	,	*[44]	Legal Source[44]	
+54-5	6195-6197	at	*[44]	Legal Source[44]	
+54-6	6198-6201	212	*[44]	Legal Source[44]	
+54-7	6202-6203	.	_	_	
+
+#Text=He recalled reviewing only account statements sent to him by mail , which directed him to the NetBenefits site and noted that his plans were invested in " short - term / other " assets but did not specify which .
+55-1	6204-6206	He	_	_	
+55-2	6207-6215	recalled	_	_	
+55-3	6216-6225	reviewing	_	_	
+55-4	6226-6230	only	_	_	
+55-5	6231-6238	account	_	_	
+55-6	6239-6249	statements	_	_	
+55-7	6250-6254	sent	_	_	
+55-8	6255-6257	to	_	_	
+55-9	6258-6261	him	_	_	
+55-10	6262-6264	by	_	_	
+55-11	6265-6269	mail	_	_	
+55-12	6270-6271	,	_	_	
+55-13	6272-6277	which	_	_	
+55-14	6278-6286	directed	_	_	
+55-15	6287-6290	him	_	_	
+55-16	6291-6293	to	_	_	
+55-17	6294-6297	the	_	_	
+55-18	6298-6309	NetBenefits	_	_	
+55-19	6310-6314	site	_	_	
+55-20	6315-6318	and	_	_	
+55-21	6319-6324	noted	_	_	
+55-22	6325-6329	that	_	_	
+55-23	6330-6333	his	_	_	
+55-24	6334-6339	plans	_	_	
+55-25	6340-6344	were	_	_	
+55-26	6345-6353	invested	_	_	
+55-27	6354-6356	in	_	_	
+55-28	6357-6358	"	*[45]	Direct Quote[45]	
+55-29	6359-6364	short	*[45]	Direct Quote[45]	
+55-30	6365-6366	-	*[45]	Direct Quote[45]	
+55-31	6367-6371	term	*[45]	Direct Quote[45]	
+55-32	6372-6373	/	*[45]	Direct Quote[45]	
+55-33	6374-6379	other	*[45]	Direct Quote[45]	
+55-34	6380-6381	"	*[45]	Direct Quote[45]	
+55-35	6382-6388	assets	_	_	
+55-36	6389-6392	but	_	_	
+55-37	6393-6396	did	_	_	
+55-38	6397-6400	not	_	_	
+55-39	6401-6408	specify	_	_	
+55-40	6409-6414	which	_	_	
+55-41	6415-6416	.	_	_	
+
+#Text=See , e.g. , i d . , at 375 .
+56-1	6417-6420	See	_	_	
+56-2	6421-6422	,	_	_	
+56-3	6423-6427	e.g.	_	_	
+56-4	6428-6429	,	_	_	
+56-5	6430-6431	i	*[46]	Legal Source[46]	
+56-6	6432-6433	d	*[46]	Legal Source[46]	
+56-7	6434-6435	.	*[46]	Legal Source[46]	
+56-8	6436-6437	,	*[46]	Legal Source[46]	
+56-9	6438-6440	at	*[46]	Legal Source[46]	
+56-10	6441-6444	375	*[46]	Legal Source[46]	
+56-11	6445-6446	.	_	_	
+
+#Text=The District Court granted summary judgment to petitioners under § 1113(2 ) , reasoning that " [ i]t would be improper to allow Sulyma 's claims to survive merely because he did not look further into the disclosures made to him . "
+57-1	6447-6450	The	_	_	
+57-2	6451-6459	District	_	_	
+57-3	6460-6465	Court	_	_	
+57-4	6466-6473	granted	_	_	
+57-5	6474-6481	summary	_	_	
+57-6	6482-6490	judgment	_	_	
+57-7	6491-6493	to	_	_	
+57-8	6494-6505	petitioners	_	_	
+57-9	6506-6511	under	_	_	
+57-10	6512-6513	§	*[47]	Legal Source[47]	
+57-11	6514-6520	1113(2	*[47]	Legal Source[47]	
+57-12	6521-6522	)	*[47]	Legal Source[47]	
+57-13	6523-6524	,	_	_	
+57-14	6525-6534	reasoning	_	_	
+57-15	6535-6539	that	_	_	
+57-16	6540-6541	"	*[48]	Direct Quote[48]	
+57-17	6542-6543	[	*[48]	Direct Quote[48]	
+57-18	6544-6547	i]t	*[48]	Direct Quote[48]	
+57-19	6548-6553	would	*[48]	Direct Quote[48]	
+57-20	6554-6556	be	*[48]	Direct Quote[48]	
+57-21	6557-6565	improper	*[48]	Direct Quote[48]	
+57-22	6566-6568	to	*[48]	Direct Quote[48]	
+57-23	6569-6574	allow	*[48]	Direct Quote[48]	
+57-24	6575-6581	Sulyma	*[48]	Direct Quote[48]	
+57-25	6582-6584	's	*[48]	Direct Quote[48]	
+57-26	6585-6591	claims	*[48]	Direct Quote[48]	
+57-27	6592-6594	to	*[48]	Direct Quote[48]	
+57-28	6595-6602	survive	*[48]	Direct Quote[48]	
+57-29	6603-6609	merely	*[48]	Direct Quote[48]	
+57-30	6610-6617	because	*[48]	Direct Quote[48]	
+57-31	6618-6620	he	*[48]	Direct Quote[48]	
+57-32	6621-6624	did	*[48]	Direct Quote[48]	
+57-33	6625-6628	not	*[48]	Direct Quote[48]	
+57-34	6629-6633	look	*[48]	Direct Quote[48]	
+57-35	6634-6641	further	*[48]	Direct Quote[48]	
+57-36	6642-6646	into	*[48]	Direct Quote[48]	
+57-37	6647-6650	the	*[48]	Direct Quote[48]	
+57-38	6651-6662	disclosures	*[48]	Direct Quote[48]	
+57-39	6663-6667	made	*[48]	Direct Quote[48]	
+57-40	6668-6670	to	*[48]	Direct Quote[48]	
+57-41	6671-6674	him	*[48]	Direct Quote[48]	
+57-42	6675-6676	.	*[48]	Direct Quote[48]	
+57-43	6677-6678	"	*[48]	Direct Quote[48]	
+
+#Text=2017 WL 1217185 , * 9 ( N.D. Cal . , Mar. 31 , 2017 ) .
+58-1	6679-6683	2017	*[49]	Legal Source[49]	
+58-2	6684-6686	WL	*[49]	Legal Source[49]	
+58-3	6687-6694	1217185	*[49]	Legal Source[49]	
+58-4	6695-6696	,	*[49]	Legal Source[49]	
+58-5	6697-6698	*	*[49]	Legal Source[49]	
+58-6	6699-6700	9	*[49]	Legal Source[49]	
+58-7	6701-6702	(	*[49]	Legal Source[49]	
+58-8	6703-6707	N.D.	*[49]	Legal Source[49]	
+58-9	6708-6711	Cal	*[49]	Legal Source[49]	
+58-10	6712-6713	.	*[49]	Legal Source[49]	
+58-11	6714-6715	,	*[49]	Legal Source[49]	
+58-12	6716-6720	Mar.	*[49]	Legal Source[49]	
+58-13	6721-6723	31	*[49]	Legal Source[49]	
+58-14	6724-6725	,	*[49]	Legal Source[49]	
+58-15	6726-6730	2017	*[49]	Legal Source[49]	
+58-16	6731-6732	)	*[49]	Legal Source[49]	
+58-17	6733-6734	.	_	_	
+
+#Text=The Ninth Circuit reversed .
+59-1	6735-6738	The	_	_	
+59-2	6739-6744	Ninth	_	_	
+59-3	6745-6752	Circuit	_	_	
+59-4	6753-6761	reversed	_	_	
+59-5	6762-6763	.	_	_	
+
+#Text=As relevant here , the court construed " actual knowledge " to mean " what it says : knowledge that is actual , not merely a possible inference from ambiguous circumstances . "
+60-1	6764-6766	As	_	_	
+60-2	6767-6775	relevant	_	_	
+60-3	6776-6780	here	_	_	
+60-4	6781-6782	,	_	_	
+60-5	6783-6786	the	_	_	
+60-6	6787-6792	court	_	_	
+60-7	6793-6802	construed	*	Metalinguistic Cue	
+60-8	6803-6804	"	*[50]|*[51]	Direct Quote[50]|Focal Term[51]	
+60-9	6805-6811	actual	*[50]|*[51]	Direct Quote[50]|Focal Term[51]	
+60-10	6812-6821	knowledge	*[50]|*[51]	Direct Quote[50]|Focal Term[51]	
+60-11	6822-6823	"	*[50]	Direct Quote[50]	
+60-12	6824-6826	to	_	_	
+60-13	6827-6831	mean	*	Metalinguistic Cue	
+60-14	6832-6833	"	*[52]	Direct Quote[52]	
+60-15	6834-6838	what	*[52]	Direct Quote[52]	
+60-16	6839-6841	it	*[52]	Direct Quote[52]	
+60-17	6842-6846	says	*[52]	Direct Quote[52]	
+60-18	6847-6848	:	*[52]	Direct Quote[52]	
+60-19	6849-6858	knowledge	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-20	6859-6863	that	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-21	6864-6866	is	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-22	6867-6873	actual	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-23	6874-6875	,	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-24	6876-6879	not	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-25	6880-6886	merely	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-26	6887-6888	a	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-27	6889-6897	possible	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-28	6898-6907	inference	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-29	6908-6912	from	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-30	6913-6922	ambiguous	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-31	6923-6936	circumstances	*[52]|*[53]	Direct Quote[52]|Definition[53]	
+60-32	6937-6938	.	*[52]	Direct Quote[52]	
+60-33	6939-6940	"	*[52]	Direct Quote[52]	
+
+#Text=909 F.3d 1069 , 1076 ( 2018 ) ( internal quotation marks omitted ) .
+61-1	6941-6944	909	*[54]	Legal Source[54]	
+61-2	6945-6949	F.3d	*[54]	Legal Source[54]	
+61-3	6950-6954	1069	*[54]	Legal Source[54]	
+61-4	6955-6956	,	*[54]	Legal Source[54]	
+61-5	6957-6961	1076	*[54]	Legal Source[54]	
+61-6	6962-6963	(	*[54]	Legal Source[54]	
+61-7	6964-6968	2018	*[54]	Legal Source[54]	
+61-8	6969-6970	)	*[54]	Legal Source[54]	
+61-9	6971-6972	(	_	_	
+61-10	6973-6981	internal	_	_	
+61-11	6982-6991	quotation	_	_	
+61-12	6992-6997	marks	_	_	
+61-13	6998-7005	omitted	_	_	
+61-14	7006-7007	)	_	_	
+61-15	7008-7009	.	_	_	
+
+#Text=Although Sulyma " had sufficient information available to him to know about the allegedly imprudent investments " more than three years before filing suit , the court held that his testimony created a dispute as to when he actually gained that knowledge .
+62-1	7010-7018	Although	_	_	
+62-2	7019-7025	Sulyma	_	_	
+62-3	7026-7027	"	*[55]	Direct Quote[55]	
+62-4	7028-7031	had	*[55]	Direct Quote[55]	
+62-5	7032-7042	sufficient	*[55]	Direct Quote[55]	
+62-6	7043-7054	information	*[55]	Direct Quote[55]	
+62-7	7055-7064	available	*[55]	Direct Quote[55]	
+62-8	7065-7067	to	*[55]	Direct Quote[55]	
+62-9	7068-7071	him	*[55]	Direct Quote[55]	
+62-10	7072-7074	to	*[55]	Direct Quote[55]	
+62-11	7075-7079	know	*[55]	Direct Quote[55]	
+62-12	7080-7085	about	*[55]	Direct Quote[55]	
+62-13	7086-7089	the	*[55]	Direct Quote[55]	
+62-14	7090-7099	allegedly	*[55]	Direct Quote[55]	
+62-15	7100-7109	imprudent	*[55]	Direct Quote[55]	
+62-16	7110-7121	investments	*[55]	Direct Quote[55]	
+62-17	7122-7123	"	*[55]	Direct Quote[55]	
+62-18	7124-7128	more	_	_	
+62-19	7129-7133	than	_	_	
+62-20	7134-7139	three	_	_	
+62-21	7140-7145	years	_	_	
+62-22	7146-7152	before	_	_	
+62-23	7153-7159	filing	_	_	
+62-24	7160-7164	suit	_	_	
+62-25	7165-7166	,	_	_	
+62-26	7167-7170	the	_	_	
+62-27	7171-7176	court	_	_	
+62-28	7177-7181	held	_	_	
+62-29	7182-7186	that	_	_	
+62-30	7187-7190	his	_	_	
+62-31	7191-7200	testimony	_	_	
+62-32	7201-7208	created	_	_	
+62-33	7209-7210	a	_	_	
+62-34	7211-7218	dispute	_	_	
+62-35	7219-7221	as	_	_	
+62-36	7222-7224	to	_	_	
+62-37	7225-7229	when	_	_	
+62-38	7230-7232	he	_	_	
+62-39	7233-7241	actually	_	_	
+62-40	7242-7248	gained	_	_	
+62-41	7249-7253	that	_	_	
+62-42	7254-7263	knowledge	_	_	
+62-43	7264-7265	.	_	_	
+
+#Text=Id. , at 1077 .
+63-1	7266-7269	Id.	*[56]	Legal Source[56]	
+63-2	7270-7271	,	*[56]	Legal Source[56]	
+63-3	7272-7274	at	*[56]	Legal Source[56]	
+63-4	7275-7279	1077	*[56]	Legal Source[56]	
+63-5	7280-7281	.	_	_	
+
+#Text=Several Circuits have likewise construed § 1113(2 ) to require " knowledge that is actual , " i d. , at 1076 , but one has construed it to require only proof of sufficient disclosure .
+64-1	7282-7289	Several	_	_	
+64-2	7290-7298	Circuits	_	_	
+64-3	7299-7303	have	_	_	
+64-4	7304-7312	likewise	_	_	
+64-5	7313-7322	construed	*	Metalinguistic Cue	
+64-6	7323-7324	§	*[57]	Legal Source[57]	
+64-7	7325-7331	1113(2	*[57]	Legal Source[57]	
+64-8	7332-7333	)	*[57]	Legal Source[57]	
+64-9	7334-7336	to	_	_	
+64-10	7337-7344	require	_	_	
+64-11	7345-7346	"	*[58]	Direct Quote[58]	
+64-12	7347-7356	knowledge	*[58]	Direct Quote[58]	
+64-13	7357-7361	that	*[58]	Direct Quote[58]	
+64-14	7362-7364	is	*[58]	Direct Quote[58]	
+64-15	7365-7371	actual	*[58]	Direct Quote[58]	
+64-16	7372-7373	,	*[58]	Direct Quote[58]	
+64-17	7374-7375	"	*[58]	Direct Quote[58]	
+64-18	7376-7377	i	_	_	
+64-19	7378-7380	d.	_	_	
+64-20	7381-7382	,	_	_	
+64-21	7383-7385	at	_	_	
+64-22	7386-7390	1076	_	_	
+64-23	7391-7392	,	_	_	
+64-24	7393-7396	but	_	_	
+64-25	7397-7400	one	_	_	
+64-26	7401-7404	has	_	_	
+64-27	7405-7414	construed	_	_	
+64-28	7415-7417	it	_	_	
+64-29	7418-7420	to	_	_	
+64-30	7421-7428	require	_	_	
+64-31	7429-7433	only	_	_	
+64-32	7434-7439	proof	_	_	
+64-33	7440-7442	of	_	_	
+64-34	7443-7453	sufficient	_	_	
+64-35	7454-7464	disclosure	_	_	
+64-36	7465-7466	.	_	_	
+
+#Text=We granted certiorari , 587 U.S. ---- , 139 S.Ct . 2692 , 204 L.Ed.2d 1089 ( 2019 ) , to resolve whether the phrase " actual knowledge " does in fact mean " what it says , " 909 F.3d at 1076 , and hold that it does .
+65-1	7467-7469	We	_	_	
+65-2	7470-7477	granted	_	_	
+65-3	7478-7488	certiorari	_	_	
+65-4	7489-7490	,	_	_	
+65-5	7491-7494	587	*[59]	Legal Source[59]	
+65-6	7495-7499	U.S.	*[59]	Legal Source[59]	
+65-7	7500-7504	----	*[59]	Legal Source[59]	
+65-8	7505-7506	,	*[59]	Legal Source[59]	
+65-9	7507-7510	139	*[59]	Legal Source[59]	
+65-10	7511-7515	S.Ct	*[59]	Legal Source[59]	
+65-11	7516-7517	.	*[59]	Legal Source[59]	
+65-12	7518-7522	2692	*[59]	Legal Source[59]	
+65-13	7523-7524	,	*[59]	Legal Source[59]	
+65-14	7525-7528	204	*[59]	Legal Source[59]	
+65-15	7529-7536	L.Ed.2d	*[59]	Legal Source[59]	
+65-16	7537-7541	1089	*[59]	Legal Source[59]	
+65-17	7542-7543	(	*[59]	Legal Source[59]	
+65-18	7544-7548	2019	*[59]	Legal Source[59]	
+65-19	7549-7550	)	*[59]	Legal Source[59]	
+65-20	7551-7552	,	_	_	
+65-21	7553-7555	to	_	_	
+65-22	7556-7563	resolve	_	_	
+65-23	7564-7571	whether	_	_	
+65-24	7572-7575	the	_	_	
+65-25	7576-7582	phrase	*	Metalinguistic Cue	
+65-26	7583-7584	"	*[60]	Direct Quote[60]	
+65-27	7585-7591	actual	*[60]|*[61]	Direct Quote[60]|Focal Term[61]	
+65-28	7592-7601	knowledge	*[60]|*[61]	Direct Quote[60]|Focal Term[61]	
+65-29	7602-7603	"	*[60]	Direct Quote[60]	
+65-30	7604-7608	does	_	_	
+65-31	7609-7611	in	_	_	
+65-32	7612-7616	fact	_	_	
+65-33	7617-7621	mean	_	_	
+65-34	7622-7623	"	*[62]	Direct Quote[62]	
+65-35	7624-7628	what	*[62]	Direct Quote[62]	
+65-36	7629-7631	it	*[62]	Direct Quote[62]	
+65-37	7632-7636	says	*[62]	Direct Quote[62]	
+65-38	7637-7638	,	*[62]	Direct Quote[62]	
+65-39	7639-7640	"	*[62]	Direct Quote[62]	
+65-40	7641-7644	909	*[63]	Legal Source[63]	
+65-41	7645-7649	F.3d	*[63]	Legal Source[63]	
+65-42	7650-7652	at	*[63]	Legal Source[63]	
+65-43	7653-7657	1076	*[63]	Legal Source[63]	
+65-44	7658-7659	,	_	_	
+65-45	7660-7663	and	_	_	
+65-46	7664-7668	hold	_	_	
+65-47	7669-7673	that	_	_	
+65-48	7674-7676	it	_	_	
+65-49	7677-7681	does	_	_	
+65-50	7682-7683	.	_	_	
+
+#Text=II
+66-1	7684-7686	II	_	_	
+
+#Text=A
+67-1	7687-7688	A	_	_	
+
+#Text=" We must enforce plain and unambiguous statutory language " in ERISA , as in any statute , " according to its terms . "
+68-1	7689-7690	"	*[64]	Appeal to Meaning[64]	
+68-2	7691-7693	We	*[64]	Appeal to Meaning[64]	
+68-3	7694-7698	must	*[64]	Appeal to Meaning[64]	
+68-4	7699-7706	enforce	*[64]	Appeal to Meaning[64]	
+68-5	7707-7712	plain	*[64]|*[65]	Appeal to Meaning[64]|Metalinguistic Cue[65]	
+68-6	7713-7716	and	*[64]|*[65]	Appeal to Meaning[64]|Metalinguistic Cue[65]	
+68-7	7717-7728	unambiguous	*[64]|*[65]	Appeal to Meaning[64]|Metalinguistic Cue[65]	
+68-8	7729-7738	statutory	*[64]|*[65]	Appeal to Meaning[64]|Metalinguistic Cue[65]	
+68-9	7739-7747	language	*[64]|*[65]	Appeal to Meaning[64]|Metalinguistic Cue[65]	
+68-10	7748-7749	"	*[64]	Appeal to Meaning[64]	
+68-11	7750-7752	in	*[64]	Appeal to Meaning[64]	
+68-12	7753-7758	ERISA	*[64]|*[66]	Appeal to Meaning[64]|Legal Source[66]	
+68-13	7759-7760	,	*[64]	Appeal to Meaning[64]	
+68-14	7761-7763	as	*[64]	Appeal to Meaning[64]	
+68-15	7764-7766	in	*[64]	Appeal to Meaning[64]	
+68-16	7767-7770	any	*[64]	Appeal to Meaning[64]	
+68-17	7771-7778	statute	*[64]	Appeal to Meaning[64]	
+68-18	7779-7780	,	*[64]	Appeal to Meaning[64]	
+68-19	7781-7782	"	*[64]	Appeal to Meaning[64]	
+68-20	7783-7792	according	*[64]	Appeal to Meaning[64]	
+68-21	7793-7795	to	*[64]	Appeal to Meaning[64]	
+68-22	7796-7799	its	*[64]	Appeal to Meaning[64]	
+68-23	7800-7805	terms	*[64]|*[67]	Appeal to Meaning[64]|Metalinguistic Cue[67]	
+68-24	7806-7807	.	*[64]	Appeal to Meaning[64]	
+68-25	7808-7809	"	*[64]	Appeal to Meaning[64]	
+
+#Text=Hardt v. Reliance Standard Life Ins . Co. , 560 U.S. 242 , 251 , 130 S.Ct . 2149 , 176 L.Ed.2d 998 ( 2010 ) .
+69-1	7810-7815	Hardt	*[68]	Legal Source[68]	
+69-2	7816-7818	v.	*[68]	Legal Source[68]	
+69-3	7819-7827	Reliance	*[68]	Legal Source[68]	
+69-4	7828-7836	Standard	*[68]	Legal Source[68]	
+69-5	7837-7841	Life	*[68]	Legal Source[68]	
+69-6	7842-7845	Ins	*[68]	Legal Source[68]	
+69-7	7846-7847	.	*[68]	Legal Source[68]	
+69-8	7848-7851	Co.	*[68]	Legal Source[68]	
+69-9	7852-7853	,	*[68]	Legal Source[68]	
+69-10	7854-7857	560	*[68]	Legal Source[68]	
+69-11	7858-7862	U.S.	*[68]	Legal Source[68]	
+69-12	7863-7866	242	*[68]	Legal Source[68]	
+69-13	7867-7868	,	*[68]	Legal Source[68]	
+69-14	7869-7872	251	*[68]	Legal Source[68]	
+69-15	7873-7874	,	*[68]	Legal Source[68]	
+69-16	7875-7878	130	*[68]	Legal Source[68]	
+69-17	7879-7883	S.Ct	*[68]	Legal Source[68]	
+69-18	7884-7885	.	*[68]	Legal Source[68]	
+69-19	7886-7890	2149	*[68]	Legal Source[68]	
+69-20	7891-7892	,	*[68]	Legal Source[68]	
+69-21	7893-7896	176	*[68]	Legal Source[68]	
+69-22	7897-7904	L.Ed.2d	*[68]	Legal Source[68]	
+69-23	7905-7908	998	*[68]	Legal Source[68]	
+69-24	7909-7910	(	*[68]	Legal Source[68]	
+69-25	7911-7915	2010	*[68]	Legal Source[68]	
+69-26	7916-7917	)	*[68]	Legal Source[68]	
+69-27	7918-7919	.	_	_	
+
+#Text=Although ERISA does not define the phrase " actual knowledge , " its meaning is plain .
+70-1	7920-7928	Although	_	_	
+70-2	7929-7934	ERISA	*	Metalinguistic Cue	
+70-3	7935-7939	does	_	_	
+70-4	7940-7943	not	_	_	
+70-5	7944-7950	define	_	_	
+70-6	7951-7954	the	_	_	
+70-7	7955-7961	phrase	*	Metalinguistic Cue	
+70-8	7962-7963	"	*[69]	Direct Quote[69]	
+70-9	7964-7970	actual	*[69]|*[70]	Direct Quote[69]|Focal Term[70]	
+70-10	7971-7980	knowledge	*[69]|*[70]	Direct Quote[69]|Focal Term[70]	
+70-11	7981-7982	,	*[69]	Direct Quote[69]	
+70-12	7983-7984	"	*[69]	Direct Quote[69]	
+70-13	7985-7988	its	_	_	
+70-14	7989-7996	meaning	*	Metalinguistic Cue	
+70-15	7997-7999	is	_	_	
+70-16	8000-8005	plain	*	Metalinguistic Cue	
+70-17	8006-8007	.	_	_	
+
+#Text=Dictionaries are hardly necessary to confirm the point , but they do .
+71-1	8008-8020	Dictionaries	*	Metalinguistic Cue	
+71-2	8021-8024	are	_	_	
+71-3	8025-8031	hardly	_	_	
+71-4	8032-8041	necessary	_	_	
+71-5	8042-8044	to	_	_	
+71-6	8045-8052	confirm	_	_	
+71-7	8053-8056	the	_	_	
+71-8	8057-8062	point	_	_	
+71-9	8063-8064	,	_	_	
+71-10	8065-8068	but	_	_	
+71-11	8069-8073	they	_	_	
+71-12	8074-8076	do	_	_	
+71-13	8077-8078	.	_	_	
+
+#Text=When Congress passed ERISA , the word " actual " meant what it means today : " existing in fact or reality . "
+72-1	8079-8083	When	*[71]	Appeal to Meaning[71]	
+72-2	8084-8092	Congress	*[71]	Appeal to Meaning[71]	
+72-3	8093-8099	passed	*[71]	Appeal to Meaning[71]	
+72-4	8100-8105	ERISA	*[71]|*[72]	Appeal to Meaning[71]|Metalinguistic Cue[72]	
+72-5	8106-8107	,	*[71]	Appeal to Meaning[71]	
+72-6	8108-8111	the	*[71]	Appeal to Meaning[71]	
+72-7	8112-8116	word	*[71]	Appeal to Meaning[71]	
+72-8	8117-8118	"	*[71]|*[73]	Appeal to Meaning[71]|Direct Quote[73]	
+72-9	8119-8125	actual	*[71]|*[73]|*[74]	Appeal to Meaning[71]|Direct Quote[73]|Focal Term[74]	
+72-10	8126-8127	"	*[71]|*[73]	Appeal to Meaning[71]|Direct Quote[73]	
+72-11	8128-8133	meant	*[71]|*[75]	Appeal to Meaning[71]|Metalinguistic Cue[75]	
+72-12	8134-8138	what	*[71]	Appeal to Meaning[71]	
+72-13	8139-8141	it	*[71]	Appeal to Meaning[71]	
+72-14	8142-8147	means	*[71]|*[76]	Appeal to Meaning[71]|Metalinguistic Cue[76]	
+72-15	8148-8153	today	*[71]	Appeal to Meaning[71]	
+72-16	8154-8155	:	*[71]	Appeal to Meaning[71]	
+72-17	8156-8157	"	*[71]|*[77]	Appeal to Meaning[71]|Direct Quote[77]	
+72-18	8158-8166	existing	*[71]|*[77]|*[78]	Appeal to Meaning[71]|Direct Quote[77]|Definition[78]	
+72-19	8167-8169	in	*[71]|*[77]|*[78]	Appeal to Meaning[71]|Direct Quote[77]|Definition[78]	
+72-20	8170-8174	fact	*[71]|*[77]|*[78]	Appeal to Meaning[71]|Direct Quote[77]|Definition[78]	
+72-21	8175-8177	or	*[71]|*[77]|*[78]	Appeal to Meaning[71]|Direct Quote[77]|Definition[78]	
+72-22	8178-8185	reality	*[71]|*[77]|*[78]	Appeal to Meaning[71]|Direct Quote[77]|Definition[78]	
+72-23	8186-8187	.	*[71]|*[77]	Appeal to Meaning[71]|Direct Quote[77]	
+72-24	8188-8189	"	*[71]|*[77]	Appeal to Meaning[71]|Direct Quote[77]	
+
+#Text=Webster 's Seventh New Collegiate Dictionary 10 ( 1967 ) ; accord , Merriam - Webster 's Collegiate Dictionary 13 ( 11th ed . 2005 ) ( same ) ; see also American Heritage Dictionary 14 ( 1973 ) ( " In existence ; real ; factual " ) ; i d . , at 18 ( 5th ed . 2011 ) ( " Existing in reality and not potential , possible , simulated , or false " ) .
+73-1	8190-8197	Webster	*[79]	Language Source[79]	
+73-2	8198-8200	's	*[79]	Language Source[79]	
+73-3	8201-8208	Seventh	*[79]	Language Source[79]	
+73-4	8209-8212	New	*[79]	Language Source[79]	
+73-5	8213-8223	Collegiate	*[79]	Language Source[79]	
+73-6	8224-8234	Dictionary	*[79]	Language Source[79]	
+73-7	8235-8237	10	*[79]	Language Source[79]	
+73-8	8238-8239	(	*[79]	Language Source[79]	
+73-9	8240-8244	1967	*[79]	Language Source[79]	
+73-10	8245-8246	)	*[79]	Language Source[79]	
+73-11	8247-8248	;	_	_	
+73-12	8249-8255	accord	Guidelines: this should not be annotated\; it's a term of art	*	
+73-13	8256-8257	,	_	_	
+73-14	8258-8265	Merriam	*[80]	Language Source[80]	
+73-15	8266-8267	-	*[80]	Language Source[80]	
+73-16	8268-8275	Webster	*[80]	Language Source[80]	
+73-17	8276-8278	's	*[80]	Language Source[80]	
+73-18	8279-8289	Collegiate	*[80]	Language Source[80]	
+73-19	8290-8300	Dictionary	*[80]	Language Source[80]	
+73-20	8301-8303	13	*[80]	Language Source[80]	
+73-21	8304-8305	(	*[80]	Language Source[80]	
+73-22	8306-8310	11th	*[80]	Language Source[80]	
+73-23	8311-8313	ed	*[80]	Language Source[80]	
+73-24	8314-8315	.	*[80]	Language Source[80]	
+73-25	8316-8320	2005	*[80]	Language Source[80]	
+73-26	8321-8322	)	*[80]	Language Source[80]	
+73-27	8323-8324	(	_	_	
+73-28	8325-8329	same	_	_	
+73-29	8330-8331	)	_	_	
+73-30	8332-8333	;	_	_	
+73-31	8334-8337	see	_	_	
+73-32	8338-8342	also	_	_	
+73-33	8343-8351	American	*[81]	Language Source[81]	
+73-34	8352-8360	Heritage	*[81]	Language Source[81]	
+73-35	8361-8371	Dictionary	*[81]	Language Source[81]	
+73-36	8372-8374	14	*[81]	Language Source[81]	
+73-37	8375-8376	(	*[81]	Language Source[81]	
+73-38	8377-8381	1973	*[81]	Language Source[81]	
+73-39	8382-8383	)	*[81]	Language Source[81]	
+73-40	8384-8385	(	_	_	
+73-41	8386-8387	"	_	_	
+73-42	8388-8390	In	*[82]|*[83]	Direct Quote[82]|Definition[83]	
+73-43	8391-8400	existence	*[82]|*[83]	Direct Quote[82]|Definition[83]	
+73-44	8401-8402	;	*[82]|*[83]	Direct Quote[82]|Definition[83]	
+73-45	8403-8407	real	*[82]|*[83]	Direct Quote[82]|Definition[83]	
+73-46	8408-8409	;	*[82]|*[83]	Direct Quote[82]|Definition[83]	
+73-47	8410-8417	factual	*[82]|*[83]	Direct Quote[82]|Definition[83]	
+73-48	8418-8419	"	*[82]	Direct Quote[82]	
+73-49	8420-8421	)	_	_	
+73-50	8422-8423	;	_	_	
+73-51	8424-8425	i	*[84]	Language Source[84]	
+73-52	8426-8427	d	*[84]	Language Source[84]	
+73-53	8428-8429	.	*[84]	Language Source[84]	
+73-54	8430-8431	,	*[84]	Language Source[84]	
+73-55	8432-8434	at	*[84]	Language Source[84]	
+73-56	8435-8437	18	*[84]	Language Source[84]	
+73-57	8438-8439	(	*[84]	Language Source[84]	
+73-58	8440-8443	5th	*[84]	Language Source[84]	
+73-59	8444-8446	ed	*[84]	Language Source[84]	
+73-60	8447-8448	.	*[84]	Language Source[84]	
+73-61	8449-8453	2011	*[84]	Language Source[84]	
+73-62	8454-8455	)	*[84]	Language Source[84]	
+73-63	8456-8457	(	_	_	
+73-64	8458-8459	"	*[85]	Direct Quote[85]	
+73-65	8460-8468	Existing	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-66	8469-8471	in	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-67	8472-8479	reality	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-68	8480-8483	and	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-69	8484-8487	not	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-70	8488-8497	potential	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-71	8498-8499	,	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-72	8500-8508	possible	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-73	8509-8510	,	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-74	8511-8520	simulated	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-75	8521-8522	,	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-76	8523-8525	or	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-77	8526-8531	false	*[85]|*[86]	Direct Quote[85]|Definition[86]	
+73-78	8532-8533	"	*[85]	Direct Quote[85]	
+73-79	8534-8535	)	_	_	
+73-80	8536-8537	.	_	_	
+
+#Text=So did the word " knowledge , " which meant and still means " the fact or condition of being aware of something . "
+74-1	8538-8540	So	*[87]	Appeal to Meaning[87]	
+74-2	8541-8544	did	*[87]	Appeal to Meaning[87]	
+74-3	8545-8548	the	*[87]	Appeal to Meaning[87]	
+74-4	8549-8553	word	*[87]|*[88]	Appeal to Meaning[87]|Metalinguistic Cue[88]	
+74-5	8554-8555	"	*[87]|*[89]	Appeal to Meaning[87]|Direct Quote[89]	
+74-6	8556-8565	knowledge	*[87]|*[89]	Appeal to Meaning[87]|Direct Quote[89]	
+74-7	8566-8567	,	*[87]|*[89]	Appeal to Meaning[87]|Direct Quote[89]	
+74-8	8568-8569	"	*[87]|*[89]	Appeal to Meaning[87]|Direct Quote[89]	
+74-9	8570-8575	which	*[87]	Appeal to Meaning[87]	
+74-10	8576-8581	meant	*[87]|*[90]	Appeal to Meaning[87]|Metalinguistic Cue[90]	
+74-11	8582-8585	and	*[87]	Appeal to Meaning[87]	
+74-12	8586-8591	still	*[87]	Appeal to Meaning[87]	
+74-13	8592-8597	means	*[87]|*[91]	Appeal to Meaning[87]|Metalinguistic Cue[91]	
+74-14	8598-8599	"	*[87]|*[92]	Appeal to Meaning[87]|Direct Quote[92]	
+74-15	8600-8603	the	*[87]|*[92]|*[93]	Appeal to Meaning[87]|Direct Quote[92]|Definition[93]	
+74-16	8604-8608	fact	*[87]|*[92]|*[93]	Appeal to Meaning[87]|Direct Quote[92]|Definition[93]	
+74-17	8609-8611	or	*[87]|*[92]|*[93]	Appeal to Meaning[87]|Direct Quote[92]|Definition[93]	
+74-18	8612-8621	condition	*[87]|*[92]|*[93]	Appeal to Meaning[87]|Direct Quote[92]|Definition[93]	
+74-19	8622-8624	of	*[87]|*[92]|*[93]	Appeal to Meaning[87]|Direct Quote[92]|Definition[93]	
+74-20	8625-8630	being	*[87]|*[92]|*[93]	Appeal to Meaning[87]|Direct Quote[92]|Definition[93]	
+74-21	8631-8636	aware	*[87]|*[92]|*[93]	Appeal to Meaning[87]|Direct Quote[92]|Definition[93]	
+74-22	8637-8639	of	*[87]|*[92]|*[93]	Appeal to Meaning[87]|Direct Quote[92]|Definition[93]	
+74-23	8640-8649	something	*[87]|*[92]|*[93]	Appeal to Meaning[87]|Direct Quote[92]|Definition[93]	
+74-24	8650-8651	.	*[87]|*[92]	Appeal to Meaning[87]|Direct Quote[92]	
+74-25	8652-8653	"	*[87]|*[92]	Appeal to Meaning[87]|Direct Quote[92]	
+
+#Text=Webster 's Seventh New Collegiate Dictionary 469 ( 1967 ) ; accord , Merriam - Webster 's Collegiate Dictionary 691 ( 2005 ) ( same ) ; see also American Heritage Dictionary 725 ( 1973 ) ( " Familiarity , awareness , or understanding gained through experience or study " ) ; i d . , at 973 ( 2011 ) ( same ) .
+75-1	8654-8661	Webster	*[94]	Language Source[94]	
+75-2	8662-8664	's	*[94]	Language Source[94]	
+75-3	8665-8672	Seventh	*[94]	Language Source[94]	
+75-4	8673-8676	New	*[94]	Language Source[94]	
+75-5	8677-8687	Collegiate	*[94]	Language Source[94]	
+75-6	8688-8698	Dictionary	*[94]	Language Source[94]	
+75-7	8699-8702	469	*[94]	Language Source[94]	
+75-8	8703-8704	(	*[94]	Language Source[94]	
+75-9	8705-8709	1967	*[94]	Language Source[94]	
+75-10	8710-8711	)	*[94]	Language Source[94]	
+75-11	8712-8713	;	_	_	
+75-12	8714-8720	accord	_	_	
+75-13	8721-8722	,	_	_	
+75-14	8723-8730	Merriam	*[95]	Language Source[95]	
+75-15	8731-8732	-	*[95]	Language Source[95]	
+75-16	8733-8740	Webster	*[95]	Language Source[95]	
+75-17	8741-8743	's	*[95]	Language Source[95]	
+75-18	8744-8754	Collegiate	*[95]	Language Source[95]	
+75-19	8755-8765	Dictionary	*[95]	Language Source[95]	
+75-20	8766-8769	691	*[95]	Language Source[95]	
+75-21	8770-8771	(	*[95]	Language Source[95]	
+75-22	8772-8776	2005	*[95]	Language Source[95]	
+75-23	8777-8778	)	*[95]	Language Source[95]	
+75-24	8779-8780	(	_	_	
+75-25	8781-8785	same	_	_	
+75-26	8786-8787	)	_	_	
+75-27	8788-8789	;	_	_	
+75-28	8790-8793	see	_	_	
+75-29	8794-8798	also	_	_	
+75-30	8799-8807	American	*[96]	Language Source[96]	
+75-31	8808-8816	Heritage	*[96]	Language Source[96]	
+75-32	8817-8827	Dictionary	*[96]	Language Source[96]	
+75-33	8828-8831	725	*[96]	Language Source[96]	
+75-34	8832-8833	(	*[96]	Language Source[96]	
+75-35	8834-8838	1973	*[96]	Language Source[96]	
+75-36	8839-8840	)	*[96]	Language Source[96]	
+75-37	8841-8842	(	_	_	
+75-38	8843-8844	"	*[97]	Direct Quote[97]	
+75-39	8845-8856	Familiarity	*[97]|*[98]	Direct Quote[97]|Definition[98]	
+75-40	8857-8858	,	*[97]|*[98]	Direct Quote[97]|Definition[98]	
+75-41	8859-8868	awareness	*[97]|*[98]	Direct Quote[97]|Definition[98]	
+75-42	8869-8870	,	*[97]|*[98]	Direct Quote[97]|Definition[98]	
+75-43	8871-8873	or	*[97]|*[98]	Direct Quote[97]|Definition[98]	
+75-44	8874-8887	understanding	*[97]|*[98]	Direct Quote[97]|Definition[98]	
+75-45	8888-8894	gained	*[97]|*[98]	Direct Quote[97]|Definition[98]	
+75-46	8895-8902	through	*[97]|*[98]	Direct Quote[97]|Definition[98]	
+75-47	8903-8913	experience	*[97]|*[98]	Direct Quote[97]|Definition[98]	
+75-48	8914-8916	or	*[97]|*[98]	Direct Quote[97]|Definition[98]	
+75-49	8917-8922	study	*[97]|*[98]	Direct Quote[97]|Definition[98]	
+75-50	8923-8924	"	*[97]	Direct Quote[97]	
+75-51	8925-8926	)	_	_	
+75-52	8927-8928	;	_	_	
+75-53	8929-8930	i	*[99]	Language Source[99]	
+75-54	8931-8932	d	*[99]	Language Source[99]	
+75-55	8933-8934	.	*[99]	Language Source[99]	
+75-56	8935-8936	,	*[99]	Language Source[99]	
+75-57	8937-8939	at	*[99]	Language Source[99]	
+75-58	8940-8943	973	*[99]	Language Source[99]	
+75-59	8944-8945	(	*[99]	Language Source[99]	
+75-60	8946-8950	2011	*[99]	Language Source[99]	
+75-61	8951-8952	)	*[99]	Language Source[99]	
+75-62	8953-8954	(	_	_	
+75-63	8955-8959	same	_	_	
+75-64	8960-8961	)	_	_	
+75-65	8962-8963	.	_	_	
+
+#Text=Thus , to have " actual knowledge " of a piece of information , one must in fact be aware of it .
+76-1	8964-8968	Thus	_	_	
+76-2	8969-8970	,	_	_	
+76-3	8971-8973	to	_	_	
+76-4	8974-8978	have	_	_	
+76-5	8979-8980	"	*[100]	Direct Quote[100]	
+76-6	8981-8987	actual	*[100]|*[101]	Direct Quote[100]|Focal Term[101]	
+76-7	8988-8997	knowledge	*[100]|*[101]	Direct Quote[100]|Focal Term[101]	
+76-8	8998-8999	"	*[100]	Direct Quote[100]	
+76-9	9000-9002	of	_	_	
+76-10	9003-9004	a	_	_	
+76-11	9005-9010	piece	_	_	
+76-12	9011-9013	of	_	_	
+76-13	9014-9025	information	_	_	
+76-14	9026-9027	,	_	_	
+76-15	9028-9031	one	_	_	
+76-16	9032-9036	must	_	_	
+76-17	9037-9039	in	_	_	
+76-18	9040-9044	fact	_	_	
+76-19	9045-9047	be	_	_	
+76-20	9048-9053	aware	_	_	
+76-21	9054-9056	of	_	_	
+76-22	9057-9059	it	_	_	
+76-23	9060-9061	.	_	_	
+
+#Text=Legal dictionaries give " actual knowledge " the same meaning : " [ r]eal knowledge as distinguished from presumed knowledge or knowledge imputed to one . "
+77-1	9062-9067	Legal	*[102]	Metalinguistic Cue[102]	
+77-2	9068-9080	dictionaries	*[102]	Metalinguistic Cue[102]	
+77-3	9081-9085	give	_	_	
+77-4	9086-9087	"	*[103]	Direct Quote[103]	
+77-5	9088-9094	actual	*[103]|*[104]	Direct Quote[103]|Focal Term[104]	
+77-6	9095-9104	knowledge	*[103]|*[104]	Direct Quote[103]|Focal Term[104]	
+77-7	9105-9106	"	*[103]	Direct Quote[103]	
+77-8	9107-9110	the	_	_	
+77-9	9111-9115	same	*[105]	Metalinguistic Cue[105]	
+77-10	9116-9123	meaning	*[105]	Metalinguistic Cue[105]	
+77-11	9124-9125	:	_	_	
+77-12	9126-9127	"	*[106]	Direct Quote[106]	
+77-13	9128-9129	[	*[106]	Direct Quote[106]	
+77-14	9130-9135	r]eal	*[106]	Direct Quote[106]	
+77-15	9136-9145	knowledge	*[106]	Direct Quote[106]	
+77-16	9146-9148	as	*[106]	Direct Quote[106]	
+77-17	9149-9162	distinguished	*[106]	Direct Quote[106]	
+77-18	9163-9167	from	*[106]	Direct Quote[106]	
+77-19	9168-9176	presumed	*[106]	Direct Quote[106]	
+77-20	9177-9186	knowledge	*[106]	Direct Quote[106]	
+77-21	9187-9189	or	*[106]	Direct Quote[106]	
+77-22	9190-9199	knowledge	*[106]	Direct Quote[106]	
+77-23	9200-9207	imputed	*[106]	Direct Quote[106]	
+77-24	9208-9210	to	*[106]	Direct Quote[106]	
+77-25	9211-9214	one	*[106]	Direct Quote[106]	
+77-26	9215-9216	.	*[106]	Direct Quote[106]	
+77-27	9217-9218	"	*[106]	Direct Quote[106]	
+
+#Text=Ballentine 's Law Dictionary 24 ( 3d ed . 1969 ) ; accord , Black 's Law Dictionary 1043 ( 11th ed . 2019 ) ( defining " actual knowledge " as " [ d]irect and clear knowledge , as distinguished from constructive knowledge " ) .
+78-1	9219-9229	Ballentine	*[107]	Language Source[107]	
+78-2	9230-9232	's	*[107]	Language Source[107]	
+78-3	9233-9236	Law	*[107]	Language Source[107]	
+78-4	9237-9247	Dictionary	*[107]	Language Source[107]	
+78-5	9248-9250	24	*[107]	Language Source[107]	
+78-6	9251-9252	(	*[107]	Language Source[107]	
+78-7	9253-9255	3d	*[107]	Language Source[107]	
+78-8	9256-9258	ed	*[107]	Language Source[107]	
+78-9	9259-9260	.	*[107]	Language Source[107]	
+78-10	9261-9265	1969	*[107]	Language Source[107]	
+78-11	9266-9267	)	*[107]	Language Source[107]	
+78-12	9268-9269	;	_	_	
+78-13	9270-9276	accord	_	_	
+78-14	9277-9278	,	_	_	
+78-15	9279-9284	Black	*[108]	Language Source[108]	
+78-16	9285-9287	's	*[108]	Language Source[108]	
+78-17	9288-9291	Law	*[108]	Language Source[108]	
+78-18	9292-9302	Dictionary	*[108]	Language Source[108]	
+78-19	9303-9307	1043	*[108]	Language Source[108]	
+78-20	9308-9309	(	*[108]	Language Source[108]	
+78-21	9310-9314	11th	*[108]	Language Source[108]	
+78-22	9315-9317	ed	*[108]	Language Source[108]	
+78-23	9318-9319	.	*[108]	Language Source[108]	
+78-24	9320-9324	2019	*[108]	Language Source[108]	
+78-25	9325-9326	)	*[108]	Language Source[108]	
+78-26	9327-9328	(	_	_	
+78-27	9329-9337	defining	*	Metalinguistic Cue	
+78-28	9338-9339	"	*[109]	Direct Quote[109]	
+78-29	9340-9346	actual	*[109]|*[110]	Direct Quote[109]|Focal Term[110]	
+78-30	9347-9356	knowledge	*[109]|*[110]	Direct Quote[109]|Focal Term[110]	
+78-31	9357-9358	"	*[109]	Direct Quote[109]	
+78-32	9359-9361	as	_	_	
+78-33	9362-9363	"	*[111]	Direct Quote[111]	
+78-34	9364-9365	[	*[111]|*[112]	Direct Quote[111]|Definition[112]	
+78-35	9366-9373	d]irect	*[111]|*[112]	Direct Quote[111]|Definition[112]	
+78-36	9374-9377	and	*[111]|*[112]	Direct Quote[111]|Definition[112]	
+78-37	9378-9383	clear	*[111]|*[112]	Direct Quote[111]|Definition[112]	
+78-38	9384-9393	knowledge	*[111]|*[112]	Direct Quote[111]|Definition[112]	
+78-39	9394-9395	,	*[111]|*[112]	Direct Quote[111]|Definition[112]	
+78-40	9396-9398	as	*[111]|*[112]	Direct Quote[111]|Definition[112]	
+78-41	9399-9412	distinguished	*[111]|*[112]	Direct Quote[111]|Definition[112]	
+78-42	9413-9417	from	*[111]|*[112]	Direct Quote[111]|Definition[112]	
+78-43	9418-9430	constructive	*[111]|*[112]	Direct Quote[111]|Definition[112]	
+78-44	9431-9440	knowledge	*[111]|*[112]	Direct Quote[111]|Definition[112]	
+78-45	9441-9442	"	*[111]	Direct Quote[111]	
+78-46	9443-9444	)	_	_	
+78-47	9445-9446	.	_	_	
+
+#Text=The qualifier " actual " creates that distinction .
+79-1	9447-9450	The	_	_	
+79-2	9451-9460	qualifier	*	Metalinguistic Cue	
+79-3	9461-9462	"	*[113]	Direct Quote[113]	
+79-4	9463-9469	actual	*[113]|*[114]	Direct Quote[113]|Focal Term[114]	
+79-5	9470-9471	"	*[113]	Direct Quote[113]	
+79-6	9472-9479	creates	_	_	
+79-7	9480-9484	that	_	_	
+79-8	9485-9496	distinction	_	_	
+79-9	9497-9498	.	_	_	
+
+#Text=In everyday speech , " actual knowledge " might seem redundant ; one who claims " knowledge " of a topic likely means to suggest that he actually knows a thing or two about it .
+80-1	9499-9501	In	_	_	
+80-2	9502-9510	everyday	_	_	
+80-3	9511-9517	speech	_	_	
+80-4	9518-9519	,	_	_	
+80-5	9520-9521	"	*[115]	Direct Quote[115]	
+80-6	9522-9528	actual	*[115]|*[116]	Direct Quote[115]|Focal Term[116]	
+80-7	9529-9538	knowledge	*[115]|*[116]	Direct Quote[115]|Focal Term[116]	
+80-8	9539-9540	"	*[115]	Direct Quote[115]	
+80-9	9541-9546	might	_	_	
+80-10	9547-9551	seem	_	_	
+80-11	9552-9561	redundant	*	Metalinguistic Cue	
+80-12	9562-9563	;	_	_	
+80-13	9564-9567	one	_	_	
+80-14	9568-9571	who	_	_	
+80-15	9572-9578	claims	_	_	
+80-16	9579-9580	"	*[117]	Direct Quote[117]	
+80-17	9581-9590	knowledge	*[117]|*[118]	Direct Quote[117]|Focal Term[118]	
+80-18	9591-9592	"	*[117]	Direct Quote[117]	
+80-19	9593-9595	of	_	_	
+80-20	9596-9597	a	_	_	
+80-21	9598-9603	topic	_	_	
+80-22	9604-9610	likely	_	_	
+80-23	9611-9616	means	*[119]	Metalinguistic Cue[119]	
+80-24	9617-9619	to	*[119]	Metalinguistic Cue[119]	
+80-25	9620-9627	suggest	*[119]	Metalinguistic Cue[119]	
+80-26	9628-9632	that	_	_	
+80-27	9633-9635	he	_	_	
+80-28	9636-9644	actually	*[120]	Definition[120]	
+80-29	9645-9650	knows	*[120]	Definition[120]	
+80-30	9651-9652	a	*[120]	Definition[120]	
+80-31	9653-9658	thing	*[120]	Definition[120]	
+80-32	9659-9661	or	*[120]	Definition[120]	
+80-33	9662-9665	two	*[120]	Definition[120]	
+80-34	9666-9671	about	*[120]	Definition[120]	
+80-35	9672-9674	it	*[120]	Definition[120]	
+80-36	9675-9676	.	_	_	
+
+#Text=But the law will sometimes impute knowledge - often called " constructive " knowledge - to a person who fails to learn something that a reasonably diligent person would have learned .
+81-1	9677-9680	But	_	_	
+81-2	9681-9684	the	_	_	
+81-3	9685-9688	law	_	_	
+81-4	9689-9693	will	_	_	
+81-5	9694-9703	sometimes	_	_	
+81-6	9704-9710	impute	_	_	
+81-7	9711-9720	knowledge	_	_	
+81-8	9721-9722	-	_	_	
+81-9	9723-9728	often	_	_	
+81-10	9729-9735	called	*	Metalinguistic Cue	
+81-11	9736-9737	"	_	_	
+81-12	9738-9750	constructive	*[121]|*[122]	Focal Term[121]|Direct Quote[122]	
+81-13	9751-9752	"	*[121]|*[122]	Focal Term[121]|Direct Quote[122]	
+81-14	9753-9762	knowledge	*[121]	Focal Term[121]	
+81-15	9763-9764	-	_	_	
+81-16	9765-9767	to	_	_	
+81-17	9768-9769	a	_	_	
+81-18	9770-9776	person	_	_	
+81-19	9777-9780	who	_	_	
+81-20	9781-9786	fails	_	_	
+81-21	9787-9789	to	_	_	
+81-22	9790-9795	learn	_	_	
+81-23	9796-9805	something	_	_	
+81-24	9806-9810	that	_	_	
+81-25	9811-9812	a	_	_	
+81-26	9813-9823	reasonably	_	_	
+81-27	9824-9832	diligent	_	_	
+81-28	9833-9839	person	_	_	
+81-29	9840-9845	would	_	_	
+81-30	9846-9850	have	_	_	
+81-31	9851-9858	learned	_	_	
+81-32	9859-9860	.	_	_	
+
+#Text=See i d . , at 1043 .
+82-1	9861-9864	See	_	_	
+82-2	9865-9866	i	*[123]	Legal Source[123]	
+82-3	9867-9868	d	*[123]	Legal Source[123]	
+82-4	9869-9870	.	*[123]	Legal Source[123]	
+82-5	9871-9872	,	*[123]	Legal Source[123]	
+82-6	9873-9875	at	*[123]	Legal Source[123]	
+82-7	9876-9880	1043	*[123]	Legal Source[123]	
+82-8	9881-9882	.	_	_	
+
+#Text=Similarly , we held in Merck & Co. v. Reynolds , 559 U.S. 633 , 130 S.Ct . 1784 , 176 L.Ed.2d 582 ( 2010 ) , that the word " discovery , " when used in a statute of limitations without qualification , " encompasses not only those facts the plaintiff actually knew , but also those facts a reasonably diligent plaintiff would have known . "
+83-1	9883-9892	Similarly	_	_	
+83-2	9893-9894	,	_	_	
+83-3	9895-9897	we	_	_	
+83-4	9898-9902	held	_	_	
+83-5	9903-9905	in	_	_	
+83-6	9906-9911	Merck	*[124]	Legal Source[124]	
+83-7	9912-9913	&	*[124]	Legal Source[124]	
+83-8	9914-9917	Co.	*[124]	Legal Source[124]	
+83-9	9918-9920	v.	*[124]	Legal Source[124]	
+83-10	9921-9929	Reynolds	*[124]	Legal Source[124]	
+83-11	9930-9931	,	*[124]	Legal Source[124]	
+83-12	9932-9935	559	*[124]	Legal Source[124]	
+83-13	9936-9940	U.S.	*[124]	Legal Source[124]	
+83-14	9941-9944	633	*[124]	Legal Source[124]	
+83-15	9945-9946	,	*[124]	Legal Source[124]	
+83-16	9947-9950	130	*[124]	Legal Source[124]	
+83-17	9951-9955	S.Ct	*[124]	Legal Source[124]	
+83-18	9956-9957	.	*[124]	Legal Source[124]	
+83-19	9958-9962	1784	*[124]	Legal Source[124]	
+83-20	9963-9964	,	*[124]	Legal Source[124]	
+83-21	9965-9968	176	*[124]	Legal Source[124]	
+83-22	9969-9976	L.Ed.2d	*[124]	Legal Source[124]	
+83-23	9977-9980	582	*[124]	Legal Source[124]	
+83-24	9981-9982	(	*[124]	Legal Source[124]	
+83-25	9983-9987	2010	*[124]	Legal Source[124]	
+83-26	9988-9989	)	*[124]	Legal Source[124]	
+83-27	9990-9991	,	_	_	
+83-28	9992-9996	that	_	_	
+83-29	9997-10000	the	_	_	
+83-30	10001-10005	word	*	Metalinguistic Cue	
+83-31	10006-10007	"	*[125]	Direct Quote[125]	
+83-32	10008-10017	discovery	*[125]|*[126]	Direct Quote[125]|Focal Term[126]	
+83-33	10018-10019	,	*[125]	Direct Quote[125]	
+83-34	10020-10021	"	*[125]	Direct Quote[125]	
+83-35	10022-10026	when	_	_	
+83-36	10027-10031	used	_	_	
+83-37	10032-10034	in	_	_	
+83-38	10035-10036	a	_	_	
+83-39	10037-10044	statute	_	_	
+83-40	10045-10047	of	_	_	
+83-41	10048-10059	limitations	_	_	
+83-42	10060-10067	without	_	_	
+83-43	10068-10081	qualification	*	Metalinguistic Cue	
+83-44	10082-10083	,	_	_	
+83-45	10084-10085	"	*[127]	Direct Quote[127]	
+83-46	10086-10097	encompasses	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-47	10098-10101	not	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-48	10102-10106	only	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-49	10107-10112	those	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-50	10113-10118	facts	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-51	10119-10122	the	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-52	10123-10132	plaintiff	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-53	10133-10141	actually	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-54	10142-10146	knew	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-55	10147-10148	,	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-56	10149-10152	but	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-57	10153-10157	also	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-58	10158-10163	those	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-59	10164-10169	facts	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-60	10170-10171	a	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-61	10172-10182	reasonably	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-62	10183-10191	diligent	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-63	10192-10201	plaintiff	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-64	10202-10207	would	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-65	10208-10212	have	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-66	10213-10218	known	*[127]|*[128]	Direct Quote[127]|Definition[128]	
+83-67	10219-10220	.	*[127]	Direct Quote[127]	
+83-68	10221-10222	"	*[127]	Direct Quote[127]	
+
+#Text=I d . , at 648 , 130 S.Ct . 1784 .
+84-1	10223-10224	I	*[129]	Definition[129]	
+84-2	10225-10226	d	*[129]	Definition[129]	
+84-3	10227-10228	.	*[129]	Definition[129]	
+84-4	10229-10230	,	*[129]	Definition[129]	
+84-5	10231-10233	at	*[129]	Definition[129]	
+84-6	10234-10237	648	*[129]	Definition[129]	
+84-7	10238-10239	,	*[129]	Definition[129]	
+84-8	10240-10243	130	*[129]	Definition[129]	
+84-9	10244-10248	S.Ct	*[129]	Definition[129]	
+84-10	10249-10250	.	*[129]	Definition[129]	
+84-11	10251-10255	1784	*[129]	Definition[129]	
+84-12	10256-10257	.	_	_	
+
+#Text=The addition of " actual " in § 1113(2 ) signals that the plaintiff 's knowledge must be more than " potential , possible , virtual , conceivable , theoretical , hypothetical , or nominal . "
+85-1	10258-10261	The	_	_	
+85-2	10262-10270	addition	_	_	
+85-3	10271-10273	of	_	_	
+85-4	10274-10275	"	*[130]	Direct Quote[130]	
+85-5	10276-10282	actual	*[130]|*[131]	Direct Quote[130]|Focal Term[131]	
+85-6	10283-10284	"	*[130]	Direct Quote[130]	
+85-7	10285-10287	in	_	_	
+85-8	10288-10289	§	*[132]	Legal Source[132]	
+85-9	10290-10296	1113(2	*[132]	Legal Source[132]	
+85-10	10297-10298	)	*[132]	Legal Source[132]	
+85-11	10299-10306	signals	*	Metalinguistic Cue	
+85-12	10307-10311	that	_	_	
+85-13	10312-10315	the	*[133]	Definition[133]	
+85-14	10316-10325	plaintiff	*[133]	Definition[133]	
+85-15	10326-10328	's	*[133]	Definition[133]	
+85-16	10329-10338	knowledge	*[133]	Definition[133]	
+85-17	10339-10343	must	*[133]	Definition[133]	
+85-18	10344-10346	be	*[133]	Definition[133]	
+85-19	10347-10351	more	*[133]	Definition[133]	
+85-20	10352-10356	than	*[133]	Definition[133]	
+85-21	10357-10358	"	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-22	10359-10368	potential	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-23	10369-10370	,	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-24	10371-10379	possible	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-25	10380-10381	,	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-26	10382-10389	virtual	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-27	10390-10391	,	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-28	10392-10403	conceivable	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-29	10404-10405	,	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-30	10406-10417	theoretical	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-31	10418-10419	,	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-32	10420-10432	hypothetical	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-33	10433-10434	,	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-34	10435-10437	or	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-35	10438-10445	nominal	*[133]|*[134]	Definition[133]|Direct Quote[134]	
+85-36	10446-10447	.	*[134]	Direct Quote[134]	
+85-37	10448-10449	"	*[134]	Direct Quote[134]	
+
+#Text=Black 's Law Dictionary 53 ( 4th ed . 1951 ) .
+86-1	10450-10455	Black	*[135]	Language Source[135]	
+86-2	10456-10458	's	*[135]	Language Source[135]	
+86-3	10459-10462	Law	*[135]	Language Source[135]	
+86-4	10463-10473	Dictionary	*[135]	Language Source[135]	
+86-5	10474-10476	53	*[135]	Language Source[135]	
+86-6	10477-10478	(	*[135]	Language Source[135]	
+86-7	10479-10482	4th	*[135]	Language Source[135]	
+86-8	10483-10485	ed	*[135]	Language Source[135]	
+86-9	10486-10487	.	*[135]	Language Source[135]	
+86-10	10488-10492	1951	*[135]	Language Source[135]	
+86-11	10493-10494	)	*[135]	Language Source[135]	
+86-12	10495-10496	.	_	_	
+
+#Text=Indeed , in Merck , we cited § 1113(2 ) as evidence of the " linguistic distinction " between " ' actual knowledge ' " and the " hypothetical " knowledge that a reasonably diligent plaintiff would have .
+87-1	10497-10503	Indeed	_	_	
+87-2	10504-10505	,	_	_	
+87-3	10506-10508	in	_	_	
+87-4	10509-10514	Merck	_	_	
+87-5	10515-10516	,	_	_	
+87-6	10517-10519	we	_	_	
+87-7	10520-10525	cited	_	_	
+87-8	10526-10527	§	*[136]	Legal Source[136]	
+87-9	10528-10534	1113(2	*[136]	Legal Source[136]	
+87-10	10535-10536	)	*[136]	Legal Source[136]	
+87-11	10537-10539	as	_	_	
+87-12	10540-10548	evidence	_	_	
+87-13	10549-10551	of	_	_	
+87-14	10552-10555	the	_	_	
+87-15	10556-10557	"	*[137]	Direct Quote[137]	
+87-16	10558-10568	linguistic	*[137]|*[138]	Direct Quote[137]|Metalinguistic Cue[138]	
+87-17	10569-10580	distinction	*[137]|*[138]	Direct Quote[137]|Metalinguistic Cue[138]	
+87-18	10581-10582	"	*[137]	Direct Quote[137]	
+87-19	10583-10590	between	_	_	
+87-20	10591-10592	"	*[139]	Direct Quote[139]	
+87-21	10593-10594	'	*[139]|*[140]	Direct Quote[139]|Direct Quote[140]	
+87-22	10595-10601	actual	*[139]|*[140]|*[141]	Direct Quote[139]|Direct Quote[140]|Focal Term[141]	
+87-23	10602-10611	knowledge	*[139]|*[140]|*[141]	Direct Quote[139]|Direct Quote[140]|Focal Term[141]	
+87-24	10612-10613	'	*[139]|*[140]	Direct Quote[139]|Direct Quote[140]	
+87-25	10614-10615	"	*[139]	Direct Quote[139]	
+87-26	10616-10619	and	_	_	
+87-27	10620-10623	the	_	_	
+87-28	10624-10625	"	*[142]	Direct Quote[142]	
+87-29	10626-10638	hypothetical	*[142]|*[143]	Direct Quote[142]|Focal Term[143]	
+87-30	10639-10640	"	*[142]	Direct Quote[142]	
+87-31	10641-10650	knowledge	_	_	
+87-32	10651-10655	that	_	_	
+87-33	10656-10657	a	_	_	
+87-34	10658-10668	reasonably	_	_	
+87-35	10669-10677	diligent	_	_	
+87-36	10678-10687	plaintiff	_	_	
+87-37	10688-10693	would	_	_	
+87-38	10694-10698	have	_	_	
+87-39	10699-10700	.	_	_	
+
+#Text=559 U.S. at 646 - 647 , 130 S.Ct . 1784 ( quoting § 1113(2 ) ; emphasis in original ) .
+88-1	10701-10704	559	*[144]	Legal Source[144]	
+88-2	10705-10709	U.S.	*[144]	Legal Source[144]	
+88-3	10710-10712	at	*[144]	Legal Source[144]	
+88-4	10713-10716	646	*[144]	Legal Source[144]	
+88-5	10717-10718	-	*[144]	Legal Source[144]	
+88-6	10719-10722	647	*[144]	Legal Source[144]	
+88-7	10723-10724	,	*[144]	Legal Source[144]	
+88-8	10725-10728	130	*[144]	Legal Source[144]	
+88-9	10729-10733	S.Ct	*[144]	Legal Source[144]	
+88-10	10734-10735	.	*[144]	Legal Source[144]	
+88-11	10736-10740	1784	*[144]	Legal Source[144]	
+88-12	10741-10742	(	_	_	
+88-13	10743-10750	quoting	*[145]	Legal Source[145]	
+88-14	10751-10752	§	*[145]	Legal Source[145]	
+88-15	10753-10759	1113(2	*[145]	Legal Source[145]	
+88-16	10760-10761	)	*[145]	Legal Source[145]	
+88-17	10762-10763	;	_	_	
+88-18	10764-10772	emphasis	_	_	
+88-19	10773-10775	in	_	_	
+88-20	10776-10784	original	_	_	
+88-21	10785-10786	)	_	_	
+88-22	10787-10788	.	_	_	
+
+#Text=Congress has drawn the same distinction elsewhere in ERISA .
+89-1	10789-10797	Congress	_	_	
+89-2	10798-10801	has	_	_	
+89-3	10802-10807	drawn	_	_	
+89-4	10808-10811	the	_	_	
+89-5	10812-10816	same	_	_	
+89-6	10817-10828	distinction	*	Metalinguistic Cue	
+89-7	10829-10838	elsewhere	_	_	
+89-8	10839-10841	in	_	_	
+89-9	10842-10847	ERISA	*	Legal Source	
+89-10	10848-10849	.	_	_	
+
+#Text=Multiple provisions contain alternate 6 - year and 3 - year limitations periods , with the 6 - year period beginning at " the date on which the cause of action arose " and the 3 - year period starting at " the earliest date on which the plaintiff acquired or should have acquired actual knowledge of the existence of such cause of action . "
+90-1	10850-10858	Multiple	_	_	
+90-2	10859-10869	provisions	_	_	
+90-3	10870-10877	contain	_	_	
+90-4	10878-10887	alternate	_	_	
+90-5	10888-10889	6	_	_	
+90-6	10890-10891	-	_	_	
+90-7	10892-10896	year	_	_	
+90-8	10897-10900	and	_	_	
+90-9	10901-10902	3	_	_	
+90-10	10903-10904	-	_	_	
+90-11	10905-10909	year	_	_	
+90-12	10910-10921	limitations	_	_	
+90-13	10922-10929	periods	_	_	
+90-14	10930-10931	,	_	_	
+90-15	10932-10936	with	_	_	
+90-16	10937-10940	the	_	_	
+90-17	10941-10942	6	_	_	
+90-18	10943-10944	-	_	_	
+90-19	10945-10949	year	_	_	
+90-20	10950-10956	period	_	_	
+90-21	10957-10966	beginning	_	_	
+90-22	10967-10969	at	_	_	
+90-23	10970-10971	"	*[146]	Legal Source[146]	
+90-24	10972-10975	the	*[146]	Legal Source[146]	
+90-25	10976-10980	date	*[146]	Legal Source[146]	
+90-26	10981-10983	on	*[146]	Legal Source[146]	
+90-27	10984-10989	which	*[146]	Legal Source[146]	
+90-28	10990-10993	the	*[146]	Legal Source[146]	
+90-29	10994-10999	cause	*[146]	Legal Source[146]	
+90-30	11000-11002	of	*[146]	Legal Source[146]	
+90-31	11003-11009	action	*[146]	Legal Source[146]	
+90-32	11010-11015	arose	*[146]	Legal Source[146]	
+90-33	11016-11017	"	*[146]	Legal Source[146]	
+90-34	11018-11021	and	_	_	
+90-35	11022-11025	the	_	_	
+90-36	11026-11027	3	_	_	
+90-37	11028-11029	-	_	_	
+90-38	11030-11034	year	_	_	
+90-39	11035-11041	period	_	_	
+90-40	11042-11050	starting	_	_	
+90-41	11051-11053	at	_	_	
+90-42	11054-11055	"	*[147]	Legal Source[147]	
+90-43	11056-11059	the	*[147]	Legal Source[147]	
+90-44	11060-11068	earliest	*[147]	Legal Source[147]	
+90-45	11069-11073	date	*[147]	Legal Source[147]	
+90-46	11074-11076	on	*[147]	Legal Source[147]	
+90-47	11077-11082	which	*[147]	Legal Source[147]	
+90-48	11083-11086	the	*[147]	Legal Source[147]	
+90-49	11087-11096	plaintiff	*[147]	Legal Source[147]	
+90-50	11097-11105	acquired	*[147]	Legal Source[147]	
+90-51	11106-11108	or	*[147]	Legal Source[147]	
+90-52	11109-11115	should	*[147]	Legal Source[147]	
+90-53	11116-11120	have	*[147]	Legal Source[147]	
+90-54	11121-11129	acquired	*[147]	Legal Source[147]	
+90-55	11130-11136	actual	*[147]	Legal Source[147]	
+90-56	11137-11146	knowledge	*[147]	Legal Source[147]	
+90-57	11147-11149	of	*[147]	Legal Source[147]	
+90-58	11150-11153	the	*[147]	Legal Source[147]	
+90-59	11154-11163	existence	*[147]	Legal Source[147]	
+90-60	11164-11166	of	*[147]	Legal Source[147]	
+90-61	11167-11171	such	*[147]	Legal Source[147]	
+90-62	11172-11177	cause	*[147]	Legal Source[147]	
+90-63	11178-11180	of	*[147]	Legal Source[147]	
+90-64	11181-11187	action	*[147]	Legal Source[147]	
+90-65	11188-11189	.	*[147]	Legal Source[147]	
+90-66	11190-11191	"	*[147]	Legal Source[147]	
+
+#Text=§ § 1303(e)(6 ) , ( f)(5 ) ( emphasis added ) ; accord , § § 1370(f)(1)-(2 ) , 1451(f)(1)-(2 ) .
+91-1	11192-11193	§	*[148]	Legal Source[148]	
+91-2	11194-11195	§	*[148]	Legal Source[148]	
+91-3	11196-11205	1303(e)(6	*[148]	Legal Source[148]	
+91-4	11206-11207	)	*[148]	Legal Source[148]	
+91-5	11208-11209	,	*[148]	Legal Source[148]	
+91-6	11210-11211	(	*[148]	Legal Source[148]	
+91-7	11212-11216	f)(5	*[148]	Legal Source[148]	
+91-8	11217-11218	)	*[148]	Legal Source[148]	
+91-9	11219-11220	(	_	_	
+91-10	11221-11229	emphasis	_	_	
+91-11	11230-11235	added	_	_	
+91-12	11236-11237	)	_	_	
+91-13	11238-11239	;	_	_	
+91-14	11240-11246	accord	_	_	
+91-15	11247-11248	,	_	_	
+91-16	11249-11250	§	*[149]	Legal Source[149]	
+91-17	11251-11252	§	*[149]	Legal Source[149]	
+91-18	11253-11266	1370(f)(1)-(2	*[149]	Legal Source[149]	
+91-19	11267-11268	)	*[149]	Legal Source[149]	
+91-20	11269-11270	,	*[149]	Legal Source[149]	
+91-21	11271-11284	1451(f)(1)-(2	*[149]	Legal Source[149]	
+91-22	11285-11286	)	*[149]	Legal Source[149]	
+91-23	11287-11288	.	_	_	
+
+#Text=ERISA also requires plaintiffs challenging the suspension of benefits under § 1085 to do so within " one year after the earliest date on which the plaintiff acquired or should have acquired actual knowledge of the existence of such cause of action . "
+92-1	11289-11294	ERISA	*	Legal Source	
+92-2	11295-11299	also	_	_	
+92-3	11300-11308	requires	_	_	
+92-4	11309-11319	plaintiffs	_	_	
+92-5	11320-11331	challenging	_	_	
+92-6	11332-11335	the	_	_	
+92-7	11336-11346	suspension	_	_	
+92-8	11347-11349	of	_	_	
+92-9	11350-11358	benefits	_	_	
+92-10	11359-11364	under	_	_	
+92-11	11365-11366	§	*[150]	Legal Source[150]	
+92-12	11367-11371	1085	*[150]	Legal Source[150]	
+92-13	11372-11374	to	_	_	
+92-14	11375-11377	do	_	_	
+92-15	11378-11380	so	_	_	
+92-16	11381-11387	within	_	_	
+92-17	11388-11389	"	*[151]	Direct Quote[151]	
+92-18	11390-11393	one	*[151]	Direct Quote[151]	
+92-19	11394-11398	year	*[151]	Direct Quote[151]	
+92-20	11399-11404	after	*[151]	Direct Quote[151]	
+92-21	11405-11408	the	*[151]	Direct Quote[151]	
+92-22	11409-11417	earliest	*[151]	Direct Quote[151]	
+92-23	11418-11422	date	*[151]	Direct Quote[151]	
+92-24	11423-11425	on	*[151]	Direct Quote[151]	
+92-25	11426-11431	which	*[151]	Direct Quote[151]	
+92-26	11432-11435	the	*[151]	Direct Quote[151]	
+92-27	11436-11445	plaintiff	*[151]	Direct Quote[151]	
+92-28	11446-11454	acquired	*[151]	Direct Quote[151]	
+92-29	11455-11457	or	*[151]	Direct Quote[151]	
+92-30	11458-11464	should	*[151]	Direct Quote[151]	
+92-31	11465-11469	have	*[151]	Direct Quote[151]	
+92-32	11470-11478	acquired	*[151]	Direct Quote[151]	
+92-33	11479-11485	actual	*[151]	Direct Quote[151]	
+92-34	11486-11495	knowledge	*[151]	Direct Quote[151]	
+92-35	11496-11498	of	*[151]	Direct Quote[151]	
+92-36	11499-11502	the	*[151]	Direct Quote[151]	
+92-37	11503-11512	existence	*[151]	Direct Quote[151]	
+92-38	11513-11515	of	*[151]	Direct Quote[151]	
+92-39	11516-11520	such	*[151]	Direct Quote[151]	
+92-40	11521-11526	cause	*[151]	Direct Quote[151]	
+92-41	11527-11529	of	*[151]	Direct Quote[151]	
+92-42	11530-11536	action	*[151]	Direct Quote[151]	
+92-43	11537-11538	.	*[151]	Direct Quote[151]	
+92-44	11539-11540	"	*[151]	Direct Quote[151]	
+
+#Text=§ 1085(e)(9)(I)(iv ) .
+93-1	11541-11542	§	*[152]	Legal Source[152]	
+93-2	11543-11559	1085(e)(9)(I)(iv	*[152]	Legal Source[152]	
+93-3	11560-11561	)	*[152]	Legal Source[152]	
+93-4	11562-11563	.	_	_	
+
+#Text=Thus , Congress has repeatedly drawn a " linguistic distinction " between what an ERISA plaintiff actually knows and what he should actually know .
+94-1	11564-11568	Thus	_	_	
+94-2	11569-11570	,	_	_	
+94-3	11571-11579	Congress	_	_	
+94-4	11580-11583	has	_	_	
+94-5	11584-11594	repeatedly	_	_	
+94-6	11595-11600	drawn	_	_	
+94-7	11601-11602	a	_	_	
+94-8	11603-11604	"	*[153]	Direct Quote[153]	
+94-9	11605-11615	linguistic	*[153]|*[154]	Direct Quote[153]|Metalinguistic Cue[154]	
+94-10	11616-11627	distinction	*[153]|*[154]	Direct Quote[153]|Metalinguistic Cue[154]	
+94-11	11628-11629	"	*[153]	Direct Quote[153]	
+94-12	11630-11637	between	_	_	
+94-13	11638-11642	what	_	_	
+94-14	11643-11645	an	_	_	
+94-15	11646-11651	ERISA	*	Metalinguistic Cue	
+94-16	11652-11661	plaintiff	_	_	
+94-17	11662-11670	actually	*[155]	Focal Term[155]	
+94-18	11671-11676	knows	*[155]	Focal Term[155]	
+94-19	11677-11680	and	_	_	
+94-20	11681-11685	what	_	_	
+94-21	11686-11688	he	_	_	
+94-22	11689-11695	should	*[156]	Focal Term[156]	
+94-23	11696-11704	actually	*[156]	Focal Term[156]	
+94-24	11705-11709	know	*[156]	Focal Term[156]	
+94-25	11710-11711	.	_	_	
+
+#Text=Merck , 559 U.S. at 647 , 130 S.Ct . 1784 .
+95-1	11712-11717	Merck	*[157]	Legal Source[157]	
+95-2	11718-11719	,	*[157]	Legal Source[157]	
+95-3	11720-11723	559	*[157]	Legal Source[157]	
+95-4	11724-11728	U.S.	*[157]	Legal Source[157]	
+95-5	11729-11731	at	*[157]	Legal Source[157]	
+95-6	11732-11735	647	*[157]	Legal Source[157]	
+95-7	11736-11737	,	*[157]	Legal Source[157]	
+95-8	11738-11741	130	*[157]	Legal Source[157]	
+95-9	11742-11746	S.Ct	*[157]	Legal Source[157]	
+95-10	11747-11748	.	*[157]	Legal Source[157]	
+95-11	11749-11753	1784	*[157]	Legal Source[157]	
+95-12	11754-11755	.	_	_	
+
+#Text=And when Congress has included both forms of knowledge in a provision limiting ERISA actions , it has done so explicitly .
+96-1	11756-11759	And	_	_	
+96-2	11760-11764	when	_	_	
+96-3	11765-11773	Congress	_	_	
+96-4	11774-11777	has	_	_	
+96-5	11778-11786	included	_	_	
+96-6	11787-11791	both	_	_	
+96-7	11792-11797	forms	_	_	
+96-8	11798-11800	of	_	_	
+96-9	11801-11810	knowledge	*	Focal Term	
+96-10	11811-11813	in	_	_	
+96-11	11814-11815	a	_	_	
+96-12	11816-11825	provision	_	_	
+96-13	11826-11834	limiting	_	_	
+96-14	11835-11840	ERISA	*	Legal Source	
+96-15	11841-11848	actions	_	_	
+96-16	11849-11850	,	_	_	
+96-17	11851-11853	it	_	_	
+96-18	11854-11857	has	_	_	
+96-19	11858-11862	done	_	_	
+96-20	11863-11865	so	_	_	
+96-21	11866-11876	explicitly	*	Metalinguistic Cue	
+96-22	11877-11878	.	_	_	
+
+#Text=We can not assume that it meant to do so by implication in § 1113(2 ) .
+97-1	11879-11881	We	_	_	
+97-2	11882-11885	can	_	_	
+97-3	11886-11889	not	_	_	
+97-4	11890-11896	assume	_	_	
+97-5	11897-11901	that	_	_	
+97-6	11902-11904	it	_	_	
+97-7	11905-11910	meant	*	Metalinguistic Cue	
+97-8	11911-11913	to	_	_	
+97-9	11914-11916	do	_	_	
+97-10	11917-11919	so	_	_	
+97-11	11920-11922	by	_	_	
+97-12	11923-11934	implication	_	_	
+97-13	11935-11937	in	_	_	
+97-14	11938-11939	§	*[158]	Legal Source[158]	
+97-15	11940-11946	1113(2	*[158]	Legal Source[158]	
+97-16	11947-11948	)	*[158]	Legal Source[158]	
+97-17	11949-11950	.	_	_	
+
+#Text=Instead we " generally presum[e ] that Congress acts intentionally and purposely when it includes particular language in one section of a statute but omits it in another . "
+98-1	11951-11958	Instead	*[159]	Appeal to Meaning[159]	
+98-2	11959-11961	we	*[159]	Appeal to Meaning[159]	
+98-3	11962-11963	"	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-4	11964-11973	generally	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-5	11974-11982	presum[e	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-6	11983-11984	]	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-7	11985-11989	that	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-8	11990-11998	Congress	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-9	11999-12003	acts	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-10	12004-12017	intentionally	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-11	12018-12021	and	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-12	12022-12031	purposely	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-13	12032-12036	when	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-14	12037-12039	it	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-15	12040-12048	includes	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-16	12049-12059	particular	*[159]|*[160]|*[161]	Appeal to Meaning[159]|Direct Quote[160]|Metalinguistic Cue[161]	
+98-17	12060-12068	language	*[159]|*[160]|*[161]	Appeal to Meaning[159]|Direct Quote[160]|Metalinguistic Cue[161]	
+98-18	12069-12071	in	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-19	12072-12075	one	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-20	12076-12083	section	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-21	12084-12086	of	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-22	12087-12088	a	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-23	12089-12096	statute	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-24	12097-12100	but	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-25	12101-12106	omits	*[159]|*[160]|*[162]	Appeal to Meaning[159]|Direct Quote[160]|Metalinguistic Cue[162]	
+98-26	12107-12109	it	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-27	12110-12112	in	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-28	12113-12120	another	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-29	12121-12122	.	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+98-30	12123-12124	"	*[159]|*[160]	Appeal to Meaning[159]|Direct Quote[160]	
+
+#Text=BFP v. Resolution Trust Corporation , 511 U.S. 531 , 537 , 114 S.Ct . 1757 , 128 L.Ed.2d 556 ( 1994 ) ( internal quotation marks omitted ) .
+99-1	12125-12128	BFP	*[163]	Legal Source[163]	
+99-2	12129-12131	v.	*[163]	Legal Source[163]	
+99-3	12132-12142	Resolution	*[163]	Legal Source[163]	
+99-4	12143-12148	Trust	*[163]	Legal Source[163]	
+99-5	12149-12160	Corporation	*[163]	Legal Source[163]	
+99-6	12161-12162	,	*[163]	Legal Source[163]	
+99-7	12163-12166	511	*[163]	Legal Source[163]	
+99-8	12167-12171	U.S.	*[163]	Legal Source[163]	
+99-9	12172-12175	531	*[163]	Legal Source[163]	
+99-10	12176-12177	,	*[163]	Legal Source[163]	
+99-11	12178-12181	537	*[163]	Legal Source[163]	
+99-12	12182-12183	,	*[163]	Legal Source[163]	
+99-13	12184-12187	114	*[163]	Legal Source[163]	
+99-14	12188-12192	S.Ct	*[163]	Legal Source[163]	
+99-15	12193-12194	.	*[163]	Legal Source[163]	
+99-16	12195-12199	1757	*[163]	Legal Source[163]	
+99-17	12200-12201	,	*[163]	Legal Source[163]	
+99-18	12202-12205	128	*[163]	Legal Source[163]	
+99-19	12206-12213	L.Ed.2d	*[163]	Legal Source[163]	
+99-20	12214-12217	556	*[163]	Legal Source[163]	
+99-21	12218-12219	(	*[163]	Legal Source[163]	
+99-22	12220-12224	1994	*[163]	Legal Source[163]	
+99-23	12225-12226	)	*[163]	Legal Source[163]	
+99-24	12227-12228	(	_	_	
+99-25	12229-12237	internal	_	_	
+99-26	12238-12247	quotation	_	_	
+99-27	12248-12253	marks	_	_	
+99-28	12254-12261	omitted	_	_	
+99-29	12262-12263	)	_	_	
+99-30	12264-12265	.	_	_	
+
+#Text=Petitioners dispute the characterization of anything less than actual knowledge as constructive knowledge , arguing that the latter term usually refers to information that a plaintiff must seek out rather than information that is sent to him .
+100-1	12266-12277	Petitioners	_	_	
+100-2	12278-12285	dispute	_	_	
+100-3	12286-12289	the	_	_	
+100-4	12290-12306	characterization	_	_	
+100-5	12307-12309	of	_	_	
+100-6	12310-12318	anything	_	_	
+100-7	12319-12323	less	_	_	
+100-8	12324-12328	than	_	_	
+100-9	12329-12335	actual	*[164]	Focal Term[164]	
+100-10	12336-12345	knowledge	*[164]	Focal Term[164]	
+100-11	12346-12348	as	_	_	
+100-12	12349-12361	constructive	*[165]	Focal Term[165]	
+100-13	12362-12371	knowledge	*[165]	Focal Term[165]	
+100-14	12372-12373	,	_	_	
+100-15	12374-12381	arguing	_	_	
+100-16	12382-12386	that	_	_	
+100-17	12387-12390	the	_	_	
+100-18	12391-12397	latter	_	_	
+100-19	12398-12402	term	*	Metalinguistic Cue	
+100-20	12403-12410	usually	_	_	
+100-21	12411-12417	refers	_	_	
+100-22	12418-12420	to	_	_	
+100-23	12421-12432	information	*[166]	Definition[166]	
+100-24	12433-12437	that	*[166]	Definition[166]	
+100-25	12438-12439	a	*[166]	Definition[166]	
+100-26	12440-12449	plaintiff	*[166]	Definition[166]	
+100-27	12450-12454	must	*[166]	Definition[166]	
+100-28	12455-12459	seek	*[166]	Definition[166]	
+100-29	12460-12463	out	*[166]	Definition[166]	
+100-30	12464-12470	rather	*[166]	Definition[166]	
+100-31	12471-12475	than	*[166]	Definition[166]	
+100-32	12476-12487	information	*[166]	Definition[166]	
+100-33	12488-12492	that	*[166]	Definition[166]	
+100-34	12493-12495	is	*[166]	Definition[166]	
+100-35	12496-12500	sent	*[166]	Definition[166]	
+100-36	12501-12503	to	*[166]	Definition[166]	
+100-37	12504-12507	him	*[166]	Definition[166]	
+100-38	12508-12509	.	_	_	
+
+#Text=But if a plaintiff is not aware of a fact , he does not have " actual knowledge " of that fact however close at hand the fact might be .
+101-1	12510-12513	But	_	_	
+101-2	12514-12516	if	*[167]	Definition[167]	
+101-3	12517-12518	a	*[167]	Definition[167]	
+101-4	12519-12528	plaintiff	*[167]	Definition[167]	
+101-5	12529-12531	is	*[167]	Definition[167]	
+101-6	12532-12535	not	*[167]	Definition[167]	
+101-7	12536-12541	aware	*[167]	Definition[167]	
+101-8	12542-12544	of	*[167]	Definition[167]	
+101-9	12545-12546	a	*[167]	Definition[167]	
+101-10	12547-12551	fact	*[167]	Definition[167]	
+101-11	12552-12553	,	*[167]	Definition[167]	
+101-12	12554-12556	he	*[167]	Definition[167]	
+101-13	12557-12561	does	*[167]	Definition[167]	
+101-14	12562-12565	not	*[167]	Definition[167]	
+101-15	12566-12570	have	*[167]	Definition[167]	
+101-16	12571-12572	"	*[167]|*[168]	Definition[167]|Direct Quote[168]	
+101-17	12573-12579	actual	*[167]|*[168]|*[169]	Definition[167]|Direct Quote[168]|Focal Term[169]	
+101-18	12580-12589	knowledge	*[167]|*[168]|*[169]	Definition[167]|Direct Quote[168]|Focal Term[169]	
+101-19	12590-12591	"	*[167]|*[168]	Definition[167]|Direct Quote[168]	
+101-20	12592-12594	of	*[167]	Definition[167]	
+101-21	12595-12599	that	*[167]	Definition[167]	
+101-22	12600-12604	fact	*[167]	Definition[167]	
+101-23	12605-12612	however	_	_	
+101-24	12613-12618	close	_	_	
+101-25	12619-12621	at	_	_	
+101-26	12622-12626	hand	_	_	
+101-27	12627-12630	the	_	_	
+101-28	12631-12635	fact	_	_	
+101-29	12636-12641	might	_	_	
+101-30	12642-12644	be	_	_	
+101-31	12645-12646	.	_	_	
+
+#Text=§ 1113(2 ) .
+102-1	12647-12648	§	*[170]	Legal Source[170]	
+102-2	12649-12655	1113(2	*[170]	Legal Source[170]	
+102-3	12656-12657	)	*[170]	Legal Source[170]	
+102-4	12658-12659	.	_	_	
+
+#Text=And Congress has never added to § 1113(2 ) the language it has used in other ERISA limitations provisions to encompass both what a plaintiff actually knows and what he reasonably could know .
+103-1	12660-12663	And	_	_	
+103-2	12664-12672	Congress	_	_	
+103-3	12673-12676	has	_	_	
+103-4	12677-12682	never	_	_	
+103-5	12683-12688	added	_	_	
+103-6	12689-12691	to	_	_	
+103-7	12692-12693	§	*[171]	Legal Source[171]	
+103-8	12694-12700	1113(2	*[171]	Legal Source[171]	
+103-9	12701-12702	)	*[171]	Legal Source[171]	
+103-10	12703-12706	the	_	_	
+103-11	12707-12715	language	*	Metalinguistic Cue	
+103-12	12716-12718	it	_	_	
+103-13	12719-12722	has	_	_	
+103-14	12723-12727	used	_	_	
+103-15	12728-12730	in	_	_	
+103-16	12731-12736	other	_	_	
+103-17	12737-12742	ERISA	*	Legal Source	
+103-18	12743-12754	limitations	_	_	
+103-19	12755-12765	provisions	_	_	
+103-20	12766-12768	to	_	_	
+103-21	12769-12778	encompass	_	_	
+103-22	12779-12783	both	_	_	
+103-23	12784-12788	what	_	_	
+103-24	12789-12790	a	_	_	
+103-25	12791-12800	plaintiff	_	_	
+103-26	12801-12809	actually	_	_	
+103-27	12810-12815	knows	_	_	
+103-28	12816-12819	and	_	_	
+103-29	12820-12824	what	_	_	
+103-30	12825-12827	he	_	_	
+103-31	12828-12838	reasonably	_	_	
+103-32	12839-12844	could	_	_	
+103-33	12845-12849	know	_	_	
+103-34	12850-12851	.	_	_	
+
+#Text=As presently written , therefore , § 1113(2 ) requires more than evidence of disclosure alone .
+104-1	12852-12854	As	_	_	
+104-2	12855-12864	presently	_	_	
+104-3	12865-12872	written	_	_	
+104-4	12873-12874	,	_	_	
+104-5	12875-12884	therefore	_	_	
+104-6	12885-12886	,	_	_	
+104-7	12887-12888	§	*[172]	Legal Source[172]	
+104-8	12889-12895	1113(2	*[172]	Legal Source[172]	
+104-9	12896-12897	)	*[172]	Legal Source[172]	
+104-10	12898-12906	requires	_	_	
+104-11	12907-12911	more	_	_	
+104-12	12912-12916	than	_	_	
+104-13	12917-12925	evidence	_	_	
+104-14	12926-12928	of	_	_	
+104-15	12929-12939	disclosure	_	_	
+104-16	12940-12945	alone	_	_	
+104-17	12946-12947	.	_	_	
+
+#Text=That all relevant information was disclosed to the plaintiff is no doubt relevant in judging whether he gained knowledge of that information .
+105-1	12948-12952	That	_	_	
+105-2	12953-12956	all	_	_	
+105-3	12957-12965	relevant	_	_	
+105-4	12966-12977	information	_	_	
+105-5	12978-12981	was	_	_	
+105-6	12982-12991	disclosed	_	_	
+105-7	12992-12994	to	_	_	
+105-8	12995-12998	the	_	_	
+105-9	12999-13008	plaintiff	_	_	
+105-10	13009-13011	is	_	_	
+105-11	13012-13014	no	_	_	
+105-12	13015-13020	doubt	_	_	
+105-13	13021-13029	relevant	_	_	
+105-14	13030-13032	in	_	_	
+105-15	13033-13040	judging	_	_	
+105-16	13041-13048	whether	_	_	
+105-17	13049-13051	he	_	_	
+105-18	13052-13058	gained	_	_	
+105-19	13059-13068	knowledge	_	_	
+105-20	13069-13071	of	_	_	
+105-21	13072-13076	that	_	_	
+105-22	13077-13088	information	_	_	
+105-23	13089-13090	.	_	_	
+
+#Text=See Part III , infra .
+106-1	13091-13094	See	_	_	
+106-2	13095-13099	Part	*[173]	Legal Source[173]	
+106-3	13100-13103	III	*[173]	Legal Source[173]	
+106-4	13104-13105	,	*[173]	Legal Source[173]	
+106-5	13106-13111	infra	*[173]	Legal Source[173]	
+106-6	13112-13113	.	_	_	
+
+#Text=To meet § 1113(2 ) 's " actual knowledge " requirement , however , the plaintiff must in fact have become aware of that information .
+107-1	13114-13116	To	_	_	
+107-2	13117-13121	meet	_	_	
+107-3	13122-13123	§	*[174]	Legal Source[174]	
+107-4	13124-13130	1113(2	*[174]	Legal Source[174]	
+107-5	13131-13132	)	*[174]	Legal Source[174]	
+107-6	13133-13135	's	_	_	
+107-7	13136-13137	"	*[175]	Direct Quote[175]	
+107-8	13138-13144	actual	*[175]	Direct Quote[175]	
+107-9	13145-13154	knowledge	*[175]	Direct Quote[175]	
+107-10	13155-13156	"	*[175]	Direct Quote[175]	
+107-11	13157-13168	requirement	_	_	
+107-12	13169-13170	,	_	_	
+107-13	13171-13178	however	_	_	
+107-14	13179-13180	,	_	_	
+107-15	13181-13184	the	_	_	
+107-16	13185-13194	plaintiff	_	_	
+107-17	13195-13199	must	_	_	
+107-18	13200-13202	in	_	_	
+107-19	13203-13207	fact	_	_	
+107-20	13208-13212	have	_	_	
+107-21	13213-13219	become	_	_	
+107-22	13220-13225	aware	_	_	
+107-23	13226-13228	of	_	_	
+107-24	13229-13233	that	_	_	
+107-25	13234-13245	information	_	_	
+107-26	13246-13247	.	_	_	
+
+#Text=B
+108-1	13248-13249	B	_	_	
+
+#Text=Petitioners offer arguments for a broader reading of § 1113(2 ) based on text , context , purpose , and statutory history .
+109-1	13250-13261	Petitioners	_	_	
+109-2	13262-13267	offer	_	_	
+109-3	13268-13277	arguments	_	_	
+109-4	13278-13281	for	_	_	
+109-5	13282-13283	a	_	_	
+109-6	13284-13291	broader	_	_	
+109-7	13292-13299	reading	*	Metalinguistic Cue	
+109-8	13300-13302	of	_	_	
+109-9	13303-13304	§	*[176]	Legal Source[176]	
+109-10	13305-13311	1113(2	*[176]	Legal Source[176]	
+109-11	13312-13313	)	*[176]	Legal Source[176]	
+109-12	13314-13319	based	_	_	
+109-13	13320-13322	on	_	_	
+109-14	13323-13327	text	*	Metalinguistic Cue	
+109-15	13328-13329	,	_	_	
+109-16	13330-13337	context	_	_	
+109-17	13338-13339	,	_	_	
+109-18	13340-13347	purpose	_	_	
+109-19	13348-13349	,	_	_	
+109-20	13350-13353	and	_	_	
+109-21	13354-13363	statutory	_	_	
+109-22	13364-13371	history	_	_	
+109-23	13372-13373	.	_	_	
+
+#Text=All founder on Congress 's choice of the word " actual . "
+110-1	13374-13377	All	_	_	
+110-2	13378-13385	founder	_	_	
+110-3	13386-13388	on	_	_	
+110-4	13389-13397	Congress	_	_	
+110-5	13398-13400	's	_	_	
+110-6	13401-13407	choice	_	_	
+110-7	13408-13410	of	_	_	
+110-8	13411-13414	the	_	_	
+110-9	13415-13419	word	*	Metalinguistic Cue	
+110-10	13420-13421	"	*[177]	Direct Quote[177]	
+110-11	13422-13428	actual	*[177]|*[178]	Direct Quote[177]|Focal Term[178]	
+110-12	13429-13430	.	*[177]	Direct Quote[177]	
+110-13	13431-13432	"	*[177]	Direct Quote[177]	
+
+#Text=As for text , petitioners do not dispute the normal definitions of " actual , " " knowledge , " or " actual knowledge . "
+111-1	13433-13435	As	_	_	
+111-2	13436-13439	for	_	_	
+111-3	13440-13444	text	*	Metalinguistic Cue	
+111-4	13445-13446	,	_	_	
+111-5	13447-13458	petitioners	_	_	
+111-6	13459-13461	do	_	_	
+111-7	13462-13465	not	_	_	
+111-8	13466-13473	dispute	_	_	
+111-9	13474-13477	the	_	_	
+111-10	13478-13484	normal	_	_	
+111-11	13485-13496	definitions	_	_	
+111-12	13497-13499	of	_	_	
+111-13	13500-13501	"	*[179]	Direct Quote[179]	
+111-14	13502-13508	actual	*[179]|*[180]	Direct Quote[179]|Focal Term[180]	
+111-15	13509-13510	,	*[179]	Direct Quote[179]	
+111-16	13511-13512	"	*[179]	Direct Quote[179]	
+111-17	13513-13514	"	*[181]	Direct Quote[181]	
+111-18	13515-13524	knowledge	*[181]|*[182]	Direct Quote[181]|Focal Term[182]	
+111-19	13525-13526	,	*[181]	Direct Quote[181]	
+111-20	13527-13528	"	*[181]	Direct Quote[181]	
+111-21	13529-13531	or	_	_	
+111-22	13532-13533	"	*[183]	Direct Quote[183]	
+111-23	13534-13540	actual	*[183]|*[184]	Direct Quote[183]|Focal Term[184]	
+111-24	13541-13550	knowledge	*[183]|*[184]	Direct Quote[183]|Focal Term[184]	
+111-25	13551-13552	.	*[183]	Direct Quote[183]	
+111-26	13553-13554	"	*[183]	Direct Quote[183]	
+
+#Text=They focus instead on the least conspicuous part of the phrase " had actual knowledge " : the word " had . "
+112-1	13555-13559	They	_	_	
+112-2	13560-13565	focus	_	_	
+112-3	13566-13573	instead	_	_	
+112-4	13574-13576	on	_	_	
+112-5	13577-13580	the	_	_	
+112-6	13581-13586	least	_	_	
+112-7	13587-13598	conspicuous	_	_	
+112-8	13599-13603	part	_	_	
+112-9	13604-13606	of	_	_	
+112-10	13607-13610	the	_	_	
+112-11	13611-13617	phrase	_	_	
+112-12	13618-13619	"	*[185]	Direct Quote[185]	
+112-13	13620-13623	had	*[185]|*[186]	Direct Quote[185]|Focal Term[186]	
+112-14	13624-13630	actual	*[185]|*[186]	Direct Quote[185]|Focal Term[186]	
+112-15	13631-13640	knowledge	*[185]|*[186]	Direct Quote[185]|Focal Term[186]	
+112-16	13641-13642	"	*[185]	Direct Quote[185]	
+112-17	13643-13644	:	_	_	
+112-18	13645-13648	the	_	_	
+112-19	13649-13653	word	*	Metalinguistic Cue	
+112-20	13654-13655	"	_	_	
+112-21	13656-13659	had	*	Focal Term	
+112-22	13660-13661	.	_	_	
+112-23	13662-13663	"	_	_	
+
+#Text=§ 1113(2 ) .
+113-1	13664-13665	§	*[187]	Legal Source[187]	
+113-2	13666-13672	1113(2	*[187]	Legal Source[187]	
+113-3	13673-13674	)	*[187]	Legal Source[187]	
+113-4	13675-13676	.	_	_	
+
+#Text=Once a plaintiff receives a disclosure , they argue , he " ha[s ] " the knowledge that § 1113(2 ) requires because he effectively holds it in his hand .
+114-1	13677-13681	Once	*[188]	Example Use[188]	
+114-2	13682-13683	a	*[188]	Example Use[188]	
+114-3	13684-13693	plaintiff	*[188]	Example Use[188]	
+114-4	13694-13702	receives	*[188]	Example Use[188]	
+114-5	13703-13704	a	*[188]	Example Use[188]	
+114-6	13705-13715	disclosure	*[188]	Example Use[188]	
+114-7	13716-13717	,	*[188]	Example Use[188]	
+114-8	13718-13722	they	*[188]	Example Use[188]	
+114-9	13723-13728	argue	*[188]	Example Use[188]	
+114-10	13729-13730	,	*[188]	Example Use[188]	
+114-11	13731-13733	he	*[188]	Example Use[188]	
+114-12	13734-13735	"	*[188]|*[189]	Example Use[188]|Direct Quote[189]	
+114-13	13736-13740	ha[s	*[188]|*[189]|*[190]	Example Use[188]|Direct Quote[189]|Focal Term[190]	
+114-14	13741-13742	]	*[188]|*[189]|*[190]	Example Use[188]|Direct Quote[189]|Focal Term[190]	
+114-15	13743-13744	"	*[188]|*[189]	Example Use[188]|Direct Quote[189]	
+114-16	13745-13748	the	*[188]	Example Use[188]	
+114-17	13749-13758	knowledge	*[188]	Example Use[188]	
+114-18	13759-13763	that	*[188]	Example Use[188]	
+114-19	13764-13765	§	*[188]|*[191]	Example Use[188]|Legal Source[191]	
+114-20	13766-13772	1113(2	*[188]|*[191]	Example Use[188]|Legal Source[191]	
+114-21	13773-13774	)	*[188]|*[191]	Example Use[188]|Legal Source[191]	
+114-22	13775-13783	requires	*[188]	Example Use[188]	
+114-23	13784-13791	because	*[188]	Example Use[188]	
+114-24	13792-13794	he	*[188]	Example Use[188]	
+114-25	13795-13806	effectively	*[188]	Example Use[188]	
+114-26	13807-13812	holds	*[188]	Example Use[188]	
+114-27	13813-13815	it	*[188]	Example Use[188]	
+114-28	13816-13818	in	*[188]	Example Use[188]	
+114-29	13819-13822	his	*[188]	Example Use[188]	
+114-30	13823-13827	hand	*[188]	Example Use[188]	
+114-31	13828-13829	.	_	_	
+
+#Text=Ibid .
+115-1	13830-13834	Ibid	*[192]	Legal Source[192]	
+115-2	13835-13836	.	*[192]	Legal Source[192]	
+
+#Text=In other words , he has the requisite knowledge because he could acquire it with reasonable effort .
+116-1	13837-13839	In	_	_	
+116-2	13840-13845	other	_	_	
+116-3	13846-13851	words	_	_	
+116-4	13852-13853	,	_	_	
+116-5	13854-13856	he	_	_	
+116-6	13857-13860	has	_	_	
+116-7	13861-13864	the	_	_	
+116-8	13865-13874	requisite	_	_	
+116-9	13875-13884	knowledge	_	_	
+116-10	13885-13892	because	_	_	
+116-11	13893-13895	he	_	_	
+116-12	13896-13901	could	_	_	
+116-13	13902-13909	acquire	_	_	
+116-14	13910-13912	it	_	_	
+116-15	13913-13917	with	_	_	
+116-16	13918-13928	reasonable	_	_	
+116-17	13929-13935	effort	_	_	
+116-18	13936-13937	.	_	_	
+
+#Text=That turns § 1113(2 ) into what it is plainly not : a constructive - knowledge requirement .
+117-1	13938-13942	That	_	_	
+117-2	13943-13948	turns	_	_	
+117-3	13949-13950	§	*[193]	Legal Source[193]	
+117-4	13951-13957	1113(2	*[193]	Legal Source[193]	
+117-5	13958-13959	)	*[193]	Legal Source[193]	
+117-6	13960-13964	into	_	_	
+117-7	13965-13969	what	_	_	
+117-8	13970-13972	it	_	_	
+117-9	13973-13975	is	_	_	
+117-10	13976-13983	plainly	_	_	
+117-11	13984-13987	not	_	_	
+117-12	13988-13989	:	_	_	
+117-13	13990-13991	a	_	_	
+117-14	13992-14004	constructive	_	_	
+117-15	14005-14006	-	_	_	
+117-16	14007-14016	knowledge	_	_	
+117-17	14017-14028	requirement	_	_	
+117-18	14029-14030	.	_	_	
+
+#Text=Petitioners ' contextual argument fails for the same reason .
+118-1	14031-14042	Petitioners	_	_	
+118-2	14043-14044	'	_	_	
+118-3	14045-14055	contextual	_	_	
+118-4	14056-14064	argument	_	_	
+118-5	14065-14070	fails	_	_	
+118-6	14071-14074	for	_	_	
+118-7	14075-14078	the	_	_	
+118-8	14079-14083	same	_	_	
+118-9	14084-14090	reason	_	_	
+118-10	14091-14092	.	_	_	
+
+#Text=As they point out , ERISA 's disclosure regime is meant to " ensur[e ] that ' the individual participant knows exactly where he stands with respect to the plan . ' "
+119-1	14093-14095	As	_	_	
+119-2	14096-14100	they	_	_	
+119-3	14101-14106	point	_	_	
+119-4	14107-14110	out	_	_	
+119-5	14111-14112	,	_	_	
+119-6	14113-14118	ERISA	_	_	
+119-7	14119-14121	's	_	_	
+119-8	14122-14132	disclosure	_	_	
+119-9	14133-14139	regime	_	_	
+119-10	14140-14142	is	_	_	
+119-11	14143-14148	meant	_	_	
+119-12	14149-14151	to	_	_	
+119-13	14152-14153	"	*[194]	Direct Quote[194]	
+119-14	14154-14161	ensur[e	*[194]	Direct Quote[194]	
+119-15	14162-14163	]	*[194]	Direct Quote[194]	
+119-16	14164-14168	that	*[194]	Direct Quote[194]	
+119-17	14169-14170	'	*[194]	Direct Quote[194]	
+119-18	14171-14174	the	*[194]	Direct Quote[194]	
+119-19	14175-14185	individual	*[194]	Direct Quote[194]	
+119-20	14186-14197	participant	*[194]	Direct Quote[194]	
+119-21	14198-14203	knows	*[194]	Direct Quote[194]	
+119-22	14204-14211	exactly	*[194]	Direct Quote[194]	
+119-23	14212-14217	where	*[194]	Direct Quote[194]	
+119-24	14218-14220	he	*[194]	Direct Quote[194]	
+119-25	14221-14227	stands	*[194]	Direct Quote[194]	
+119-26	14228-14232	with	*[194]	Direct Quote[194]	
+119-27	14233-14240	respect	*[194]	Direct Quote[194]	
+119-28	14241-14243	to	*[194]	Direct Quote[194]	
+119-29	14244-14247	the	*[194]	Direct Quote[194]	
+119-30	14248-14252	plan	*[194]	Direct Quote[194]	
+119-31	14253-14254	.	*[194]	Direct Quote[194]	
+119-32	14255-14256	'	*[194]	Direct Quote[194]	
+119-33	14257-14258	"	*[194]	Direct Quote[194]	
+
+#Text=Firestone Tire & Rubber Co. v. Bruch , 489 U.S. 101 , 118 , 109 S.Ct . 948 , 103 L.Ed.2d 80 ( 1989 ) ( quoting H.R. Rep. No . 93 - 533 , p. 11 ( 1973 ) ) .
+120-1	14259-14268	Firestone	*[195]	Legal Source[195]	
+120-2	14269-14273	Tire	*[195]	Legal Source[195]	
+120-3	14274-14275	&	*[195]	Legal Source[195]	
+120-4	14276-14282	Rubber	*[195]	Legal Source[195]	
+120-5	14283-14286	Co.	*[195]	Legal Source[195]	
+120-6	14287-14289	v.	*[195]	Legal Source[195]	
+120-7	14290-14295	Bruch	*[195]	Legal Source[195]	
+120-8	14296-14297	,	*[195]	Legal Source[195]	
+120-9	14298-14301	489	*[195]	Legal Source[195]	
+120-10	14302-14306	U.S.	*[195]	Legal Source[195]	
+120-11	14307-14310	101	*[195]	Legal Source[195]	
+120-12	14311-14312	,	*[195]	Legal Source[195]	
+120-13	14313-14316	118	*[195]	Legal Source[195]	
+120-14	14317-14318	,	*[195]	Legal Source[195]	
+120-15	14319-14322	109	*[195]	Legal Source[195]	
+120-16	14323-14327	S.Ct	*[195]	Legal Source[195]	
+120-17	14328-14329	.	*[195]	Legal Source[195]	
+120-18	14330-14333	948	*[195]	Legal Source[195]	
+120-19	14334-14335	,	*[195]	Legal Source[195]	
+120-20	14336-14339	103	*[195]	Legal Source[195]	
+120-21	14340-14347	L.Ed.2d	*[195]	Legal Source[195]	
+120-22	14348-14350	80	*[195]	Legal Source[195]	
+120-23	14351-14352	(	*[195]	Legal Source[195]	
+120-24	14353-14357	1989	*[195]	Legal Source[195]	
+120-25	14358-14359	)	*[195]	Legal Source[195]	
+120-26	14360-14361	(	_	_	
+120-27	14362-14369	quoting	_	_	
+120-28	14370-14374	H.R.	*[196]	Legal Source[196]	
+120-29	14375-14379	Rep.	*[196]	Legal Source[196]	
+120-30	14380-14382	No	*[196]	Legal Source[196]	
+120-31	14383-14384	.	*[196]	Legal Source[196]	
+120-32	14385-14387	93	*[196]	Legal Source[196]	
+120-33	14388-14389	-	*[196]	Legal Source[196]	
+120-34	14390-14393	533	*[196]	Legal Source[196]	
+120-35	14394-14395	,	*[196]	Legal Source[196]	
+120-36	14396-14398	p.	*[196]	Legal Source[196]	
+120-37	14399-14401	11	*[196]	Legal Source[196]	
+120-38	14402-14403	(	*[196]	Legal Source[196]	
+120-39	14404-14408	1973	*[196]	Legal Source[196]	
+120-40	14409-14410	)	*[196]	Legal Source[196]	
+120-41	14411-14412	)	_	_	
+120-42	14413-14414	.	_	_	
+
+#Text=This is the reason for ERISA 's requirements that disclosures be written for a lay audience .
+121-1	14415-14419	This	_	_	
+121-2	14420-14422	is	_	_	
+121-3	14423-14426	the	_	_	
+121-4	14427-14433	reason	_	_	
+121-5	14434-14437	for	_	_	
+121-6	14438-14443	ERISA	*	Legal Source	
+121-7	14444-14446	's	_	_	
+121-8	14447-14459	requirements	_	_	
+121-9	14460-14464	that	_	_	
+121-10	14465-14476	disclosures	_	_	
+121-11	14477-14479	be	_	_	
+121-12	14480-14487	written	_	_	
+121-13	14488-14491	for	_	_	
+121-14	14492-14493	a	_	_	
+121-15	14494-14497	lay	_	_	
+121-16	14498-14506	audience	_	_	
+121-17	14507-14508	.	_	_	
+
+#Text=See , e.g. , 29 U.S.C. § 1022 ( a ) .
+122-1	14509-14512	See	_	_	
+122-2	14513-14514	,	_	_	
+122-3	14515-14519	e.g.	_	_	
+122-4	14520-14521	,	_	_	
+122-5	14522-14524	29	*[197]	Legal Source[197]	
+122-6	14525-14531	U.S.C.	*[197]	Legal Source[197]	
+122-7	14532-14533	§	*[197]	Legal Source[197]	
+122-8	14534-14538	1022	*[197]	Legal Source[197]	
+122-9	14539-14540	(	*[197]	Legal Source[197]	
+122-10	14541-14542	a	*[197]	Legal Source[197]	
+122-11	14543-14544	)	*[197]	Legal Source[197]	
+122-12	14545-14546	.	_	_	
+
+#Text=Once plan administrators satisfy their obligations to impart knowledge , petitioners say , § 1113(2 ) 's knowledge requirement is satisfied too .
+123-1	14547-14551	Once	_	_	
+123-2	14552-14556	plan	_	_	
+123-3	14557-14571	administrators	_	_	
+123-4	14572-14579	satisfy	_	_	
+123-5	14580-14585	their	_	_	
+123-6	14586-14597	obligations	_	_	
+123-7	14598-14600	to	_	_	
+123-8	14601-14607	impart	_	_	
+123-9	14608-14617	knowledge	_	_	
+123-10	14618-14619	,	_	_	
+123-11	14620-14631	petitioners	_	_	
+123-12	14632-14635	say	_	_	
+123-13	14636-14637	,	_	_	
+123-14	14638-14639	§	*[198]	Legal Source[198]	
+123-15	14640-14646	1113(2	*[198]	Legal Source[198]	
+123-16	14647-14648	)	*[198]	Legal Source[198]	
+123-17	14649-14651	's	_	_	
+123-18	14652-14661	knowledge	_	_	
+123-19	14662-14673	requirement	_	_	
+123-20	14674-14676	is	_	_	
+123-21	14677-14686	satisfied	_	_	
+123-22	14687-14690	too	_	_	
+123-23	14691-14692	.	_	_	
+
+#Text=But that is simply not what § 1113(2 ) says .
+124-1	14693-14696	But	_	_	
+124-2	14697-14701	that	_	_	
+124-3	14702-14704	is	_	_	
+124-4	14705-14711	simply	_	_	
+124-5	14712-14715	not	_	_	
+124-6	14716-14720	what	_	_	
+124-7	14721-14722	§	*[199]	Legal Source[199]	
+124-8	14723-14729	1113(2	*[199]	Legal Source[199]	
+124-9	14730-14731	)	*[199]	Legal Source[199]	
+124-10	14732-14736	says	_	_	
+124-11	14737-14738	.	_	_	
+
+#Text=Unlike other ERISA limitations periods - which also form § 1113(2 ) 's context- § 1113(2 ) begins only when a plaintiff actually is aware of the relevant facts , not when he should be .
+125-1	14739-14745	Unlike	_	_	
+125-2	14746-14751	other	_	_	
+125-3	14752-14757	ERISA	*	Legal Source	
+125-4	14758-14769	limitations	_	_	
+125-5	14770-14777	periods	_	_	
+125-6	14778-14779	-	_	_	
+125-7	14780-14785	which	_	_	
+125-8	14786-14790	also	_	_	
+125-9	14791-14795	form	_	_	
+125-10	14796-14797	§	*[200]	Legal Source[200]	
+125-11	14798-14804	1113(2	*[200]	Legal Source[200]	
+125-12	14805-14806	)	*[200]	Legal Source[200]	
+125-13	14807-14809	's	_	_	
+125-14	14810-14818	context-	*	Metalinguistic Cue	
+125-15	14819-14820	§	*[201]	Legal Source[201]	
+125-16	14821-14827	1113(2	*[201]	Legal Source[201]	
+125-17	14828-14829	)	*[201]	Legal Source[201]	
+125-18	14830-14836	begins	_	_	
+125-19	14837-14841	only	_	_	
+125-20	14842-14846	when	_	_	
+125-21	14847-14848	a	_	_	
+125-22	14849-14858	plaintiff	_	_	
+125-23	14859-14867	actually	_	_	
+125-24	14868-14870	is	_	_	
+125-25	14871-14876	aware	_	_	
+125-26	14877-14879	of	_	_	
+125-27	14880-14883	the	_	_	
+125-28	14884-14892	relevant	_	_	
+125-29	14893-14898	facts	_	_	
+125-30	14899-14900	,	_	_	
+125-31	14901-14904	not	_	_	
+125-32	14905-14909	when	_	_	
+125-33	14910-14912	he	_	_	
+125-34	14913-14919	should	_	_	
+125-35	14920-14922	be	_	_	
+125-36	14923-14924	.	_	_	
+
+#Text=And a given plaintiff will not necessarily be aware of all facts disclosed to him ; even a reasonably diligent plaintiff would not know those facts immediately upon receiving the disclosure .
+126-1	14925-14928	And	_	_	
+126-2	14929-14930	a	_	_	
+126-3	14931-14936	given	_	_	
+126-4	14937-14946	plaintiff	_	_	
+126-5	14947-14951	will	_	_	
+126-6	14952-14955	not	_	_	
+126-7	14956-14967	necessarily	_	_	
+126-8	14968-14970	be	_	_	
+126-9	14971-14976	aware	_	_	
+126-10	14977-14979	of	_	_	
+126-11	14980-14983	all	_	_	
+126-12	14984-14989	facts	_	_	
+126-13	14990-14999	disclosed	_	_	
+126-14	15000-15002	to	_	_	
+126-15	15003-15006	him	_	_	
+126-16	15007-15008	;	_	_	
+126-17	15009-15013	even	_	_	
+126-18	15014-15015	a	_	_	
+126-19	15016-15026	reasonably	_	_	
+126-20	15027-15035	diligent	_	_	
+126-21	15036-15045	plaintiff	_	_	
+126-22	15046-15051	would	_	_	
+126-23	15052-15055	not	_	_	
+126-24	15056-15060	know	_	_	
+126-25	15061-15066	those	_	_	
+126-26	15067-15072	facts	_	_	
+126-27	15073-15084	immediately	_	_	
+126-28	15085-15089	upon	_	_	
+126-29	15090-15099	receiving	_	_	
+126-30	15100-15103	the	_	_	
+126-31	15104-15114	disclosure	_	_	
+126-32	15115-15116	.	_	_	
+
+#Text=Although " the words of a statute must be read in their context , " Davis v. Michigan Dept . of Treasury , 489 U.S. 803 , 809 , 109 S.Ct . 1500 , 103 L.Ed.2d 891 ( 1989 ) , petitioners ' argument again gives the word " actual " little meaning at all .
+127-1	15117-15125	Although	*[202]	Appeal to Meaning[202]	
+127-2	15126-15127	"	*[202]|*[203]	Appeal to Meaning[202]|Direct Quote[203]	
+127-3	15128-15131	the	*[202]|*[203]	Appeal to Meaning[202]|Direct Quote[203]	
+127-4	15132-15137	words	*[202]|*[203]|*[204]	Appeal to Meaning[202]|Direct Quote[203]|Metalinguistic Cue[204]	
+127-5	15138-15140	of	*[202]|*[203]	Appeal to Meaning[202]|Direct Quote[203]	
+127-6	15141-15142	a	*[202]|*[203]	Appeal to Meaning[202]|Direct Quote[203]	
+127-7	15143-15150	statute	*[202]|*[203]	Appeal to Meaning[202]|Direct Quote[203]	
+127-8	15151-15155	must	*[202]|*[203]	Appeal to Meaning[202]|Direct Quote[203]	
+127-9	15156-15158	be	*[202]|*[203]	Appeal to Meaning[202]|Direct Quote[203]	
+127-10	15159-15163	read	*[202]|*[203]|*[205]	Appeal to Meaning[202]|Direct Quote[203]|Metalinguistic Cue[205]	
+127-11	15164-15166	in	*[202]|*[203]	Appeal to Meaning[202]|Direct Quote[203]	
+127-12	15167-15172	their	*[202]|*[203]	Appeal to Meaning[202]|Direct Quote[203]	
+127-13	15173-15180	context	*[202]|*[203]|*[206]	Appeal to Meaning[202]|Direct Quote[203]|Metalinguistic Cue[206]	
+127-14	15181-15182	,	*[202]|*[203]	Appeal to Meaning[202]|Direct Quote[203]	
+127-15	15183-15184	"	*[202]|*[203]	Appeal to Meaning[202]|Direct Quote[203]	
+127-16	15185-15190	Davis	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-17	15191-15193	v.	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-18	15194-15202	Michigan	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-19	15203-15207	Dept	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-20	15208-15209	.	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-21	15210-15212	of	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-22	15213-15221	Treasury	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-23	15222-15223	,	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-24	15224-15227	489	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-25	15228-15232	U.S.	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-26	15233-15236	803	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-27	15237-15238	,	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-28	15239-15242	809	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-29	15243-15244	,	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-30	15245-15248	109	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-31	15249-15253	S.Ct	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-32	15254-15255	.	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-33	15256-15260	1500	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-34	15261-15262	,	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-35	15263-15266	103	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-36	15267-15274	L.Ed.2d	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-37	15275-15278	891	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-38	15279-15280	(	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-39	15281-15285	1989	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-40	15286-15287	)	*[202]|*[207]	Appeal to Meaning[202]|Legal Source[207]	
+127-41	15288-15289	,	*[202]	Appeal to Meaning[202]	
+127-42	15290-15301	petitioners	*[202]	Appeal to Meaning[202]	
+127-43	15302-15303	'	*[202]	Appeal to Meaning[202]	
+127-44	15304-15312	argument	*[202]	Appeal to Meaning[202]	
+127-45	15313-15318	again	*[202]	Appeal to Meaning[202]	
+127-46	15319-15324	gives	*[202]	Appeal to Meaning[202]	
+127-47	15325-15328	the	*[202]	Appeal to Meaning[202]	
+127-48	15329-15333	word	*[202]|*[208]	Appeal to Meaning[202]|Focal Term[208]	
+127-49	15334-15335	"	*[202]|*[209]	Appeal to Meaning[202]|Direct Quote[209]	
+127-50	15336-15342	actual	*[202]|*[209]|*[210]	Appeal to Meaning[202]|Direct Quote[209]|Focal Term[210]	
+127-51	15343-15344	"	*[202]|*[209]	Appeal to Meaning[202]|Direct Quote[209]	
+127-52	15345-15351	little	*[202]	Appeal to Meaning[202]	
+127-53	15352-15359	meaning	*[202]|*[211]	Appeal to Meaning[202]|Metalinguistic Cue[211]	
+127-54	15360-15362	at	*[202]	Appeal to Meaning[202]	
+127-55	15363-15366	all	*[202]	Appeal to Meaning[202]	
+127-56	15367-15368	.	_	_	
+
+#Text=Petitioners also argue that § 1113(2 ) 's plain meaning undermines its purpose of protecting plan administrators from suits over bygone investment decisions .
+128-1	15369-15380	Petitioners	_	_	
+128-2	15381-15385	also	_	_	
+128-3	15386-15391	argue	_	_	
+128-4	15392-15396	that	_	_	
+128-5	15397-15398	§	*[212]	Legal Source[212]	
+128-6	15399-15405	1113(2	*[212]	Legal Source[212]	
+128-7	15406-15407	)	*[212]	Legal Source[212]	
+128-8	15408-15410	's	_	_	
+128-9	15411-15416	plain	*[213]	Metalinguistic Cue[213]	
+128-10	15417-15424	meaning	*[213]	Metalinguistic Cue[213]	
+128-11	15425-15435	undermines	_	_	
+128-12	15436-15439	its	_	_	
+128-13	15440-15447	purpose	_	_	
+128-14	15448-15450	of	_	_	
+128-15	15451-15461	protecting	_	_	
+128-16	15462-15466	plan	_	_	
+128-17	15467-15481	administrators	_	_	
+128-18	15482-15486	from	_	_	
+128-19	15487-15492	suits	_	_	
+128-20	15493-15497	over	_	_	
+128-21	15498-15504	bygone	_	_	
+128-22	15505-15515	investment	_	_	
+128-23	15516-15525	decisions	_	_	
+128-24	15526-15527	.	_	_	
+
+#Text=If a plan participant can simply deny knowledge , they say , administrators will rarely get the benefit of § 1113(2 ) .
+129-1	15528-15530	If	_	_	
+129-2	15531-15532	a	_	_	
+129-3	15533-15537	plan	_	_	
+129-4	15538-15549	participant	_	_	
+129-5	15550-15553	can	_	_	
+129-6	15554-15560	simply	_	_	
+129-7	15561-15565	deny	_	_	
+129-8	15566-15575	knowledge	_	_	
+129-9	15576-15577	,	_	_	
+129-10	15578-15582	they	_	_	
+129-11	15583-15586	say	_	_	
+129-12	15587-15588	,	_	_	
+129-13	15589-15603	administrators	_	_	
+129-14	15604-15608	will	_	_	
+129-15	15609-15615	rarely	_	_	
+129-16	15616-15619	get	_	_	
+129-17	15620-15623	the	_	_	
+129-18	15624-15631	benefit	_	_	
+129-19	15632-15634	of	_	_	
+129-20	15635-15636	§	*[214]	Legal Source[214]	
+129-21	15637-15643	1113(2	*[214]	Legal Source[214]	
+129-22	15644-15645	)	*[214]	Legal Source[214]	
+129-23	15646-15647	.	_	_	
+
+#Text=But even if this is true , as it may well be , we can not say that heeding the clear meaning of the word " actual " renders the statute so " ' [ in]coherent ' "
+130-1	15648-15651	But	_	_	
+130-2	15652-15656	even	_	_	
+130-3	15657-15659	if	_	_	
+130-4	15660-15664	this	_	_	
+130-5	15665-15667	is	_	_	
+130-6	15668-15672	true	_	_	
+130-7	15673-15674	,	_	_	
+130-8	15675-15677	as	_	_	
+130-9	15678-15680	it	_	_	
+130-10	15681-15684	may	_	_	
+130-11	15685-15689	well	_	_	
+130-12	15690-15692	be	_	_	
+130-13	15693-15694	,	_	_	
+130-14	15695-15697	we	*[215]	Appeal to Meaning[215]	
+130-15	15698-15701	can	*[215]	Appeal to Meaning[215]	
+130-16	15702-15705	not	*[215]	Appeal to Meaning[215]	
+130-17	15706-15709	say	*[215]	Appeal to Meaning[215]	
+130-18	15710-15714	that	*[215]	Appeal to Meaning[215]	
+130-19	15715-15722	heeding	*[215]	Appeal to Meaning[215]	
+130-20	15723-15726	the	*[215]	Appeal to Meaning[215]	
+130-21	15727-15732	clear	*[215]|*[216]	Appeal to Meaning[215]|Metalinguistic Cue[216]	
+130-22	15733-15740	meaning	*[215]|*[216]	Appeal to Meaning[215]|Metalinguistic Cue[216]	
+130-23	15741-15743	of	*[215]	Appeal to Meaning[215]	
+130-24	15744-15747	the	*[215]	Appeal to Meaning[215]	
+130-25	15748-15752	word	*[215]|*[217]	Appeal to Meaning[215]|Metalinguistic Cue[217]	
+130-26	15753-15754	"	*[215]|*[218]	Appeal to Meaning[215]|Direct Quote[218]	
+130-27	15755-15761	actual	*[215]|*[218]|*[219]	Appeal to Meaning[215]|Direct Quote[218]|Focal Term[219]	
+130-28	15762-15763	"	*[215]|*[218]	Appeal to Meaning[215]|Direct Quote[218]	
+130-29	15764-15771	renders	*[215]	Appeal to Meaning[215]	
+130-30	15772-15775	the	*[215]	Appeal to Meaning[215]	
+130-31	15776-15783	statute	*[215]	Appeal to Meaning[215]	
+130-32	15784-15786	so	*[215]	Appeal to Meaning[215]	
+130-33	15787-15788	"	*[215]|*[220]	Appeal to Meaning[215]|Direct Quote[220]	
+130-34	15789-15790	'	*[215]|*[220]|*[221]	Appeal to Meaning[215]|Direct Quote[220]|Direct Quote[221]	
+130-35	15791-15792	[	*[215]|*[220]|*[221]	Appeal to Meaning[215]|Direct Quote[220]|Direct Quote[221]	
+130-36	15793-15804	in]coherent	*[215]|*[220]|*[221]	Appeal to Meaning[215]|Direct Quote[220]|Direct Quote[221]	
+130-37	15805-15806	'	*[215]|*[220]|*[221]	Appeal to Meaning[215]|Direct Quote[220]|Direct Quote[221]	
+130-38	15807-15808	"	*[215]|*[220]	Appeal to Meaning[215]|Direct Quote[220]	
+
+#Text=that it must be disregarded .
+131-1	15809-15813	that	_	_	
+131-2	15814-15816	it	_	_	
+131-3	15817-15821	must	_	_	
+131-4	15822-15824	be	_	_	
+131-5	15825-15836	disregarded	_	_	
+131-6	15837-15838	.	_	_	
+
+#Text=Kingdomware Technologies , Inc. v. United States , 579 U.S. ---- , ---- , 136 S.Ct . 1969 , 1976 , 195 L.Ed.2d 334 ( 2016 ) .
+132-1	15839-15850	Kingdomware	*[222]	Legal Source[222]	
+132-2	15851-15863	Technologies	*[222]	Legal Source[222]	
+132-3	15864-15865	,	*[222]	Legal Source[222]	
+132-4	15866-15870	Inc.	*[222]	Legal Source[222]	
+132-5	15871-15873	v.	*[222]	Legal Source[222]	
+132-6	15874-15880	United	*[222]	Legal Source[222]	
+132-7	15881-15887	States	*[222]	Legal Source[222]	
+132-8	15888-15889	,	*[222]	Legal Source[222]	
+132-9	15890-15893	579	*[222]	Legal Source[222]	
+132-10	15894-15898	U.S.	*[222]	Legal Source[222]	
+132-11	15899-15903	----	*[222]	Legal Source[222]	
+132-12	15904-15905	,	*[222]	Legal Source[222]	
+132-13	15906-15910	----	*[222]	Legal Source[222]	
+132-14	15911-15912	,	*[222]	Legal Source[222]	
+132-15	15913-15916	136	*[222]	Legal Source[222]	
+132-16	15917-15921	S.Ct	*[222]	Legal Source[222]	
+132-17	15922-15923	.	*[222]	Legal Source[222]	
+132-18	15924-15928	1969	*[222]	Legal Source[222]	
+132-19	15929-15930	,	*[222]	Legal Source[222]	
+132-20	15931-15935	1976	*[222]	Legal Source[222]	
+132-21	15936-15937	,	*[222]	Legal Source[222]	
+132-22	15938-15941	195	*[222]	Legal Source[222]	
+132-23	15942-15949	L.Ed.2d	*[222]	Legal Source[222]	
+132-24	15950-15953	334	*[222]	Legal Source[222]	
+132-25	15954-15955	(	*[222]	Legal Source[222]	
+132-26	15956-15960	2016	*[222]	Legal Source[222]	
+132-27	15961-15962	)	*[222]	Legal Source[222]	
+132-28	15963-15964	.	_	_	
+
+#Text=For one thing , plan participants are not the only potential plaintiffs subject to § 1113 .
+133-1	15965-15968	For	_	_	
+133-2	15969-15972	one	_	_	
+133-3	15973-15978	thing	_	_	
+133-4	15979-15980	,	_	_	
+133-5	15981-15985	plan	_	_	
+133-6	15986-15998	participants	_	_	
+133-7	15999-16002	are	_	_	
+133-8	16003-16006	not	_	_	
+133-9	16007-16010	the	_	_	
+133-10	16011-16015	only	_	_	
+133-11	16016-16025	potential	_	_	
+133-12	16026-16036	plaintiffs	_	_	
+133-13	16037-16044	subject	_	_	
+133-14	16045-16047	to	_	_	
+133-15	16048-16049	§	*[223]	Legal Source[223]	
+133-16	16050-16054	1113	*[223]	Legal Source[223]	
+133-17	16055-16056	.	_	_	
+
+#Text=The Secretary of Labor , for example , may also sue imprudent fiduciaries for the benefit of plan participants .
+134-1	16057-16060	The	_	_	
+134-2	16061-16070	Secretary	_	_	
+134-3	16071-16073	of	_	_	
+134-4	16074-16079	Labor	_	_	
+134-5	16080-16081	,	_	_	
+134-6	16082-16085	for	_	_	
+134-7	16086-16093	example	_	_	
+134-8	16094-16095	,	_	_	
+134-9	16096-16099	may	_	_	
+134-10	16100-16104	also	_	_	
+134-11	16105-16108	sue	_	_	
+134-12	16109-16118	imprudent	_	_	
+134-13	16119-16130	fiduciaries	_	_	
+134-14	16131-16134	for	_	_	
+134-15	16135-16138	the	_	_	
+134-16	16139-16146	benefit	_	_	
+134-17	16147-16149	of	_	_	
+134-18	16150-16154	plan	_	_	
+134-19	16155-16167	participants	_	_	
+134-20	16168-16169	.	_	_	
+
+#Text=See § 1132(a)(2 ) .
+135-1	16170-16173	See	_	_	
+135-2	16174-16175	§	*[224]	Legal Source[224]	
+135-3	16176-16185	1132(a)(2	*[224]	Legal Source[224]	
+135-4	16186-16187	)	*[224]	Legal Source[224]	
+135-5	16188-16189	.	_	_	
+
+#Text=And the United States represents that the Secretary will have a hard time doing so within § 1113(2 ) 's timeframe if deemed to have actual knowledge of the facts contained in the many reports that the Department receives from ERISA plans each year .
+136-1	16190-16193	And	_	_	
+136-2	16194-16197	the	_	_	
+136-3	16198-16204	United	_	_	
+136-4	16205-16211	States	_	_	
+136-5	16212-16222	represents	_	_	
+136-6	16223-16227	that	_	_	
+136-7	16228-16231	the	_	_	
+136-8	16232-16241	Secretary	_	_	
+136-9	16242-16246	will	_	_	
+136-10	16247-16251	have	_	_	
+136-11	16252-16253	a	_	_	
+136-12	16254-16258	hard	_	_	
+136-13	16259-16263	time	_	_	
+136-14	16264-16269	doing	_	_	
+136-15	16270-16272	so	_	_	
+136-16	16273-16279	within	_	_	
+136-17	16280-16281	§	*[225]	Legal Source[225]	
+136-18	16282-16288	1113(2	*[225]	Legal Source[225]	
+136-19	16289-16290	)	*[225]	Legal Source[225]	
+136-20	16291-16293	's	_	_	
+136-21	16294-16303	timeframe	_	_	
+136-22	16304-16306	if	_	_	
+136-23	16307-16313	deemed	_	_	
+136-24	16314-16316	to	_	_	
+136-25	16317-16321	have	_	_	
+136-26	16322-16328	actual	_	_	
+136-27	16329-16338	knowledge	_	_	
+136-28	16339-16341	of	_	_	
+136-29	16342-16345	the	_	_	
+136-30	16346-16351	facts	_	_	
+136-31	16352-16361	contained	_	_	
+136-32	16362-16364	in	_	_	
+136-33	16365-16368	the	_	_	
+136-34	16369-16373	many	_	_	
+136-35	16374-16381	reports	_	_	
+136-36	16382-16386	that	_	_	
+136-37	16387-16390	the	_	_	
+136-38	16391-16401	Department	_	_	
+136-39	16402-16410	receives	_	_	
+136-40	16411-16415	from	_	_	
+136-41	16416-16421	ERISA	_	_	
+136-42	16422-16427	plans	_	_	
+136-43	16428-16432	each	_	_	
+136-44	16433-16437	year	_	_	
+136-45	16438-16439	.	_	_	
+
+#Text=See Brief for United States as Amicus Curiae 27 - 28 .
+137-1	16440-16443	See	_	_	
+137-2	16444-16449	Brief	*[226]	Legal Source[226]	
+137-3	16450-16453	for	*[226]	Legal Source[226]	
+137-4	16454-16460	United	*[226]	Legal Source[226]	
+137-5	16461-16467	States	*[226]	Legal Source[226]	
+137-6	16468-16470	as	*[226]	Legal Source[226]	
+137-7	16471-16477	Amicus	*[226]	Legal Source[226]	
+137-8	16478-16484	Curiae	*[226]	Legal Source[226]	
+137-9	16485-16487	27	*[226]	Legal Source[226]	
+137-10	16488-16489	-	*[226]	Legal Source[226]	
+137-11	16490-16492	28	*[226]	Legal Source[226]	
+137-12	16493-16494	.	_	_	
+
+#Text=Moreover , the statute 's repose period will still protect defendants from suits filed more than six years after the alleged breach .
+138-1	16495-16503	Moreover	_	_	
+138-2	16504-16505	,	_	_	
+138-3	16506-16509	the	_	_	
+138-4	16510-16517	statute	_	_	
+138-5	16518-16520	's	_	_	
+138-6	16521-16527	repose	_	_	
+138-7	16528-16534	period	_	_	
+138-8	16535-16539	will	_	_	
+138-9	16540-16545	still	_	_	
+138-10	16546-16553	protect	_	_	
+138-11	16554-16564	defendants	_	_	
+138-12	16565-16569	from	_	_	
+138-13	16570-16575	suits	_	_	
+138-14	16576-16581	filed	_	_	
+138-15	16582-16586	more	_	_	
+138-16	16587-16591	than	_	_	
+138-17	16592-16595	six	_	_	
+138-18	16596-16601	years	_	_	
+138-19	16602-16607	after	_	_	
+138-20	16608-16611	the	_	_	
+138-21	16612-16619	alleged	_	_	
+138-22	16620-16626	breach	_	_	
+138-23	16627-16628	.	_	_	
+
+#Text=See § 1113(1 ) .
+139-1	16629-16632	See	_	_	
+139-2	16633-16634	§	*[227]	Legal Source[227]	
+139-3	16635-16641	1113(1	*[227]	Legal Source[227]	
+139-4	16642-16643	)	*[227]	Legal Source[227]	
+139-5	16644-16645	.	_	_	
+
+#Text=Petitioners may well be correct that heeding the plain meaning of § 1113(2 ) substantially diminishes the protection that it provides for ERISA fiduciaries , but by the same token , petitioners ' interpretation would greatly reduce § 1113(1 ) 's value for beneficiaries , given the disclosure regime that petitioners themselves emphasize .
+140-1	16646-16657	Petitioners	_	_	
+140-2	16658-16661	may	_	_	
+140-3	16662-16666	well	_	_	
+140-4	16667-16669	be	_	_	
+140-5	16670-16677	correct	_	_	
+140-6	16678-16682	that	_	_	
+140-7	16683-16690	heeding	_	_	
+140-8	16691-16694	the	_	_	
+140-9	16695-16700	plain	*[228]	Metalinguistic Cue[228]	
+140-10	16701-16708	meaning	*[228]	Metalinguistic Cue[228]	
+140-11	16709-16711	of	_	_	
+140-12	16712-16713	§	*[229]	Legal Source[229]	
+140-13	16714-16720	1113(2	*[229]	Legal Source[229]	
+140-14	16721-16722	)	*[229]	Legal Source[229]	
+140-15	16723-16736	substantially	_	_	
+140-16	16737-16747	diminishes	_	_	
+140-17	16748-16751	the	_	_	
+140-18	16752-16762	protection	_	_	
+140-19	16763-16767	that	_	_	
+140-20	16768-16770	it	_	_	
+140-21	16771-16779	provides	_	_	
+140-22	16780-16783	for	_	_	
+140-23	16784-16789	ERISA	*	Legal Source	
+140-24	16790-16801	fiduciaries	_	_	
+140-25	16802-16803	,	_	_	
+140-26	16804-16807	but	_	_	
+140-27	16808-16810	by	_	_	
+140-28	16811-16814	the	_	_	
+140-29	16815-16819	same	_	_	
+140-30	16820-16825	token	_	_	
+140-31	16826-16827	,	_	_	
+140-32	16828-16839	petitioners	_	_	
+140-33	16840-16841	'	_	_	
+140-34	16842-16856	interpretation	*	Metalinguistic Cue	
+140-35	16857-16862	would	_	_	
+140-36	16863-16870	greatly	_	_	
+140-37	16871-16877	reduce	_	_	
+140-38	16878-16879	§	*[230]	Legal Source[230]	
+140-39	16880-16886	1113(1	*[230]	Legal Source[230]	
+140-40	16887-16888	)	*[230]	Legal Source[230]	
+140-41	16889-16891	's	_	_	
+140-42	16892-16897	value	_	_	
+140-43	16898-16901	for	_	_	
+140-44	16902-16915	beneficiaries	_	_	
+140-45	16916-16917	,	_	_	
+140-46	16918-16923	given	_	_	
+140-47	16924-16927	the	_	_	
+140-48	16928-16938	disclosure	_	_	
+140-49	16939-16945	regime	_	_	
+140-50	16946-16950	that	_	_	
+140-51	16951-16962	petitioners	_	_	
+140-52	16963-16973	themselves	_	_	
+140-53	16974-16983	emphasize	_	_	
+140-54	16984-16985	.	_	_	
+
+#Text=Choosing between these alternatives is a task for Congress , and we must assume that the language of § 1113(2 ) reflects Congress 's choice .
+141-1	16986-16994	Choosing	_	_	
+141-2	16995-17002	between	_	_	
+141-3	17003-17008	these	_	_	
+141-4	17009-17021	alternatives	_	_	
+141-5	17022-17024	is	_	_	
+141-6	17025-17026	a	_	_	
+141-7	17027-17031	task	_	_	
+141-8	17032-17035	for	_	_	
+141-9	17036-17044	Congress	_	_	
+141-10	17045-17046	,	_	_	
+141-11	17047-17050	and	_	_	
+141-12	17051-17053	we	_	_	
+141-13	17054-17058	must	_	_	
+141-14	17059-17065	assume	_	_	
+141-15	17066-17070	that	_	_	
+141-16	17071-17074	the	_	_	
+141-17	17075-17083	language	*	Metalinguistic Cue	
+141-18	17084-17086	of	_	_	
+141-19	17087-17088	§	*[231]	Legal Source[231]	
+141-20	17089-17095	1113(2	*[231]	Legal Source[231]	
+141-21	17096-17097	)	*[231]	Legal Source[231]	
+141-22	17098-17106	reflects	_	_	
+141-23	17107-17115	Congress	_	_	
+141-24	17116-17118	's	_	_	
+141-25	17119-17125	choice	_	_	
+141-26	17126-17127	.	_	_	
+
+#Text=If policy considerations suggest that the current scheme should be altered , Congress must be the one to do it .
+142-1	17128-17130	If	_	_	
+142-2	17131-17137	policy	_	_	
+142-3	17138-17152	considerations	_	_	
+142-4	17153-17160	suggest	_	_	
+142-5	17161-17165	that	_	_	
+142-6	17166-17169	the	_	_	
+142-7	17170-17177	current	_	_	
+142-8	17178-17184	scheme	_	_	
+142-9	17185-17191	should	_	_	
+142-10	17192-17194	be	_	_	
+142-11	17195-17202	altered	_	_	
+142-12	17203-17204	,	_	_	
+142-13	17205-17213	Congress	_	_	
+142-14	17214-17218	must	_	_	
+142-15	17219-17221	be	_	_	
+142-16	17222-17225	the	_	_	
+142-17	17226-17229	one	_	_	
+142-18	17230-17232	to	_	_	
+142-19	17233-17235	do	_	_	
+142-20	17236-17238	it	_	_	
+142-21	17239-17240	.	_	_	
+
+#Text=See , e.g. , Azar v. Allina Health Services , 587 U.S. ---- , ---- , 139 S.Ct . 1804 , 1813 , 204 L.Ed.2d 139 ( 2019 ) .
+143-1	17241-17244	See	_	_	
+143-2	17245-17246	,	_	_	
+143-3	17247-17251	e.g.	_	_	
+143-4	17252-17253	,	_	_	
+143-5	17254-17258	Azar	*[232]	Legal Source[232]	
+143-6	17259-17261	v.	*[232]	Legal Source[232]	
+143-7	17262-17268	Allina	*[232]	Legal Source[232]	
+143-8	17269-17275	Health	*[232]	Legal Source[232]	
+143-9	17276-17284	Services	*[232]	Legal Source[232]	
+143-10	17285-17286	,	*[232]	Legal Source[232]	
+143-11	17287-17290	587	*[232]	Legal Source[232]	
+143-12	17291-17295	U.S.	*[232]	Legal Source[232]	
+143-13	17296-17300	----	*[232]	Legal Source[232]	
+143-14	17301-17302	,	*[232]	Legal Source[232]	
+143-15	17303-17307	----	*[232]	Legal Source[232]	
+143-16	17308-17309	,	*[232]	Legal Source[232]	
+143-17	17310-17313	139	*[232]	Legal Source[232]	
+143-18	17314-17318	S.Ct	*[232]	Legal Source[232]	
+143-19	17319-17320	.	*[232]	Legal Source[232]	
+143-20	17321-17325	1804	*[232]	Legal Source[232]	
+143-21	17326-17327	,	*[232]	Legal Source[232]	
+143-22	17328-17332	1813	*[232]	Legal Source[232]	
+143-23	17333-17334	,	*[232]	Legal Source[232]	
+143-24	17335-17338	204	*[232]	Legal Source[232]	
+143-25	17339-17346	L.Ed.2d	*[232]	Legal Source[232]	
+143-26	17347-17350	139	*[232]	Legal Source[232]	
+143-27	17351-17352	(	*[232]	Legal Source[232]	
+143-28	17353-17357	2019	*[232]	Legal Source[232]	
+143-29	17358-17359	)	*[232]	Legal Source[232]	
+143-30	17360-17361	.	_	_	
+
+#Text=Finally , petitioners argue that the plain meaning of " actual knowledge " renders an earlier version of § 1113(2 ) incoherent .
+144-1	17362-17369	Finally	_	_	
+144-2	17370-17371	,	_	_	
+144-3	17372-17383	petitioners	_	_	
+144-4	17384-17389	argue	_	_	
+144-5	17390-17394	that	_	_	
+144-6	17395-17398	the	*[233]	Appeal to Meaning[233]	
+144-7	17399-17404	plain	*[233]|*[234]	Appeal to Meaning[233]|Metalinguistic Cue[234]	
+144-8	17405-17412	meaning	*[233]|*[234]	Appeal to Meaning[233]|Metalinguistic Cue[234]	
+144-9	17413-17415	of	*[233]	Appeal to Meaning[233]	
+144-10	17416-17417	"	*[233]|*[235]	Appeal to Meaning[233]|Direct Quote[235]	
+144-11	17418-17424	actual	*[233]|*[235]|*[236]	Appeal to Meaning[233]|Direct Quote[235]|Focal Term[236]	
+144-12	17425-17434	knowledge	*[233]|*[235]|*[236]	Appeal to Meaning[233]|Direct Quote[235]|Focal Term[236]	
+144-13	17435-17436	"	*[233]|*[235]	Appeal to Meaning[233]|Direct Quote[235]	
+144-14	17437-17444	renders	*[233]	Appeal to Meaning[233]	
+144-15	17445-17447	an	*[233]	Appeal to Meaning[233]	
+144-16	17448-17455	earlier	*[233]	Appeal to Meaning[233]	
+144-17	17456-17463	version	*[233]	Appeal to Meaning[233]	
+144-18	17464-17466	of	*[233]	Appeal to Meaning[233]	
+144-19	17467-17468	§	*[233]|*[237]	Appeal to Meaning[233]|Legal Source[237]	
+144-20	17469-17475	1113(2	*[233]|*[237]	Appeal to Meaning[233]|Legal Source[237]	
+144-21	17476-17477	)	*[233]|*[237]	Appeal to Meaning[233]|Legal Source[237]	
+144-22	17478-17488	incoherent	*[233]	Appeal to Meaning[233]	
+144-23	17489-17490	.	_	_	
+
+#Text=As originally enacted , the § 1113(2 ) limitations period began either when the plaintiff gained actual knowledge of the alleged breach or when " a report from which [ the plaintiff ] could reasonably be expected to have obtained knowledge ... was filed with " the Secretary of Labor .
+145-1	17491-17493	As	_	_	
+145-2	17494-17504	originally	_	_	
+145-3	17505-17512	enacted	_	_	
+145-4	17513-17514	,	_	_	
+145-5	17515-17518	the	_	_	
+145-6	17519-17520	§	*[238]	Legal Source[238]	
+145-7	17521-17527	1113(2	*[238]	Legal Source[238]	
+145-8	17528-17529	)	*[238]	Legal Source[238]	
+145-9	17530-17541	limitations	_	_	
+145-10	17542-17548	period	_	_	
+145-11	17549-17554	began	_	_	
+145-12	17555-17561	either	_	_	
+145-13	17562-17566	when	_	_	
+145-14	17567-17570	the	_	_	
+145-15	17571-17580	plaintiff	_	_	
+145-16	17581-17587	gained	_	_	
+145-17	17588-17594	actual	_	_	
+145-18	17595-17604	knowledge	_	_	
+145-19	17605-17607	of	_	_	
+145-20	17608-17611	the	_	_	
+145-21	17612-17619	alleged	_	_	
+145-22	17620-17626	breach	_	_	
+145-23	17627-17629	or	_	_	
+145-24	17630-17634	when	_	_	
+145-25	17635-17636	"	*[239]	Direct Quote[239]	
+145-26	17637-17638	a	*[239]	Direct Quote[239]	
+145-27	17639-17645	report	*[239]	Direct Quote[239]	
+145-28	17646-17650	from	*[239]	Direct Quote[239]	
+145-29	17651-17656	which	*[239]	Direct Quote[239]	
+145-30	17657-17658	[	*[239]	Direct Quote[239]	
+145-31	17659-17662	the	*[239]	Direct Quote[239]	
+145-32	17663-17672	plaintiff	*[239]	Direct Quote[239]	
+145-33	17673-17674	]	*[239]	Direct Quote[239]	
+145-34	17675-17680	could	*[239]	Direct Quote[239]	
+145-35	17681-17691	reasonably	*[239]	Direct Quote[239]	
+145-36	17692-17694	be	*[239]	Direct Quote[239]	
+145-37	17695-17703	expected	*[239]	Direct Quote[239]	
+145-38	17704-17706	to	*[239]	Direct Quote[239]	
+145-39	17707-17711	have	*[239]	Direct Quote[239]	
+145-40	17712-17720	obtained	*[239]	Direct Quote[239]	
+145-41	17721-17730	knowledge	*[239]	Direct Quote[239]	
+145-42	17731-17734	...	*[239]	Direct Quote[239]	
+145-43	17735-17738	was	*[239]	Direct Quote[239]	
+145-44	17739-17744	filed	*[239]	Direct Quote[239]	
+145-45	17745-17749	with	*[239]	Direct Quote[239]	
+145-46	17750-17751	"	*[239]	Direct Quote[239]	
+145-47	17752-17755	the	_	_	
+145-48	17756-17765	Secretary	_	_	
+145-49	17766-17768	of	_	_	
+145-50	17769-17774	Labor	_	_	
+145-51	17775-17776	.	_	_	
+
+#Text=29 U.S.C. § 1113 ( 2 ) ( 1976 ed . ) .
+146-1	17777-17779	29	*[240]	Legal Source[240]	
+146-2	17780-17786	U.S.C.	*[240]	Legal Source[240]	
+146-3	17787-17788	§	*[240]	Legal Source[240]	
+146-4	17789-17793	1113	*[240]	Legal Source[240]	
+146-5	17794-17795	(	*[240]	Legal Source[240]	
+146-6	17796-17797	2	*[240]	Legal Source[240]	
+146-7	17798-17799	)	*[240]	Legal Source[240]	
+146-8	17800-17801	(	*[240]	Legal Source[240]	
+146-9	17802-17806	1976	*[240]	Legal Source[240]	
+146-10	17807-17809	ed	*[240]	Legal Source[240]	
+146-11	17810-17811	.	*[240]	Legal Source[240]	
+146-12	17812-17813	)	*[240]	Legal Source[240]	
+146-13	17814-17815	.	_	_	
+
+#Text=That latter , constructive - knowledge clause was later repealed .
+147-1	17816-17820	That	_	_	
+147-2	17821-17827	latter	_	_	
+147-3	17828-17829	,	_	_	
+147-4	17830-17842	constructive	_	_	
+147-5	17843-17844	-	_	_	
+147-6	17845-17854	knowledge	_	_	
+147-7	17855-17861	clause	_	_	
+147-8	17862-17865	was	_	_	
+147-9	17866-17871	later	_	_	
+147-10	17872-17880	repealed	_	_	
+147-11	17881-17882	.	_	_	
+
+#Text=See Omnibus Budget Reconciliation Act of 1987 , § 9342(b ) , 101 Stat . 1330 -371 .
+148-1	17883-17886	See	_	_	
+148-2	17887-17894	Omnibus	*[241]	Legal Source[241]	
+148-3	17895-17901	Budget	*[241]	Legal Source[241]	
+148-4	17902-17916	Reconciliation	*[241]	Legal Source[241]	
+148-5	17917-17920	Act	*[241]	Legal Source[241]	
+148-6	17921-17923	of	*[241]	Legal Source[241]	
+148-7	17924-17928	1987	*[241]	Legal Source[241]	
+148-8	17929-17930	,	*[241]	Legal Source[241]	
+148-9	17931-17932	§	*[241]	Legal Source[241]	
+148-10	17933-17939	9342(b	*[241]	Legal Source[241]	
+148-11	17940-17941	)	*[241]	Legal Source[241]	
+148-12	17942-17943	,	*[241]	Legal Source[241]	
+148-13	17944-17947	101	*[241]	Legal Source[241]	
+148-14	17948-17952	Stat	*[241]	Legal Source[241]	
+148-15	17953-17954	.	*[241]	Legal Source[241]	
+148-16	17955-17959	1330	*[241]	Legal Source[241]	
+148-17	17960-17964	-371	*[241]	Legal Source[241]	
+148-18	17965-17966	.	_	_	
+
+#Text=According to petitioners , if " actual knowledge " means what it says , then the original version of § 1113(2 ) charged plan participants with learning what was sent to the Secretary but not what was sent to them .
+149-1	17967-17976	According	_	_	
+149-2	17977-17979	to	_	_	
+149-3	17980-17991	petitioners	_	_	
+149-4	17992-17993	,	_	_	
+149-5	17994-17996	if	_	_	
+149-6	17997-17998	"	*[242]	Direct Quote[242]	
+149-7	17999-18005	actual	*[242]|*[243]	Direct Quote[242]|Focal Term[243]	
+149-8	18006-18015	knowledge	*[242]|*[243]	Direct Quote[242]|Focal Term[243]	
+149-9	18016-18017	"	*[242]	Direct Quote[242]	
+149-10	18018-18023	means	*	Metalinguistic Cue	
+149-11	18024-18028	what	_	_	
+149-12	18029-18031	it	_	_	
+149-13	18032-18036	says	_	_	
+149-14	18037-18038	,	_	_	
+149-15	18039-18043	then	_	_	
+149-16	18044-18047	the	_	_	
+149-17	18048-18056	original	_	_	
+149-18	18057-18064	version	_	_	
+149-19	18065-18067	of	_	_	
+149-20	18068-18069	§	*[244]	Legal Source[244]	
+149-21	18070-18076	1113(2	*[244]	Legal Source[244]	
+149-22	18077-18078	)	*[244]	Legal Source[244]	
+149-23	18079-18086	charged	_	_	
+149-24	18087-18091	plan	_	_	
+149-25	18092-18104	participants	_	_	
+149-26	18105-18109	with	_	_	
+149-27	18110-18118	learning	_	_	
+149-28	18119-18123	what	_	_	
+149-29	18124-18127	was	_	_	
+149-30	18128-18132	sent	_	_	
+149-31	18133-18135	to	_	_	
+149-32	18136-18139	the	_	_	
+149-33	18140-18149	Secretary	_	_	
+149-34	18150-18153	but	_	_	
+149-35	18154-18157	not	_	_	
+149-36	18158-18162	what	_	_	
+149-37	18163-18166	was	_	_	
+149-38	18167-18171	sent	_	_	
+149-39	18172-18174	to	_	_	
+149-40	18175-18179	them	_	_	
+149-41	18180-18181	.	_	_	
+
+#Text=The version at issue here , however , is the current one - from which Congress removed any mention of constructive knowledge .
+150-1	18182-18185	The	_	_	
+150-2	18186-18193	version	_	_	
+150-3	18194-18196	at	_	_	
+150-4	18197-18202	issue	_	_	
+150-5	18203-18207	here	_	_	
+150-6	18208-18209	,	_	_	
+150-7	18210-18217	however	_	_	
+150-8	18218-18219	,	_	_	
+150-9	18220-18222	is	_	_	
+150-10	18223-18226	the	_	_	
+150-11	18227-18234	current	_	_	
+150-12	18235-18238	one	_	_	
+150-13	18239-18240	-	_	_	
+150-14	18241-18245	from	_	_	
+150-15	18246-18251	which	_	_	
+150-16	18252-18260	Congress	_	_	
+150-17	18261-18268	removed	_	_	
+150-18	18269-18272	any	_	_	
+150-19	18273-18280	mention	_	_	
+150-20	18281-18283	of	_	_	
+150-21	18284-18296	constructive	_	_	
+150-22	18297-18306	knowledge	_	_	
+150-23	18307-18308	.	_	_	
+
+#Text="
+151-1	18309-18310	"	*	Direct Quote	
+
+#Text=When Congress acts to amend a statute , we presume it intends its amendment to have real and substantial effect . "
+152-1	18311-18315	When	*[245]	Direct Quote[245]	
+152-2	18316-18324	Congress	*[245]	Direct Quote[245]	
+152-3	18325-18329	acts	*[245]	Direct Quote[245]	
+152-4	18330-18332	to	*[245]	Direct Quote[245]	
+152-5	18333-18338	amend	*[245]	Direct Quote[245]	
+152-6	18339-18340	a	*[245]	Direct Quote[245]	
+152-7	18341-18348	statute	*[245]	Direct Quote[245]	
+152-8	18349-18350	,	*[245]	Direct Quote[245]	
+152-9	18351-18353	we	*[245]	Direct Quote[245]	
+152-10	18354-18361	presume	*[245]	Direct Quote[245]	
+152-11	18362-18364	it	*[245]	Direct Quote[245]	
+152-12	18365-18372	intends	*[245]	Direct Quote[245]	
+152-13	18373-18376	its	*[245]	Direct Quote[245]	
+152-14	18377-18386	amendment	*[245]	Direct Quote[245]	
+152-15	18387-18389	to	*[245]	Direct Quote[245]	
+152-16	18390-18394	have	*[245]	Direct Quote[245]	
+152-17	18395-18399	real	*[245]	Direct Quote[245]	
+152-18	18400-18403	and	*[245]	Direct Quote[245]	
+152-19	18404-18415	substantial	*[245]	Direct Quote[245]	
+152-20	18416-18422	effect	*[245]	Direct Quote[245]	
+152-21	18423-18424	.	*[245]	Direct Quote[245]	
+152-22	18425-18426	"	*[245]	Direct Quote[245]	
+
+#Text=Intel Corp. v. Advanced Micro Devices , Inc. , 542 U.S. 241 , 258 - 259 , 124 S.Ct . 2466 , 159 L.Ed.2d 355 ( 2004 ) ( internal quotation marks omitted ) .
+153-1	18427-18432	Intel	*[246]	Legal Source[246]	
+153-2	18433-18438	Corp.	*[246]	Legal Source[246]	
+153-3	18439-18441	v.	*[246]	Legal Source[246]	
+153-4	18442-18450	Advanced	*[246]	Legal Source[246]	
+153-5	18451-18456	Micro	*[246]	Legal Source[246]	
+153-6	18457-18464	Devices	*[246]	Legal Source[246]	
+153-7	18465-18466	,	*[246]	Legal Source[246]	
+153-8	18467-18471	Inc.	*[246]	Legal Source[246]	
+153-9	18472-18473	,	*[246]	Legal Source[246]	
+153-10	18474-18477	542	*[246]	Legal Source[246]	
+153-11	18478-18482	U.S.	*[246]	Legal Source[246]	
+153-12	18483-18486	241	*[246]	Legal Source[246]	
+153-13	18487-18488	,	*[246]	Legal Source[246]	
+153-14	18489-18492	258	*[246]	Legal Source[246]	
+153-15	18493-18494	-	*[246]	Legal Source[246]	
+153-16	18495-18498	259	*[246]	Legal Source[246]	
+153-17	18499-18500	,	*[246]	Legal Source[246]	
+153-18	18501-18504	124	*[246]	Legal Source[246]	
+153-19	18505-18509	S.Ct	*[246]	Legal Source[246]	
+153-20	18510-18511	.	*[246]	Legal Source[246]	
+153-21	18512-18516	2466	*[246]	Legal Source[246]	
+153-22	18517-18518	,	*[246]	Legal Source[246]	
+153-23	18519-18522	159	*[246]	Legal Source[246]	
+153-24	18523-18530	L.Ed.2d	*[246]	Legal Source[246]	
+153-25	18531-18534	355	*[246]	Legal Source[246]	
+153-26	18535-18536	(	*[246]	Legal Source[246]	
+153-27	18537-18541	2004	*[246]	Legal Source[246]	
+153-28	18542-18543	)	*[246]	Legal Source[246]	
+153-29	18544-18545	(	_	_	
+153-30	18546-18554	internal	_	_	
+153-31	18555-18564	quotation	_	_	
+153-32	18565-18570	marks	_	_	
+153-33	18571-18578	omitted	_	_	
+153-34	18579-18580	)	_	_	
+153-35	18581-18582	.	_	_	
+
+#Text=Section 1113(2 ) 's history thus more readily suggests that the current version does in fact require actual knowledge .
+154-1	18583-18590	Section	*[247]	Legal Source[247]	
+154-2	18591-18597	1113(2	*[247]	Legal Source[247]	
+154-3	18598-18599	)	*[247]	Legal Source[247]	
+154-4	18600-18602	's	_	_	
+154-5	18603-18610	history	_	_	
+154-6	18611-18615	thus	_	_	
+154-7	18616-18620	more	_	_	
+154-8	18621-18628	readily	_	_	
+154-9	18629-18637	suggests	_	_	
+154-10	18638-18642	that	_	_	
+154-11	18643-18646	the	_	_	
+154-12	18647-18654	current	_	_	
+154-13	18655-18662	version	_	_	
+154-14	18663-18667	does	_	_	
+154-15	18668-18670	in	_	_	
+154-16	18671-18675	fact	_	_	
+154-17	18676-18683	require	_	_	
+154-18	18684-18690	actual	_	_	
+154-19	18691-18700	knowledge	_	_	
+154-20	18701-18702	.	_	_	
+
+#Text=III
+155-1	18703-18706	III	_	_	
+
+#Text=Nothing in this opinion forecloses any of the " usual ways " to prove actual knowledge at any stage in the litigation .
+156-1	18707-18714	Nothing	_	_	
+156-2	18715-18717	in	_	_	
+156-3	18718-18722	this	_	_	
+156-4	18723-18730	opinion	_	_	
+156-5	18731-18741	forecloses	_	_	
+156-6	18742-18745	any	_	_	
+156-7	18746-18748	of	_	_	
+156-8	18749-18752	the	_	_	
+156-9	18753-18754	"	*[248]	Direct Quote[248]	
+156-10	18755-18760	usual	*[248]	Direct Quote[248]	
+156-11	18761-18765	ways	*[248]	Direct Quote[248]	
+156-12	18766-18767	"	*[248]	Direct Quote[248]	
+156-13	18768-18770	to	_	_	
+156-14	18771-18776	prove	_	_	
+156-15	18777-18783	actual	_	_	
+156-16	18784-18793	knowledge	_	_	
+156-17	18794-18796	at	_	_	
+156-18	18797-18800	any	_	_	
+156-19	18801-18806	stage	_	_	
+156-20	18807-18809	in	_	_	
+156-21	18810-18813	the	_	_	
+156-22	18814-18824	litigation	_	_	
+156-23	18825-18826	.	_	_	
+
+#Text=Farmer v. Brennan , 511 U.S. 825 , 842 , 114 S.Ct . 1970 , 128 L.Ed.2d 811 ( 1994 ) .
+157-1	18827-18833	Farmer	*[249]	Legal Source[249]	
+157-2	18834-18836	v.	*[249]	Legal Source[249]	
+157-3	18837-18844	Brennan	*[249]	Legal Source[249]	
+157-4	18845-18846	,	*[249]	Legal Source[249]	
+157-5	18847-18850	511	*[249]	Legal Source[249]	
+157-6	18851-18855	U.S.	*[249]	Legal Source[249]	
+157-7	18856-18859	825	*[249]	Legal Source[249]	
+157-8	18860-18861	,	*[249]	Legal Source[249]	
+157-9	18862-18865	842	*[249]	Legal Source[249]	
+157-10	18866-18867	,	*[249]	Legal Source[249]	
+157-11	18868-18871	114	*[249]	Legal Source[249]	
+157-12	18872-18876	S.Ct	*[249]	Legal Source[249]	
+157-13	18877-18878	.	*[249]	Legal Source[249]	
+157-14	18879-18883	1970	*[249]	Legal Source[249]	
+157-15	18884-18885	,	*[249]	Legal Source[249]	
+157-16	18886-18889	128	*[249]	Legal Source[249]	
+157-17	18890-18897	L.Ed.2d	*[249]	Legal Source[249]	
+157-18	18898-18901	811	*[249]	Legal Source[249]	
+157-19	18902-18903	(	*[249]	Legal Source[249]	
+157-20	18904-18908	1994	*[249]	Legal Source[249]	
+157-21	18909-18910	)	*[249]	Legal Source[249]	
+157-22	18911-18912	.	_	_	
+
+#Text=Plaintiffs who recall reading particular disclosures will of course be bound by oath to say so in their depositions .
+158-1	18913-18923	Plaintiffs	_	_	
+158-2	18924-18927	who	_	_	
+158-3	18928-18934	recall	_	_	
+158-4	18935-18942	reading	_	_	
+158-5	18943-18953	particular	_	_	
+158-6	18954-18965	disclosures	_	_	
+158-7	18966-18970	will	_	_	
+158-8	18971-18973	of	_	_	
+158-9	18974-18980	course	_	_	
+158-10	18981-18983	be	_	_	
+158-11	18984-18989	bound	_	_	
+158-12	18990-18992	by	_	_	
+158-13	18993-18997	oath	_	_	
+158-14	18998-19000	to	_	_	
+158-15	19001-19004	say	_	_	
+158-16	19005-19007	so	_	_	
+158-17	19008-19010	in	_	_	
+158-18	19011-19016	their	_	_	
+158-19	19017-19028	depositions	_	_	
+158-20	19029-19030	.	_	_	
+
+#Text=On top of that , actual knowledge can be proved through " inference from circumstantial evidence . "
+159-1	19031-19033	On	_	_	
+159-2	19034-19037	top	_	_	
+159-3	19038-19040	of	_	_	
+159-4	19041-19045	that	_	_	
+159-5	19046-19047	,	_	_	
+159-6	19048-19054	actual	_	_	
+159-7	19055-19064	knowledge	_	_	
+159-8	19065-19068	can	_	_	
+159-9	19069-19071	be	_	_	
+159-10	19072-19078	proved	_	_	
+159-11	19079-19086	through	_	_	
+159-12	19087-19088	"	*[250]	Direct Quote[250]	
+159-13	19089-19098	inference	*[250]	Direct Quote[250]	
+159-14	19099-19103	from	*[250]	Direct Quote[250]	
+159-15	19104-19118	circumstantial	*[250]	Direct Quote[250]	
+159-16	19119-19127	evidence	*[250]	Direct Quote[250]	
+159-17	19128-19129	.	*[250]	Direct Quote[250]	
+159-18	19130-19131	"	*[250]	Direct Quote[250]	
+
+#Text=Ibid . ; see also Staples v. United States , 511 U.S. 600 , 615 - 616 , n. 11 , 114 S.Ct . 1793 , 128 L.Ed.2d 608 ( 1994 ) ( " [ K]nowledge can be inferred from circumstantial evidence " ) .
+160-1	19132-19136	Ibid	*[251]	Legal Source[251]	
+160-2	19137-19138	.	*[251]	Legal Source[251]	
+160-3	19139-19140	;	_	_	
+160-4	19141-19144	see	_	_	
+160-5	19145-19149	also	_	_	
+160-6	19150-19157	Staples	*[252]	Legal Source[252]	
+160-7	19158-19160	v.	*[252]	Legal Source[252]	
+160-8	19161-19167	United	*[252]	Legal Source[252]	
+160-9	19168-19174	States	*[252]	Legal Source[252]	
+160-10	19175-19176	,	*[252]	Legal Source[252]	
+160-11	19177-19180	511	*[252]	Legal Source[252]	
+160-12	19181-19185	U.S.	*[252]	Legal Source[252]	
+160-13	19186-19189	600	*[252]	Legal Source[252]	
+160-14	19190-19191	,	*[252]	Legal Source[252]	
+160-15	19192-19195	615	*[252]	Legal Source[252]	
+160-16	19196-19197	-	*[252]	Legal Source[252]	
+160-17	19198-19201	616	*[252]	Legal Source[252]	
+160-18	19202-19203	,	*[252]	Legal Source[252]	
+160-19	19204-19206	n.	*[252]	Legal Source[252]	
+160-20	19207-19209	11	*[252]	Legal Source[252]	
+160-21	19210-19211	,	*[252]	Legal Source[252]	
+160-22	19212-19215	114	*[252]	Legal Source[252]	
+160-23	19216-19220	S.Ct	*[252]	Legal Source[252]	
+160-24	19221-19222	.	*[252]	Legal Source[252]	
+160-25	19223-19227	1793	*[252]	Legal Source[252]	
+160-26	19228-19229	,	*[252]	Legal Source[252]	
+160-27	19230-19233	128	*[252]	Legal Source[252]	
+160-28	19234-19241	L.Ed.2d	*[252]	Legal Source[252]	
+160-29	19242-19245	608	*[252]	Legal Source[252]	
+160-30	19246-19247	(	*[252]	Legal Source[252]	
+160-31	19248-19252	1994	*[252]	Legal Source[252]	
+160-32	19253-19254	)	*[252]	Legal Source[252]	
+160-33	19255-19256	(	_	_	
+160-34	19257-19258	"	*[253]	Direct Quote[253]	
+160-35	19259-19260	[	*[253]	Direct Quote[253]	
+160-36	19261-19271	K]nowledge	*[253]	Direct Quote[253]	
+160-37	19272-19275	can	*[253]	Direct Quote[253]	
+160-38	19276-19278	be	*[253]	Direct Quote[253]	
+160-39	19279-19287	inferred	*[253]	Direct Quote[253]	
+160-40	19288-19292	from	*[253]	Direct Quote[253]	
+160-41	19293-19307	circumstantial	*[253]	Direct Quote[253]	
+160-42	19308-19316	evidence	*[253]	Direct Quote[253]	
+160-43	19317-19318	"	*[253]	Direct Quote[253]	
+160-44	19319-19320	)	_	_	
+160-45	19321-19322	.	_	_	
+
+#Text=Evidence of disclosure would no doubt be relevant , as would electronic records showing that a plaintiff viewed the relevant disclosures and evidence suggesting that the plaintiff took action in response to the information contained in them .
+161-1	19323-19331	Evidence	_	_	
+161-2	19332-19334	of	_	_	
+161-3	19335-19345	disclosure	_	_	
+161-4	19346-19351	would	_	_	
+161-5	19352-19354	no	_	_	
+161-6	19355-19360	doubt	_	_	
+161-7	19361-19363	be	_	_	
+161-8	19364-19372	relevant	_	_	
+161-9	19373-19374	,	_	_	
+161-10	19375-19377	as	_	_	
+161-11	19378-19383	would	_	_	
+161-12	19384-19394	electronic	_	_	
+161-13	19395-19402	records	_	_	
+161-14	19403-19410	showing	_	_	
+161-15	19411-19415	that	_	_	
+161-16	19416-19417	a	_	_	
+161-17	19418-19427	plaintiff	_	_	
+161-18	19428-19434	viewed	_	_	
+161-19	19435-19438	the	_	_	
+161-20	19439-19447	relevant	_	_	
+161-21	19448-19459	disclosures	_	_	
+161-22	19460-19463	and	_	_	
+161-23	19464-19472	evidence	_	_	
+161-24	19473-19483	suggesting	_	_	
+161-25	19484-19488	that	_	_	
+161-26	19489-19492	the	_	_	
+161-27	19493-19502	plaintiff	_	_	
+161-28	19503-19507	took	_	_	
+161-29	19508-19514	action	_	_	
+161-30	19515-19517	in	_	_	
+161-31	19518-19526	response	_	_	
+161-32	19527-19529	to	_	_	
+161-33	19530-19533	the	_	_	
+161-34	19534-19545	information	_	_	
+161-35	19546-19555	contained	_	_	
+161-36	19556-19558	in	_	_	
+161-37	19559-19563	them	_	_	
+161-38	19564-19565	.	_	_	
+
+#Text=And though , " [ a]t the summary judgment stage , facts must be viewed in the light most favorable to the nonmoving party , " that is true " only if there is a ' genuine ' dispute as to those facts . "
+162-1	19566-19569	And	_	_	
+162-2	19570-19576	though	_	_	
+162-3	19577-19578	,	_	_	
+162-4	19579-19580	"	*[254]	Direct Quote[254]	
+162-5	19581-19582	[	*[254]	Direct Quote[254]	
+162-6	19583-19586	a]t	*[254]	Direct Quote[254]	
+162-7	19587-19590	the	*[254]	Direct Quote[254]	
+162-8	19591-19598	summary	*[254]	Direct Quote[254]	
+162-9	19599-19607	judgment	*[254]	Direct Quote[254]	
+162-10	19608-19613	stage	*[254]	Direct Quote[254]	
+162-11	19614-19615	,	*[254]	Direct Quote[254]	
+162-12	19616-19621	facts	*[254]	Direct Quote[254]	
+162-13	19622-19626	must	*[254]	Direct Quote[254]	
+162-14	19627-19629	be	*[254]	Direct Quote[254]	
+162-15	19630-19636	viewed	*[254]	Direct Quote[254]	
+162-16	19637-19639	in	*[254]	Direct Quote[254]	
+162-17	19640-19643	the	*[254]	Direct Quote[254]	
+162-18	19644-19649	light	*[254]	Direct Quote[254]	
+162-19	19650-19654	most	*[254]	Direct Quote[254]	
+162-20	19655-19664	favorable	*[254]	Direct Quote[254]	
+162-21	19665-19667	to	*[254]	Direct Quote[254]	
+162-22	19668-19671	the	*[254]	Direct Quote[254]	
+162-23	19672-19681	nonmoving	*[254]	Direct Quote[254]	
+162-24	19682-19687	party	*[254]	Direct Quote[254]	
+162-25	19688-19689	,	*[254]	Direct Quote[254]	
+162-26	19690-19691	"	*[254]	Direct Quote[254]	
+162-27	19692-19696	that	_	_	
+162-28	19697-19699	is	_	_	
+162-29	19700-19704	true	_	_	
+162-30	19705-19706	"	*[255]	Direct Quote[255]	
+162-31	19707-19711	only	*[255]	Direct Quote[255]	
+162-32	19712-19714	if	*[255]	Direct Quote[255]	
+162-33	19715-19720	there	*[255]	Direct Quote[255]	
+162-34	19721-19723	is	*[255]	Direct Quote[255]	
+162-35	19724-19725	a	*[255]	Direct Quote[255]	
+162-36	19726-19727	'	*[255]|*[256]	Direct Quote[255]|Direct Quote[256]	
+162-37	19728-19735	genuine	*[255]|*[256]	Direct Quote[255]|Direct Quote[256]	
+162-38	19736-19737	'	*[255]|*[256]	Direct Quote[255]|Direct Quote[256]	
+162-39	19738-19745	dispute	*[255]	Direct Quote[255]	
+162-40	19746-19748	as	*[255]	Direct Quote[255]	
+162-41	19749-19751	to	*[255]	Direct Quote[255]	
+162-42	19752-19757	those	*[255]	Direct Quote[255]	
+162-43	19758-19763	facts	*[255]	Direct Quote[255]	
+162-44	19764-19765	.	*[255]	Direct Quote[255]	
+162-45	19766-19767	"	*[255]	Direct Quote[255]	
+
+#Text=Scott v. Harris , 550 U.S. 372 , 380 , 127 S.Ct . 1769 , 167 L.Ed.2d 686 ( 2007 ) ( quoting Fed . Rule Civ . Proc . 56(c ) ) .
+163-1	19768-19773	Scott	*[257]	Legal Source[257]	
+163-2	19774-19776	v.	*[257]	Legal Source[257]	
+163-3	19777-19783	Harris	*[257]	Legal Source[257]	
+163-4	19784-19785	,	*[257]	Legal Source[257]	
+163-5	19786-19789	550	*[257]	Legal Source[257]	
+163-6	19790-19794	U.S.	*[257]	Legal Source[257]	
+163-7	19795-19798	372	*[257]	Legal Source[257]	
+163-8	19799-19800	,	*[257]	Legal Source[257]	
+163-9	19801-19804	380	*[257]	Legal Source[257]	
+163-10	19805-19806	,	*[257]	Legal Source[257]	
+163-11	19807-19810	127	*[257]	Legal Source[257]	
+163-12	19811-19815	S.Ct	*[257]	Legal Source[257]	
+163-13	19816-19817	.	*[257]	Legal Source[257]	
+163-14	19818-19822	1769	*[257]	Legal Source[257]	
+163-15	19823-19824	,	*[257]	Legal Source[257]	
+163-16	19825-19828	167	*[257]	Legal Source[257]	
+163-17	19829-19836	L.Ed.2d	*[257]	Legal Source[257]	
+163-18	19837-19840	686	*[257]	Legal Source[257]	
+163-19	19841-19842	(	*[257]	Legal Source[257]	
+163-20	19843-19847	2007	*[257]	Legal Source[257]	
+163-21	19848-19849	)	*[257]	Legal Source[257]	
+163-22	19850-19851	(	_	_	
+163-23	19852-19859	quoting	_	_	
+163-24	19860-19863	Fed	_	_	
+163-25	19864-19865	.	_	_	
+163-26	19866-19870	Rule	_	_	
+163-27	19871-19874	Civ	_	_	
+163-28	19875-19876	.	_	_	
+163-29	19877-19881	Proc	_	_	
+163-30	19882-19883	.	_	_	
+163-31	19884-19888	56(c	_	_	
+163-32	19889-19890	)	_	_	
+163-33	19891-19892	)	_	_	
+163-34	19893-19894	.	_	_	
+
+#Text=If a plaintiff 's denial of knowledge is " blatantly contradicted by the record , " " a court should not adopt that version of the facts for purposes of ruling on a motion for summary judgment . "
+164-1	19895-19897	If	_	_	
+164-2	19898-19899	a	_	_	
+164-3	19900-19909	plaintiff	_	_	
+164-4	19910-19912	's	_	_	
+164-5	19913-19919	denial	_	_	
+164-6	19920-19922	of	_	_	
+164-7	19923-19932	knowledge	_	_	
+164-8	19933-19935	is	_	_	
+164-9	19936-19937	"	*[258]	Direct Quote[258]	
+164-10	19938-19947	blatantly	*[258]	Direct Quote[258]	
+164-11	19948-19960	contradicted	*[258]	Direct Quote[258]	
+164-12	19961-19963	by	*[258]	Direct Quote[258]	
+164-13	19964-19967	the	*[258]	Direct Quote[258]	
+164-14	19968-19974	record	*[258]	Direct Quote[258]	
+164-15	19975-19976	,	*[258]	Direct Quote[258]	
+164-16	19977-19978	"	*[258]	Direct Quote[258]	
+164-17	19979-19980	"	*[259]	Direct Quote[259]	
+164-18	19981-19982	a	*[259]	Direct Quote[259]	
+164-19	19983-19988	court	*[259]	Direct Quote[259]	
+164-20	19989-19995	should	*[259]	Direct Quote[259]	
+164-21	19996-19999	not	*[259]	Direct Quote[259]	
+164-22	20000-20005	adopt	*[259]	Direct Quote[259]	
+164-23	20006-20010	that	*[259]	Direct Quote[259]	
+164-24	20011-20018	version	*[259]	Direct Quote[259]	
+164-25	20019-20021	of	*[259]	Direct Quote[259]	
+164-26	20022-20025	the	*[259]	Direct Quote[259]	
+164-27	20026-20031	facts	*[259]	Direct Quote[259]	
+164-28	20032-20035	for	*[259]	Direct Quote[259]	
+164-29	20036-20044	purposes	*[259]	Direct Quote[259]	
+164-30	20045-20047	of	*[259]	Direct Quote[259]	
+164-31	20048-20054	ruling	*[259]	Direct Quote[259]	
+164-32	20055-20057	on	*[259]	Direct Quote[259]	
+164-33	20058-20059	a	*[259]	Direct Quote[259]	
+164-34	20060-20066	motion	*[259]	Direct Quote[259]	
+164-35	20067-20070	for	*[259]	Direct Quote[259]	
+164-36	20071-20078	summary	*[259]	Direct Quote[259]	
+164-37	20079-20087	judgment	*[259]	Direct Quote[259]	
+164-38	20088-20089	.	*[259]	Direct Quote[259]	
+164-39	20090-20091	"	*[259]	Direct Quote[259]	
+
+#Text=550 U.S. at 380 , 127 S.Ct . 1769 .
+165-1	20092-20095	550	*[260]	Legal Source[260]	
+165-2	20096-20100	U.S.	*[260]	Legal Source[260]	
+165-3	20101-20103	at	*[260]	Legal Source[260]	
+165-4	20104-20107	380	*[260]	Legal Source[260]	
+165-5	20108-20109	,	*[260]	Legal Source[260]	
+165-6	20110-20113	127	*[260]	Legal Source[260]	
+165-7	20114-20118	S.Ct	*[260]	Legal Source[260]	
+165-8	20119-20120	.	*[260]	Legal Source[260]	
+165-9	20121-20125	1769	*[260]	Legal Source[260]	
+165-10	20126-20127	.	_	_	
+
+#Text=Today 's opinion also does not preclude defendants from contending that evidence of " willful blindness " supports a finding of " actual knowledge . "
+166-1	20128-20133	Today	_	_	
+166-2	20134-20136	's	_	_	
+166-3	20137-20144	opinion	_	_	
+166-4	20145-20149	also	_	_	
+166-5	20150-20154	does	_	_	
+166-6	20155-20158	not	_	_	
+166-7	20159-20167	preclude	_	_	
+166-8	20168-20178	defendants	_	_	
+166-9	20179-20183	from	_	_	
+166-10	20184-20194	contending	_	_	
+166-11	20195-20199	that	_	_	
+166-12	20200-20208	evidence	_	_	
+166-13	20209-20211	of	_	_	
+166-14	20212-20213	"	*[261]	Direct Quote[261]	
+166-15	20214-20221	willful	*[261]	Direct Quote[261]	
+166-16	20222-20231	blindness	*[261]	Direct Quote[261]	
+166-17	20232-20233	"	*[261]	Direct Quote[261]	
+166-18	20234-20242	supports	_	_	
+166-19	20243-20244	a	_	_	
+166-20	20245-20252	finding	_	_	
+166-21	20253-20255	of	_	_	
+166-22	20256-20257	"	*[262]	Direct Quote[262]	
+166-23	20258-20264	actual	*[262]	Direct Quote[262]	
+166-24	20265-20274	knowledge	*[262]	Direct Quote[262]	
+166-25	20275-20276	.	*[262]	Direct Quote[262]	
+166-26	20277-20278	"	*[262]	Direct Quote[262]	
+
+#Text=Cf . Global - Tech Appliances , Inc. v. SEB S. A. , 563 U.S. 754 , 769 , 131 S.Ct . 2060 , 179 L.Ed.2d 1167 ( 2011 ) .
+167-1	20279-20281	Cf	_	_	
+167-2	20282-20283	.	_	_	
+167-3	20284-20290	Global	*[263]	Legal Source[263]	
+167-4	20291-20292	-	*[263]	Legal Source[263]	
+167-5	20293-20297	Tech	*[263]	Legal Source[263]	
+167-6	20298-20308	Appliances	*[263]	Legal Source[263]	
+167-7	20309-20310	,	*[263]	Legal Source[263]	
+167-8	20311-20315	Inc.	*[263]	Legal Source[263]	
+167-9	20316-20318	v.	*[263]	Legal Source[263]	
+167-10	20319-20322	SEB	*[263]	Legal Source[263]	
+167-11	20323-20325	S.	*[263]	Legal Source[263]	
+167-12	20326-20328	A.	*[263]	Legal Source[263]	
+167-13	20329-20330	,	*[263]	Legal Source[263]	
+167-14	20331-20334	563	*[263]	Legal Source[263]	
+167-15	20335-20339	U.S.	*[263]	Legal Source[263]	
+167-16	20340-20343	754	*[263]	Legal Source[263]	
+167-17	20344-20345	,	*[263]	Legal Source[263]	
+167-18	20346-20349	769	*[263]	Legal Source[263]	
+167-19	20350-20351	,	*[263]	Legal Source[263]	
+167-20	20352-20355	131	*[263]	Legal Source[263]	
+167-21	20356-20360	S.Ct	*[263]	Legal Source[263]	
+167-22	20361-20362	.	*[263]	Legal Source[263]	
+167-23	20363-20367	2060	*[263]	Legal Source[263]	
+167-24	20368-20369	,	*[263]	Legal Source[263]	
+167-25	20370-20373	179	*[263]	Legal Source[263]	
+167-26	20374-20381	L.Ed.2d	*[263]	Legal Source[263]	
+167-27	20382-20386	1167	*[263]	Legal Source[263]	
+167-28	20387-20388	(	*[263]	Legal Source[263]	
+167-29	20389-20393	2011	*[263]	Legal Source[263]	
+167-30	20394-20395	)	*[263]	Legal Source[263]	
+167-31	20396-20397	.	_	_	
+
+#Text=In the case before us , however , petitioners do not argue that " actual knowledge " is established in any of these ways , only that they need not offer any such proof .
+168-1	20398-20400	In	_	_	
+168-2	20401-20404	the	_	_	
+168-3	20405-20409	case	_	_	
+168-4	20410-20416	before	_	_	
+168-5	20417-20419	us	_	_	
+168-6	20420-20421	,	_	_	
+168-7	20422-20429	however	_	_	
+168-8	20430-20431	,	_	_	
+168-9	20432-20443	petitioners	_	_	
+168-10	20444-20446	do	_	_	
+168-11	20447-20450	not	_	_	
+168-12	20451-20456	argue	_	_	
+168-13	20457-20461	that	_	_	
+168-14	20462-20463	"	*[264]	Direct Quote[264]	
+168-15	20464-20470	actual	*[264]	Direct Quote[264]	
+168-16	20471-20480	knowledge	*[264]	Direct Quote[264]	
+168-17	20481-20482	"	*[264]	Direct Quote[264]	
+168-18	20483-20485	is	_	_	
+168-19	20486-20497	established	_	_	
+168-20	20498-20500	in	_	_	
+168-21	20501-20504	any	_	_	
+168-22	20505-20507	of	_	_	
+168-23	20508-20513	these	_	_	
+168-24	20514-20518	ways	_	_	
+168-25	20519-20520	,	_	_	
+168-26	20521-20525	only	_	_	
+168-27	20526-20530	that	_	_	
+168-28	20531-20535	they	_	_	
+168-29	20536-20540	need	_	_	
+168-30	20541-20544	not	_	_	
+168-31	20545-20550	offer	_	_	
+168-32	20551-20554	any	_	_	
+168-33	20555-20559	such	_	_	
+168-34	20560-20565	proof	_	_	
+168-35	20566-20567	.	_	_	
+
+#Text=And that is incorrect .
+169-1	20568-20571	And	_	_	
+169-2	20572-20576	that	_	_	
+169-3	20577-20579	is	_	_	
+169-4	20580-20589	incorrect	_	_	
+169-5	20590-20591	.	_	_	
+
+#Text=* * *
+170-1	20592-20593	*	_	_	
+170-2	20594-20595	*	_	_	
+170-3	20596-20597	*	_	_	
+
+#Text=For these reasons , we affirm .
+171-1	20598-20601	For	_	_	
+171-2	20602-20607	these	_	_	
+171-3	20608-20615	reasons	_	_	
+171-4	20616-20617	,	_	_	
+171-5	20618-20620	we	_	_	
+171-6	20621-20627	affirm	_	_	
+171-7	20628-20629	.	_	_	
+
+#Text=It is so ordered .
+172-1	20630-20632	It	_	_	
+172-2	20633-20635	is	_	_	
+172-3	20636-20638	so	_	_	
+172-4	20639-20646	ordered	_	_	
+172-5	20647-20648	.	_	_	

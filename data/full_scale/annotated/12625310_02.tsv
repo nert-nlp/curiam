@@ -1,0 +1,2664 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice THOMAS , dissenting .
+1-1	0-7	Justice	_	_	
+1-2	8-14	THOMAS	_	_	
+1-3	15-16	,	_	_	
+1-4	17-27	dissenting	_	_	
+1-5	28-29	.	_	_	
+
+#Text=Until now , the rule for pleading a claim under a federal antidiscrimination statute was clear : A plaintiff had to plausibly allege that discrimination was the but - for cause of an adverse action , unless the statute 's text unequivocally replaced that standard with a different one .
+2-1	30-35	Until	_	_	
+2-2	36-39	now	_	_	
+2-3	40-41	,	_	_	
+2-4	42-45	the	_	_	
+2-5	46-50	rule	_	_	
+2-6	51-54	for	_	_	
+2-7	55-63	pleading	_	_	
+2-8	64-65	a	_	_	
+2-9	66-71	claim	_	_	
+2-10	72-77	under	_	_	
+2-11	78-79	a	_	_	
+2-12	80-87	federal	_	_	
+2-13	88-106	antidiscrimination	_	_	
+2-14	107-114	statute	_	_	
+2-15	115-118	was	_	_	
+2-16	119-124	clear	_	_	
+2-17	125-126	:	_	_	
+2-18	127-128	A	_	_	
+2-19	129-138	plaintiff	_	_	
+2-20	139-142	had	_	_	
+2-21	143-145	to	_	_	
+2-22	146-155	plausibly	_	_	
+2-23	156-162	allege	_	_	
+2-24	163-167	that	_	_	
+2-25	168-182	discrimination	_	_	
+2-26	183-186	was	_	_	
+2-27	187-190	the	_	_	
+2-28	191-194	but	*[1]	Focal Term[1]	
+2-29	195-196	-	*[1]	Focal Term[1]	
+2-30	197-200	for	*[1]	Focal Term[1]	
+2-31	201-206	cause	*[1]	Focal Term[1]	
+2-32	207-209	of	_	_	
+2-33	210-212	an	_	_	
+2-34	213-220	adverse	_	_	
+2-35	221-227	action	_	_	
+2-36	228-229	,	_	_	
+2-37	230-236	unless	_	_	
+2-38	237-240	the	_	_	
+2-39	241-248	statute	_	_	
+2-40	249-251	's	_	_	
+2-41	252-256	text	*	Metalinguistic Cue	
+2-42	257-270	unequivocally	*	Metalinguistic Cue	
+2-43	271-279	replaced	_	_	
+2-44	280-284	that	_	_	
+2-45	285-293	standard	_	_	
+2-46	294-298	with	_	_	
+2-47	299-300	a	_	_	
+2-48	301-310	different	_	_	
+2-49	311-314	one	_	_	
+2-50	315-316	.	_	_	
+
+#Text=Today , however , the Court departs from this rule , concluding that the federal - sector provision of the Age Discrimination in Employment Act of 1967 ( ADEA ) imposes liability if an agency 's personnel actions are at all tainted by considerations of age .
+3-1	317-322	Today	_	_	
+3-2	323-324	,	_	_	
+3-3	325-332	however	_	_	
+3-4	333-334	,	_	_	
+3-5	335-338	the	_	_	
+3-6	339-344	Court	_	_	
+3-7	345-352	departs	_	_	
+3-8	353-357	from	_	_	
+3-9	358-362	this	_	_	
+3-10	363-367	rule	_	_	
+3-11	368-369	,	_	_	
+3-12	370-380	concluding	_	_	
+3-13	381-385	that	_	_	
+3-14	386-389	the	_	_	
+3-15	390-397	federal	_	_	
+3-16	398-399	-	_	_	
+3-17	400-406	sector	_	_	
+3-18	407-416	provision	_	_	
+3-19	417-419	of	_	_	
+3-20	420-423	the	_	_	
+3-21	424-427	Age	*[2]	Legal Source[2]	
+3-22	428-442	Discrimination	*[2]	Legal Source[2]	
+3-23	443-445	in	*[2]	Legal Source[2]	
+3-24	446-456	Employment	*[2]	Legal Source[2]	
+3-25	457-460	Act	*[2]	Legal Source[2]	
+3-26	461-463	of	*[2]	Legal Source[2]	
+3-27	464-468	1967	*[2]	Legal Source[2]	
+3-28	469-470	(	*[2]	Legal Source[2]	
+3-29	471-475	ADEA	*[2]	Legal Source[2]	
+3-30	476-477	)	*[2]	Legal Source[2]	
+3-31	478-485	imposes	_	_	
+3-32	486-495	liability	_	_	
+3-33	496-498	if	_	_	
+3-34	499-501	an	_	_	
+3-35	502-508	agency	_	_	
+3-36	509-511	's	_	_	
+3-37	512-521	personnel	_	_	
+3-38	522-529	actions	_	_	
+3-39	530-533	are	_	_	
+3-40	534-536	at	_	_	
+3-41	537-540	all	_	_	
+3-42	541-548	tainted	_	_	
+3-43	549-551	by	_	_	
+3-44	552-566	considerations	_	_	
+3-45	567-569	of	_	_	
+3-46	570-573	age	_	_	
+3-47	574-575	.	_	_	
+
+#Text=See   ante , at 1171 .
+4-1	576-579	See	_	_	
+4-2	582-586	ante	*[3]	Legal Source[3]	
+4-3	587-588	,	*[3]	Legal Source[3]	
+4-4	589-591	at	*[3]	Legal Source[3]	
+4-5	592-596	1171	*[3]	Legal Source[3]	
+4-6	597-598	.	_	_	
+
+#Text=This rule is so broad that a plaintiff could bring a cause of action even if he is ultimately promoted or hired over a younger applicant .
+5-1	599-603	This	_	_	
+5-2	604-608	rule	_	_	
+5-3	609-611	is	_	_	
+5-4	612-614	so	_	_	
+5-5	615-620	broad	_	_	
+5-6	621-625	that	_	_	
+5-7	626-627	a	_	_	
+5-8	628-637	plaintiff	_	_	
+5-9	638-643	could	_	_	
+5-10	644-649	bring	_	_	
+5-11	650-651	a	_	_	
+5-12	652-657	cause	_	_	
+5-13	658-660	of	_	_	
+5-14	661-667	action	_	_	
+5-15	668-672	even	_	_	
+5-16	673-675	if	_	_	
+5-17	676-678	he	_	_	
+5-18	679-681	is	_	_	
+5-19	682-692	ultimately	_	_	
+5-20	693-701	promoted	_	_	
+5-21	702-704	or	_	_	
+5-22	705-710	hired	_	_	
+5-23	711-715	over	_	_	
+5-24	716-717	a	_	_	
+5-25	718-725	younger	_	_	
+5-26	726-735	applicant	_	_	
+5-27	736-737	.	_	_	
+
+#Text=This novel " any consideration " standard does serious damage to our interpretation of antidiscrimination statutes and disrupts the settled expectations of federal employers and employees .
+6-1	738-742	This	_	_	
+6-2	743-748	novel	_	_	
+6-3	749-750	"	_	_	
+6-4	751-754	any	_	_	
+6-5	755-768	consideration	_	_	
+6-6	769-770	"	_	_	
+6-7	771-779	standard	_	_	
+6-8	780-784	does	_	_	
+6-9	785-792	serious	_	_	
+6-10	793-799	damage	_	_	
+6-11	800-802	to	_	_	
+6-12	803-806	our	_	_	
+6-13	807-821	interpretation	*	Metalinguistic Cue	
+6-14	822-824	of	_	_	
+6-15	825-843	antidiscrimination	_	_	
+6-16	844-852	statutes	_	_	
+6-17	853-856	and	_	_	
+6-18	857-865	disrupts	_	_	
+6-19	866-869	the	_	_	
+6-20	870-877	settled	_	_	
+6-21	878-890	expectations	_	_	
+6-22	891-893	of	_	_	
+6-23	894-901	federal	_	_	
+6-24	902-911	employers	_	_	
+6-25	912-915	and	_	_	
+6-26	916-925	employees	_	_	
+6-27	926-927	.	_	_	
+
+#Text=I therefore respectfully dissent .
+7-1	928-929	I	_	_	
+7-2	930-939	therefore	_	_	
+7-3	940-952	respectfully	_	_	
+7-4	953-960	dissent	_	_	
+7-5	961-962	.	_	_	
+
+#Text=I
+8-1	963-964	I	_	_	
+
+#Text=A
+9-1	965-966	A	_	_	
+
+#Text=In my view , the default rule of but - for causation applies here because it is not clearly displaced by the text of the ADEA 's federal - sector provision .
+10-1	967-969	In	_	_	
+10-2	970-972	my	_	_	
+10-3	973-977	view	_	_	
+10-4	978-979	,	_	_	
+10-5	980-983	the	_	_	
+10-6	984-991	default	_	_	
+10-7	992-996	rule	_	_	
+10-8	997-999	of	_	_	
+10-9	1000-1003	but	*[4]	Focal Term[4]	
+10-10	1004-1005	-	*[4]	Focal Term[4]	
+10-11	1006-1009	for	*[4]	Focal Term[4]	
+10-12	1010-1019	causation	*[4]	Focal Term[4]	
+10-13	1020-1027	applies	_	_	
+10-14	1028-1032	here	_	_	
+10-15	1033-1040	because	_	_	
+10-16	1041-1043	it	_	_	
+10-17	1044-1046	is	_	_	
+10-18	1047-1050	not	_	_	
+10-19	1051-1058	clearly	_	_	
+10-20	1059-1068	displaced	_	_	
+10-21	1069-1071	by	_	_	
+10-22	1072-1075	the	_	_	
+10-23	1076-1080	text	*	Metalinguistic Cue	
+10-24	1081-1083	of	_	_	
+10-25	1084-1087	the	_	_	
+10-26	1088-1092	ADEA	*	Legal Source	
+10-27	1093-1095	's	_	_	
+10-28	1096-1103	federal	_	_	
+10-29	1104-1105	-	_	_	
+10-30	1106-1112	sector	_	_	
+10-31	1113-1122	provision	_	_	
+10-32	1123-1124	.	_	_	
+
+#Text=Though the Court engages at length with the provision 's text , it barely acknowledges our default rule , which undergirds our antidiscrimination jurisprudence .
+11-1	1125-1131	Though	_	_	
+11-2	1132-1135	the	_	_	
+11-3	1136-1141	Court	_	_	
+11-4	1142-1149	engages	_	_	
+11-5	1150-1152	at	_	_	
+11-6	1153-1159	length	_	_	
+11-7	1160-1164	with	_	_	
+11-8	1165-1168	the	_	_	
+11-9	1169-1178	provision	_	_	
+11-10	1179-1181	's	_	_	
+11-11	1182-1186	text	*	Metalinguistic Cue	
+11-12	1187-1188	,	_	_	
+11-13	1189-1191	it	_	_	
+11-14	1192-1198	barely	_	_	
+11-15	1199-1211	acknowledges	_	_	
+11-16	1212-1215	our	_	_	
+11-17	1216-1223	default	_	_	
+11-18	1224-1228	rule	_	_	
+11-19	1229-1230	,	_	_	
+11-20	1231-1236	which	_	_	
+11-21	1237-1247	undergirds	_	_	
+11-22	1248-1251	our	_	_	
+11-23	1252-1270	antidiscrimination	_	_	
+11-24	1271-1284	jurisprudence	_	_	
+11-25	1285-1286	.	_	_	
+
+#Text=Because the interpretation of an antidiscrimination statute must be assessed against the backdrop of this default rule , I begin by describing the rule in detail .
+12-1	1287-1294	Because	_	_	
+12-2	1295-1298	the	_	_	
+12-3	1299-1313	interpretation	*	Metalinguistic Cue	
+12-4	1314-1316	of	_	_	
+12-5	1317-1319	an	_	_	
+12-6	1320-1338	antidiscrimination	_	_	
+12-7	1339-1346	statute	_	_	
+12-8	1347-1351	must	_	_	
+12-9	1352-1354	be	_	_	
+12-10	1355-1363	assessed	_	_	
+12-11	1364-1371	against	_	_	
+12-12	1372-1375	the	_	_	
+12-13	1376-1384	backdrop	_	_	
+12-14	1385-1387	of	_	_	
+12-15	1388-1392	this	_	_	
+12-16	1393-1400	default	_	_	
+12-17	1401-1405	rule	_	_	
+12-18	1406-1407	,	_	_	
+12-19	1408-1409	I	_	_	
+12-20	1410-1415	begin	_	_	
+12-21	1416-1418	by	_	_	
+12-22	1419-1429	describing	_	_	
+12-23	1430-1433	the	_	_	
+12-24	1434-1438	rule	_	_	
+12-25	1439-1441	in	_	_	
+12-26	1442-1448	detail	_	_	
+12-27	1449-1450	.	_	_	
+
+#Text=We have explained that " [ c]ausation in fact-   i.e. , proof that the defendant 's conduct did in fact cause the plaintiff 's injury - is a standard requirement of any tort claim , " including claims of discrimination .
+13-1	1451-1453	We	_	_	
+13-2	1454-1458	have	_	_	
+13-3	1459-1468	explained	_	_	
+13-4	1469-1473	that	_	_	
+13-5	1474-1475	"	*[5]	Direct Quote[5]	
+13-6	1476-1477	[	*[5]|*[6]	Direct Quote[5]|Focal Term[6]	
+13-7	1478-1488	c]ausation	*[5]|*[6]	Direct Quote[5]|Focal Term[6]	
+13-8	1489-1491	in	*[5]|*[6]	Direct Quote[5]|Focal Term[6]	
+13-9	1492-1497	fact-	*[5]|*[6]	Direct Quote[5]|Focal Term[6]	
+13-10	1500-1504	i.e.	*[5]	Direct Quote[5]	
+13-11	1505-1506	,	*[5]	Direct Quote[5]	
+13-12	1507-1512	proof	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-13	1513-1517	that	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-14	1518-1521	the	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-15	1522-1531	defendant	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-16	1532-1534	's	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-17	1535-1542	conduct	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-18	1543-1546	did	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-19	1547-1549	in	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-20	1550-1554	fact	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-21	1555-1560	cause	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-22	1561-1564	the	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-23	1565-1574	plaintiff	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-24	1575-1577	's	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-25	1578-1584	injury	*[5]|*[7]	Direct Quote[5]|Definition[7]	
+13-26	1585-1586	-	*[5]	Direct Quote[5]	
+13-27	1587-1589	is	*[5]	Direct Quote[5]	
+13-28	1590-1591	a	*[5]	Direct Quote[5]	
+13-29	1592-1600	standard	*[5]	Direct Quote[5]	
+13-30	1601-1612	requirement	*[5]	Direct Quote[5]	
+13-31	1613-1615	of	*[5]	Direct Quote[5]	
+13-32	1616-1619	any	*[5]	Direct Quote[5]	
+13-33	1620-1624	tort	*[5]	Direct Quote[5]	
+13-34	1625-1630	claim	*[5]	Direct Quote[5]	
+13-35	1631-1632	,	*[5]	Direct Quote[5]	
+13-36	1633-1634	"	*[5]	Direct Quote[5]	
+13-37	1635-1644	including	_	_	
+13-38	1645-1651	claims	_	_	
+13-39	1652-1654	of	_	_	
+13-40	1655-1669	discrimination	_	_	
+13-41	1670-1671	.	_	_	
+
+#Text=University of Tex . Southwestern Medical Center v. Nassar , 570 U.S. 338 , 346 , 133 S.Ct . 2517 , 186 L.Ed.2d 503 ( 2013 ) ( quoting various provisions of the Restatement of Torts ( 1934 ) ) .
+14-1	1674-1684	University	*[8]	Legal Source[8]	
+14-2	1685-1687	of	*[8]	Legal Source[8]	
+14-3	1688-1691	Tex	*[8]	Legal Source[8]	
+14-4	1692-1693	.	*[8]	Legal Source[8]	
+14-5	1694-1706	Southwestern	*[8]	Legal Source[8]	
+14-6	1707-1714	Medical	*[8]	Legal Source[8]	
+14-7	1715-1721	Center	*[8]	Legal Source[8]	
+14-8	1722-1724	v.	*[8]	Legal Source[8]	
+14-9	1725-1731	Nassar	*[8]	Legal Source[8]	
+14-10	1732-1733	,	*[8]	Legal Source[8]	
+14-11	1734-1737	570	*[8]	Legal Source[8]	
+14-12	1738-1742	U.S.	*[8]	Legal Source[8]	
+14-13	1743-1746	338	*[8]	Legal Source[8]	
+14-14	1747-1748	,	*[8]	Legal Source[8]	
+14-15	1749-1752	346	*[8]	Legal Source[8]	
+14-16	1753-1754	,	*[8]	Legal Source[8]	
+14-17	1755-1758	133	*[8]	Legal Source[8]	
+14-18	1759-1763	S.Ct	*[8]	Legal Source[8]	
+14-19	1764-1765	.	*[8]	Legal Source[8]	
+14-20	1766-1770	2517	*[8]	Legal Source[8]	
+14-21	1771-1772	,	*[8]	Legal Source[8]	
+14-22	1773-1776	186	*[8]	Legal Source[8]	
+14-23	1777-1784	L.Ed.2d	*[8]	Legal Source[8]	
+14-24	1785-1788	503	*[8]	Legal Source[8]	
+14-25	1789-1790	(	*[8]	Legal Source[8]	
+14-26	1791-1795	2013	*[8]	Legal Source[8]	
+14-27	1796-1797	)	*[8]	Legal Source[8]	
+14-28	1798-1799	(	_	_	
+14-29	1800-1807	quoting	_	_	
+14-30	1808-1815	various	_	_	
+14-31	1816-1826	provisions	_	_	
+14-32	1827-1829	of	_	_	
+14-33	1830-1833	the	_	_	
+14-34	1834-1845	Restatement	*[9]	Legal Source[9]	
+14-35	1846-1848	of	*[9]	Legal Source[9]	
+14-36	1849-1854	Torts	*[9]	Legal Source[9]	
+14-37	1855-1856	(	*[9]	Legal Source[9]	
+14-38	1857-1861	1934	*[9]	Legal Source[9]	
+14-39	1862-1863	)	*[9]	Legal Source[9]	
+14-40	1864-1865	)	_	_	
+14-41	1866-1867	.	_	_	
+
+#Text=" In the usual course , this standard requires the plaintiff to show that the harm would not have occurred in the absence of - that is , but for - the defendant 's conduct . "
+15-1	1868-1869	"	*[10]	Direct Quote[10]	
+15-2	1870-1872	In	*[10]	Direct Quote[10]	
+15-3	1873-1876	the	*[10]	Direct Quote[10]	
+15-4	1877-1882	usual	*[10]	Direct Quote[10]	
+15-5	1883-1889	course	*[10]	Direct Quote[10]	
+15-6	1890-1891	,	*[10]	Direct Quote[10]	
+15-7	1892-1896	this	*[10]	Direct Quote[10]	
+15-8	1897-1905	standard	*[10]	Direct Quote[10]	
+15-9	1906-1914	requires	*[10]	Direct Quote[10]	
+15-10	1915-1918	the	*[10]	Direct Quote[10]	
+15-11	1919-1928	plaintiff	*[10]	Direct Quote[10]	
+15-12	1929-1931	to	*[10]	Direct Quote[10]	
+15-13	1932-1936	show	*[10]	Direct Quote[10]	
+15-14	1937-1941	that	*[10]	Direct Quote[10]	
+15-15	1942-1945	the	*[10]	Direct Quote[10]	
+15-16	1946-1950	harm	*[10]	Direct Quote[10]	
+15-17	1951-1956	would	*[10]	Direct Quote[10]	
+15-18	1957-1960	not	*[10]	Direct Quote[10]	
+15-19	1961-1965	have	*[10]	Direct Quote[10]	
+15-20	1966-1974	occurred	*[10]	Direct Quote[10]	
+15-21	1975-1977	in	*[10]	Direct Quote[10]	
+15-22	1978-1981	the	*[10]	Direct Quote[10]	
+15-23	1982-1989	absence	*[10]	Direct Quote[10]	
+15-24	1990-1992	of	*[10]	Direct Quote[10]	
+15-25	1993-1994	-	*[10]	Direct Quote[10]	
+15-26	1995-1999	that	*[10]	Direct Quote[10]	
+15-27	2000-2002	is	*[10]	Direct Quote[10]	
+15-28	2003-2004	,	*[10]	Direct Quote[10]	
+15-29	2005-2008	but	*[10]	Direct Quote[10]	
+15-30	2009-2012	for	*[10]	Direct Quote[10]	
+15-31	2013-2014	-	*[10]	Direct Quote[10]	
+15-32	2015-2018	the	*[10]	Direct Quote[10]	
+15-33	2019-2028	defendant	*[10]	Direct Quote[10]	
+15-34	2029-2031	's	*[10]	Direct Quote[10]	
+15-35	2032-2039	conduct	*[10]	Direct Quote[10]	
+15-36	2040-2041	.	*[10]	Direct Quote[10]	
+15-37	2042-2043	"	*[10]	Direct Quote[10]	
+
+#Text=Id. , at 346 - 347 , 133 S.Ct . 2517 ( internal quotation marks omitted ) .
+16-1	2044-2047	Id.	*[11]	Legal Source[11]	
+16-2	2048-2049	,	*[11]	Legal Source[11]	
+16-3	2050-2052	at	*[11]	Legal Source[11]	
+16-4	2053-2056	346	*[11]	Legal Source[11]	
+16-5	2057-2058	-	*[11]	Legal Source[11]	
+16-6	2059-2062	347	*[11]	Legal Source[11]	
+16-7	2063-2064	,	*[11]	Legal Source[11]	
+16-8	2065-2068	133	*[11]	Legal Source[11]	
+16-9	2069-2073	S.Ct	*[11]	Legal Source[11]	
+16-10	2074-2075	.	*[11]	Legal Source[11]	
+16-11	2076-2080	2517	*[11]	Legal Source[11]	
+16-12	2081-2082	(	_	_	
+16-13	2083-2091	internal	_	_	
+16-14	2092-2101	quotation	_	_	
+16-15	2102-2107	marks	_	_	
+16-16	2108-2115	omitted	_	_	
+16-17	2116-2117	)	_	_	
+16-18	2118-2119	.	_	_	
+
+#Text=But - for causation is " the background against which Congress legislate[s ] , " and it is " the default rul[e Congress ] is presumed to have incorporated , absent an indication to the contrary in the statute itself . "
+17-1	2120-2123	But	*[12]	Focal Term[12]	
+17-2	2124-2125	-	*[12]	Focal Term[12]	
+17-3	2126-2129	for	*[12]	Focal Term[12]	
+17-4	2130-2139	causation	*[12]	Focal Term[12]	
+17-5	2140-2142	is	_	_	
+17-6	2143-2144	"	*[13]	Direct Quote[13]	
+17-7	2145-2148	the	*[13]	Direct Quote[13]	
+17-8	2149-2159	background	*[13]	Direct Quote[13]	
+17-9	2160-2167	against	*[13]	Direct Quote[13]	
+17-10	2168-2173	which	*[13]	Direct Quote[13]	
+17-11	2174-2182	Congress	*[13]	Direct Quote[13]	
+17-12	2183-2194	legislate[s	*[13]	Direct Quote[13]	
+17-13	2195-2196	]	*[13]	Direct Quote[13]	
+17-14	2197-2198	,	*[13]	Direct Quote[13]	
+17-15	2199-2200	"	*[13]	Direct Quote[13]	
+17-16	2201-2204	and	_	_	
+17-17	2205-2207	it	_	_	
+17-18	2208-2210	is	_	_	
+17-19	2211-2212	"	*[14]	Direct Quote[14]	
+17-20	2213-2216	the	*[14]	Direct Quote[14]	
+17-21	2217-2224	default	*[14]	Direct Quote[14]	
+17-22	2225-2230	rul[e	*[14]	Direct Quote[14]	
+17-23	2231-2239	Congress	*[14]	Direct Quote[14]	
+17-24	2240-2241	]	*[14]	Direct Quote[14]	
+17-25	2242-2244	is	*[14]	Direct Quote[14]	
+17-26	2245-2253	presumed	*[14]	Direct Quote[14]	
+17-27	2254-2256	to	*[14]	Direct Quote[14]	
+17-28	2257-2261	have	*[14]	Direct Quote[14]	
+17-29	2262-2274	incorporated	*[14]	Direct Quote[14]	
+17-30	2275-2276	,	*[14]	Direct Quote[14]	
+17-31	2277-2283	absent	*[14]	Direct Quote[14]	
+17-32	2284-2286	an	*[14]	Direct Quote[14]	
+17-33	2287-2297	indication	*[14]	Direct Quote[14]	
+17-34	2298-2300	to	*[14]	Direct Quote[14]	
+17-35	2301-2304	the	*[14]	Direct Quote[14]	
+17-36	2305-2313	contrary	*[14]	Direct Quote[14]	
+17-37	2314-2316	in	*[14]	Direct Quote[14]	
+17-38	2317-2320	the	*[14]	Direct Quote[14]	
+17-39	2321-2328	statute	*[14]|*[15]	Direct Quote[14]|Metalinguistic Cue[15]	
+17-40	2329-2335	itself	*[14]	Direct Quote[14]	
+17-41	2336-2337	.	*[14]	Direct Quote[14]	
+17-42	2338-2339	"	*[14]	Direct Quote[14]	
+
+#Text=Id. , at 347 , 133 S.Ct . 2517 ( citing W. Keeton , D. Dobbs , R. Keeton , & D. Owen , Prosser and Keeton on Law of Torts 265 ( 5th ed . 1984 ) ) .
+18-1	2340-2343	Id.	_	_	
+18-2	2344-2345	,	_	_	
+18-3	2346-2348	at	_	_	
+18-4	2349-2352	347	_	_	
+18-5	2353-2354	,	_	_	
+18-6	2355-2358	133	*[16]	Legal Source[16]	
+18-7	2359-2363	S.Ct	*[16]	Legal Source[16]	
+18-8	2364-2365	.	*[16]	Legal Source[16]	
+18-9	2366-2370	2517	*[16]	Legal Source[16]	
+18-10	2371-2372	(	_	_	
+18-11	2373-2379	citing	_	_	
+18-12	2380-2382	W.	*[17]	Legal Source[17]	
+18-13	2383-2389	Keeton	*[17]	Legal Source[17]	
+18-14	2390-2391	,	*[17]	Legal Source[17]	
+18-15	2392-2394	D.	*[17]	Legal Source[17]	
+18-16	2395-2400	Dobbs	*[17]	Legal Source[17]	
+18-17	2401-2402	,	*[17]	Legal Source[17]	
+18-18	2403-2405	R.	*[17]	Legal Source[17]	
+18-19	2406-2412	Keeton	*[17]	Legal Source[17]	
+18-20	2413-2414	,	*[17]	Legal Source[17]	
+18-21	2415-2416	&	*[17]	Legal Source[17]	
+18-22	2417-2419	D.	*[17]	Legal Source[17]	
+18-23	2420-2424	Owen	*[17]	Legal Source[17]	
+18-24	2425-2426	,	*[17]	Legal Source[17]	
+18-25	2427-2434	Prosser	*[17]	Legal Source[17]	
+18-26	2435-2438	and	*[17]	Legal Source[17]	
+18-27	2439-2445	Keeton	*[17]	Legal Source[17]	
+18-28	2446-2448	on	*[17]	Legal Source[17]	
+18-29	2449-2452	Law	*[17]	Legal Source[17]	
+18-30	2453-2455	of	*[17]	Legal Source[17]	
+18-31	2456-2461	Torts	*[17]	Legal Source[17]	
+18-32	2462-2465	265	*[17]	Legal Source[17]	
+18-33	2466-2467	(	*[17]	Legal Source[17]	
+18-34	2468-2471	5th	*[17]	Legal Source[17]	
+18-35	2472-2474	ed	*[17]	Legal Source[17]	
+18-36	2475-2476	.	*[17]	Legal Source[17]	
+18-37	2477-2481	1984	*[17]	Legal Source[17]	
+18-38	2482-2483	)	*[17]	Legal Source[17]	
+18-39	2484-2485	)	_	_	
+18-40	2486-2487	.	_	_	
+
+#Text=We have recognized as much when interpreting 42 U.S.C. § 1981 's prohibition against racial discrimination in contracting ,   Comcast Corp. v.   National Assn . of African American - Owned Media , 140 S.Ct . 1009 , Title VII 's retaliation provision ,   Nassar , 570 U.S. 338 , 133 S.Ct . 2517 , and the private - sector provision of the ADEA ,   Gross v. FBL Financial Services , Inc. , 557 U.S. 167 , 129 S.Ct . 2343 , 174 L.Ed.2d 119 ( 2009 ) .
+19-1	2488-2490	We	_	_	
+19-2	2491-2495	have	_	_	
+19-3	2496-2506	recognized	_	_	
+19-4	2507-2509	as	_	_	
+19-5	2510-2514	much	_	_	
+19-6	2515-2519	when	_	_	
+19-7	2520-2532	interpreting	*	Metalinguistic Cue	
+19-8	2533-2535	42	*[18]	Legal Source[18]	
+19-9	2536-2542	U.S.C.	*[18]	Legal Source[18]	
+19-10	2543-2544	§	*[18]	Legal Source[18]	
+19-11	2545-2549	1981	*[18]	Legal Source[18]	
+19-12	2550-2552	's	_	_	
+19-13	2553-2564	prohibition	_	_	
+19-14	2565-2572	against	_	_	
+19-15	2573-2579	racial	_	_	
+19-16	2580-2594	discrimination	_	_	
+19-17	2595-2597	in	_	_	
+19-18	2598-2609	contracting	_	_	
+19-19	2610-2611	,	_	_	
+19-20	2614-2621	Comcast	*[19]	Legal Source[19]	
+19-21	2622-2627	Corp.	*[19]	Legal Source[19]	
+19-22	2628-2630	v.	*[19]	Legal Source[19]	
+19-23	2633-2641	National	*[19]	Legal Source[19]	
+19-24	2642-2646	Assn	*[19]	Legal Source[19]	
+19-25	2647-2648	.	*[19]	Legal Source[19]	
+19-26	2649-2651	of	*[19]	Legal Source[19]	
+19-27	2652-2659	African	*[19]	Legal Source[19]	
+19-28	2660-2668	American	*[19]	Legal Source[19]	
+19-29	2669-2670	-	*[19]	Legal Source[19]	
+19-30	2671-2676	Owned	*[19]	Legal Source[19]	
+19-31	2677-2682	Media	*[19]	Legal Source[19]	
+19-32	2683-2684	,	*[19]	Legal Source[19]	
+19-33	2685-2688	140	*[19]	Legal Source[19]	
+19-34	2689-2693	S.Ct	*[19]	Legal Source[19]	
+19-35	2694-2695	.	*[19]	Legal Source[19]	
+19-36	2696-2700	1009	*[19]	Legal Source[19]	
+19-37	2701-2702	,	_	_	
+19-38	2703-2708	Title	*[20]	Legal Source[20]	
+19-39	2709-2712	VII	*[20]	Legal Source[20]	
+19-40	2713-2715	's	_	_	
+19-41	2716-2727	retaliation	_	_	
+19-42	2728-2737	provision	_	_	
+19-43	2738-2739	,	_	_	
+19-44	2742-2748	Nassar	_	_	
+19-45	2749-2750	,	_	_	
+19-46	2751-2754	570	*[21]	Legal Source[21]	
+19-47	2755-2759	U.S.	*[21]	Legal Source[21]	
+19-48	2760-2763	338	*[21]	Legal Source[21]	
+19-49	2764-2765	,	*[21]	Legal Source[21]	
+19-50	2766-2769	133	*[21]	Legal Source[21]	
+19-51	2770-2774	S.Ct	*[21]	Legal Source[21]	
+19-52	2775-2776	.	*[21]	Legal Source[21]	
+19-53	2777-2781	2517	*[21]	Legal Source[21]	
+19-54	2782-2783	,	_	_	
+19-55	2784-2787	and	_	_	
+19-56	2788-2791	the	_	_	
+19-57	2792-2799	private	_	_	
+19-58	2800-2801	-	_	_	
+19-59	2802-2808	sector	_	_	
+19-60	2809-2818	provision	*	Metalinguistic Cue	
+19-61	2819-2821	of	_	_	
+19-62	2822-2825	the	_	_	
+19-63	2826-2830	ADEA	*	Legal Source	
+19-64	2831-2832	,	_	_	
+19-65	2835-2840	Gross	*[22]	Legal Source[22]	
+19-66	2841-2843	v.	*[22]	Legal Source[22]	
+19-67	2844-2847	FBL	*[22]	Legal Source[22]	
+19-68	2848-2857	Financial	*[22]	Legal Source[22]	
+19-69	2858-2866	Services	*[22]	Legal Source[22]	
+19-70	2867-2868	,	*[22]	Legal Source[22]	
+19-71	2869-2873	Inc.	*[22]	Legal Source[22]	
+19-72	2874-2875	,	*[22]	Legal Source[22]	
+19-73	2876-2879	557	*[22]	Legal Source[22]	
+19-74	2880-2884	U.S.	*[22]	Legal Source[22]	
+19-75	2885-2888	167	*[22]	Legal Source[22]	
+19-76	2889-2890	,	*[22]	Legal Source[22]	
+19-77	2891-2894	129	*[22]	Legal Source[22]	
+19-78	2895-2899	S.Ct	*[22]	Legal Source[22]	
+19-79	2900-2901	.	*[22]	Legal Source[22]	
+19-80	2902-2906	2343	*[22]	Legal Source[22]	
+19-81	2907-2908	,	*[22]	Legal Source[22]	
+19-82	2909-2912	174	*[22]	Legal Source[22]	
+19-83	2913-2920	L.Ed.2d	*[22]	Legal Source[22]	
+19-84	2921-2924	119	*[22]	Legal Source[22]	
+19-85	2925-2926	(	*[22]	Legal Source[22]	
+19-86	2927-2931	2009	*[22]	Legal Source[22]	
+19-87	2932-2933	)	*[22]	Legal Source[22]	
+19-88	2934-2935	.	_	_	
+
+#Text=Given this established backdrop , the question becomes whether the federal - sector provision of the ADEA contains sufficiently clear language to overcome the default rule .
+20-1	2936-2941	Given	_	_	
+20-2	2942-2946	this	_	_	
+20-3	2947-2958	established	_	_	
+20-4	2959-2967	backdrop	_	_	
+20-5	2968-2969	,	_	_	
+20-6	2970-2973	the	_	_	
+20-7	2974-2982	question	_	_	
+20-8	2983-2990	becomes	_	_	
+20-9	2991-2998	whether	_	_	
+20-10	2999-3002	the	_	_	
+20-11	3003-3010	federal	_	_	
+20-12	3011-3012	-	_	_	
+20-13	3013-3019	sector	_	_	
+20-14	3020-3029	provision	_	_	
+20-15	3030-3032	of	_	_	
+20-16	3033-3036	the	_	_	
+20-17	3037-3041	ADEA	*	Legal Source	
+20-18	3042-3050	contains	_	_	
+20-19	3051-3063	sufficiently	*[23]	Metalinguistic Cue[23]	
+20-20	3064-3069	clear	*[23]	Metalinguistic Cue[23]	
+20-21	3070-3078	language	*[23]	Metalinguistic Cue[23]	
+20-22	3079-3081	to	_	_	
+20-23	3082-3090	overcome	_	_	
+20-24	3091-3094	the	_	_	
+20-25	3095-3102	default	_	_	
+20-26	3103-3107	rule	_	_	
+20-27	3108-3109	.	_	_	
+
+#Text=The provision states : " All personnel actions affecting employees or applicants for employment who are at least 40 years of age ... shall be made free from any discrimination based on age . "
+21-1	3110-3113	The	_	_	
+21-2	3114-3123	provision	*	Metalinguistic Cue	
+21-3	3124-3130	states	_	_	
+21-4	3131-3132	:	_	_	
+21-5	3133-3134	"	*[24]	Direct Quote[24]	
+21-6	3135-3138	All	*[24]	Direct Quote[24]	
+21-7	3139-3148	personnel	*[24]	Direct Quote[24]	
+21-8	3149-3156	actions	*[24]	Direct Quote[24]	
+21-9	3157-3166	affecting	*[24]	Direct Quote[24]	
+21-10	3167-3176	employees	*[24]	Direct Quote[24]	
+21-11	3177-3179	or	*[24]	Direct Quote[24]	
+21-12	3180-3190	applicants	*[24]	Direct Quote[24]	
+21-13	3191-3194	for	*[24]	Direct Quote[24]	
+21-14	3195-3205	employment	*[24]	Direct Quote[24]	
+21-15	3206-3209	who	*[24]	Direct Quote[24]	
+21-16	3210-3213	are	*[24]	Direct Quote[24]	
+21-17	3214-3216	at	*[24]	Direct Quote[24]	
+21-18	3217-3222	least	*[24]	Direct Quote[24]	
+21-19	3223-3225	40	*[24]	Direct Quote[24]	
+21-20	3226-3231	years	*[24]	Direct Quote[24]	
+21-21	3232-3234	of	*[24]	Direct Quote[24]	
+21-22	3235-3238	age	*[24]	Direct Quote[24]	
+21-23	3239-3242	...	*[24]	Direct Quote[24]	
+21-24	3243-3248	shall	*[24]	Direct Quote[24]	
+21-25	3249-3251	be	*[24]	Direct Quote[24]	
+21-26	3252-3256	made	*[24]	Direct Quote[24]	
+21-27	3257-3261	free	*[24]	Direct Quote[24]	
+21-28	3262-3266	from	*[24]	Direct Quote[24]	
+21-29	3267-3270	any	*[24]	Direct Quote[24]	
+21-30	3271-3285	discrimination	*[24]	Direct Quote[24]	
+21-31	3286-3291	based	*[24]	Direct Quote[24]	
+21-32	3292-3294	on	*[24]	Direct Quote[24]	
+21-33	3295-3298	age	*[24]	Direct Quote[24]	
+21-34	3299-3300	.	*[24]	Direct Quote[24]	
+21-35	3301-3302	"	*[24]	Direct Quote[24]	
+
+#Text=29 U.S.C. § 633a(a ) .
+22-1	3303-3305	29	*[25]	Legal Source[25]	
+22-2	3306-3312	U.S.C.	*[25]	Legal Source[25]	
+22-3	3313-3314	§	*[25]	Legal Source[25]	
+22-4	3315-3321	633a(a	*[25]	Legal Source[25]	
+22-5	3322-3323	)	*[25]	Legal Source[25]	
+22-6	3324-3325	.	_	_	
+
+#Text=I agree with the Court that discrimination means differential treatment , that " based on " connotes a but - for relationship , and that " to make " typically means to produce or to become .
+23-1	3326-3327	I	_	_	
+23-2	3328-3333	agree	_	_	
+23-3	3334-3338	with	_	_	
+23-4	3339-3342	the	_	_	
+23-5	3343-3348	Court	_	_	
+23-6	3349-3353	that	_	_	
+23-7	3354-3368	discrimination	*	Focal Term	
+23-8	3369-3374	means	*	Metalinguistic Cue	
+23-9	3375-3387	differential	*[26]	Definition[26]	
+23-10	3388-3397	treatment	*[26]	Definition[26]	
+23-11	3398-3399	,	_	_	
+23-12	3400-3404	that	_	_	
+23-13	3405-3406	"	*[27]	Direct Quote[27]	
+23-14	3407-3412	based	*[27]|*[28]	Direct Quote[27]|Focal Term[28]	
+23-15	3413-3415	on	*[27]|*[28]	Direct Quote[27]|Focal Term[28]	
+23-16	3416-3417	"	*[27]	Direct Quote[27]	
+23-17	3418-3426	connotes	*	Metalinguistic Cue	
+23-18	3427-3428	a	*[29]	Definition[29]	
+23-19	3429-3432	but	*[29]	Definition[29]	
+23-20	3433-3434	-	*[29]	Definition[29]	
+23-21	3435-3438	for	*[29]	Definition[29]	
+23-22	3439-3451	relationship	*[29]	Definition[29]	
+23-23	3452-3453	,	_	_	
+23-24	3454-3457	and	_	_	
+23-25	3458-3462	that	_	_	
+23-26	3463-3464	"	*[30]	Direct Quote[30]	
+23-27	3465-3467	to	*[30]|*[31]	Direct Quote[30]|Focal Term[31]	
+23-28	3468-3472	make	*[30]|*[31]	Direct Quote[30]|Focal Term[31]	
+23-29	3473-3474	"	*[30]	Direct Quote[30]	
+23-30	3475-3484	typically	*[32]	Metalinguistic Cue[32]	
+23-31	3485-3490	means	*[32]	Metalinguistic Cue[32]	
+23-32	3491-3493	to	*[33]	Definition[33]	
+23-33	3494-3501	produce	*[33]	Definition[33]	
+23-34	3502-3504	or	*[33]	Definition[33]	
+23-35	3505-3507	to	*[33]	Definition[33]	
+23-36	3508-3514	become	*[33]	Definition[33]	
+23-37	3515-3516	.	_	_	
+
+#Text=Ante , at 1173 .
+24-1	3519-3523	Ante	*[34]	Legal Source[34]	
+24-2	3524-3525	,	*[34]	Legal Source[34]	
+24-3	3526-3528	at	*[34]	Legal Source[34]	
+24-4	3529-3533	1173	*[34]	Legal Source[34]	
+24-5	3534-3535	.	_	_	
+
+#Text=But I disagree with the Court 's overall interpretation of how these terms fit together .
+25-1	3536-3539	But	_	_	
+25-2	3540-3541	I	_	_	
+25-3	3542-3550	disagree	_	_	
+25-4	3551-3555	with	_	_	
+25-5	3556-3559	the	_	_	
+25-6	3560-3565	Court	_	_	
+25-7	3566-3568	's	_	_	
+25-8	3569-3576	overall	_	_	
+25-9	3577-3591	interpretation	*	Metalinguistic Cue	
+25-10	3592-3594	of	_	_	
+25-11	3595-3598	how	_	_	
+25-12	3599-3604	these	_	_	
+25-13	3605-3610	terms	_	_	
+25-14	3611-3614	fit	_	_	
+25-15	3615-3623	together	_	_	
+25-16	3624-3625	.	_	_	
+
+#Text=Specifically , the Court believes that " ' based on age ' " modifies only " ' discrimination , ' " not " ' personnel actions . ' "
+26-1	3626-3638	Specifically	_	_	
+26-2	3639-3640	,	_	_	
+26-3	3641-3644	the	_	_	
+26-4	3645-3650	Court	_	_	
+26-5	3651-3659	believes	_	_	
+26-6	3660-3664	that	_	_	
+26-7	3665-3666	"	*[35]	Direct Quote[35]	
+26-8	3667-3668	'	*[35]|*[36]	Direct Quote[35]|Direct Quote[36]	
+26-9	3669-3674	based	*[35]|*[36]|*[37]	Direct Quote[35]|Direct Quote[36]|Focal Term[37]	
+26-10	3675-3677	on	*[35]|*[36]|*[37]	Direct Quote[35]|Direct Quote[36]|Focal Term[37]	
+26-11	3678-3681	age	*[35]|*[36]|*[37]	Direct Quote[35]|Direct Quote[36]|Focal Term[37]	
+26-12	3682-3683	'	*[35]|*[36]	Direct Quote[35]|Direct Quote[36]	
+26-13	3684-3685	"	*[35]	Direct Quote[35]	
+26-14	3686-3694	modifies	*	Metalinguistic Cue	
+26-15	3695-3699	only	_	_	
+26-16	3700-3701	"	*[38]	Direct Quote[38]	
+26-17	3702-3703	'	*[38]|*[39]	Direct Quote[38]|Direct Quote[39]	
+26-18	3704-3718	discrimination	*[38]|*[39]|*[40]	Direct Quote[38]|Direct Quote[39]|Focal Term[40]	
+26-19	3719-3720	,	*[38]|*[39]	Direct Quote[38]|Direct Quote[39]	
+26-20	3721-3722	'	*[38]|*[39]	Direct Quote[38]|Direct Quote[39]	
+26-21	3723-3724	"	*[38]	Direct Quote[38]	
+26-22	3725-3728	not	_	_	
+26-23	3729-3730	"	*[41]	Direct Quote[41]	
+26-24	3731-3732	'	*[41]|*[42]	Direct Quote[41]|Direct Quote[42]	
+26-25	3733-3742	personnel	*[41]|*[42]|*[43]	Direct Quote[41]|Direct Quote[42]|Focal Term[43]	
+26-26	3743-3750	actions	*[41]|*[42]|*[43]	Direct Quote[41]|Direct Quote[42]|Focal Term[43]	
+26-27	3751-3752	.	*[41]|*[42]	Direct Quote[41]|Direct Quote[42]	
+26-28	3753-3754	'	*[41]|*[42]	Direct Quote[41]|Direct Quote[42]	
+26-29	3755-3756	"	*[41]	Direct Quote[41]	
+
+#Text=Ante , at 1173 .
+27-1	3757-3761	Ante	*[44]	Legal Source[44]	
+27-2	3762-3763	,	*[44]	Legal Source[44]	
+27-3	3764-3766	at	*[44]	Legal Source[44]	
+27-4	3767-3771	1173	*[44]	Legal Source[44]	
+27-5	3772-3773	.	_	_	
+
+#Text=From this , the Court concludes that the plain meaning of the text " demands that personnel actions be untainted by any consideration of age . "
+28-1	3774-3778	From	_	_	
+28-2	3779-3783	this	_	_	
+28-3	3784-3785	,	_	_	
+28-4	3786-3789	the	_	_	
+28-5	3790-3795	Court	_	_	
+28-6	3796-3805	concludes	_	_	
+28-7	3806-3810	that	_	_	
+28-8	3811-3814	the	_	_	
+28-9	3815-3820	plain	*[45]|*[46]	Metalinguistic Cue[45]|Named Interpretive Rule[46]	
+28-10	3821-3828	meaning	*[45]|*[46]	Metalinguistic Cue[45]|Named Interpretive Rule[46]	
+28-11	3829-3831	of	_	_	
+28-12	3832-3835	the	_	_	
+28-13	3836-3840	text	*	Metalinguistic Cue	
+28-14	3841-3842	"	*[47]	Direct Quote[47]	
+28-15	3843-3850	demands	*[47]	Direct Quote[47]	
+28-16	3851-3855	that	*[47]	Direct Quote[47]	
+28-17	3856-3865	personnel	*[47]|*[48]	Direct Quote[47]|Focal Term[48]	
+28-18	3866-3873	actions	*[47]|*[48]	Direct Quote[47]|Focal Term[48]	
+28-19	3874-3876	be	*[47]	Direct Quote[47]	
+28-20	3877-3886	untainted	*[47]|*[49]	Direct Quote[47]|Focal Term[49]	
+28-21	3887-3889	by	*[47]|*[49]	Direct Quote[47]|Focal Term[49]	
+28-22	3890-3893	any	*[47]|*[49]	Direct Quote[47]|Focal Term[49]	
+28-23	3894-3907	consideration	*[47]|*[49]	Direct Quote[47]|Focal Term[49]	
+28-24	3908-3910	of	*[47]|*[49]	Direct Quote[47]|Focal Term[49]	
+28-25	3911-3914	age	*[47]|*[49]	Direct Quote[47]|Focal Term[49]	
+28-26	3915-3916	.	*[47]	Direct Quote[47]	
+28-27	3917-3918	"	*[47]	Direct Quote[47]	
+
+#Text=Ante , at 1171 .
+29-1	3919-3923	Ante	*[50]	Legal Source[50]	
+29-2	3924-3925	,	*[50]	Legal Source[50]	
+29-3	3926-3928	at	*[50]	Legal Source[50]	
+29-4	3929-3933	1171	*[50]	Legal Source[50]	
+29-5	3934-3935	.	_	_	
+
+#Text=In my view , however , the provision is also susceptible of the Government 's interpretation ,   i.e. , that the entire phrase " discrimination based on age " modifies " personnel actions . "
+30-1	3936-3938	In	_	_	
+30-2	3939-3941	my	_	_	
+30-3	3942-3946	view	_	_	
+30-4	3947-3948	,	_	_	
+30-5	3949-3956	however	_	_	
+30-6	3957-3958	,	_	_	
+30-7	3959-3962	the	_	_	
+30-8	3963-3972	provision	_	_	
+30-9	3973-3975	is	_	_	
+30-10	3976-3980	also	_	_	
+30-11	3981-3992	susceptible	_	_	
+30-12	3993-3995	of	_	_	
+30-13	3996-3999	the	_	_	
+30-14	4000-4010	Government	_	_	
+30-15	4011-4013	's	_	_	
+30-16	4014-4028	interpretation	*	Metalinguistic Cue	
+30-17	4029-4030	,	_	_	
+30-18	4033-4037	i.e.	_	_	
+30-19	4038-4039	,	_	_	
+30-20	4040-4044	that	_	_	
+30-21	4045-4048	the	_	_	
+30-22	4049-4055	entire	_	_	
+30-23	4056-4062	phrase	*	Metalinguistic Cue	
+30-24	4063-4064	"	*[51]	Direct Quote[51]	
+30-25	4065-4079	discrimination	*[51]|*[52]	Direct Quote[51]|Focal Term[52]	
+30-26	4080-4085	based	*[51]|*[52]	Direct Quote[51]|Focal Term[52]	
+30-27	4086-4088	on	*[51]|*[52]	Direct Quote[51]|Focal Term[52]	
+30-28	4089-4092	age	*[51]|*[52]	Direct Quote[51]|Focal Term[52]	
+30-29	4093-4094	"	*[51]	Direct Quote[51]	
+30-30	4095-4103	modifies	*	Metalinguistic Cue	
+30-31	4104-4105	"	*[53]	Direct Quote[53]	
+30-32	4106-4115	personnel	*[53]|*[54]	Direct Quote[53]|Focal Term[54]	
+30-33	4116-4123	actions	*[53]|*[54]	Direct Quote[53]|Focal Term[54]	
+30-34	4124-4125	.	*[53]	Direct Quote[53]	
+30-35	4126-4127	"	*[53]	Direct Quote[53]	
+
+#Text=Under this reading , as the Government explains , the provision " prohibits agencies from engaging in ' discrimination   based on age ' in the making of personnel actions . "
+31-1	4128-4133	Under	_	_	
+31-2	4134-4138	this	_	_	
+31-3	4139-4146	reading	_	_	
+31-4	4147-4148	,	_	_	
+31-5	4149-4151	as	_	_	
+31-6	4152-4155	the	_	_	
+31-7	4156-4166	Government	_	_	
+31-8	4167-4175	explains	_	_	
+31-9	4176-4177	,	_	_	
+31-10	4178-4181	the	_	_	
+31-11	4182-4191	provision	_	_	
+31-12	4192-4193	"	*[55]	Direct Quote[55]	
+31-13	4194-4203	prohibits	*[55]	Direct Quote[55]	
+31-14	4204-4212	agencies	*[55]	Direct Quote[55]	
+31-15	4213-4217	from	*[55]	Direct Quote[55]	
+31-16	4218-4226	engaging	*[55]	Direct Quote[55]	
+31-17	4227-4229	in	*[55]	Direct Quote[55]	
+31-18	4230-4231	'	*[55]|*[56]	Direct Quote[55]|Direct Quote[56]	
+31-19	4232-4246	discrimination	*[55]|*[56]|*[57]	Direct Quote[55]|Direct Quote[56]|Focal Term[57]	
+31-20	4249-4254	based	*[55]|*[56]|*[57]	Direct Quote[55]|Direct Quote[56]|Focal Term[57]	
+31-21	4255-4257	on	*[55]|*[56]|*[57]	Direct Quote[55]|Direct Quote[56]|Focal Term[57]	
+31-22	4258-4261	age	*[55]|*[56]|*[57]	Direct Quote[55]|Direct Quote[56]|Focal Term[57]	
+31-23	4262-4263	'	*[55]|*[56]	Direct Quote[55]|Direct Quote[56]	
+31-24	4264-4266	in	*[55]	Direct Quote[55]	
+31-25	4267-4270	the	*[55]	Direct Quote[55]	
+31-26	4271-4277	making	*[55]	Direct Quote[55]	
+31-27	4278-4280	of	*[55]	Direct Quote[55]	
+31-28	4281-4290	personnel	*[55]|*[58]	Direct Quote[55]|Focal Term[58]	
+31-29	4291-4298	actions	*[55]|*[58]	Direct Quote[55]|Focal Term[58]	
+31-30	4299-4300	.	*[55]	Direct Quote[55]	
+31-31	4301-4302	"	*[55]	Direct Quote[55]	
+
+#Text=Brief for Respondent 16 .
+32-1	4303-4308	Brief	*[59]	Legal Source[59]	
+32-2	4309-4312	for	*[59]	Legal Source[59]	
+32-3	4313-4323	Respondent	*[59]	Legal Source[59]	
+32-4	4324-4326	16	*[59]	Legal Source[59]	
+32-5	4327-4328	.	_	_	
+
+#Text=Because the only thing being " made " in the statute is a " personnel action , " it is entirely reasonable to conclude that age must be the but - for cause of that personnel action .
+33-1	4329-4336	Because	_	_	
+33-2	4337-4340	the	_	_	
+33-3	4341-4345	only	_	_	
+33-4	4346-4351	thing	_	_	
+33-5	4352-4357	being	_	_	
+33-6	4358-4359	"	*[60]	Direct Quote[60]	
+33-7	4360-4364	made	*[60]|*[61]	Direct Quote[60]|Focal Term[61]	
+33-8	4365-4366	"	*[60]	Direct Quote[60]	
+33-9	4367-4369	in	_	_	
+33-10	4370-4373	the	_	_	
+33-11	4374-4381	statute	_	_	
+33-12	4382-4384	is	_	_	
+33-13	4385-4386	a	_	_	
+33-14	4387-4388	"	*[62]	Direct Quote[62]	
+33-15	4389-4398	personnel	*[62]|*[63]	Direct Quote[62]|Focal Term[63]	
+33-16	4399-4405	action	*[62]|*[63]	Direct Quote[62]|Focal Term[63]	
+33-17	4406-4407	,	*[62]	Direct Quote[62]	
+33-18	4408-4409	"	*[62]	Direct Quote[62]	
+33-19	4410-4412	it	_	_	
+33-20	4413-4415	is	_	_	
+33-21	4416-4424	entirely	_	_	
+33-22	4425-4435	reasonable	_	_	
+33-23	4436-4438	to	_	_	
+33-24	4439-4447	conclude	_	_	
+33-25	4448-4452	that	_	_	
+33-26	4453-4456	age	_	_	
+33-27	4457-4461	must	_	_	
+33-28	4462-4464	be	_	_	
+33-29	4465-4468	the	_	_	
+33-30	4469-4472	but	*[64]	Focal Term[64]	
+33-31	4473-4474	-	*[64]	Focal Term[64]	
+33-32	4475-4478	for	*[64]	Focal Term[64]	
+33-33	4479-4484	cause	*[64]	Focal Term[64]	
+33-34	4485-4487	of	_	_	
+33-35	4488-4492	that	_	_	
+33-36	4493-4502	personnel	*[65]	Focal Term[65]	
+33-37	4503-4509	action	*[65]	Focal Term[65]	
+33-38	4510-4511	.	_	_	
+
+#Text=At most , the substantive mandate against discrimination in § 633a(a ) is ambiguous .
+34-1	4512-4514	At	_	_	
+34-2	4515-4519	most	_	_	
+34-3	4520-4521	,	_	_	
+34-4	4522-4525	the	_	_	
+34-5	4526-4537	substantive	_	_	
+34-6	4538-4545	mandate	_	_	
+34-7	4546-4553	against	_	_	
+34-8	4554-4568	discrimination	_	_	
+34-9	4569-4571	in	_	_	
+34-10	4572-4573	§	*[66]	Legal Source[66]	
+34-11	4574-4580	633a(a	*[66]	Legal Source[66]	
+34-12	4581-4582	)	*[66]	Legal Source[66]	
+34-13	4583-4585	is	_	_	
+34-14	4586-4595	ambiguous	*	Metalinguistic Cue	
+34-15	4596-4597	.	_	_	
+
+#Text=And it goes without saying that an ambiguous provision does not contain the clear language necessary to displace the default rule .
+35-1	4598-4601	And	_	_	
+35-2	4602-4604	it	_	_	
+35-3	4605-4609	goes	_	_	
+35-4	4610-4617	without	_	_	
+35-5	4618-4624	saying	_	_	
+35-6	4625-4629	that	_	_	
+35-7	4630-4632	an	_	_	
+35-8	4633-4642	ambiguous	*[67]	Metalinguistic Cue[67]	
+35-9	4643-4652	provision	*[67]	Metalinguistic Cue[67]	
+35-10	4653-4657	does	_	_	
+35-11	4658-4661	not	_	_	
+35-12	4662-4669	contain	_	_	
+35-13	4670-4673	the	_	_	
+35-14	4674-4679	clear	*[68]	Metalinguistic Cue[68]	
+35-15	4680-4688	language	*[68]	Metalinguistic Cue[68]	
+35-16	4689-4698	necessary	_	_	
+35-17	4699-4701	to	_	_	
+35-18	4702-4710	displace	_	_	
+35-19	4711-4714	the	_	_	
+35-20	4715-4722	default	_	_	
+35-21	4723-4727	rule	_	_	
+35-22	4728-4729	.	_	_	
+
+#Text=Accordingly , I would hold that the default rule of but - for causation applies here .
+36-1	4730-4741	Accordingly	_	_	
+36-2	4742-4743	,	_	_	
+36-3	4744-4745	I	_	_	
+36-4	4746-4751	would	_	_	
+36-5	4752-4756	hold	_	_	
+36-6	4757-4761	that	_	_	
+36-7	4762-4765	the	_	_	
+36-8	4766-4773	default	_	_	
+36-9	4774-4778	rule	_	_	
+36-10	4779-4781	of	_	_	
+36-11	4782-4785	but	_	_	
+36-12	4786-4787	-	_	_	
+36-13	4788-4791	for	_	_	
+36-14	4792-4801	causation	_	_	
+36-15	4802-4809	applies	_	_	
+36-16	4810-4814	here	_	_	
+36-17	4815-4816	.	_	_	
+
+#Text=B
+37-1	4817-4818	B	_	_	
+
+#Text=The Court attempts to downplay the sweeping nature of its novel " any consideration " rule by discussing the limited remedies available under that rule .
+38-1	4819-4822	The	_	_	
+38-2	4823-4828	Court	_	_	
+38-3	4829-4837	attempts	_	_	
+38-4	4838-4840	to	_	_	
+38-5	4841-4849	downplay	_	_	
+38-6	4850-4853	the	_	_	
+38-7	4854-4862	sweeping	_	_	
+38-8	4863-4869	nature	_	_	
+38-9	4870-4872	of	_	_	
+38-10	4873-4876	its	_	_	
+38-11	4877-4882	novel	_	_	
+38-12	4883-4884	"	*[69]	Direct Quote[69]	
+38-13	4885-4888	any	*[69]	Direct Quote[69]	
+38-14	4889-4902	consideration	*[69]	Direct Quote[69]	
+38-15	4903-4904	"	*[69]	Direct Quote[69]	
+38-16	4905-4909	rule	_	_	
+38-17	4910-4912	by	_	_	
+38-18	4913-4923	discussing	_	_	
+38-19	4924-4927	the	_	_	
+38-20	4928-4935	limited	_	_	
+38-21	4936-4944	remedies	_	_	
+38-22	4945-4954	available	_	_	
+38-23	4955-4960	under	_	_	
+38-24	4961-4965	that	_	_	
+38-25	4966-4970	rule	_	_	
+38-26	4971-4972	.	_	_	
+
+#Text=Specifically , the Court declares that a plaintiff can obtain compensatory damages , backpay , and reinstatement only if he proves that age was a but - for cause of an adverse personnel action .
+39-1	4973-4985	Specifically	_	_	
+39-2	4986-4987	,	_	_	
+39-3	4988-4991	the	_	_	
+39-4	4992-4997	Court	_	_	
+39-5	4998-5006	declares	_	_	
+39-6	5007-5011	that	_	_	
+39-7	5012-5013	a	_	_	
+39-8	5014-5023	plaintiff	_	_	
+39-9	5024-5027	can	_	_	
+39-10	5028-5034	obtain	_	_	
+39-11	5035-5047	compensatory	_	_	
+39-12	5048-5055	damages	_	_	
+39-13	5056-5057	,	_	_	
+39-14	5058-5065	backpay	_	_	
+39-15	5066-5067	,	_	_	
+39-16	5068-5071	and	_	_	
+39-17	5072-5085	reinstatement	_	_	
+39-18	5086-5090	only	_	_	
+39-19	5091-5093	if	_	_	
+39-20	5094-5096	he	_	_	
+39-21	5097-5103	proves	_	_	
+39-22	5104-5108	that	_	_	
+39-23	5109-5112	age	_	_	
+39-24	5113-5116	was	_	_	
+39-25	5117-5118	a	_	_	
+39-26	5119-5122	but	_	_	
+39-27	5123-5124	-	_	_	
+39-28	5125-5128	for	_	_	
+39-29	5129-5134	cause	_	_	
+39-30	5135-5137	of	_	_	
+39-31	5138-5140	an	_	_	
+39-32	5141-5148	adverse	_	_	
+39-33	5149-5158	personnel	_	_	
+39-34	5159-5165	action	_	_	
+39-35	5166-5167	.	_	_	
+
+#Text=Otherwise , he can obtain only injunctive or prospective relief .
+40-1	5168-5177	Otherwise	_	_	
+40-2	5178-5179	,	_	_	
+40-3	5180-5182	he	_	_	
+40-4	5183-5186	can	_	_	
+40-5	5187-5193	obtain	_	_	
+40-6	5194-5198	only	_	_	
+40-7	5199-5209	injunctive	_	_	
+40-8	5210-5212	or	_	_	
+40-9	5213-5224	prospective	_	_	
+40-10	5225-5231	relief	_	_	
+40-11	5232-5233	.	_	_	
+
+#Text=See   ante , at 1177 - 1178 .
+41-1	5234-5237	See	*[70]	Legal Source[70]	
+41-2	5240-5244	ante	*[70]	Legal Source[70]	
+41-3	5245-5246	,	*[70]	Legal Source[70]	
+41-4	5247-5249	at	*[70]	Legal Source[70]	
+41-5	5250-5254	1177	*[70]	Legal Source[70]	
+41-6	5255-5256	-	*[70]	Legal Source[70]	
+41-7	5257-5261	1178	*[70]	Legal Source[70]	
+41-8	5262-5263	.	_	_	
+
+#Text=If the text of the ADEA contained this remedial scheme , it would support the Court 's conclusion regarding causation .
+42-1	5264-5266	If	_	_	
+42-2	5267-5270	the	_	_	
+42-3	5271-5275	text	*	Metalinguistic Cue	
+42-4	5276-5278	of	_	_	
+42-5	5279-5282	the	_	_	
+42-6	5283-5287	ADEA	*	Legal Source	
+42-7	5288-5297	contained	_	_	
+42-8	5298-5302	this	_	_	
+42-9	5303-5311	remedial	_	_	
+42-10	5312-5318	scheme	_	_	
+42-11	5319-5320	,	_	_	
+42-12	5321-5323	it	_	_	
+42-13	5324-5329	would	_	_	
+42-14	5330-5337	support	_	_	
+42-15	5338-5341	the	_	_	
+42-16	5342-5347	Court	_	_	
+42-17	5348-5350	's	_	_	
+42-18	5351-5361	conclusion	_	_	
+42-19	5362-5371	regarding	_	_	
+42-20	5372-5381	causation	_	_	
+42-21	5382-5383	.	_	_	
+
+#Text=But the Court does not cite any remedial statutory provision .
+43-1	5384-5387	But	_	_	
+43-2	5388-5391	the	_	_	
+43-3	5392-5397	Court	_	_	
+43-4	5398-5402	does	_	_	
+43-5	5403-5406	not	_	_	
+43-6	5407-5411	cite	_	_	
+43-7	5412-5415	any	_	_	
+43-8	5416-5424	remedial	_	_	
+43-9	5425-5434	statutory	_	_	
+43-10	5435-5444	provision	_	_	
+43-11	5445-5446	.	_	_	
+
+#Text=Nor can it , as one does not exist .
+44-1	5447-5450	Nor	_	_	
+44-2	5451-5454	can	_	_	
+44-3	5455-5457	it	_	_	
+44-4	5458-5459	,	_	_	
+44-5	5460-5462	as	_	_	
+44-6	5463-5466	one	_	_	
+44-7	5467-5471	does	_	_	
+44-8	5472-5475	not	_	_	
+44-9	5476-5481	exist	_	_	
+44-10	5482-5483	.	_	_	
+
+#Text=The Court also fails to cite any authority suggesting that its remedial scheme existed , at common law or otherwise , in 1974 when Congress added the federal - sector provision to the ADEA .
+45-1	5484-5487	The	_	_	
+45-2	5488-5493	Court	_	_	
+45-3	5494-5498	also	_	_	
+45-4	5499-5504	fails	_	_	
+45-5	5505-5507	to	_	_	
+45-6	5508-5512	cite	_	_	
+45-7	5513-5516	any	_	_	
+45-8	5517-5526	authority	_	_	
+45-9	5527-5537	suggesting	_	_	
+45-10	5538-5542	that	_	_	
+45-11	5543-5546	its	_	_	
+45-12	5547-5555	remedial	_	_	
+45-13	5556-5562	scheme	_	_	
+45-14	5563-5570	existed	_	_	
+45-15	5571-5572	,	_	_	
+45-16	5573-5575	at	_	_	
+45-17	5576-5582	common	_	_	
+45-18	5583-5586	law	_	_	
+45-19	5587-5589	or	_	_	
+45-20	5590-5599	otherwise	_	_	
+45-21	5600-5601	,	_	_	
+45-22	5602-5604	in	_	_	
+45-23	5605-5609	1974	_	_	
+45-24	5610-5614	when	_	_	
+45-25	5615-5623	Congress	_	_	
+45-26	5624-5629	added	_	_	
+45-27	5630-5633	the	_	_	
+45-28	5634-5641	federal	_	_	
+45-29	5642-5643	-	_	_	
+45-30	5644-5650	sector	_	_	
+45-31	5651-5660	provision	*	Metalinguistic Cue	
+45-32	5661-5663	to	_	_	
+45-33	5664-5667	the	_	_	
+45-34	5668-5672	ADEA	*	Legal Source	
+45-35	5673-5674	.	_	_	
+
+#Text=§ 28(b)(2 ) , 88 Stat . 74 -75 .
+46-1	5675-5676	§	*[71]	Legal Source[71]	
+46-2	5677-5684	28(b)(2	*[71]	Legal Source[71]	
+46-3	5685-5686	)	*[71]	Legal Source[71]	
+46-4	5687-5688	,	*[71]	Legal Source[71]	
+46-5	5689-5691	88	*[71]	Legal Source[71]	
+46-6	5692-5696	Stat	*[71]	Legal Source[71]	
+46-7	5697-5698	.	*[71]	Legal Source[71]	
+46-8	5699-5701	74	*[71]	Legal Source[71]	
+46-9	5702-5705	-75	*[71]	Legal Source[71]	
+46-10	5706-5707	.	_	_	
+
+#Text=Instead , the Court principally relies on   Texas v. Lesage , 528 U.S. 18 , 120 S.Ct . 467 , 145 L.Ed.2d 347 ( 1999 ) (   per curiam ) , which applied   Mt. Healthy City Bd . of Ed . v. Doyle , 429 U.S. 274 , 97 S.Ct . 568 , 50 L.Ed.2d 471 ( 1977 ) .
+47-1	5708-5715	Instead	_	_	
+47-2	5716-5717	,	_	_	
+47-3	5718-5721	the	_	_	
+47-4	5722-5727	Court	_	_	
+47-5	5728-5739	principally	_	_	
+47-6	5740-5746	relies	_	_	
+47-7	5747-5749	on	_	_	
+47-8	5752-5757	Texas	*[72]	Legal Source[72]	
+47-9	5758-5760	v.	*[72]	Legal Source[72]	
+47-10	5761-5767	Lesage	*[72]	Legal Source[72]	
+47-11	5768-5769	,	*[72]	Legal Source[72]	
+47-12	5770-5773	528	*[72]	Legal Source[72]	
+47-13	5774-5778	U.S.	*[72]	Legal Source[72]	
+47-14	5779-5781	18	*[72]	Legal Source[72]	
+47-15	5782-5783	,	*[72]	Legal Source[72]	
+47-16	5784-5787	120	*[72]	Legal Source[72]	
+47-17	5788-5792	S.Ct	*[72]	Legal Source[72]	
+47-18	5793-5794	.	*[72]	Legal Source[72]	
+47-19	5795-5798	467	*[72]	Legal Source[72]	
+47-20	5799-5800	,	*[72]	Legal Source[72]	
+47-21	5801-5804	145	*[72]	Legal Source[72]	
+47-22	5805-5812	L.Ed.2d	*[72]	Legal Source[72]	
+47-23	5813-5816	347	*[72]	Legal Source[72]	
+47-24	5817-5818	(	*[72]	Legal Source[72]	
+47-25	5819-5823	1999	*[72]	Legal Source[72]	
+47-26	5824-5825	)	*[72]	Legal Source[72]	
+47-27	5826-5827	(	_	_	
+47-28	5830-5833	per	_	_	
+47-29	5834-5840	curiam	_	_	
+47-30	5841-5842	)	_	_	
+47-31	5843-5844	,	_	_	
+47-32	5845-5850	which	_	_	
+47-33	5851-5858	applied	_	_	
+47-34	5861-5864	Mt.	*[73]	Legal Source[73]	
+47-35	5865-5872	Healthy	*[73]	Legal Source[73]	
+47-36	5873-5877	City	*[73]	Legal Source[73]	
+47-37	5878-5880	Bd	*[73]	Legal Source[73]	
+47-38	5881-5882	.	*[73]	Legal Source[73]	
+47-39	5883-5885	of	*[73]	Legal Source[73]	
+47-40	5886-5888	Ed	*[73]	Legal Source[73]	
+47-41	5889-5890	.	*[73]	Legal Source[73]	
+47-42	5891-5893	v.	*[73]	Legal Source[73]	
+47-43	5894-5899	Doyle	*[73]	Legal Source[73]	
+47-44	5900-5901	,	*[73]	Legal Source[73]	
+47-45	5902-5905	429	*[73]	Legal Source[73]	
+47-46	5906-5910	U.S.	*[73]	Legal Source[73]	
+47-47	5911-5914	274	*[73]	Legal Source[73]	
+47-48	5915-5916	,	*[73]	Legal Source[73]	
+47-49	5917-5919	97	*[73]	Legal Source[73]	
+47-50	5920-5924	S.Ct	*[73]	Legal Source[73]	
+47-51	5925-5926	.	*[73]	Legal Source[73]	
+47-52	5927-5930	568	*[73]	Legal Source[73]	
+47-53	5931-5932	,	*[73]	Legal Source[73]	
+47-54	5933-5935	50	*[73]	Legal Source[73]	
+47-55	5936-5943	L.Ed.2d	*[73]	Legal Source[73]	
+47-56	5944-5947	471	*[73]	Legal Source[73]	
+47-57	5948-5949	(	*[73]	Legal Source[73]	
+47-58	5950-5954	1977	*[73]	Legal Source[73]	
+47-59	5955-5956	)	*[73]	Legal Source[73]	
+47-60	5957-5958	.	_	_	
+
+#Text=See   Lesage , 528 U.S. at 20 - 22 , 120 S.Ct . 467 .
+48-1	5959-5962	See	_	_	
+48-2	5965-5971	Lesage	*[74]	Legal Source[74]	
+48-3	5972-5973	,	*[74]	Legal Source[74]	
+48-4	5974-5977	528	*[74]	Legal Source[74]	
+48-5	5978-5982	U.S.	*[74]	Legal Source[74]	
+48-6	5983-5985	at	*[74]	Legal Source[74]	
+48-7	5986-5988	20	*[74]	Legal Source[74]	
+48-8	5989-5990	-	*[74]	Legal Source[74]	
+48-9	5991-5993	22	*[74]	Legal Source[74]	
+48-10	5994-5995	,	*[74]	Legal Source[74]	
+48-11	5996-5999	120	*[74]	Legal Source[74]	
+48-12	6000-6004	S.Ct	*[74]	Legal Source[74]	
+48-13	6005-6006	.	*[74]	Legal Source[74]	
+48-14	6007-6010	467	*[74]	Legal Source[74]	
+48-15	6011-6012	.	_	_	
+
+#Text=But   Mt. Healthy and , by extension ,   Lesage do not assist the Court .
+49-1	6013-6016	But	_	_	
+49-2	6019-6022	Mt.	_	_	
+49-3	6023-6030	Healthy	_	_	
+49-4	6031-6034	and	_	_	
+49-5	6035-6036	,	_	_	
+49-6	6037-6039	by	_	_	
+49-7	6040-6049	extension	_	_	
+49-8	6050-6051	,	_	_	
+49-9	6054-6060	Lesage	_	_	
+49-10	6061-6063	do	_	_	
+49-11	6064-6067	not	_	_	
+49-12	6068-6074	assist	_	_	
+49-13	6075-6078	the	_	_	
+49-14	6079-6084	Court	_	_	
+49-15	6085-6086	.	_	_	
+
+#Text=In   Mt. Healthy , the Court crafted , for the first time , a remedial scheme for constitutional claims brought under 42 U.S.C. § 1983 .
+50-1	6087-6089	In	_	_	
+50-2	6092-6095	Mt.	_	_	
+50-3	6096-6103	Healthy	_	_	
+50-4	6104-6105	,	_	_	
+50-5	6106-6109	the	_	_	
+50-6	6110-6115	Court	_	_	
+50-7	6116-6123	crafted	_	_	
+50-8	6124-6125	,	_	_	
+50-9	6126-6129	for	_	_	
+50-10	6130-6133	the	_	_	
+50-11	6134-6139	first	_	_	
+50-12	6140-6144	time	_	_	
+50-13	6145-6146	,	_	_	
+50-14	6147-6148	a	_	_	
+50-15	6149-6157	remedial	_	_	
+50-16	6158-6164	scheme	_	_	
+50-17	6165-6168	for	_	_	
+50-18	6169-6183	constitutional	_	_	
+50-19	6184-6190	claims	_	_	
+50-20	6191-6198	brought	_	_	
+50-21	6199-6204	under	_	_	
+50-22	6205-6207	42	*[75]	Legal Source[75]	
+50-23	6208-6214	U.S.C.	*[75]	Legal Source[75]	
+50-24	6215-6216	§	*[75]	Legal Source[75]	
+50-25	6217-6221	1983	*[75]	Legal Source[75]	
+50-26	6222-6223	.	_	_	
+
+#Text=429 U.S. at 285 - 287 , 97 S.Ct . 568 .
+51-1	6224-6227	429	*[76]	Legal Source[76]	
+51-2	6228-6232	U.S.	*[76]	Legal Source[76]	
+51-3	6233-6235	at	*[76]	Legal Source[76]	
+51-4	6236-6239	285	*[76]	Legal Source[76]	
+51-5	6240-6241	-	*[76]	Legal Source[76]	
+51-6	6242-6245	287	*[76]	Legal Source[76]	
+51-7	6246-6247	,	*[76]	Legal Source[76]	
+51-8	6248-6250	97	*[76]	Legal Source[76]	
+51-9	6251-6255	S.Ct	*[76]	Legal Source[76]	
+51-10	6256-6257	.	*[76]	Legal Source[76]	
+51-11	6258-6261	568	*[76]	Legal Source[76]	
+51-12	6262-6263	.	_	_	
+
+#Text=Significantly , that decision postdates enactment of the federal - sector provision by three years .
+52-1	6264-6277	Significantly	_	_	
+52-2	6278-6279	,	_	_	
+52-3	6280-6284	that	_	_	
+52-4	6285-6293	decision	_	_	
+52-5	6294-6303	postdates	_	_	
+52-6	6304-6313	enactment	_	_	
+52-7	6314-6316	of	_	_	
+52-8	6317-6320	the	_	_	
+52-9	6321-6328	federal	_	_	
+52-10	6329-6330	-	_	_	
+52-11	6331-6337	sector	_	_	
+52-12	6338-6347	provision	_	_	
+52-13	6348-6350	by	_	_	
+52-14	6351-6356	three	_	_	
+52-15	6357-6362	years	_	_	
+52-16	6363-6364	.	_	_	
+
+#Text=And   Mt. Healthy did not import a remedial scheme from a previously existing statute or common - law rule .
+53-1	6365-6368	And	_	_	
+53-2	6371-6374	Mt.	_	_	
+53-3	6375-6382	Healthy	_	_	
+53-4	6383-6386	did	_	_	
+53-5	6387-6390	not	_	_	
+53-6	6391-6397	import	_	_	
+53-7	6398-6399	a	_	_	
+53-8	6400-6408	remedial	_	_	
+53-9	6409-6415	scheme	_	_	
+53-10	6416-6420	from	_	_	
+53-11	6421-6422	a	_	_	
+53-12	6423-6433	previously	_	_	
+53-13	6434-6442	existing	_	_	
+53-14	6443-6450	statute	*	Metalinguistic Cue	
+53-15	6451-6453	or	_	_	
+53-16	6454-6460	common	_	_	
+53-17	6461-6462	-	_	_	
+53-18	6463-6466	law	_	_	
+53-19	6467-6471	rule	_	_	
+53-20	6472-6473	.	_	_	
+
+#Text=Rather , the Court cited other cases in which it had similarly fashioned a novel causation standard for constitutional claims - none of which concerned remedies - as " instructive in formulating the test to be applied . "
+54-1	6474-6480	Rather	_	_	
+54-2	6481-6482	,	_	_	
+54-3	6483-6486	the	_	_	
+54-4	6487-6492	Court	_	_	
+54-5	6493-6498	cited	*	Metalinguistic Cue	
+54-6	6499-6504	other	_	_	
+54-7	6505-6510	cases	_	_	
+54-8	6511-6513	in	_	_	
+54-9	6514-6519	which	_	_	
+54-10	6520-6522	it	_	_	
+54-11	6523-6526	had	_	_	
+54-12	6527-6536	similarly	_	_	
+54-13	6537-6546	fashioned	_	_	
+54-14	6547-6548	a	_	_	
+54-15	6549-6554	novel	_	_	
+54-16	6555-6564	causation	_	_	
+54-17	6565-6573	standard	_	_	
+54-18	6574-6577	for	_	_	
+54-19	6578-6592	constitutional	_	_	
+54-20	6593-6599	claims	_	_	
+54-21	6600-6601	-	_	_	
+54-22	6602-6606	none	_	_	
+54-23	6607-6609	of	_	_	
+54-24	6610-6615	which	_	_	
+54-25	6616-6625	concerned	_	_	
+54-26	6626-6634	remedies	_	_	
+54-27	6635-6636	-	_	_	
+54-28	6637-6639	as	_	_	
+54-29	6640-6641	"	*[77]	Direct Quote[77]	
+54-30	6642-6653	instructive	*[77]	Direct Quote[77]	
+54-31	6654-6656	in	*[77]	Direct Quote[77]	
+54-32	6657-6668	formulating	*[77]	Direct Quote[77]	
+54-33	6669-6672	the	*[77]	Direct Quote[77]	
+54-34	6673-6677	test	*[77]	Direct Quote[77]	
+54-35	6678-6680	to	*[77]	Direct Quote[77]	
+54-36	6681-6683	be	*[77]	Direct Quote[77]	
+54-37	6684-6691	applied	*[77]	Direct Quote[77]	
+54-38	6692-6693	.	*[77]	Direct Quote[77]	
+54-39	6694-6695	"	*[77]	Direct Quote[77]	
+
+#Text=Id. , at 286 - 287 , 97 S.Ct . 568 .
+55-1	6696-6699	Id.	*[78]	Legal Source[78]	
+55-2	6700-6701	,	*[78]	Legal Source[78]	
+55-3	6702-6704	at	*[78]	Legal Source[78]	
+55-4	6705-6708	286	*[78]	Legal Source[78]	
+55-5	6709-6710	-	*[78]	Legal Source[78]	
+55-6	6711-6714	287	*[78]	Legal Source[78]	
+55-7	6715-6716	,	*[78]	Legal Source[78]	
+55-8	6717-6719	97	*[78]	Legal Source[78]	
+55-9	6720-6724	S.Ct	*[78]	Legal Source[78]	
+55-10	6725-6726	.	*[78]	Legal Source[78]	
+55-11	6727-6730	568	*[78]	Legal Source[78]	
+55-12	6731-6732	.	_	_	
+
+#Text=It is incongruous to suggest that Congress could have intended to incorporate a remedial scheme that appears not to have existed at the time the statute was passed .
+56-1	6733-6735	It	_	_	
+56-2	6736-6738	is	_	_	
+56-3	6739-6750	incongruous	_	_	
+56-4	6751-6753	to	_	_	
+56-5	6754-6761	suggest	_	_	
+56-6	6762-6766	that	_	_	
+56-7	6767-6775	Congress	_	_	
+56-8	6776-6781	could	_	_	
+56-9	6782-6786	have	_	_	
+56-10	6787-6795	intended	_	_	
+56-11	6796-6798	to	_	_	
+56-12	6799-6810	incorporate	_	_	
+56-13	6811-6812	a	_	_	
+56-14	6813-6821	remedial	_	_	
+56-15	6822-6828	scheme	_	_	
+56-16	6829-6833	that	_	_	
+56-17	6834-6841	appears	_	_	
+56-18	6842-6845	not	_	_	
+56-19	6846-6848	to	_	_	
+56-20	6849-6853	have	_	_	
+56-21	6854-6861	existed	_	_	
+56-22	6862-6864	at	_	_	
+56-23	6865-6868	the	_	_	
+56-24	6869-6873	time	_	_	
+56-25	6874-6877	the	_	_	
+56-26	6878-6885	statute	_	_	
+56-27	6886-6889	was	_	_	
+56-28	6890-6896	passed	_	_	
+56-29	6897-6898	.	_	_	
+
+#Text=Moreover ,   Mt. Healthy concerned a constitutional injury , and the Court was tasked with creating a remedy for that injury in the face of § 1983 's silence .
+57-1	6899-6907	Moreover	_	_	
+57-2	6908-6909	,	_	_	
+57-3	6912-6915	Mt.	_	_	
+57-4	6916-6923	Healthy	_	_	
+57-5	6924-6933	concerned	_	_	
+57-6	6934-6935	a	_	_	
+57-7	6936-6950	constitutional	_	_	
+57-8	6951-6957	injury	_	_	
+57-9	6958-6959	,	_	_	
+57-10	6960-6963	and	_	_	
+57-11	6964-6967	the	_	_	
+57-12	6968-6973	Court	_	_	
+57-13	6974-6977	was	_	_	
+57-14	6978-6984	tasked	_	_	
+57-15	6985-6989	with	_	_	
+57-16	6990-6998	creating	_	_	
+57-17	6999-7000	a	_	_	
+57-18	7001-7007	remedy	_	_	
+57-19	7008-7011	for	_	_	
+57-20	7012-7016	that	_	_	
+57-21	7017-7023	injury	_	_	
+57-22	7024-7026	in	_	_	
+57-23	7027-7030	the	_	_	
+57-24	7031-7035	face	_	_	
+57-25	7036-7038	of	_	_	
+57-26	7039-7040	§	_	_	
+57-27	7041-7045	1983	_	_	
+57-28	7046-7048	's	_	_	
+57-29	7049-7056	silence	_	_	
+57-30	7057-7058	.	_	_	
+
+#Text=The Court fails to provide any explanation as to why it is appropriate to rely on judicially fashioned remedies for constitutional injuries in this purely statutory context .
+58-1	7059-7062	The	_	_	
+58-2	7063-7068	Court	_	_	
+58-3	7069-7074	fails	_	_	
+58-4	7075-7077	to	_	_	
+58-5	7078-7085	provide	_	_	
+58-6	7086-7089	any	_	_	
+58-7	7090-7101	explanation	_	_	
+58-8	7102-7104	as	_	_	
+58-9	7105-7107	to	_	_	
+58-10	7108-7111	why	_	_	
+58-11	7112-7114	it	_	_	
+58-12	7115-7117	is	_	_	
+58-13	7118-7129	appropriate	_	_	
+58-14	7130-7132	to	_	_	
+58-15	7133-7137	rely	_	_	
+58-16	7138-7140	on	_	_	
+58-17	7141-7151	judicially	_	_	
+58-18	7152-7161	fashioned	_	_	
+58-19	7162-7170	remedies	_	_	
+58-20	7171-7174	for	_	_	
+58-21	7175-7189	constitutional	_	_	
+58-22	7190-7198	injuries	_	_	
+58-23	7199-7201	in	_	_	
+58-24	7202-7206	this	_	_	
+58-25	7207-7213	purely	_	_	
+58-26	7214-7223	statutory	*	Metalinguistic Cue	
+58-27	7224-7231	context	_	_	
+58-28	7232-7233	.	_	_	
+
+#Text=In sum , the Court implausibly concludes that , in the federal - sector provision of the ADEA , Congress created a novel " any consideration " causation standard but remained completely silent as to what remedies were available under that new rule .
+59-1	7234-7236	In	_	_	
+59-2	7237-7240	sum	_	_	
+59-3	7241-7242	,	_	_	
+59-4	7243-7246	the	_	_	
+59-5	7247-7252	Court	_	_	
+59-6	7253-7264	implausibly	_	_	
+59-7	7265-7274	concludes	_	_	
+59-8	7275-7279	that	_	_	
+59-9	7280-7281	,	_	_	
+59-10	7282-7284	in	_	_	
+59-11	7285-7288	the	_	_	
+59-12	7289-7296	federal	_	_	
+59-13	7297-7298	-	_	_	
+59-14	7299-7305	sector	_	_	
+59-15	7306-7315	provision	*	Metalinguistic Cue	
+59-16	7316-7318	of	_	_	
+59-17	7319-7322	the	_	_	
+59-18	7323-7327	ADEA	*	Legal Source	
+59-19	7328-7329	,	_	_	
+59-20	7330-7338	Congress	_	_	
+59-21	7339-7346	created	_	_	
+59-22	7347-7348	a	_	_	
+59-23	7349-7354	novel	_	_	
+59-24	7355-7356	"	*[79]	Direct Quote[79]	
+59-25	7357-7360	any	*[79]	Direct Quote[79]	
+59-26	7361-7374	consideration	*[79]	Direct Quote[79]	
+59-27	7375-7376	"	*[79]	Direct Quote[79]	
+59-28	7377-7386	causation	_	_	
+59-29	7387-7395	standard	_	_	
+59-30	7396-7399	but	_	_	
+59-31	7400-7408	remained	_	_	
+59-32	7409-7419	completely	_	_	
+59-33	7420-7426	silent	_	_	
+59-34	7427-7429	as	_	_	
+59-35	7430-7432	to	_	_	
+59-36	7433-7437	what	_	_	
+59-37	7438-7446	remedies	_	_	
+59-38	7447-7451	were	_	_	
+59-39	7452-7461	available	_	_	
+59-40	7462-7467	under	_	_	
+59-41	7468-7472	that	_	_	
+59-42	7473-7476	new	_	_	
+59-43	7477-7481	rule	_	_	
+59-44	7482-7483	.	_	_	
+
+#Text=Just as implausibly , the Court assumes from this congressional silence that Congress intended for judges to craft a remedial scheme in which the available relief would vary depending on the inflicted injury , using an as - yet - unknown scheme .
+60-1	7484-7488	Just	_	_	
+60-2	7489-7491	as	_	_	
+60-3	7492-7503	implausibly	_	_	
+60-4	7504-7505	,	_	_	
+60-5	7506-7509	the	_	_	
+60-6	7510-7515	Court	_	_	
+60-7	7516-7523	assumes	_	_	
+60-8	7524-7528	from	_	_	
+60-9	7529-7533	this	_	_	
+60-10	7534-7547	congressional	_	_	
+60-11	7548-7555	silence	_	_	
+60-12	7556-7560	that	_	_	
+60-13	7561-7569	Congress	_	_	
+60-14	7570-7578	intended	_	_	
+60-15	7579-7582	for	_	_	
+60-16	7583-7589	judges	_	_	
+60-17	7590-7592	to	_	_	
+60-18	7593-7598	craft	_	_	
+60-19	7599-7600	a	_	_	
+60-20	7601-7609	remedial	_	_	
+60-21	7610-7616	scheme	_	_	
+60-22	7617-7619	in	_	_	
+60-23	7620-7625	which	_	_	
+60-24	7626-7629	the	_	_	
+60-25	7630-7639	available	_	_	
+60-26	7640-7646	relief	_	_	
+60-27	7647-7652	would	_	_	
+60-28	7653-7657	vary	_	_	
+60-29	7658-7667	depending	_	_	
+60-30	7668-7670	on	_	_	
+60-31	7671-7674	the	_	_	
+60-32	7675-7684	inflicted	_	_	
+60-33	7685-7691	injury	_	_	
+60-34	7692-7693	,	_	_	
+60-35	7694-7699	using	_	_	
+60-36	7700-7702	an	_	_	
+60-37	7703-7705	as	_	_	
+60-38	7706-7707	-	_	_	
+60-39	7708-7711	yet	_	_	
+60-40	7712-7713	-	_	_	
+60-41	7714-7721	unknown	_	_	
+60-42	7722-7728	scheme	_	_	
+60-43	7729-7730	.	_	_	
+
+#Text=I would not follow such an unusual course .
+61-1	7731-7732	I	_	_	
+61-2	7733-7738	would	_	_	
+61-3	7739-7742	not	_	_	
+61-4	7743-7749	follow	_	_	
+61-5	7750-7754	such	_	_	
+61-6	7755-7757	an	_	_	
+61-7	7758-7765	unusual	_	_	
+61-8	7766-7772	course	_	_	
+61-9	7773-7774	.	_	_	
+
+#Text=We have stated in the past that we must " read [ the ADEA ] the way Congress wrote it . "
+62-1	7775-7777	We	_	_	
+62-2	7778-7782	have	_	_	
+62-3	7783-7789	stated	_	_	
+62-4	7790-7792	in	_	_	
+62-5	7793-7796	the	_	_	
+62-6	7797-7801	past	_	_	
+62-7	7802-7806	that	_	_	
+62-8	7807-7809	we	*[80]	Appeal to Meaning[80]	
+62-9	7810-7814	must	*[80]	Appeal to Meaning[80]	
+62-10	7815-7816	"	*[80]|*[81]	Appeal to Meaning[80]|Direct Quote[81]	
+62-11	7817-7821	read	*[80]|*[81]	Appeal to Meaning[80]|Direct Quote[81]	
+62-12	7822-7823	[	*[80]|*[81]	Appeal to Meaning[80]|Direct Quote[81]	
+62-13	7824-7827	the	*[80]|*[81]	Appeal to Meaning[80]|Direct Quote[81]	
+62-14	7828-7832	ADEA	*[80]|*[81]	Appeal to Meaning[80]|Direct Quote[81]	
+62-15	7833-7834	]	*[80]|*[81]	Appeal to Meaning[80]|Direct Quote[81]	
+62-16	7835-7838	the	*[80]|*[81]	Appeal to Meaning[80]|Direct Quote[81]	
+62-17	7839-7842	way	*[80]|*[81]	Appeal to Meaning[80]|Direct Quote[81]	
+62-18	7843-7851	Congress	*[80]|*[81]	Appeal to Meaning[80]|Direct Quote[81]	
+62-19	7852-7857	wrote	*[80]|*[81]	Appeal to Meaning[80]|Direct Quote[81]	
+62-20	7858-7860	it	*[80]|*[81]	Appeal to Meaning[80]|Direct Quote[81]	
+62-21	7861-7862	.	*[81]	Direct Quote[81]	
+62-22	7863-7864	"	*[81]	Direct Quote[81]	
+
+#Text=Meacham v. Knolls Atomic Power Laboratory , 554 U.S. 84 , 102 , 128 S.Ct . 2395 , 171 L.Ed.2d 283 ( 2008 ) .
+63-1	7865-7872	Meacham	*[82]	Legal Source[82]	
+63-2	7873-7875	v.	*[82]	Legal Source[82]	
+63-3	7876-7882	Knolls	*[82]	Legal Source[82]	
+63-4	7883-7889	Atomic	*[82]	Legal Source[82]	
+63-5	7890-7895	Power	*[82]	Legal Source[82]	
+63-6	7896-7906	Laboratory	*[82]	Legal Source[82]	
+63-7	7907-7908	,	*[82]	Legal Source[82]	
+63-8	7909-7912	554	*[82]	Legal Source[82]	
+63-9	7913-7917	U.S.	*[82]	Legal Source[82]	
+63-10	7918-7920	84	*[82]	Legal Source[82]	
+63-11	7921-7922	,	*[82]	Legal Source[82]	
+63-12	7923-7926	102	*[82]	Legal Source[82]	
+63-13	7927-7928	,	*[82]	Legal Source[82]	
+63-14	7929-7932	128	*[82]	Legal Source[82]	
+63-15	7933-7937	S.Ct	*[82]	Legal Source[82]	
+63-16	7938-7939	.	*[82]	Legal Source[82]	
+63-17	7940-7944	2395	*[82]	Legal Source[82]	
+63-18	7945-7946	,	*[82]	Legal Source[82]	
+63-19	7947-7950	171	*[82]	Legal Source[82]	
+63-20	7951-7958	L.Ed.2d	*[82]	Legal Source[82]	
+63-21	7959-7962	283	*[82]	Legal Source[82]	
+63-22	7963-7964	(	*[82]	Legal Source[82]	
+63-23	7965-7969	2008	*[82]	Legal Source[82]	
+63-24	7970-7971	)	*[82]	Legal Source[82]	
+63-25	7972-7973	.	_	_	
+
+#Text=The federal - sector provision contains no clear language displacing the default rule , and Congress has demonstrated that it knows how to do so when it wishes .
+64-1	7974-7977	The	_	_	
+64-2	7978-7985	federal	_	_	
+64-3	7986-7987	-	_	_	
+64-4	7988-7994	sector	_	_	
+64-5	7995-8004	provision	_	_	
+64-6	8005-8013	contains	_	_	
+64-7	8014-8016	no	_	_	
+64-8	8017-8022	clear	*[83]	Metalinguistic Cue[83]	
+64-9	8023-8031	language	*[83]	Metalinguistic Cue[83]	
+64-10	8032-8042	displacing	_	_	
+64-11	8043-8046	the	_	_	
+64-12	8047-8054	default	_	_	
+64-13	8055-8059	rule	_	_	
+64-14	8060-8061	,	_	_	
+64-15	8062-8065	and	_	_	
+64-16	8066-8074	Congress	_	_	
+64-17	8075-8078	has	_	_	
+64-18	8079-8091	demonstrated	_	_	
+64-19	8092-8096	that	_	_	
+64-20	8097-8099	it	_	_	
+64-21	8100-8105	knows	_	_	
+64-22	8106-8109	how	_	_	
+64-23	8110-8112	to	_	_	
+64-24	8113-8115	do	_	_	
+64-25	8116-8118	so	_	_	
+64-26	8119-8123	when	_	_	
+64-27	8124-8126	it	_	_	
+64-28	8127-8133	wishes	_	_	
+64-29	8134-8135	.	_	_	
+
+#Text=See 42 U.S.C. § 2000e-2(m ) ( providing that an employer is liable if an employee establishes that a protected characteristic was a motivating factor in an employment action ) ; § 2000e-5(g)(2)(B ) ( limiting the remedies available to plaintiffs who establish motivating factor liability ) .
+65-1	8136-8139	See	_	_	
+65-2	8140-8142	42	*[84]	Legal Source[84]	
+65-3	8143-8149	U.S.C.	*[84]	Legal Source[84]	
+65-4	8150-8151	§	*[84]	Legal Source[84]	
+65-5	8152-8161	2000e-2(m	*[84]	Legal Source[84]	
+65-6	8162-8163	)	*[84]	Legal Source[84]	
+65-7	8164-8165	(	_	_	
+65-8	8166-8175	providing	_	_	
+65-9	8176-8180	that	_	_	
+65-10	8181-8183	an	_	_	
+65-11	8184-8192	employer	_	_	
+65-12	8193-8195	is	_	_	
+65-13	8196-8202	liable	_	_	
+65-14	8203-8205	if	_	_	
+65-15	8206-8208	an	_	_	
+65-16	8209-8217	employee	_	_	
+65-17	8218-8229	establishes	_	_	
+65-18	8230-8234	that	_	_	
+65-19	8235-8236	a	_	_	
+65-20	8237-8246	protected	_	_	
+65-21	8247-8261	characteristic	_	_	
+65-22	8262-8265	was	_	_	
+65-23	8266-8267	a	_	_	
+65-24	8268-8278	motivating	_	_	
+65-25	8279-8285	factor	_	_	
+65-26	8286-8288	in	_	_	
+65-27	8289-8291	an	_	_	
+65-28	8292-8302	employment	_	_	
+65-29	8303-8309	action	_	_	
+65-30	8310-8311	)	_	_	
+65-31	8312-8313	;	_	_	
+65-32	8314-8315	§	*[85]	Legal Source[85]	
+65-33	8316-8331	2000e-5(g)(2)(B	*[85]	Legal Source[85]	
+65-34	8332-8333	)	*[85]	Legal Source[85]	
+65-35	8334-8335	(	_	_	
+65-36	8336-8344	limiting	_	_	
+65-37	8345-8348	the	_	_	
+65-38	8349-8357	remedies	_	_	
+65-39	8358-8367	available	_	_	
+65-40	8368-8370	to	_	_	
+65-41	8371-8381	plaintiffs	_	_	
+65-42	8382-8385	who	_	_	
+65-43	8386-8395	establish	_	_	
+65-44	8396-8406	motivating	_	_	
+65-45	8407-8413	factor	_	_	
+65-46	8414-8423	liability	_	_	
+65-47	8424-8425	)	_	_	
+65-48	8426-8427	.	_	_	
+
+#Text=Rather than supplementing a novel rule with a judicially crafted remedy , I would infer from the textual silence that Congress wrote the ADEA to conform to the default rule of but - for causation .
+66-1	8428-8434	Rather	_	_	
+66-2	8435-8439	than	_	_	
+66-3	8440-8453	supplementing	_	_	
+66-4	8454-8455	a	_	_	
+66-5	8456-8461	novel	_	_	
+66-6	8462-8466	rule	_	_	
+66-7	8467-8471	with	_	_	
+66-8	8472-8473	a	_	_	
+66-9	8474-8484	judicially	_	_	
+66-10	8485-8492	crafted	_	_	
+66-11	8493-8499	remedy	_	_	
+66-12	8500-8501	,	_	_	
+66-13	8502-8503	I	_	_	
+66-14	8504-8509	would	_	_	
+66-15	8510-8515	infer	_	_	
+66-16	8516-8520	from	_	_	
+66-17	8521-8524	the	_	_	
+66-18	8525-8532	textual	*[86]	Metalinguistic Cue[86]	
+66-19	8533-8540	silence	*[86]	Metalinguistic Cue[86]	
+66-20	8541-8545	that	_	_	
+66-21	8546-8554	Congress	_	_	
+66-22	8555-8560	wrote	_	_	
+66-23	8561-8564	the	_	_	
+66-24	8565-8569	ADEA	*	Legal Source	
+66-25	8570-8572	to	_	_	
+66-26	8573-8580	conform	_	_	
+66-27	8581-8583	to	_	_	
+66-28	8584-8587	the	_	_	
+66-29	8588-8595	default	_	_	
+66-30	8596-8600	rule	_	_	
+66-31	8601-8603	of	_	_	
+66-32	8604-8607	but	_	_	
+66-33	8608-8609	-	_	_	
+66-34	8610-8613	for	_	_	
+66-35	8614-8623	causation	_	_	
+66-36	8624-8625	.	_	_	
+
+#Text=II
+67-1	8626-8628	II	_	_	
+
+#Text=Perhaps the most striking aspect of the Court 's analysis is its failure to grapple with the sheer unworkability of its rule .
+68-1	8629-8636	Perhaps	_	_	
+68-2	8637-8640	the	_	_	
+68-3	8641-8645	most	_	_	
+68-4	8646-8654	striking	_	_	
+68-5	8655-8661	aspect	_	_	
+68-6	8662-8664	of	_	_	
+68-7	8665-8668	the	_	_	
+68-8	8669-8674	Court	_	_	
+68-9	8675-8677	's	_	_	
+68-10	8678-8686	analysis	_	_	
+68-11	8687-8689	is	_	_	
+68-12	8690-8693	its	_	_	
+68-13	8694-8701	failure	_	_	
+68-14	8702-8704	to	_	_	
+68-15	8705-8712	grapple	_	_	
+68-16	8713-8717	with	_	_	
+68-17	8718-8721	the	_	_	
+68-18	8722-8727	sheer	_	_	
+68-19	8728-8741	unworkability	_	_	
+68-20	8742-8744	of	_	_	
+68-21	8745-8748	its	_	_	
+68-22	8749-8753	rule	_	_	
+68-23	8754-8755	.	_	_	
+
+#Text=The Court contends that a plaintiff may successfully bring a cause of action if age " taint[s ] " the making of a personnel action , even if the agency would have reached the same outcome absent any age - based discrimination .
+69-1	8756-8759	The	_	_	
+69-2	8760-8765	Court	_	_	
+69-3	8766-8774	contends	_	_	
+69-4	8775-8779	that	_	_	
+69-5	8780-8781	a	_	_	
+69-6	8782-8791	plaintiff	_	_	
+69-7	8792-8795	may	_	_	
+69-8	8796-8808	successfully	_	_	
+69-9	8809-8814	bring	_	_	
+69-10	8815-8816	a	_	_	
+69-11	8817-8822	cause	_	_	
+69-12	8823-8825	of	_	_	
+69-13	8826-8832	action	_	_	
+69-14	8833-8835	if	_	_	
+69-15	8836-8839	age	_	_	
+69-16	8840-8841	"	*[87]	Direct Quote[87]	
+69-17	8842-8849	taint[s	*[87]	Direct Quote[87]	
+69-18	8850-8851	]	*[87]	Direct Quote[87]	
+69-19	8852-8853	"	*[87]	Direct Quote[87]	
+69-20	8854-8857	the	_	_	
+69-21	8858-8864	making	_	_	
+69-22	8865-8867	of	_	_	
+69-23	8868-8869	a	_	_	
+69-24	8870-8879	personnel	_	_	
+69-25	8880-8886	action	_	_	
+69-26	8887-8888	,	_	_	
+69-27	8889-8893	even	_	_	
+69-28	8894-8896	if	_	_	
+69-29	8897-8900	the	_	_	
+69-30	8901-8907	agency	_	_	
+69-31	8908-8913	would	_	_	
+69-32	8914-8918	have	_	_	
+69-33	8919-8926	reached	_	_	
+69-34	8927-8930	the	_	_	
+69-35	8931-8935	same	_	_	
+69-36	8936-8943	outcome	_	_	
+69-37	8944-8950	absent	_	_	
+69-38	8951-8954	any	_	_	
+69-39	8955-8958	age	_	_	
+69-40	8959-8960	-	_	_	
+69-41	8961-8966	based	_	_	
+69-42	8967-8981	discrimination	_	_	
+69-43	8982-8983	.	_	_	
+
+#Text=Ante , at 1173 - 1174 .
+70-1	8986-8990	Ante	*[88]	Legal Source[88]	
+70-2	8991-8992	,	*[88]	Legal Source[88]	
+70-3	8993-8995	at	*[88]	Legal Source[88]	
+70-4	8996-9000	1173	*[88]	Legal Source[88]	
+70-5	9001-9002	-	*[88]	Legal Source[88]	
+70-6	9003-9007	1174	*[88]	Legal Source[88]	
+70-7	9008-9009	.	_	_	
+
+#Text=Because § 633a(a ) 's language also appears in the federal - sector provision of Title VII , 42 U.S.C. § 2000e-16(a ) , the Court 's rule presumably applies to claims alleging discrimination based on sex , race , religion , color , and national origin as well .
+71-1	9010-9017	Because	_	_	
+71-2	9018-9019	§	*[89]	Legal Source[89]	
+71-3	9020-9026	633a(a	*[89]	Legal Source[89]	
+71-4	9027-9028	)	*[89]	Legal Source[89]	
+71-5	9029-9031	's	_	_	
+71-6	9032-9040	language	*	Metalinguistic Cue	
+71-7	9041-9045	also	_	_	
+71-8	9046-9053	appears	_	_	
+71-9	9054-9056	in	_	_	
+71-10	9057-9060	the	_	_	
+71-11	9061-9068	federal	_	_	
+71-12	9069-9070	-	_	_	
+71-13	9071-9077	sector	_	_	
+71-14	9078-9087	provision	_	_	
+71-15	9088-9090	of	_	_	
+71-16	9091-9096	Title	*[90]	Legal Source[90]	
+71-17	9097-9100	VII	*[90]	Legal Source[90]	
+71-18	9101-9102	,	*[90]	Legal Source[90]	
+71-19	9103-9105	42	*[90]	Legal Source[90]	
+71-20	9106-9112	U.S.C.	*[90]	Legal Source[90]	
+71-21	9113-9114	§	*[90]	Legal Source[90]	
+71-22	9115-9125	2000e-16(a	*[90]	Legal Source[90]	
+71-23	9126-9127	)	*[90]	Legal Source[90]	
+71-24	9128-9129	,	_	_	
+71-25	9130-9133	the	_	_	
+71-26	9134-9139	Court	_	_	
+71-27	9140-9142	's	_	_	
+71-28	9143-9147	rule	_	_	
+71-29	9148-9158	presumably	_	_	
+71-30	9159-9166	applies	_	_	
+71-31	9167-9169	to	_	_	
+71-32	9170-9176	claims	_	_	
+71-33	9177-9185	alleging	_	_	
+71-34	9186-9200	discrimination	_	_	
+71-35	9201-9206	based	_	_	
+71-36	9207-9209	on	_	_	
+71-37	9210-9213	sex	_	_	
+71-38	9214-9215	,	_	_	
+71-39	9216-9220	race	_	_	
+71-40	9221-9222	,	_	_	
+71-41	9223-9231	religion	_	_	
+71-42	9232-9233	,	_	_	
+71-43	9234-9239	color	_	_	
+71-44	9240-9241	,	_	_	
+71-45	9242-9245	and	_	_	
+71-46	9246-9254	national	_	_	
+71-47	9255-9261	origin	_	_	
+71-48	9262-9264	as	_	_	
+71-49	9265-9269	well	_	_	
+71-50	9270-9271	.	_	_	
+
+#Text=The Court 's rule might have some purchase if , as Babb contends , the Federal Government purposely set up a purely merit - based system for its personnel actions .
+72-1	9272-9275	The	_	_	
+72-2	9276-9281	Court	_	_	
+72-3	9282-9284	's	_	_	
+72-4	9285-9289	rule	_	_	
+72-5	9290-9295	might	_	_	
+72-6	9296-9300	have	_	_	
+72-7	9301-9305	some	_	_	
+72-8	9306-9314	purchase	_	_	
+72-9	9315-9317	if	_	_	
+72-10	9318-9319	,	_	_	
+72-11	9320-9322	as	_	_	
+72-12	9323-9327	Babb	_	_	
+72-13	9328-9336	contends	_	_	
+72-14	9337-9338	,	_	_	
+72-15	9339-9342	the	_	_	
+72-16	9343-9350	Federal	_	_	
+72-17	9351-9361	Government	_	_	
+72-18	9362-9371	purposely	_	_	
+72-19	9372-9375	set	_	_	
+72-20	9376-9378	up	_	_	
+72-21	9379-9380	a	_	_	
+72-22	9381-9387	purely	_	_	
+72-23	9388-9393	merit	_	_	
+72-24	9394-9395	-	_	_	
+72-25	9396-9401	based	_	_	
+72-26	9402-9408	system	_	_	
+72-27	9409-9412	for	_	_	
+72-28	9413-9416	its	_	_	
+72-29	9417-9426	personnel	*[91]	Focal Term[91]	
+72-30	9427-9434	actions	*[91]	Focal Term[91]	
+72-31	9435-9436	.	_	_	
+
+#Text=But as anyone with knowledge of the Federal Government 's hiring practices knows , this is hardly the case .
+73-1	9437-9440	But	_	_	
+73-2	9441-9443	as	_	_	
+73-3	9444-9450	anyone	_	_	
+73-4	9451-9455	with	_	_	
+73-5	9456-9465	knowledge	_	_	
+73-6	9466-9468	of	_	_	
+73-7	9469-9472	the	_	_	
+73-8	9473-9480	Federal	_	_	
+73-9	9481-9491	Government	_	_	
+73-10	9492-9494	's	_	_	
+73-11	9495-9501	hiring	_	_	
+73-12	9502-9511	practices	_	_	
+73-13	9512-9517	knows	_	_	
+73-14	9518-9519	,	_	_	
+73-15	9520-9524	this	_	_	
+73-16	9525-9527	is	_	_	
+73-17	9528-9534	hardly	_	_	
+73-18	9535-9538	the	_	_	
+73-19	9539-9543	case	_	_	
+73-20	9544-9545	.	_	_	
+
+#Text=Federal hiring is riddled with exceptions and affirmative action programs , which by their very nature are not singularly focused on merit .
+74-1	9546-9553	Federal	_	_	
+74-2	9554-9560	hiring	_	_	
+74-3	9561-9563	is	_	_	
+74-4	9564-9571	riddled	_	_	
+74-5	9572-9576	with	_	_	
+74-6	9577-9587	exceptions	_	_	
+74-7	9588-9591	and	_	_	
+74-8	9592-9603	affirmative	_	_	
+74-9	9604-9610	action	_	_	
+74-10	9611-9619	programs	_	_	
+74-11	9620-9621	,	_	_	
+74-12	9622-9627	which	_	_	
+74-13	9628-9630	by	_	_	
+74-14	9631-9636	their	_	_	
+74-15	9637-9641	very	_	_	
+74-16	9642-9648	nature	_	_	
+74-17	9649-9652	are	_	_	
+74-18	9653-9656	not	_	_	
+74-19	9657-9667	singularly	_	_	
+74-20	9668-9675	focused	_	_	
+74-21	9676-9678	on	_	_	
+74-22	9679-9684	merit	_	_	
+74-23	9685-9686	.	_	_	
+
+#Text=A few examples suffice to demonstrate this point .
+75-1	9687-9688	A	_	_	
+75-2	9689-9692	few	_	_	
+75-3	9693-9701	examples	_	_	
+75-4	9702-9709	suffice	_	_	
+75-5	9710-9712	to	_	_	
+75-6	9713-9724	demonstrate	_	_	
+75-7	9725-9729	this	_	_	
+75-8	9730-9735	point	_	_	
+75-9	9736-9737	.	_	_	
+
+#Text=The Veterans Preference Act of 1944 entitles certain veterans , their spouses , and their parents to preferences in hiring and in retention during reductions in force .
+76-1	9738-9741	The	_	_	
+76-2	9742-9750	Veterans	*[92]	Legal Source[92]	
+76-3	9751-9761	Preference	*[92]	Legal Source[92]	
+76-4	9762-9765	Act	*[92]	Legal Source[92]	
+76-5	9766-9768	of	*[92]	Legal Source[92]	
+76-6	9769-9773	1944	*[92]	Legal Source[92]	
+76-7	9774-9782	entitles	_	_	
+76-8	9783-9790	certain	_	_	
+76-9	9791-9799	veterans	_	_	
+76-10	9800-9801	,	_	_	
+76-11	9802-9807	their	_	_	
+76-12	9808-9815	spouses	_	_	
+76-13	9816-9817	,	_	_	
+76-14	9818-9821	and	_	_	
+76-15	9822-9827	their	_	_	
+76-16	9828-9835	parents	_	_	
+76-17	9836-9838	to	_	_	
+76-18	9839-9850	preferences	_	_	
+76-19	9851-9853	in	_	_	
+76-20	9854-9860	hiring	_	_	
+76-21	9861-9864	and	_	_	
+76-22	9865-9867	in	_	_	
+76-23	9868-9877	retention	_	_	
+76-24	9878-9884	during	_	_	
+76-25	9885-9895	reductions	_	_	
+76-26	9896-9898	in	_	_	
+76-27	9899-9904	force	_	_	
+76-28	9905-9906	.	_	_	
+
+#Text=5 U.S.C. § § 2108 ( 3 ) , 3502 , 3309 ; 5 CFR § 211.102 ( 2019 ) .
+77-1	9907-9908	5	*[93]	Legal Source[93]	
+77-2	9909-9915	U.S.C.	*[93]	Legal Source[93]	
+77-3	9916-9917	§	*[93]	Legal Source[93]	
+77-4	9918-9919	§	*[93]	Legal Source[93]	
+77-5	9920-9924	2108	*[93]	Legal Source[93]	
+77-6	9925-9926	(	*[93]	Legal Source[93]	
+77-7	9927-9928	3	*[93]	Legal Source[93]	
+77-8	9929-9930	)	*[93]	Legal Source[93]	
+77-9	9931-9932	,	*[93]	Legal Source[93]	
+77-10	9933-9937	3502	*[93]	Legal Source[93]	
+77-11	9938-9939	,	*[93]	Legal Source[93]	
+77-12	9940-9944	3309	*[93]	Legal Source[93]	
+77-13	9945-9946	;	_	_	
+77-14	9947-9948	5	*[94]	Legal Source[94]	
+77-15	9949-9952	CFR	*[94]	Legal Source[94]	
+77-16	9953-9954	§	*[94]	Legal Source[94]	
+77-17	9955-9962	211.102	*[94]	Legal Source[94]	
+77-18	9963-9964	(	*[94]	Legal Source[94]	
+77-19	9965-9969	2019	*[94]	Legal Source[94]	
+77-20	9970-9971	)	*[94]	Legal Source[94]	
+77-21	9972-9973	.	_	_	
+
+#Text=Affirmative action exists for people with disabilities , both in competitive and noncompetitive employment .
+78-1	9974-9985	Affirmative	_	_	
+78-2	9986-9992	action	_	_	
+78-3	9993-9999	exists	_	_	
+78-4	10000-10003	for	_	_	
+78-5	10004-10010	people	_	_	
+78-6	10011-10015	with	_	_	
+78-7	10016-10028	disabilities	_	_	
+78-8	10029-10030	,	_	_	
+78-9	10031-10035	both	_	_	
+78-10	10036-10038	in	_	_	
+78-11	10039-10050	competitive	_	_	
+78-12	10051-10054	and	_	_	
+78-13	10055-10069	noncompetitive	_	_	
+78-14	10070-10080	employment	_	_	
+78-15	10081-10082	.	_	_	
+
+#Text=See 29 U.S.C. § 791 ; 5 CFR § 213.3102 ( u ) ; 29 CFR § 1614.203 ( d ) ( 2019 ) .
+79-1	10083-10086	See	_	_	
+79-2	10087-10089	29	*[95]	Legal Source[95]	
+79-3	10090-10096	U.S.C.	*[95]	Legal Source[95]	
+79-4	10097-10098	§	*[95]	Legal Source[95]	
+79-5	10099-10102	791	*[95]	Legal Source[95]	
+79-6	10103-10104	;	*[95]	Legal Source[95]	
+79-7	10105-10106	5	*[95]	Legal Source[95]	
+79-8	10107-10110	CFR	*[95]	Legal Source[95]	
+79-9	10111-10112	§	*[95]	Legal Source[95]	
+79-10	10113-10121	213.3102	*[95]	Legal Source[95]	
+79-11	10122-10123	(	*[95]	Legal Source[95]	
+79-12	10124-10125	u	*[95]	Legal Source[95]	
+79-13	10126-10127	)	*[95]	Legal Source[95]	
+79-14	10128-10129	;	_	_	
+79-15	10130-10132	29	*[96]	Legal Source[96]	
+79-16	10133-10136	CFR	*[96]	Legal Source[96]	
+79-17	10137-10138	§	*[96]	Legal Source[96]	
+79-18	10139-10147	1614.203	*[96]	Legal Source[96]	
+79-19	10148-10149	(	*[96]	Legal Source[96]	
+79-20	10150-10151	d	*[96]	Legal Source[96]	
+79-21	10152-10153	)	*[96]	Legal Source[96]	
+79-22	10154-10155	(	*[96]	Legal Source[96]	
+79-23	10156-10160	2019	*[96]	Legal Source[96]	
+79-24	10161-10162	)	*[96]	Legal Source[96]	
+79-25	10163-10164	.	_	_	
+
+#Text=The Federal Equal Opportunity Recruitment Program requires agencies to implement recruitment plans for women and certain underrepresented minorities .
+80-1	10165-10168	The	_	_	
+80-2	10169-10176	Federal	_	_	
+80-3	10177-10182	Equal	_	_	
+80-4	10183-10194	Opportunity	_	_	
+80-5	10195-10206	Recruitment	_	_	
+80-6	10207-10214	Program	_	_	
+80-7	10215-10223	requires	_	_	
+80-8	10224-10232	agencies	_	_	
+80-9	10233-10235	to	_	_	
+80-10	10236-10245	implement	_	_	
+80-11	10246-10257	recruitment	_	_	
+80-12	10258-10263	plans	_	_	
+80-13	10264-10267	for	_	_	
+80-14	10268-10273	women	_	_	
+80-15	10274-10277	and	_	_	
+80-16	10278-10285	certain	_	_	
+80-17	10286-10302	underrepresented	_	_	
+80-18	10303-10313	minorities	_	_	
+80-19	10314-10315	.	_	_	
+
+#Text=5 U.S.C. § 7201 ; 5 CFR § 720.205 .
+81-1	10316-10317	5	*[97]	Legal Source[97]	
+81-2	10318-10324	U.S.C.	*[97]	Legal Source[97]	
+81-3	10325-10326	§	*[97]	Legal Source[97]	
+81-4	10327-10331	7201	*[97]	Legal Source[97]	
+81-5	10332-10333	;	_	_	
+81-6	10334-10335	5	*[98]	Legal Source[98]	
+81-7	10336-10339	CFR	*[98]	Legal Source[98]	
+81-8	10340-10341	§	*[98]	Legal Source[98]	
+81-9	10342-10349	720.205	*[98]	Legal Source[98]	
+81-10	10350-10351	.	_	_	
+
+#Text=And Exec . Order No . 13171 , 3 CFR 299 ( 2000 ) , requires federal agencies to " provide a plan for recruiting Hispanics that creates a fully diverse work force for the agency in the 21st century . "
+82-1	10352-10355	And	_	_	
+82-2	10356-10360	Exec	*[99]	Legal Source[99]	
+82-3	10361-10362	.	*[99]	Legal Source[99]	
+82-4	10363-10368	Order	*[99]	Legal Source[99]	
+82-5	10369-10371	No	*[99]	Legal Source[99]	
+82-6	10372-10373	.	*[99]	Legal Source[99]	
+82-7	10374-10379	13171	*[99]	Legal Source[99]	
+82-8	10380-10381	,	*[99]	Legal Source[99]	
+82-9	10382-10383	3	*[99]	Legal Source[99]	
+82-10	10384-10387	CFR	*[99]	Legal Source[99]	
+82-11	10388-10391	299	*[99]	Legal Source[99]	
+82-12	10392-10393	(	*[99]	Legal Source[99]	
+82-13	10394-10398	2000	*[99]	Legal Source[99]	
+82-14	10399-10400	)	*[99]	Legal Source[99]	
+82-15	10401-10402	,	_	_	
+82-16	10403-10411	requires	_	_	
+82-17	10412-10419	federal	_	_	
+82-18	10420-10428	agencies	_	_	
+82-19	10429-10431	to	_	_	
+82-20	10432-10433	"	*[100]	Direct Quote[100]	
+82-21	10434-10441	provide	*[100]	Direct Quote[100]	
+82-22	10442-10443	a	*[100]	Direct Quote[100]	
+82-23	10444-10448	plan	*[100]	Direct Quote[100]	
+82-24	10449-10452	for	*[100]	Direct Quote[100]	
+82-25	10453-10463	recruiting	*[100]	Direct Quote[100]	
+82-26	10464-10473	Hispanics	*[100]	Direct Quote[100]	
+82-27	10474-10478	that	*[100]	Direct Quote[100]	
+82-28	10479-10486	creates	*[100]	Direct Quote[100]	
+82-29	10487-10488	a	*[100]	Direct Quote[100]	
+82-30	10489-10494	fully	*[100]	Direct Quote[100]	
+82-31	10495-10502	diverse	*[100]	Direct Quote[100]	
+82-32	10503-10507	work	*[100]	Direct Quote[100]	
+82-33	10508-10513	force	*[100]	Direct Quote[100]	
+82-34	10514-10517	for	*[100]	Direct Quote[100]	
+82-35	10518-10521	the	*[100]	Direct Quote[100]	
+82-36	10522-10528	agency	*[100]	Direct Quote[100]	
+82-37	10529-10531	in	*[100]	Direct Quote[100]	
+82-38	10532-10535	the	*[100]	Direct Quote[100]	
+82-39	10536-10540	21st	*[100]	Direct Quote[100]	
+82-40	10541-10548	century	*[100]	Direct Quote[100]	
+82-41	10549-10550	.	*[100]	Direct Quote[100]	
+82-42	10551-10552	"	*[100]	Direct Quote[100]	
+
+#Text=Whatever the wisdom of these policies , they are not strictly merit - based hiring .
+83-1	10553-10561	Whatever	_	_	
+83-2	10562-10565	the	_	_	
+83-3	10566-10572	wisdom	_	_	
+83-4	10573-10575	of	_	_	
+83-5	10576-10581	these	_	_	
+83-6	10582-10590	policies	_	_	
+83-7	10591-10592	,	_	_	
+83-8	10593-10597	they	_	_	
+83-9	10598-10601	are	_	_	
+83-10	10602-10605	not	_	_	
+83-11	10606-10614	strictly	_	_	
+83-12	10615-10620	merit	_	_	
+83-13	10621-10622	-	_	_	
+83-14	10623-10628	based	_	_	
+83-15	10629-10635	hiring	_	_	
+83-16	10636-10637	.	_	_	
+
+#Text=The Court 's new rule is irreconcilable with these various programs because affirmative action initiatives always taint personnel actions with consideration of a protected characteristic .
+84-1	10638-10641	The	_	_	
+84-2	10642-10647	Court	_	_	
+84-3	10648-10650	's	_	_	
+84-4	10651-10654	new	_	_	
+84-5	10655-10659	rule	_	_	
+84-6	10660-10662	is	_	_	
+84-7	10663-10677	irreconcilable	_	_	
+84-8	10678-10682	with	_	_	
+84-9	10683-10688	these	_	_	
+84-10	10689-10696	various	_	_	
+84-11	10697-10705	programs	_	_	
+84-12	10706-10713	because	_	_	
+84-13	10714-10725	affirmative	_	_	
+84-14	10726-10732	action	_	_	
+84-15	10733-10744	initiatives	_	_	
+84-16	10745-10751	always	_	_	
+84-17	10752-10757	taint	_	_	
+84-18	10758-10767	personnel	_	_	
+84-19	10768-10775	actions	_	_	
+84-20	10776-10780	with	_	_	
+84-21	10781-10794	consideration	_	_	
+84-22	10795-10797	of	_	_	
+84-23	10798-10799	a	_	_	
+84-24	10800-10809	protected	_	_	
+84-25	10810-10824	characteristic	_	_	
+84-26	10825-10826	.	_	_	
+
+#Text=Consider Exec .
+85-1	10827-10835	Consider	_	_	
+85-2	10836-10840	Exec	*[101]	Legal Source[101]	
+85-3	10841-10842	.	*[101]	Legal Source[101]	
+
+#Text=Order No . 13583 , 3 CFR 267 ( 2011 ) , which directs agencies to " develop and implement a more comprehensive , integrated , and strategic focus on diversity and inclusion as a key component of their human resources strategies . "
+86-1	10843-10848	Order	*[102]	Legal Source[102]	
+86-2	10849-10851	No	*[102]	Legal Source[102]	
+86-3	10852-10853	.	*[102]	Legal Source[102]	
+86-4	10854-10859	13583	*[102]	Legal Source[102]	
+86-5	10860-10861	,	*[102]	Legal Source[102]	
+86-6	10862-10863	3	*[102]	Legal Source[102]	
+86-7	10864-10867	CFR	*[102]	Legal Source[102]	
+86-8	10868-10871	267	*[102]	Legal Source[102]	
+86-9	10872-10873	(	*[102]	Legal Source[102]	
+86-10	10874-10878	2011	*[102]	Legal Source[102]	
+86-11	10879-10880	)	*[102]	Legal Source[102]	
+86-12	10881-10882	,	_	_	
+86-13	10883-10888	which	_	_	
+86-14	10889-10896	directs	_	_	
+86-15	10897-10905	agencies	_	_	
+86-16	10906-10908	to	_	_	
+86-17	10909-10910	"	*[103]	Direct Quote[103]	
+86-18	10911-10918	develop	*[103]	Direct Quote[103]	
+86-19	10919-10922	and	*[103]	Direct Quote[103]	
+86-20	10923-10932	implement	*[103]	Direct Quote[103]	
+86-21	10933-10934	a	*[103]	Direct Quote[103]	
+86-22	10935-10939	more	*[103]	Direct Quote[103]	
+86-23	10940-10953	comprehensive	*[103]	Direct Quote[103]	
+86-24	10954-10955	,	*[103]	Direct Quote[103]	
+86-25	10956-10966	integrated	*[103]	Direct Quote[103]	
+86-26	10967-10968	,	*[103]	Direct Quote[103]	
+86-27	10969-10972	and	*[103]	Direct Quote[103]	
+86-28	10973-10982	strategic	*[103]	Direct Quote[103]	
+86-29	10983-10988	focus	*[103]	Direct Quote[103]	
+86-30	10989-10991	on	*[103]	Direct Quote[103]	
+86-31	10992-11001	diversity	*[103]	Direct Quote[103]	
+86-32	11002-11005	and	*[103]	Direct Quote[103]	
+86-33	11006-11015	inclusion	*[103]	Direct Quote[103]	
+86-34	11016-11018	as	*[103]	Direct Quote[103]	
+86-35	11019-11020	a	*[103]	Direct Quote[103]	
+86-36	11021-11024	key	*[103]	Direct Quote[103]	
+86-37	11025-11034	component	*[103]	Direct Quote[103]	
+86-38	11035-11037	of	*[103]	Direct Quote[103]	
+86-39	11038-11043	their	*[103]	Direct Quote[103]	
+86-40	11044-11049	human	*[103]	Direct Quote[103]	
+86-41	11050-11059	resources	*[103]	Direct Quote[103]	
+86-42	11060-11070	strategies	*[103]	Direct Quote[103]	
+86-43	11071-11072	.	*[103]	Direct Quote[103]	
+86-44	11073-11074	"	*[103]	Direct Quote[103]	
+
+#Text=To provide just one example of how agencies are implementing this requirement , Customs and Border Protection 's plan commits the agency to " [ i]ncreas[ing the ] percentage of applicants from underrepresented groups for internships and fellowships , " " [ c]reat[ing ] a targeted outreach campaign to underrepresented groups for career development programs at all levels , " " [ e]stablish[ing ] and maintain[ing ] strategic partnerships with diverse professional and affinity organizations , " " [ a]nalyz[ing ] demographic data for new hires and employee separations to identify and assess potential barriers to workforce diversity , " and " [ d]evelop[ing ] a diversity recruitment performance dashboard which provides relevant statistics and related performance metrics to evaluate progress towards achievement of recruitment goals . "
+87-1	11075-11077	To	_	_	
+87-2	11078-11085	provide	_	_	
+87-3	11086-11090	just	_	_	
+87-4	11091-11094	one	_	_	
+87-5	11095-11102	example	_	_	
+87-6	11103-11105	of	_	_	
+87-7	11106-11109	how	_	_	
+87-8	11110-11118	agencies	_	_	
+87-9	11119-11122	are	_	_	
+87-10	11123-11135	implementing	_	_	
+87-11	11136-11140	this	_	_	
+87-12	11141-11152	requirement	_	_	
+87-13	11153-11154	,	_	_	
+87-14	11155-11162	Customs	_	_	
+87-15	11163-11166	and	_	_	
+87-16	11167-11173	Border	_	_	
+87-17	11174-11184	Protection	_	_	
+87-18	11185-11187	's	_	_	
+87-19	11188-11192	plan	_	_	
+87-20	11193-11200	commits	_	_	
+87-21	11201-11204	the	_	_	
+87-22	11205-11211	agency	_	_	
+87-23	11212-11214	to	_	_	
+87-24	11215-11216	"	*[104]	Direct Quote[104]	
+87-25	11217-11218	[	*[104]	Direct Quote[104]	
+87-26	11219-11231	i]ncreas[ing	*[104]	Direct Quote[104]	
+87-27	11232-11235	the	*[104]	Direct Quote[104]	
+87-28	11236-11237	]	*[104]	Direct Quote[104]	
+87-29	11238-11248	percentage	*[104]	Direct Quote[104]	
+87-30	11249-11251	of	*[104]	Direct Quote[104]	
+87-31	11252-11262	applicants	*[104]	Direct Quote[104]	
+87-32	11263-11267	from	*[104]	Direct Quote[104]	
+87-33	11268-11284	underrepresented	*[104]	Direct Quote[104]	
+87-34	11285-11291	groups	*[104]	Direct Quote[104]	
+87-35	11292-11295	for	*[104]	Direct Quote[104]	
+87-36	11296-11307	internships	*[104]	Direct Quote[104]	
+87-37	11308-11311	and	*[104]	Direct Quote[104]	
+87-38	11312-11323	fellowships	*[104]	Direct Quote[104]	
+87-39	11324-11325	,	*[104]	Direct Quote[104]	
+87-40	11326-11327	"	*[104]	Direct Quote[104]	
+87-41	11328-11329	"	*[105]	Direct Quote[105]	
+87-42	11330-11331	[	*[105]	Direct Quote[105]	
+87-43	11332-11342	c]reat[ing	*[105]	Direct Quote[105]	
+87-44	11343-11344	]	*[105]	Direct Quote[105]	
+87-45	11345-11346	a	*[105]	Direct Quote[105]	
+87-46	11347-11355	targeted	*[105]	Direct Quote[105]	
+87-47	11356-11364	outreach	*[105]	Direct Quote[105]	
+87-48	11365-11373	campaign	*[105]	Direct Quote[105]	
+87-49	11374-11376	to	*[105]	Direct Quote[105]	
+87-50	11377-11393	underrepresented	*[105]	Direct Quote[105]	
+87-51	11394-11400	groups	*[105]	Direct Quote[105]	
+87-52	11401-11404	for	*[105]	Direct Quote[105]	
+87-53	11405-11411	career	*[105]	Direct Quote[105]	
+87-54	11412-11423	development	*[105]	Direct Quote[105]	
+87-55	11424-11432	programs	*[105]	Direct Quote[105]	
+87-56	11433-11435	at	*[105]	Direct Quote[105]	
+87-57	11436-11439	all	*[105]	Direct Quote[105]	
+87-58	11440-11446	levels	*[105]	Direct Quote[105]	
+87-59	11447-11448	,	*[105]	Direct Quote[105]	
+87-60	11449-11450	"	*[105]	Direct Quote[105]	
+87-61	11451-11452	"	*[106]	Direct Quote[106]	
+87-62	11453-11454	[	*[106]	Direct Quote[106]	
+87-63	11455-11469	e]stablish[ing	*[106]	Direct Quote[106]	
+87-64	11470-11471	]	*[106]	Direct Quote[106]	
+87-65	11472-11475	and	*[106]	Direct Quote[106]	
+87-66	11476-11488	maintain[ing	*[106]	Direct Quote[106]	
+87-67	11489-11490	]	*[106]	Direct Quote[106]	
+87-68	11491-11500	strategic	*[106]	Direct Quote[106]	
+87-69	11501-11513	partnerships	*[106]	Direct Quote[106]	
+87-70	11514-11518	with	*[106]	Direct Quote[106]	
+87-71	11519-11526	diverse	*[106]	Direct Quote[106]	
+87-72	11527-11539	professional	*[106]	Direct Quote[106]	
+87-73	11540-11543	and	*[106]	Direct Quote[106]	
+87-74	11544-11552	affinity	*[106]	Direct Quote[106]	
+87-75	11553-11566	organizations	*[106]	Direct Quote[106]	
+87-76	11567-11568	,	*[106]	Direct Quote[106]	
+87-77	11569-11570	"	*[106]	Direct Quote[106]	
+87-78	11571-11572	"	*[107]	Direct Quote[107]	
+87-79	11573-11574	[	*[107]	Direct Quote[107]	
+87-80	11575-11586	a]nalyz[ing	*[107]	Direct Quote[107]	
+87-81	11587-11588	]	*[107]	Direct Quote[107]	
+87-82	11589-11600	demographic	*[107]	Direct Quote[107]	
+87-83	11601-11605	data	*[107]	Direct Quote[107]	
+87-84	11606-11609	for	*[107]	Direct Quote[107]	
+87-85	11610-11613	new	*[107]	Direct Quote[107]	
+87-86	11614-11619	hires	*[107]	Direct Quote[107]	
+87-87	11620-11623	and	*[107]	Direct Quote[107]	
+87-88	11624-11632	employee	*[107]	Direct Quote[107]	
+87-89	11633-11644	separations	*[107]	Direct Quote[107]	
+87-90	11645-11647	to	*[107]	Direct Quote[107]	
+87-91	11648-11656	identify	*[107]	Direct Quote[107]	
+87-92	11657-11660	and	*[107]	Direct Quote[107]	
+87-93	11661-11667	assess	*[107]	Direct Quote[107]	
+87-94	11668-11677	potential	*[107]	Direct Quote[107]	
+87-95	11678-11686	barriers	*[107]	Direct Quote[107]	
+87-96	11687-11689	to	*[107]	Direct Quote[107]	
+87-97	11690-11699	workforce	*[107]	Direct Quote[107]	
+87-98	11700-11709	diversity	*[107]	Direct Quote[107]	
+87-99	11710-11711	,	*[107]	Direct Quote[107]	
+87-100	11712-11713	"	*[107]	Direct Quote[107]	
+87-101	11714-11717	and	_	_	
+87-102	11718-11719	"	*[108]	Direct Quote[108]	
+87-103	11720-11721	[	*[108]	Direct Quote[108]	
+87-104	11722-11734	d]evelop[ing	*[108]	Direct Quote[108]	
+87-105	11735-11736	]	*[108]	Direct Quote[108]	
+87-106	11737-11738	a	*[108]	Direct Quote[108]	
+87-107	11739-11748	diversity	*[108]	Direct Quote[108]	
+87-108	11749-11760	recruitment	*[108]	Direct Quote[108]	
+87-109	11761-11772	performance	*[108]	Direct Quote[108]	
+87-110	11773-11782	dashboard	*[108]	Direct Quote[108]	
+87-111	11783-11788	which	*[108]	Direct Quote[108]	
+87-112	11789-11797	provides	*[108]	Direct Quote[108]	
+87-113	11798-11806	relevant	*[108]	Direct Quote[108]	
+87-114	11807-11817	statistics	*[108]	Direct Quote[108]	
+87-115	11818-11821	and	*[108]	Direct Quote[108]	
+87-116	11822-11829	related	*[108]	Direct Quote[108]	
+87-117	11830-11841	performance	*[108]	Direct Quote[108]	
+87-118	11842-11849	metrics	*[108]	Direct Quote[108]	
+87-119	11850-11852	to	*[108]	Direct Quote[108]	
+87-120	11853-11861	evaluate	*[108]	Direct Quote[108]	
+87-121	11862-11870	progress	*[108]	Direct Quote[108]	
+87-122	11871-11878	towards	*[108]	Direct Quote[108]	
+87-123	11879-11890	achievement	*[108]	Direct Quote[108]	
+87-124	11891-11893	of	*[108]	Direct Quote[108]	
+87-125	11894-11905	recruitment	*[108]	Direct Quote[108]	
+87-126	11906-11911	goals	*[108]	Direct Quote[108]	
+87-127	11912-11913	.	*[108]	Direct Quote[108]	
+87-128	11914-11915	"	*[108]	Direct Quote[108]	
+
+#Text=U.S. Customs and Border Protection , Privacy and Diversity Office , Diversity and Inclusion : Strategic Plan 2016 - 2020 , pp . 11 - 15 ( 2015 ) .
+88-1	11916-11920	U.S.	*[109]	Legal Source[109]	
+88-2	11921-11928	Customs	*[109]	Legal Source[109]	
+88-3	11929-11932	and	*[109]	Legal Source[109]	
+88-4	11933-11939	Border	*[109]	Legal Source[109]	
+88-5	11940-11950	Protection	*[109]	Legal Source[109]	
+88-6	11951-11952	,	*[109]	Legal Source[109]	
+88-7	11953-11960	Privacy	*[109]	Legal Source[109]	
+88-8	11961-11964	and	*[109]	Legal Source[109]	
+88-9	11965-11974	Diversity	*[109]	Legal Source[109]	
+88-10	11975-11981	Office	*[109]	Legal Source[109]	
+88-11	11982-11983	,	*[109]	Legal Source[109]	
+88-12	11984-11993	Diversity	*[109]	Legal Source[109]	
+88-13	11994-11997	and	*[109]	Legal Source[109]	
+88-14	11998-12007	Inclusion	*[109]	Legal Source[109]	
+88-15	12008-12009	:	*[109]	Legal Source[109]	
+88-16	12010-12019	Strategic	*[109]	Legal Source[109]	
+88-17	12020-12024	Plan	*[109]	Legal Source[109]	
+88-18	12025-12029	2016	*[109]	Legal Source[109]	
+88-19	12030-12031	-	*[109]	Legal Source[109]	
+88-20	12032-12036	2020	*[109]	Legal Source[109]	
+88-21	12037-12038	,	*[109]	Legal Source[109]	
+88-22	12039-12041	pp	*[109]	Legal Source[109]	
+88-23	12042-12043	.	*[109]	Legal Source[109]	
+88-24	12044-12046	11	*[109]	Legal Source[109]	
+88-25	12047-12048	-	*[109]	Legal Source[109]	
+88-26	12049-12051	15	*[109]	Legal Source[109]	
+88-27	12052-12053	(	*[109]	Legal Source[109]	
+88-28	12054-12058	2015	*[109]	Legal Source[109]	
+88-29	12059-12060	)	*[109]	Legal Source[109]	
+88-30	12061-12062	.	_	_	
+
+#Text=Programs such as these intentionally inject race , sex , and national origin into agencies ' hiring and promotion decisions at the express direction of the President or Congress .
+89-1	12063-12071	Programs	_	_	
+89-2	12072-12076	such	_	_	
+89-3	12077-12079	as	_	_	
+89-4	12080-12085	these	_	_	
+89-5	12086-12099	intentionally	_	_	
+89-6	12100-12106	inject	_	_	
+89-7	12107-12111	race	_	_	
+89-8	12112-12113	,	_	_	
+89-9	12114-12117	sex	_	_	
+89-10	12118-12119	,	_	_	
+89-11	12120-12123	and	_	_	
+89-12	12124-12132	national	_	_	
+89-13	12133-12139	origin	_	_	
+89-14	12140-12144	into	_	_	
+89-15	12145-12153	agencies	_	_	
+89-16	12154-12155	'	_	_	
+89-17	12156-12162	hiring	_	_	
+89-18	12163-12166	and	_	_	
+89-19	12167-12176	promotion	_	_	
+89-20	12177-12186	decisions	_	_	
+89-21	12187-12189	at	_	_	
+89-22	12190-12193	the	_	_	
+89-23	12194-12201	express	_	_	
+89-24	12202-12211	direction	_	_	
+89-25	12212-12214	of	_	_	
+89-26	12215-12218	the	_	_	
+89-27	12219-12228	President	_	_	
+89-28	12229-12231	or	_	_	
+89-29	12232-12240	Congress	_	_	
+89-30	12241-12242	.	_	_	
+
+#Text=A but - for ( or even a motivating - factor ) standard of causation could coexist relatively easily with these affirmative action programs , as it would be difficult for a plaintiff to plausibly plead facts sufficient to establish the requisite causation .
+90-1	12243-12244	A	_	_	
+90-2	12245-12248	but	*[110]	Focal Term[110]	
+90-3	12249-12250	-	*[110]	Focal Term[110]	
+90-4	12251-12254	for	*[110]	Focal Term[110]	
+90-5	12255-12256	(	*[110]	Focal Term[110]	
+90-6	12257-12259	or	*[110]	Focal Term[110]	
+90-7	12260-12264	even	*[110]	Focal Term[110]	
+90-8	12265-12266	a	*[110]	Focal Term[110]	
+90-9	12267-12277	motivating	*[110]	Focal Term[110]	
+90-10	12278-12279	-	*[110]	Focal Term[110]	
+90-11	12280-12286	factor	*[110]	Focal Term[110]	
+90-12	12287-12288	)	*[110]	Focal Term[110]	
+90-13	12289-12297	standard	*[110]	Focal Term[110]	
+90-14	12298-12300	of	*[110]	Focal Term[110]	
+90-15	12301-12310	causation	*[110]	Focal Term[110]	
+90-16	12311-12316	could	_	_	
+90-17	12317-12324	coexist	_	_	
+90-18	12325-12335	relatively	_	_	
+90-19	12336-12342	easily	_	_	
+90-20	12343-12347	with	_	_	
+90-21	12348-12353	these	_	_	
+90-22	12354-12365	affirmative	_	_	
+90-23	12366-12372	action	_	_	
+90-24	12373-12381	programs	_	_	
+90-25	12382-12383	,	_	_	
+90-26	12384-12386	as	_	_	
+90-27	12387-12389	it	_	_	
+90-28	12390-12395	would	_	_	
+90-29	12396-12398	be	_	_	
+90-30	12399-12408	difficult	_	_	
+90-31	12409-12412	for	_	_	
+90-32	12413-12414	a	_	_	
+90-33	12415-12424	plaintiff	_	_	
+90-34	12425-12427	to	_	_	
+90-35	12428-12437	plausibly	_	_	
+90-36	12438-12443	plead	_	_	
+90-37	12444-12449	facts	_	_	
+90-38	12450-12460	sufficient	_	_	
+90-39	12461-12463	to	_	_	
+90-40	12464-12473	establish	_	_	
+90-41	12474-12477	the	_	_	
+90-42	12478-12487	requisite	_	_	
+90-43	12488-12497	causation	_	_	
+90-44	12498-12499	.	_	_	
+
+#Text=The Court 's rule , by contrast , raises the possibility that agencies will be faced with a flood of investigations by the EEOC or litigation from dissatisfied federal employees .
+91-1	12500-12503	The	_	_	
+91-2	12504-12509	Court	_	_	
+91-3	12510-12512	's	_	_	
+91-4	12513-12517	rule	_	_	
+91-5	12518-12519	,	_	_	
+91-6	12520-12522	by	_	_	
+91-7	12523-12531	contrast	_	_	
+91-8	12532-12533	,	_	_	
+91-9	12534-12540	raises	_	_	
+91-10	12541-12544	the	_	_	
+91-11	12545-12556	possibility	_	_	
+91-12	12557-12561	that	_	_	
+91-13	12562-12570	agencies	_	_	
+91-14	12571-12575	will	_	_	
+91-15	12576-12578	be	_	_	
+91-16	12579-12584	faced	_	_	
+91-17	12585-12589	with	_	_	
+91-18	12590-12591	a	_	_	
+91-19	12592-12597	flood	_	_	
+91-20	12598-12600	of	_	_	
+91-21	12601-12615	investigations	_	_	
+91-22	12616-12618	by	_	_	
+91-23	12619-12622	the	_	_	
+91-24	12623-12627	EEOC	_	_	
+91-25	12628-12630	or	_	_	
+91-26	12631-12641	litigation	_	_	
+91-27	12642-12646	from	_	_	
+91-28	12647-12659	dissatisfied	_	_	
+91-29	12660-12667	federal	_	_	
+91-30	12668-12677	employees	_	_	
+91-31	12678-12679	.	_	_	
+
+#Text=So long as those employees can show that their employer 's decision to hire a particular job applicant was " tainted " because that applicant benefited in some way from an affirmative action program , their complaints to enjoin these programs can survive at least the pleadings stage .
+92-1	12680-12682	So	_	_	
+92-2	12683-12687	long	_	_	
+92-3	12688-12690	as	_	_	
+92-4	12691-12696	those	_	_	
+92-5	12697-12706	employees	_	_	
+92-6	12707-12710	can	_	_	
+92-7	12711-12715	show	_	_	
+92-8	12716-12720	that	_	_	
+92-9	12721-12726	their	_	_	
+92-10	12727-12735	employer	_	_	
+92-11	12736-12738	's	_	_	
+92-12	12739-12747	decision	_	_	
+92-13	12748-12750	to	_	_	
+92-14	12751-12755	hire	_	_	
+92-15	12756-12757	a	_	_	
+92-16	12758-12768	particular	_	_	
+92-17	12769-12772	job	_	_	
+92-18	12773-12782	applicant	_	_	
+92-19	12783-12786	was	_	_	
+92-20	12787-12788	"	*[111]	Direct Quote[111]	
+92-21	12789-12796	tainted	*[111]	Direct Quote[111]	
+92-22	12797-12798	"	*[111]	Direct Quote[111]	
+92-23	12799-12806	because	_	_	
+92-24	12807-12811	that	_	_	
+92-25	12812-12821	applicant	_	_	
+92-26	12822-12831	benefited	_	_	
+92-27	12832-12834	in	_	_	
+92-28	12835-12839	some	_	_	
+92-29	12840-12843	way	_	_	
+92-30	12844-12848	from	_	_	
+92-31	12849-12851	an	_	_	
+92-32	12852-12863	affirmative	_	_	
+92-33	12864-12870	action	_	_	
+92-34	12871-12878	program	_	_	
+92-35	12879-12880	,	_	_	
+92-36	12881-12886	their	_	_	
+92-37	12887-12897	complaints	_	_	
+92-38	12898-12900	to	_	_	
+92-39	12901-12907	enjoin	_	_	
+92-40	12908-12913	these	_	_	
+92-41	12914-12922	programs	_	_	
+92-42	12923-12926	can	_	_	
+92-43	12927-12934	survive	_	_	
+92-44	12935-12937	at	_	_	
+92-45	12938-12943	least	_	_	
+92-46	12944-12947	the	_	_	
+92-47	12948-12957	pleadings	_	_	
+92-48	12958-12963	stage	_	_	
+92-49	12964-12965	.	_	_	
+
+#Text=* * *
+93-1	12966-12967	*	_	_	
+93-2	12968-12969	*	_	_	
+93-3	12970-12971	*	_	_	
+
+#Text=Today 's decision is inconsistent with the default rule underlying our interpretation of antidiscrimination statutes and our precedents , which have consistently applied that rule .
+94-1	12972-12977	Today	_	_	
+94-2	12978-12980	's	_	_	
+94-3	12981-12989	decision	_	_	
+94-4	12990-12992	is	_	_	
+94-5	12993-13005	inconsistent	_	_	
+94-6	13006-13010	with	_	_	
+94-7	13011-13014	the	_	_	
+94-8	13015-13022	default	_	_	
+94-9	13023-13027	rule	_	_	
+94-10	13028-13038	underlying	_	_	
+94-11	13039-13042	our	_	_	
+94-12	13043-13057	interpretation	_	_	
+94-13	13058-13060	of	_	_	
+94-14	13061-13079	antidiscrimination	_	_	
+94-15	13080-13088	statutes	_	_	
+94-16	13089-13092	and	_	_	
+94-17	13093-13096	our	_	_	
+94-18	13097-13107	precedents	_	_	
+94-19	13108-13109	,	_	_	
+94-20	13110-13115	which	_	_	
+94-21	13116-13120	have	_	_	
+94-22	13121-13133	consistently	_	_	
+94-23	13134-13141	applied	_	_	
+94-24	13142-13146	that	_	_	
+94-25	13147-13151	rule	_	_	
+94-26	13152-13153	.	_	_	
+
+#Text=Perhaps just as important , the Court 's holding unnecessarily risks imposing hardship on those tasked with managing thousands of employees within our numerous federal agencies .
+95-1	13154-13161	Perhaps	_	_	
+95-2	13162-13166	just	_	_	
+95-3	13167-13169	as	_	_	
+95-4	13170-13179	important	_	_	
+95-5	13180-13181	,	_	_	
+95-6	13182-13185	the	_	_	
+95-7	13186-13191	Court	_	_	
+95-8	13192-13194	's	_	_	
+95-9	13195-13202	holding	_	_	
+95-10	13203-13216	unnecessarily	_	_	
+95-11	13217-13222	risks	_	_	
+95-12	13223-13231	imposing	_	_	
+95-13	13232-13240	hardship	_	_	
+95-14	13241-13243	on	_	_	
+95-15	13244-13249	those	_	_	
+95-16	13250-13256	tasked	_	_	
+95-17	13257-13261	with	_	_	
+95-18	13262-13270	managing	_	_	
+95-19	13271-13280	thousands	_	_	
+95-20	13281-13283	of	_	_	
+95-21	13284-13293	employees	_	_	
+95-22	13294-13300	within	_	_	
+95-23	13301-13304	our	_	_	
+95-24	13305-13313	numerous	_	_	
+95-25	13314-13321	federal	_	_	
+95-26	13322-13330	agencies	_	_	
+95-27	13331-13332	.	_	_	
+
+#Text=I respectfully dissent .
+96-1	13333-13334	I	_	_	
+96-2	13335-13347	respectfully	_	_	
+96-3	13348-13355	dissent	_	_	
+96-4	13356-13357	.	_	_	

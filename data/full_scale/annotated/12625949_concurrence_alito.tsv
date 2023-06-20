@@ -1,0 +1,126 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice ALITO , with whom Justice BREYER and Justice KAGAN join , concurring .
+1-1	0-7	Justice	_	_	
+1-2	8-13	ALITO	_	_	
+1-3	14-15	,	_	_	
+1-4	16-20	with	_	_	
+1-5	21-25	whom	_	_	
+1-6	26-33	Justice	_	_	
+1-7	34-40	BREYER	_	_	
+1-8	41-44	and	_	_	
+1-9	45-52	Justice	_	_	
+1-10	53-58	KAGAN	_	_	
+1-11	59-63	join	_	_	
+1-12	64-65	,	_	_	
+1-13	66-76	concurring	_	_	
+1-14	77-78	.	_	_	
+
+#Text=We took this case to decide whether willful infringement is a prerequisite to an award of profits under 15 U.S.C. § 1117 ( a ) .
+2-1	79-81	We	_	_	
+2-2	82-86	took	_	_	
+2-3	87-91	this	_	_	
+2-4	92-96	case	_	_	
+2-5	97-99	to	_	_	
+2-6	100-106	decide	_	_	
+2-7	107-114	whether	_	_	
+2-8	115-122	willful	_	_	
+2-9	123-135	infringement	_	_	
+2-10	136-138	is	_	_	
+2-11	139-140	a	_	_	
+2-12	141-153	prerequisite	_	_	
+2-13	154-156	to	_	_	
+2-14	157-159	an	_	_	
+2-15	160-165	award	_	_	
+2-16	166-168	of	_	_	
+2-17	169-176	profits	_	_	
+2-18	177-182	under	_	_	
+2-19	183-185	15	*[1]	Legal Source[1]	
+2-20	186-192	U.S.C.	*[1]	Legal Source[1]	
+2-21	193-194	§	*[1]	Legal Source[1]	
+2-22	195-199	1117	*[1]	Legal Source[1]	
+2-23	200-201	(	*[1]	Legal Source[1]	
+2-24	202-203	a	*[1]	Legal Source[1]	
+2-25	204-205	)	*[1]	Legal Source[1]	
+2-26	206-207	.	_	_	
+
+#Text=The decision below held that willfulness is such a prerequisite .
+3-1	208-211	The	_	_	
+3-2	212-220	decision	_	_	
+3-3	221-226	below	_	_	
+3-4	227-231	held	_	_	
+3-5	232-236	that	_	_	
+3-6	237-248	willfulness	_	_	
+3-7	249-251	is	_	_	
+3-8	252-256	such	_	_	
+3-9	257-258	a	_	_	
+3-10	259-271	prerequisite	_	_	
+3-11	272-273	.	_	_	
+
+#Text=App . to Pet . for Cert . 32a .
+4-1	274-277	App	*[2]	Legal Source[2]	
+4-2	278-279	.	*[2]	Legal Source[2]	
+4-3	280-282	to	*[2]	Legal Source[2]	
+4-4	283-286	Pet	*[2]	Legal Source[2]	
+4-5	287-288	.	*[2]	Legal Source[2]	
+4-6	289-292	for	*[2]	Legal Source[2]	
+4-7	293-297	Cert	*[2]	Legal Source[2]	
+4-8	298-299	.	*[2]	Legal Source[2]	
+4-9	300-303	32a	*[2]	Legal Source[2]	
+4-10	304-305	.	_	_	
+
+#Text=That is incorrect .
+5-1	306-310	That	_	_	
+5-2	311-313	is	_	_	
+5-3	314-323	incorrect	_	_	
+5-4	324-325	.	_	_	
+
+#Text=The relevant authorities , particularly pre - Lanham Act case law , show that willfulness is a highly important consideration in awarding profits under § 1117(a ) , but not an absolute precondition .
+6-1	326-329	The	_	_	
+6-2	330-338	relevant	_	_	
+6-3	339-350	authorities	_	_	
+6-4	351-352	,	_	_	
+6-5	353-365	particularly	_	_	
+6-6	366-369	pre	_	_	
+6-7	370-371	-	_	_	
+6-8	372-378	Lanham	_	_	
+6-9	379-382	Act	_	_	
+6-10	383-387	case	_	_	
+6-11	388-391	law	_	_	
+6-12	392-393	,	_	_	
+6-13	394-398	show	_	_	
+6-14	399-403	that	_	_	
+6-15	404-415	willfulness	_	_	
+6-16	416-418	is	_	_	
+6-17	419-420	a	_	_	
+6-18	421-427	highly	_	_	
+6-19	428-437	important	_	_	
+6-20	438-451	consideration	_	_	
+6-21	452-454	in	_	_	
+6-22	455-463	awarding	_	_	
+6-23	464-471	profits	_	_	
+6-24	472-477	under	_	_	
+6-25	478-479	§	*[3]	Legal Source[3]	
+6-26	480-486	1117(a	*[3]	Legal Source[3]	
+6-27	487-488	)	*[3]	Legal Source[3]	
+6-28	489-490	,	_	_	
+6-29	491-494	but	_	_	
+6-30	495-498	not	_	_	
+6-31	499-501	an	_	_	
+6-32	502-510	absolute	_	_	
+6-33	511-523	precondition	_	_	
+6-34	524-525	.	_	_	
+
+#Text=I would so hold and concur on that ground .
+7-1	526-527	I	_	_	
+7-2	528-533	would	_	_	
+7-3	534-536	so	_	_	
+7-4	537-541	hold	_	_	
+7-5	542-545	and	_	_	
+7-6	546-552	concur	_	_	
+7-7	553-555	on	_	_	
+7-8	556-560	that	_	_	
+7-9	561-567	ground	_	_	
+7-10	568-569	.	_	_	

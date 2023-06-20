@@ -1,0 +1,2529 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice BREYER , with whom Justice GINSBURG , Justice SOTOMAYOR , and Justice KAGAN join , concurring in part and dissenting in part .
+1-1	0-7	Justice	_	_	
+1-2	8-14	BREYER	_	_	
+1-3	15-16	,	_	_	
+1-4	17-21	with	_	_	
+1-5	22-26	whom	_	_	
+1-6	27-34	Justice	_	_	
+1-7	35-43	GINSBURG	_	_	
+1-8	44-45	,	_	_	
+1-9	46-53	Justice	_	_	
+1-10	54-63	SOTOMAYOR	_	_	
+1-11	64-65	,	_	_	
+1-12	66-69	and	_	_	
+1-13	70-77	Justice	_	_	
+1-14	78-83	KAGAN	_	_	
+1-15	84-88	join	_	_	
+1-16	89-90	,	_	_	
+1-17	91-101	concurring	_	_	
+1-18	102-104	in	_	_	
+1-19	105-109	part	_	_	
+1-20	110-113	and	_	_	
+1-21	114-124	dissenting	_	_	
+1-22	125-127	in	_	_	
+1-23	128-132	part	_	_	
+1-24	133-134	.	_	_	
+
+#Text=I agree with the majority that nothing in the Immigration Reform and Control Act of 1986 ( IRCA ) , 100 Stat . 3359 , expressly preempts Kansas ' criminal laws as they were applied in the prosecutions at issue here .
+2-1	135-136	I	_	_	
+2-2	137-142	agree	_	_	
+2-3	143-147	with	_	_	
+2-4	148-151	the	_	_	
+2-5	152-160	majority	_	_	
+2-6	161-165	that	_	_	
+2-7	166-173	nothing	_	_	
+2-8	174-176	in	_	_	
+2-9	177-180	the	_	_	
+2-10	181-192	Immigration	*[1]	Legal Source[1]	
+2-11	193-199	Reform	*[1]	Legal Source[1]	
+2-12	200-203	and	*[1]	Legal Source[1]	
+2-13	204-211	Control	*[1]	Legal Source[1]	
+2-14	212-215	Act	*[1]	Legal Source[1]	
+2-15	216-218	of	*[1]	Legal Source[1]	
+2-16	219-223	1986	*[1]	Legal Source[1]	
+2-17	224-225	(	*[1]	Legal Source[1]	
+2-18	226-230	IRCA	*[1]	Legal Source[1]	
+2-19	231-232	)	*[1]	Legal Source[1]	
+2-20	233-234	,	*[1]	Legal Source[1]	
+2-21	235-238	100	*[1]	Legal Source[1]	
+2-22	239-243	Stat	*[1]	Legal Source[1]	
+2-23	244-245	.	*[1]	Legal Source[1]	
+2-24	246-250	3359	*[1]	Legal Source[1]	
+2-25	251-252	,	_	_	
+2-26	253-262	expressly	_	_	
+2-27	263-271	preempts	_	_	
+2-28	272-278	Kansas	_	_	
+2-29	279-280	'	_	_	
+2-30	281-289	criminal	_	_	
+2-31	290-294	laws	_	_	
+2-32	295-297	as	_	_	
+2-33	298-302	they	_	_	
+2-34	303-307	were	_	_	
+2-35	308-315	applied	_	_	
+2-36	316-318	in	_	_	
+2-37	319-322	the	_	_	
+2-38	323-335	prosecutions	_	_	
+2-39	336-338	at	_	_	
+2-40	339-344	issue	_	_	
+2-41	345-349	here	_	_	
+2-42	350-351	.	_	_	
+
+#Text=But I do not agree with the majority 's conclusion about implied preemption .
+3-1	352-355	But	_	_	
+3-2	356-357	I	_	_	
+3-3	358-360	do	_	_	
+3-4	361-364	not	_	_	
+3-5	365-370	agree	_	_	
+3-6	371-375	with	_	_	
+3-7	376-379	the	_	_	
+3-8	380-388	majority	_	_	
+3-9	389-391	's	_	_	
+3-10	392-402	conclusion	_	_	
+3-11	403-408	about	_	_	
+3-12	409-416	implied	_	_	
+3-13	417-427	preemption	_	_	
+3-14	428-429	.	_	_	
+
+#Text=When we confront a question of implied preemption , the words of the statute are especially unlikely to determine the answer by themselves .
+4-1	430-434	When	_	_	
+4-2	435-437	we	_	_	
+4-3	438-446	confront	_	_	
+4-4	447-448	a	_	_	
+4-5	449-457	question	_	_	
+4-6	458-460	of	_	_	
+4-7	461-468	implied	_	_	
+4-8	469-479	preemption	_	_	
+4-9	480-481	,	_	_	
+4-10	482-485	the	_	_	
+4-11	486-491	words	*	Metalinguistic Cue	
+4-12	492-494	of	_	_	
+4-13	495-498	the	_	_	
+4-14	499-506	statute	_	_	
+4-15	507-510	are	_	_	
+4-16	511-521	especially	_	_	
+4-17	522-530	unlikely	_	_	
+4-18	531-533	to	_	_	
+4-19	534-543	determine	_	_	
+4-20	544-547	the	_	_	
+4-21	548-554	answer	_	_	
+4-22	555-557	by	_	_	
+4-23	558-568	themselves	_	_	
+4-24	569-570	.	_	_	
+
+#Text=Nonetheless , in my view , IRCA 's text , together with its structure , context , and purpose , make it " ' clear and manifest ' " that Congress has occupied at least the narrow field of policing fraud committed to demonstrate federal work authorization .
+5-1	571-582	Nonetheless	_	_	
+5-2	583-584	,	_	_	
+5-3	585-587	in	_	_	
+5-4	588-590	my	_	_	
+5-5	591-595	view	_	_	
+5-6	596-597	,	_	_	
+5-7	598-602	IRCA	*	Legal Source	
+5-8	603-605	's	_	_	
+5-9	606-610	text	*	Metalinguistic Cue	
+5-10	611-612	,	_	_	
+5-11	613-621	together	_	_	
+5-12	622-626	with	_	_	
+5-13	627-630	its	_	_	
+5-14	631-640	structure	*[2]	Metalinguistic Cue[2]	
+5-15	641-642	,	*[2]	Metalinguistic Cue[2]	
+5-16	643-650	context	*[2]	Metalinguistic Cue[2]	
+5-17	651-652	,	*[2]	Metalinguistic Cue[2]	
+5-18	653-656	and	*[2]	Metalinguistic Cue[2]	
+5-19	657-664	purpose	*[2]	Metalinguistic Cue[2]	
+5-20	665-666	,	_	_	
+5-21	667-671	make	_	_	
+5-22	672-674	it	_	_	
+5-23	675-676	"	*[3]	Direct Quote[3]	
+5-24	677-678	'	*[3]|*[4]	Direct Quote[3]|Direct Quote[4]	
+5-25	679-684	clear	*[3]|*[4]	Direct Quote[3]|Direct Quote[4]	
+5-26	685-688	and	*[3]|*[4]	Direct Quote[3]|Direct Quote[4]	
+5-27	689-697	manifest	*[3]|*[4]	Direct Quote[3]|Direct Quote[4]	
+5-28	698-699	'	*[3]|*[4]	Direct Quote[3]|Direct Quote[4]	
+5-29	700-701	"	*[3]	Direct Quote[3]	
+5-30	702-706	that	_	_	
+5-31	707-715	Congress	_	_	
+5-32	716-719	has	_	_	
+5-33	720-728	occupied	_	_	
+5-34	729-731	at	_	_	
+5-35	732-737	least	_	_	
+5-36	738-741	the	_	_	
+5-37	742-748	narrow	_	_	
+5-38	749-754	field	_	_	
+5-39	755-757	of	_	_	
+5-40	758-766	policing	_	_	
+5-41	767-772	fraud	_	_	
+5-42	773-782	committed	_	_	
+5-43	783-785	to	_	_	
+5-44	786-797	demonstrate	_	_	
+5-45	798-805	federal	_	_	
+5-46	806-810	work	_	_	
+5-47	811-824	authorization	_	_	
+5-48	825-826	.	_	_	
+
+#Text=Arizona v. United States , 567 U.S. 387 , 400 , 132 S.Ct . 2492 , 183 L.Ed.2d 351 ( 2012 ) ( quoting Rice v. Santa Fe Elevator Corp. , 331 U.S. 218 , 230 , 67 S.Ct . 1146 , 91 L.Ed . 1447 ( 1947 ) ) ; see Brief for United States as Amicus Curiae in Puente Arizona v. Arpaio , No . 15 - 15211 etc . ( CA9 ) , p. 15 ( contending that the Act preempts state criminal laws " to the extent they regulate fraud committed to demonstrate authorization to work in the United States under federal immigration law " ) ; Tr . of Oral Arg . 22 - 23 ( standing by the Government 's position in Puente Arizona ) .
+6-1	827-834	Arizona	*[5]	Legal Source[5]	
+6-2	835-837	v.	*[5]	Legal Source[5]	
+6-3	838-844	United	*[5]	Legal Source[5]	
+6-4	845-851	States	*[5]	Legal Source[5]	
+6-5	852-853	,	*[5]	Legal Source[5]	
+6-6	854-857	567	*[5]	Legal Source[5]	
+6-7	858-862	U.S.	*[5]	Legal Source[5]	
+6-8	863-866	387	*[5]	Legal Source[5]	
+6-9	867-868	,	*[5]	Legal Source[5]	
+6-10	869-872	400	*[5]	Legal Source[5]	
+6-11	873-874	,	*[5]	Legal Source[5]	
+6-12	875-878	132	*[5]	Legal Source[5]	
+6-13	879-883	S.Ct	*[5]	Legal Source[5]	
+6-14	884-885	.	*[5]	Legal Source[5]	
+6-15	886-890	2492	*[5]	Legal Source[5]	
+6-16	891-892	,	*[5]	Legal Source[5]	
+6-17	893-896	183	*[5]	Legal Source[5]	
+6-18	897-904	L.Ed.2d	*[5]	Legal Source[5]	
+6-19	905-908	351	*[5]	Legal Source[5]	
+6-20	909-910	(	*[5]	Legal Source[5]	
+6-21	911-915	2012	*[5]	Legal Source[5]	
+6-22	916-917	)	*[5]	Legal Source[5]	
+6-23	918-919	(	_	_	
+6-24	920-927	quoting	_	_	
+6-25	928-932	Rice	*[6]	Legal Source[6]	
+6-26	933-935	v.	*[6]	Legal Source[6]	
+6-27	936-941	Santa	*[6]	Legal Source[6]	
+6-28	942-944	Fe	*[6]	Legal Source[6]	
+6-29	945-953	Elevator	*[6]	Legal Source[6]	
+6-30	954-959	Corp.	*[6]	Legal Source[6]	
+6-31	960-961	,	*[6]	Legal Source[6]	
+6-32	962-965	331	*[6]	Legal Source[6]	
+6-33	966-970	U.S.	*[6]	Legal Source[6]	
+6-34	971-974	218	*[6]	Legal Source[6]	
+6-35	975-976	,	*[6]	Legal Source[6]	
+6-36	977-980	230	*[6]	Legal Source[6]	
+6-37	981-982	,	*[6]	Legal Source[6]	
+6-38	983-985	67	*[6]	Legal Source[6]	
+6-39	986-990	S.Ct	*[6]	Legal Source[6]	
+6-40	991-992	.	*[6]	Legal Source[6]	
+6-41	993-997	1146	*[6]	Legal Source[6]	
+6-42	998-999	,	*[6]	Legal Source[6]	
+6-43	1000-1002	91	*[6]	Legal Source[6]	
+6-44	1003-1007	L.Ed	*[6]	Legal Source[6]	
+6-45	1008-1009	.	*[6]	Legal Source[6]	
+6-46	1010-1014	1447	*[6]	Legal Source[6]	
+6-47	1015-1016	(	*[6]	Legal Source[6]	
+6-48	1017-1021	1947	*[6]	Legal Source[6]	
+6-49	1022-1023	)	*[6]	Legal Source[6]	
+6-50	1024-1025	)	_	_	
+6-51	1026-1027	;	_	_	
+6-52	1028-1031	see	_	_	
+6-53	1032-1037	Brief	*[7]	Legal Source[7]	
+6-54	1038-1041	for	*[7]	Legal Source[7]	
+6-55	1042-1048	United	*[7]	Legal Source[7]	
+6-56	1049-1055	States	*[7]	Legal Source[7]	
+6-57	1056-1058	as	*[7]	Legal Source[7]	
+6-58	1059-1065	Amicus	*[7]	Legal Source[7]	
+6-59	1066-1072	Curiae	*[7]	Legal Source[7]	
+6-60	1073-1075	in	*[7]	Legal Source[7]	
+6-61	1076-1082	Puente	*[7]	Legal Source[7]	
+6-62	1083-1090	Arizona	*[7]	Legal Source[7]	
+6-63	1091-1093	v.	*[7]	Legal Source[7]	
+6-64	1094-1100	Arpaio	*[7]	Legal Source[7]	
+6-65	1101-1102	,	*[7]	Legal Source[7]	
+6-66	1103-1105	No	*[7]	Legal Source[7]	
+6-67	1106-1107	.	*[7]	Legal Source[7]	
+6-68	1108-1110	15	*[7]	Legal Source[7]	
+6-69	1111-1112	-	*[7]	Legal Source[7]	
+6-70	1113-1118	15211	*[7]	Legal Source[7]	
+6-71	1119-1122	etc	*[7]	Legal Source[7]	
+6-72	1123-1124	.	*[7]	Legal Source[7]	
+6-73	1125-1126	(	*[7]	Legal Source[7]	
+6-74	1127-1130	CA9	*[7]	Legal Source[7]	
+6-75	1131-1132	)	*[7]	Legal Source[7]	
+6-76	1133-1134	,	*[7]	Legal Source[7]	
+6-77	1135-1137	p.	*[7]	Legal Source[7]	
+6-78	1138-1140	15	*[7]	Legal Source[7]	
+6-79	1141-1142	(	_	_	
+6-80	1143-1153	contending	_	_	
+6-81	1154-1158	that	_	_	
+6-82	1159-1162	the	_	_	
+6-83	1163-1166	Act	_	_	
+6-84	1167-1175	preempts	_	_	
+6-85	1176-1181	state	_	_	
+6-86	1182-1190	criminal	_	_	
+6-87	1191-1195	laws	_	_	
+6-88	1196-1197	"	*[8]	Direct Quote[8]	
+6-89	1198-1200	to	*[8]	Direct Quote[8]	
+6-90	1201-1204	the	*[8]	Direct Quote[8]	
+6-91	1205-1211	extent	*[8]	Direct Quote[8]	
+6-92	1212-1216	they	*[8]	Direct Quote[8]	
+6-93	1217-1225	regulate	*[8]	Direct Quote[8]	
+6-94	1226-1231	fraud	*[8]	Direct Quote[8]	
+6-95	1232-1241	committed	*[8]	Direct Quote[8]	
+6-96	1242-1244	to	*[8]	Direct Quote[8]	
+6-97	1245-1256	demonstrate	*[8]	Direct Quote[8]	
+6-98	1257-1270	authorization	*[8]	Direct Quote[8]	
+6-99	1271-1273	to	*[8]	Direct Quote[8]	
+6-100	1274-1278	work	*[8]	Direct Quote[8]	
+6-101	1279-1281	in	*[8]	Direct Quote[8]	
+6-102	1282-1285	the	*[8]	Direct Quote[8]	
+6-103	1286-1292	United	*[8]	Direct Quote[8]	
+6-104	1293-1299	States	*[8]	Direct Quote[8]	
+6-105	1300-1305	under	*[8]	Direct Quote[8]	
+6-106	1306-1313	federal	*[8]	Direct Quote[8]	
+6-107	1314-1325	immigration	*[8]	Direct Quote[8]	
+6-108	1326-1329	law	*[8]	Direct Quote[8]	
+6-109	1330-1331	"	*[8]	Direct Quote[8]	
+6-110	1332-1333	)	_	_	
+6-111	1334-1335	;	_	_	
+6-112	1336-1338	Tr	*[9]	Legal Source[9]	
+6-113	1339-1340	.	*[9]	Legal Source[9]	
+6-114	1341-1343	of	*[9]	Legal Source[9]	
+6-115	1344-1348	Oral	*[9]	Legal Source[9]	
+6-116	1349-1352	Arg	*[9]	Legal Source[9]	
+6-117	1353-1354	.	*[9]	Legal Source[9]	
+6-118	1355-1357	22	*[9]	Legal Source[9]	
+6-119	1358-1359	-	*[9]	Legal Source[9]	
+6-120	1360-1362	23	*[9]	Legal Source[9]	
+6-121	1363-1364	(	_	_	
+6-122	1365-1373	standing	_	_	
+6-123	1374-1376	by	_	_	
+6-124	1377-1380	the	_	_	
+6-125	1381-1391	Government	_	_	
+6-126	1392-1394	's	_	_	
+6-127	1395-1403	position	_	_	
+6-128	1404-1406	in	_	_	
+6-129	1407-1413	Puente	_	_	
+6-130	1414-1421	Arizona	_	_	
+6-131	1422-1423	)	_	_	
+6-132	1424-1425	.	_	_	
+
+#Text=That is to say , the Act reserves to the Federal Government - and thus takes from the States - the power to prosecute people for misrepresenting material information in an effort to convince their employer that they are authorized to work in this country .
+7-1	1426-1430	That	_	_	
+7-2	1431-1433	is	_	_	
+7-3	1434-1436	to	_	_	
+7-4	1437-1440	say	_	_	
+7-5	1441-1442	,	_	_	
+7-6	1443-1446	the	_	_	
+7-7	1447-1450	Act	*	Legal Source	
+7-8	1451-1459	reserves	_	_	
+7-9	1460-1462	to	_	_	
+7-10	1463-1466	the	_	_	
+7-11	1467-1474	Federal	_	_	
+7-12	1475-1485	Government	_	_	
+7-13	1486-1487	-	_	_	
+7-14	1488-1491	and	_	_	
+7-15	1492-1496	thus	_	_	
+7-16	1497-1502	takes	_	_	
+7-17	1503-1507	from	_	_	
+7-18	1508-1511	the	_	_	
+7-19	1512-1518	States	_	_	
+7-20	1519-1520	-	_	_	
+7-21	1521-1524	the	_	_	
+7-22	1525-1530	power	_	_	
+7-23	1531-1533	to	_	_	
+7-24	1534-1543	prosecute	_	_	
+7-25	1544-1550	people	_	_	
+7-26	1551-1554	for	_	_	
+7-27	1555-1570	misrepresenting	_	_	
+7-28	1571-1579	material	_	_	
+7-29	1580-1591	information	_	_	
+7-30	1592-1594	in	_	_	
+7-31	1595-1597	an	_	_	
+7-32	1598-1604	effort	_	_	
+7-33	1605-1607	to	_	_	
+7-34	1608-1616	convince	_	_	
+7-35	1617-1622	their	_	_	
+7-36	1623-1631	employer	_	_	
+7-37	1632-1636	that	_	_	
+7-38	1637-1641	they	_	_	
+7-39	1642-1645	are	_	_	
+7-40	1646-1656	authorized	_	_	
+7-41	1657-1659	to	_	_	
+7-42	1660-1664	work	_	_	
+7-43	1665-1667	in	_	_	
+7-44	1668-1672	this	_	_	
+7-45	1673-1680	country	_	_	
+7-46	1681-1682	.	_	_	
+
+#Text=The Act creates what we have called " a comprehensive scheme " to " comba[t ] the employment of illegal aliens . "
+8-1	1683-1686	The	_	_	
+8-2	1687-1690	Act	*	Legal Source	
+8-3	1691-1698	creates	_	_	
+8-4	1699-1703	what	_	_	
+8-5	1704-1706	we	_	_	
+8-6	1707-1711	have	_	_	
+8-7	1712-1718	called	_	_	
+8-8	1719-1720	"	*[10]	Direct Quote[10]	
+8-9	1721-1722	a	*[10]	Direct Quote[10]	
+8-10	1723-1736	comprehensive	*[10]	Direct Quote[10]	
+8-11	1737-1743	scheme	*[10]	Direct Quote[10]	
+8-12	1744-1745	"	*[10]	Direct Quote[10]	
+8-13	1746-1748	to	_	_	
+8-14	1749-1750	"	*[11]	Direct Quote[11]	
+8-15	1751-1758	comba[t	*[11]	Direct Quote[11]	
+8-16	1759-1760	]	*[11]	Direct Quote[11]	
+8-17	1761-1764	the	*[11]	Direct Quote[11]	
+8-18	1765-1775	employment	*[11]	Direct Quote[11]	
+8-19	1776-1778	of	*[11]	Direct Quote[11]	
+8-20	1779-1786	illegal	*[11]	Direct Quote[11]	
+8-21	1787-1793	aliens	*[11]	Direct Quote[11]	
+8-22	1794-1795	.	*[11]	Direct Quote[11]	
+8-23	1796-1797	"	*[11]	Direct Quote[11]	
+
+#Text=Hoffman Plastic Compounds , Inc. v. NLRB , 535 U.S. 137 , 147 , 122 S.Ct . 1275 , 152 L.Ed.2d 271 ( 2002 ) .
+9-1	1798-1805	Hoffman	*[12]	Legal Source[12]	
+9-2	1806-1813	Plastic	*[12]	Legal Source[12]	
+9-3	1814-1823	Compounds	*[12]	Legal Source[12]	
+9-4	1824-1825	,	*[12]	Legal Source[12]	
+9-5	1826-1830	Inc.	*[12]	Legal Source[12]	
+9-6	1831-1833	v.	*[12]	Legal Source[12]	
+9-7	1834-1838	NLRB	*[12]	Legal Source[12]	
+9-8	1839-1840	,	*[12]	Legal Source[12]	
+9-9	1841-1844	535	*[12]	Legal Source[12]	
+9-10	1845-1849	U.S.	*[12]	Legal Source[12]	
+9-11	1850-1853	137	*[12]	Legal Source[12]	
+9-12	1854-1855	,	*[12]	Legal Source[12]	
+9-13	1856-1859	147	*[12]	Legal Source[12]	
+9-14	1860-1861	,	*[12]	Legal Source[12]	
+9-15	1862-1865	122	*[12]	Legal Source[12]	
+9-16	1866-1870	S.Ct	*[12]	Legal Source[12]	
+9-17	1871-1872	.	*[12]	Legal Source[12]	
+9-18	1873-1877	1275	*[12]	Legal Source[12]	
+9-19	1878-1879	,	*[12]	Legal Source[12]	
+9-20	1880-1883	152	*[12]	Legal Source[12]	
+9-21	1884-1891	L.Ed.2d	*[12]	Legal Source[12]	
+9-22	1892-1895	271	*[12]	Legal Source[12]	
+9-23	1896-1897	(	*[12]	Legal Source[12]	
+9-24	1898-1902	2002	*[12]	Legal Source[12]	
+9-25	1903-1904	)	*[12]	Legal Source[12]	
+9-26	1905-1906	.	_	_	
+
+#Text=To that end , the statute 's text sets forth highly detailed requirements .
+10-1	1907-1909	To	_	_	
+10-2	1910-1914	that	_	_	
+10-3	1915-1918	end	_	_	
+10-4	1919-1920	,	_	_	
+10-5	1921-1924	the	_	_	
+10-6	1925-1932	statute	*[13]	Metalinguistic Cue[13]	
+10-7	1933-1935	's	*[13]	Metalinguistic Cue[13]	
+10-8	1936-1940	text	*[13]	Metalinguistic Cue[13]	
+10-9	1941-1945	sets	_	_	
+10-10	1946-1951	forth	_	_	
+10-11	1952-1958	highly	_	_	
+10-12	1959-1967	detailed	_	_	
+10-13	1968-1980	requirements	_	_	
+10-14	1981-1982	.	_	_	
+
+#Text=The Act specifies , for example : that employers and employees must affirm in writing that the employee is authorized to work in the United States , 8 U.S.C. § § 1324a(b)(1)(A ) , ( b)(2 ) ; that only certain documents suffice to demonstrate identity and work authorization ( e.g. , a passport or alien - registration card ) , § § 1324a(b)(1)(B)-(D ) ; that employers and employees must affirm the truthfulness of the information they have given by " a hand - written or an electronic signature , " § § 1324a(b)(1)(A ) , ( b)(2 ) ; that all this information must be consolidated on the I-9 form , ibid . ; that the employer must store the I-9 in " paper , microfiche , microfilm , or electronic " form , typically for three years , § 1324a(b)(3 ) ; and that employers must make it available for federal inspection , ibid .
+11-1	1983-1986	The	_	_	
+11-2	1987-1990	Act	*	Legal Source	
+11-3	1991-2000	specifies	_	_	
+11-4	2001-2002	,	_	_	
+11-5	2003-2006	for	_	_	
+11-6	2007-2014	example	_	_	
+11-7	2015-2016	:	_	_	
+11-8	2017-2021	that	_	_	
+11-9	2022-2031	employers	_	_	
+11-10	2032-2035	and	_	_	
+11-11	2036-2045	employees	_	_	
+11-12	2046-2050	must	_	_	
+11-13	2051-2057	affirm	_	_	
+11-14	2058-2060	in	_	_	
+11-15	2061-2068	writing	_	_	
+11-16	2069-2073	that	_	_	
+11-17	2074-2077	the	_	_	
+11-18	2078-2086	employee	_	_	
+11-19	2087-2089	is	_	_	
+11-20	2090-2100	authorized	_	_	
+11-21	2101-2103	to	_	_	
+11-22	2104-2108	work	_	_	
+11-23	2109-2111	in	_	_	
+11-24	2112-2115	the	_	_	
+11-25	2116-2122	United	_	_	
+11-26	2123-2129	States	_	_	
+11-27	2130-2131	,	_	_	
+11-28	2132-2133	8	*[14]	Legal Source[14]	
+11-29	2134-2140	U.S.C.	*[14]	Legal Source[14]	
+11-30	2141-2142	§	*[14]	Legal Source[14]	
+11-31	2143-2144	§	*[14]	Legal Source[14]	
+11-32	2145-2158	1324a(b)(1)(A	*[14]	Legal Source[14]	
+11-33	2159-2160	)	*[14]	Legal Source[14]	
+11-34	2161-2162	,	*[14]	Legal Source[14]	
+11-35	2163-2164	(	*[14]	Legal Source[14]	
+11-36	2165-2169	b)(2	*[14]	Legal Source[14]	
+11-37	2170-2171	)	*[14]	Legal Source[14]	
+11-38	2172-2173	;	_	_	
+11-39	2174-2178	that	_	_	
+11-40	2179-2183	only	_	_	
+11-41	2184-2191	certain	_	_	
+11-42	2192-2201	documents	_	_	
+11-43	2202-2209	suffice	_	_	
+11-44	2210-2212	to	_	_	
+11-45	2213-2224	demonstrate	_	_	
+11-46	2225-2233	identity	_	_	
+11-47	2234-2237	and	_	_	
+11-48	2238-2242	work	_	_	
+11-49	2243-2256	authorization	_	_	
+11-50	2257-2258	(	_	_	
+11-51	2259-2263	e.g.	_	_	
+11-52	2264-2265	,	_	_	
+11-53	2266-2267	a	_	_	
+11-54	2268-2276	passport	_	_	
+11-55	2277-2279	or	_	_	
+11-56	2280-2285	alien	_	_	
+11-57	2286-2287	-	_	_	
+11-58	2288-2300	registration	_	_	
+11-59	2301-2305	card	_	_	
+11-60	2306-2307	)	_	_	
+11-61	2308-2309	,	_	_	
+11-62	2310-2311	§	*[15]	Legal Source[15]	
+11-63	2312-2313	§	*[15]	Legal Source[15]	
+11-64	2314-2331	1324a(b)(1)(B)-(D	*[15]	Legal Source[15]	
+11-65	2332-2333	)	*[15]	Legal Source[15]	
+11-66	2334-2335	;	_	_	
+11-67	2336-2340	that	_	_	
+11-68	2341-2350	employers	_	_	
+11-69	2351-2354	and	_	_	
+11-70	2355-2364	employees	_	_	
+11-71	2365-2369	must	_	_	
+11-72	2370-2376	affirm	_	_	
+11-73	2377-2380	the	_	_	
+11-74	2381-2393	truthfulness	_	_	
+11-75	2394-2396	of	_	_	
+11-76	2397-2400	the	_	_	
+11-77	2401-2412	information	_	_	
+11-78	2413-2417	they	_	_	
+11-79	2418-2422	have	_	_	
+11-80	2423-2428	given	_	_	
+11-81	2429-2431	by	_	_	
+11-82	2432-2433	"	*[16]	Direct Quote[16]	
+11-83	2434-2435	a	*[16]	Direct Quote[16]	
+11-84	2436-2440	hand	*[16]	Direct Quote[16]	
+11-85	2441-2442	-	*[16]	Direct Quote[16]	
+11-86	2443-2450	written	*[16]	Direct Quote[16]	
+11-87	2451-2453	or	*[16]	Direct Quote[16]	
+11-88	2454-2456	an	*[16]	Direct Quote[16]	
+11-89	2457-2467	electronic	*[16]	Direct Quote[16]	
+11-90	2468-2477	signature	*[16]	Direct Quote[16]	
+11-91	2478-2479	,	*[16]	Direct Quote[16]	
+11-92	2480-2481	"	*[16]	Direct Quote[16]	
+11-93	2482-2483	§	*[17]	Legal Source[17]	
+11-94	2484-2485	§	*[17]	Legal Source[17]	
+11-95	2486-2499	1324a(b)(1)(A	*[17]	Legal Source[17]	
+11-96	2500-2501	)	*[17]	Legal Source[17]	
+11-97	2502-2503	,	*[17]	Legal Source[17]	
+11-98	2504-2505	(	*[17]	Legal Source[17]	
+11-99	2506-2510	b)(2	*[17]	Legal Source[17]	
+11-100	2511-2512	)	*[17]	Legal Source[17]	
+11-101	2513-2514	;	_	_	
+11-102	2515-2519	that	_	_	
+11-103	2520-2523	all	_	_	
+11-104	2524-2528	this	_	_	
+11-105	2529-2540	information	_	_	
+11-106	2541-2545	must	_	_	
+11-107	2546-2548	be	_	_	
+11-108	2549-2561	consolidated	_	_	
+11-109	2562-2564	on	_	_	
+11-110	2565-2568	the	_	_	
+11-111	2569-2572	I-9	_	_	
+11-112	2573-2577	form	_	_	
+11-113	2578-2579	,	_	_	
+11-114	2580-2584	ibid	*[18]	Legal Source[18]	
+11-115	2585-2586	.	*[18]	Legal Source[18]	
+11-116	2587-2588	;	_	_	
+11-117	2589-2593	that	_	_	
+11-118	2594-2597	the	_	_	
+11-119	2598-2606	employer	_	_	
+11-120	2607-2611	must	_	_	
+11-121	2612-2617	store	_	_	
+11-122	2618-2621	the	_	_	
+11-123	2622-2625	I-9	_	_	
+11-124	2626-2628	in	_	_	
+11-125	2629-2630	"	*[19]	Direct Quote[19]	
+11-126	2631-2636	paper	*[19]	Direct Quote[19]	
+11-127	2637-2638	,	*[19]	Direct Quote[19]	
+11-128	2639-2649	microfiche	*[19]	Direct Quote[19]	
+11-129	2650-2651	,	*[19]	Direct Quote[19]	
+11-130	2652-2661	microfilm	*[19]	Direct Quote[19]	
+11-131	2662-2663	,	*[19]	Direct Quote[19]	
+11-132	2664-2666	or	*[19]	Direct Quote[19]	
+11-133	2667-2677	electronic	*[19]	Direct Quote[19]	
+11-134	2678-2679	"	*[19]	Direct Quote[19]	
+11-135	2680-2684	form	_	_	
+11-136	2685-2686	,	_	_	
+11-137	2687-2696	typically	_	_	
+11-138	2697-2700	for	_	_	
+11-139	2701-2706	three	_	_	
+11-140	2707-2712	years	_	_	
+11-141	2713-2714	,	_	_	
+11-142	2715-2716	§	*[20]	Legal Source[20]	
+11-143	2717-2727	1324a(b)(3	*[20]	Legal Source[20]	
+11-144	2728-2729	)	*[20]	Legal Source[20]	
+11-145	2730-2731	;	_	_	
+11-146	2732-2735	and	_	_	
+11-147	2736-2740	that	_	_	
+11-148	2741-2750	employers	_	_	
+11-149	2751-2755	must	_	_	
+11-150	2756-2760	make	_	_	
+11-151	2761-2763	it	_	_	
+11-152	2764-2773	available	_	_	
+11-153	2774-2777	for	_	_	
+11-154	2778-2785	federal	_	_	
+11-155	2786-2796	inspection	_	_	
+11-156	2797-2798	,	_	_	
+11-157	2799-2803	ibid	*[21]	Legal Source[21]	
+11-158	2804-2805	.	*[21]	Legal Source[21]	
+
+#Text=IRCA also contains two carefully calibrated sets of sanctions for noncompliance .
+12-1	2806-2810	IRCA	*	Legal Source	
+12-2	2811-2815	also	_	_	
+12-3	2816-2824	contains	_	_	
+12-4	2825-2828	two	_	_	
+12-5	2829-2838	carefully	_	_	
+12-6	2839-2849	calibrated	_	_	
+12-7	2850-2854	sets	_	_	
+12-8	2855-2857	of	_	_	
+12-9	2858-2867	sanctions	_	_	
+12-10	2868-2871	for	_	_	
+12-11	2872-2885	noncompliance	_	_	
+12-12	2886-2887	.	_	_	
+
+#Text=On the employer side , the Act makes it unlawful for employers to hire someone without complying with the I-9 process , § 1324a(a)(1)(B ) , or to recruit , hire , or employ someone the employer knows to be unauthorized , § § 1324a(a)(1)(A ) , ( a)(2 ) .
+13-1	2888-2890	On	_	_	
+13-2	2891-2894	the	_	_	
+13-3	2895-2903	employer	_	_	
+13-4	2904-2908	side	_	_	
+13-5	2909-2910	,	_	_	
+13-6	2911-2914	the	_	_	
+13-7	2915-2918	Act	_	_	
+13-8	2919-2924	makes	_	_	
+13-9	2925-2927	it	_	_	
+13-10	2928-2936	unlawful	_	_	
+13-11	2937-2940	for	_	_	
+13-12	2941-2950	employers	_	_	
+13-13	2951-2953	to	_	_	
+13-14	2954-2958	hire	_	_	
+13-15	2959-2966	someone	_	_	
+13-16	2967-2974	without	_	_	
+13-17	2975-2984	complying	_	_	
+13-18	2985-2989	with	_	_	
+13-19	2990-2993	the	_	_	
+13-20	2994-2997	I-9	_	_	
+13-21	2998-3005	process	_	_	
+13-22	3006-3007	,	_	_	
+13-23	3008-3009	§	*[22]	Legal Source[22]	
+13-24	3010-3023	1324a(a)(1)(B	*[22]	Legal Source[22]	
+13-25	3024-3025	)	*[22]	Legal Source[22]	
+13-26	3026-3027	,	_	_	
+13-27	3028-3030	or	_	_	
+13-28	3031-3033	to	_	_	
+13-29	3034-3041	recruit	_	_	
+13-30	3042-3043	,	_	_	
+13-31	3044-3048	hire	_	_	
+13-32	3049-3050	,	_	_	
+13-33	3051-3053	or	_	_	
+13-34	3054-3060	employ	_	_	
+13-35	3061-3068	someone	_	_	
+13-36	3069-3072	the	_	_	
+13-37	3073-3081	employer	_	_	
+13-38	3082-3087	knows	_	_	
+13-39	3088-3090	to	_	_	
+13-40	3091-3093	be	_	_	
+13-41	3094-3106	unauthorized	_	_	
+13-42	3107-3108	,	_	_	
+13-43	3109-3110	§	*[23]	Legal Source[23]	
+13-44	3111-3112	§	*[23]	Legal Source[23]	
+13-45	3113-3126	1324a(a)(1)(A	*[23]	Legal Source[23]	
+13-46	3127-3128	)	*[23]	Legal Source[23]	
+13-47	3129-3130	,	*[23]	Legal Source[23]	
+13-48	3131-3132	(	*[23]	Legal Source[23]	
+13-49	3133-3137	a)(2	*[23]	Legal Source[23]	
+13-50	3138-3139	)	*[23]	Legal Source[23]	
+13-51	3140-3141	.	_	_	
+
+#Text=The Act subjects employers who violate these prohibitions to an escalating series of civil and criminal penalties .
+14-1	3142-3145	The	_	_	
+14-2	3146-3149	Act	_	_	
+14-3	3150-3158	subjects	_	_	
+14-4	3159-3168	employers	_	_	
+14-5	3169-3172	who	_	_	
+14-6	3173-3180	violate	_	_	
+14-7	3181-3186	these	_	_	
+14-8	3187-3199	prohibitions	_	_	
+14-9	3200-3202	to	_	_	
+14-10	3203-3205	an	_	_	
+14-11	3206-3216	escalating	_	_	
+14-12	3217-3223	series	_	_	
+14-13	3224-3226	of	_	_	
+14-14	3227-3232	civil	_	_	
+14-15	3233-3236	and	_	_	
+14-16	3237-3245	criminal	_	_	
+14-17	3246-3255	penalties	_	_	
+14-18	3256-3257	.	_	_	
+
+#Text=See § § 1324a(e)(4)-(5 ) , ( f ) .
+15-1	3258-3261	See	_	_	
+15-2	3262-3263	§	*[24]	Legal Source[24]	
+15-3	3264-3265	§	*[24]	Legal Source[24]	
+15-4	3266-3280	1324a(e)(4)-(5	*[24]	Legal Source[24]	
+15-5	3281-3282	)	*[24]	Legal Source[24]	
+15-6	3283-3284	,	*[24]	Legal Source[24]	
+15-7	3285-3286	(	*[24]	Legal Source[24]	
+15-8	3287-3288	f	*[24]	Legal Source[24]	
+15-9	3289-3290	)	*[24]	Legal Source[24]	
+15-10	3291-3292	.	_	_	
+
+#Text=It also expressly " preempt[s ] any State or local law imposing civil or criminal sanctions " on those employers , but with a saving clause that gives States some room to regulate employers ( and only employers ) in this area " through licensing and similar laws . "
+16-1	3293-3295	It	_	_	
+16-2	3296-3300	also	_	_	
+16-3	3301-3310	expressly	*	Metalinguistic Cue	
+16-4	3311-3312	"	*[25]	Direct Quote[25]	
+16-5	3313-3322	preempt[s	*[25]	Direct Quote[25]	
+16-6	3323-3324	]	*[25]	Direct Quote[25]	
+16-7	3325-3328	any	*[25]	Direct Quote[25]	
+16-8	3329-3334	State	*[25]	Direct Quote[25]	
+16-9	3335-3337	or	*[25]	Direct Quote[25]	
+16-10	3338-3343	local	*[25]	Direct Quote[25]	
+16-11	3344-3347	law	*[25]	Direct Quote[25]	
+16-12	3348-3356	imposing	*[25]	Direct Quote[25]	
+16-13	3357-3362	civil	*[25]	Direct Quote[25]	
+16-14	3363-3365	or	*[25]	Direct Quote[25]	
+16-15	3366-3374	criminal	*[25]	Direct Quote[25]	
+16-16	3375-3384	sanctions	*[25]	Direct Quote[25]	
+16-17	3385-3386	"	*[25]	Direct Quote[25]	
+16-18	3387-3389	on	_	_	
+16-19	3390-3395	those	_	_	
+16-20	3396-3405	employers	_	_	
+16-21	3406-3407	,	_	_	
+16-22	3408-3411	but	_	_	
+16-23	3412-3416	with	_	_	
+16-24	3417-3418	a	_	_	
+16-25	3419-3425	saving	_	_	
+16-26	3426-3432	clause	_	_	
+16-27	3433-3437	that	_	_	
+16-28	3438-3443	gives	_	_	
+16-29	3444-3450	States	_	_	
+16-30	3451-3455	some	_	_	
+16-31	3456-3460	room	_	_	
+16-32	3461-3463	to	_	_	
+16-33	3464-3472	regulate	_	_	
+16-34	3473-3482	employers	_	_	
+16-35	3483-3484	(	_	_	
+16-36	3485-3488	and	_	_	
+16-37	3489-3493	only	_	_	
+16-38	3494-3503	employers	_	_	
+16-39	3504-3505	)	_	_	
+16-40	3506-3508	in	_	_	
+16-41	3509-3513	this	_	_	
+16-42	3514-3518	area	_	_	
+16-43	3519-3520	"	*[26]	Direct Quote[26]	
+16-44	3521-3528	through	*[26]	Direct Quote[26]	
+16-45	3529-3538	licensing	*[26]	Direct Quote[26]	
+16-46	3539-3542	and	*[26]	Direct Quote[26]	
+16-47	3543-3550	similar	*[26]	Direct Quote[26]	
+16-48	3551-3555	laws	*[26]	Direct Quote[26]	
+16-49	3556-3557	.	*[26]	Direct Quote[26]	
+16-50	3558-3559	"	*[26]	Direct Quote[26]	
+
+#Text=§ 1324a(h)(2 ) ; see also Chamber of Commerce of United States of America v. Whiting , 563 U.S. 582 , 587 , 131 S.Ct . 1968 , 179 L.Ed.2d 1031 ( 2011 ) .
+17-1	3560-3561	§	*[27]	Legal Source[27]	
+17-2	3562-3572	1324a(h)(2	*[27]	Legal Source[27]	
+17-3	3573-3574	)	*[27]	Legal Source[27]	
+17-4	3575-3576	;	_	_	
+17-5	3577-3580	see	_	_	
+17-6	3581-3585	also	_	_	
+17-7	3586-3593	Chamber	*[28]	Legal Source[28]	
+17-8	3594-3596	of	*[28]	Legal Source[28]	
+17-9	3597-3605	Commerce	*[28]	Legal Source[28]	
+17-10	3606-3608	of	*[28]	Legal Source[28]	
+17-11	3609-3615	United	*[28]	Legal Source[28]	
+17-12	3616-3622	States	*[28]	Legal Source[28]	
+17-13	3623-3625	of	*[28]	Legal Source[28]	
+17-14	3626-3633	America	*[28]	Legal Source[28]	
+17-15	3634-3636	v.	*[28]	Legal Source[28]	
+17-16	3637-3644	Whiting	*[28]	Legal Source[28]	
+17-17	3645-3646	,	*[28]	Legal Source[28]	
+17-18	3647-3650	563	*[28]	Legal Source[28]	
+17-19	3651-3655	U.S.	*[28]	Legal Source[28]	
+17-20	3656-3659	582	*[28]	Legal Source[28]	
+17-21	3660-3661	,	*[28]	Legal Source[28]	
+17-22	3662-3665	587	*[28]	Legal Source[28]	
+17-23	3666-3667	,	*[28]	Legal Source[28]	
+17-24	3668-3671	131	*[28]	Legal Source[28]	
+17-25	3672-3676	S.Ct	*[28]	Legal Source[28]	
+17-26	3677-3678	.	*[28]	Legal Source[28]	
+17-27	3679-3683	1968	*[28]	Legal Source[28]	
+17-28	3684-3685	,	*[28]	Legal Source[28]	
+17-29	3686-3689	179	*[28]	Legal Source[28]	
+17-30	3690-3697	L.Ed.2d	*[28]	Legal Source[28]	
+17-31	3698-3702	1031	*[28]	Legal Source[28]	
+17-32	3703-3704	(	*[28]	Legal Source[28]	
+17-33	3705-3709	2011	*[28]	Legal Source[28]	
+17-34	3710-3711	)	*[28]	Legal Source[28]	
+17-35	3712-3713	.	_	_	
+
+#Text=On the employee side , IRCA is somewhat more lenient .
+18-1	3714-3716	On	_	_	
+18-2	3717-3720	the	_	_	
+18-3	3721-3729	employee	_	_	
+18-4	3730-3734	side	_	_	
+18-5	3735-3736	,	_	_	
+18-6	3737-3741	IRCA	*	Legal Source	
+18-7	3742-3744	is	_	_	
+18-8	3745-3753	somewhat	_	_	
+18-9	3754-3758	more	_	_	
+18-10	3759-3766	lenient	_	_	
+18-11	3767-3768	.	_	_	
+
+#Text=Employees , unlike employers , are not subject to punishment for mere failure to complete the paperwork that the Act requires .
+19-1	3769-3778	Employees	_	_	
+19-2	3779-3780	,	_	_	
+19-3	3781-3787	unlike	_	_	
+19-4	3788-3797	employers	_	_	
+19-5	3798-3799	,	_	_	
+19-6	3800-3803	are	_	_	
+19-7	3804-3807	not	_	_	
+19-8	3808-3815	subject	_	_	
+19-9	3816-3818	to	_	_	
+19-10	3819-3829	punishment	_	_	
+19-11	3830-3833	for	_	_	
+19-12	3834-3838	mere	_	_	
+19-13	3839-3846	failure	_	_	
+19-14	3847-3849	to	_	_	
+19-15	3850-3858	complete	_	_	
+19-16	3859-3862	the	_	_	
+19-17	3863-3872	paperwork	_	_	
+19-18	3873-3877	that	_	_	
+19-19	3878-3881	the	_	_	
+19-20	3882-3885	Act	_	_	
+19-21	3886-3894	requires	_	_	
+19-22	3895-3896	.	_	_	
+
+#Text=See § 1324a(e)(5 ) .
+20-1	3897-3900	See	_	_	
+20-2	3901-3902	§	*[29]	Legal Source[29]	
+20-3	3903-3913	1324a(e)(5	*[29]	Legal Source[29]	
+20-4	3914-3915	)	*[29]	Legal Source[29]	
+20-5	3916-3917	.	_	_	
+
+#Text=And while employees who work without authorization may suffer adverse immigration consequences , unauthorized work does not by itself trigger federal criminal prosecution .
+21-1	3918-3921	And	_	_	
+21-2	3922-3927	while	_	_	
+21-3	3928-3937	employees	_	_	
+21-4	3938-3941	who	_	_	
+21-5	3942-3946	work	_	_	
+21-6	3947-3954	without	_	_	
+21-7	3955-3968	authorization	_	_	
+21-8	3969-3972	may	_	_	
+21-9	3973-3979	suffer	_	_	
+21-10	3980-3987	adverse	_	_	
+21-11	3988-3999	immigration	_	_	
+21-12	4000-4012	consequences	_	_	
+21-13	4013-4014	,	_	_	
+21-14	4015-4027	unauthorized	_	_	
+21-15	4028-4032	work	_	_	
+21-16	4033-4037	does	_	_	
+21-17	4038-4041	not	_	_	
+21-18	4042-4044	by	_	_	
+21-19	4045-4051	itself	_	_	
+21-20	4052-4059	trigger	_	_	
+21-21	4060-4067	federal	_	_	
+21-22	4068-4076	criminal	_	_	
+21-23	4077-4088	prosecution	_	_	
+21-24	4089-4090	.	_	_	
+
+#Text=See Arizona , 567 U.S. at 404 - 405 , 132 S.Ct . 2492 ( citing § § 1227(a)(1)(C)(i ) , 1255(c)(2 ) , ( c)(8 ) ) .
+22-1	4091-4094	See	_	_	
+22-2	4095-4102	Arizona	*[30]	Legal Source[30]	
+22-3	4103-4104	,	*[30]	Legal Source[30]	
+22-4	4105-4108	567	*[30]	Legal Source[30]	
+22-5	4109-4113	U.S.	*[30]	Legal Source[30]	
+22-6	4114-4116	at	*[30]	Legal Source[30]	
+22-7	4117-4120	404	*[30]	Legal Source[30]	
+22-8	4121-4122	-	*[30]	Legal Source[30]	
+22-9	4123-4126	405	*[30]	Legal Source[30]	
+22-10	4127-4128	,	*[30]	Legal Source[30]	
+22-11	4129-4132	132	*[30]	Legal Source[30]	
+22-12	4133-4137	S.Ct	*[30]	Legal Source[30]	
+22-13	4138-4139	.	*[30]	Legal Source[30]	
+22-14	4140-4144	2492	*[30]	Legal Source[30]	
+22-15	4145-4146	(	_	_	
+22-16	4147-4153	citing	_	_	
+22-17	4154-4155	§	*[31]	Legal Source[31]	
+22-18	4156-4157	§	*[31]	Legal Source[31]	
+22-19	4158-4173	1227(a)(1)(C)(i	*[31]	Legal Source[31]	
+22-20	4174-4175	)	*[31]	Legal Source[31]	
+22-21	4176-4177	,	*[31]	Legal Source[31]	
+22-22	4178-4187	1255(c)(2	*[31]	Legal Source[31]	
+22-23	4188-4189	)	*[31]	Legal Source[31]	
+22-24	4190-4191	,	*[31]	Legal Source[31]	
+22-25	4192-4193	(	*[31]	Legal Source[31]	
+22-26	4194-4198	c)(8	*[31]	Legal Source[31]	
+22-27	4199-4200	)	*[31]	Legal Source[31]	
+22-28	4201-4202	)	_	_	
+22-29	4203-4204	.	_	_	
+
+#Text=Rather , the Act makes it a federal crime for anyone to commit fraud " for the purpose of satisfying " the Act 's requirements .
+23-1	4205-4211	Rather	_	_	
+23-2	4212-4213	,	_	_	
+23-3	4214-4217	the	_	_	
+23-4	4218-4221	Act	*	Legal Source	
+23-5	4222-4227	makes	_	_	
+23-6	4228-4230	it	_	_	
+23-7	4231-4232	a	_	_	
+23-8	4233-4240	federal	_	_	
+23-9	4241-4246	crime	_	_	
+23-10	4247-4250	for	_	_	
+23-11	4251-4257	anyone	_	_	
+23-12	4258-4260	to	_	_	
+23-13	4261-4267	commit	_	_	
+23-14	4268-4273	fraud	_	_	
+23-15	4274-4275	"	*[32]	Direct Quote[32]	
+23-16	4276-4279	for	*[32]	Direct Quote[32]	
+23-17	4280-4283	the	*[32]	Direct Quote[32]	
+23-18	4284-4291	purpose	*[32]	Direct Quote[32]	
+23-19	4292-4294	of	*[32]	Direct Quote[32]	
+23-20	4295-4305	satisfying	*[32]	Direct Quote[32]	
+23-21	4306-4307	"	*[32]	Direct Quote[32]	
+23-22	4308-4311	the	_	_	
+23-23	4312-4315	Act	*	Legal Source	
+23-24	4316-4318	's	_	_	
+23-25	4319-4331	requirements	_	_	
+23-26	4332-4333	.	_	_	
+
+#Text=18 U.S.C. § 1546 ( b ) .
+24-1	4334-4336	18	*[33]	Legal Source[33]	
+24-2	4337-4343	U.S.C.	*[33]	Legal Source[33]	
+24-3	4344-4345	§	*[33]	Legal Source[33]	
+24-4	4346-4350	1546	*[33]	Legal Source[33]	
+24-5	4351-4352	(	*[33]	Legal Source[33]	
+24-6	4353-4354	b	*[33]	Legal Source[33]	
+24-7	4355-4356	)	*[33]	Legal Source[33]	
+24-8	4357-4358	.	_	_	
+
+#Text=Our precedent demonstrates that IRCA impliedly preempts state laws that trench on Congress ' detailed and delicate design .
+25-1	4359-4362	Our	_	_	
+25-2	4363-4372	precedent	_	_	
+25-3	4373-4385	demonstrates	_	_	
+25-4	4386-4390	that	_	_	
+25-5	4391-4395	IRCA	*	Legal Source	
+25-6	4396-4405	impliedly	_	_	
+25-7	4406-4414	preempts	_	_	
+25-8	4415-4420	state	_	_	
+25-9	4421-4425	laws	_	_	
+25-10	4426-4430	that	_	_	
+25-11	4431-4437	trench	_	_	
+25-12	4438-4440	on	_	_	
+25-13	4441-4449	Congress	_	_	
+25-14	4450-4451	'	_	_	
+25-15	4452-4460	detailed	_	_	
+25-16	4461-4464	and	_	_	
+25-17	4465-4473	delicate	_	_	
+25-18	4474-4480	design	_	_	
+25-19	4481-4482	.	_	_	
+
+#Text=In Arizona , we invalidated a state law that made it a crime for an unauthorized alien to work .
+26-1	4483-4485	In	_	_	
+26-2	4486-4493	Arizona	_	_	
+26-3	4494-4495	,	_	_	
+26-4	4496-4498	we	_	_	
+26-5	4499-4510	invalidated	_	_	
+26-6	4511-4512	a	_	_	
+26-7	4513-4518	state	_	_	
+26-8	4519-4522	law	_	_	
+26-9	4523-4527	that	_	_	
+26-10	4528-4532	made	_	_	
+26-11	4533-4535	it	_	_	
+26-12	4536-4537	a	_	_	
+26-13	4538-4543	crime	_	_	
+26-14	4544-4547	for	_	_	
+26-15	4548-4550	an	_	_	
+26-16	4551-4563	unauthorized	_	_	
+26-17	4564-4569	alien	_	_	
+26-18	4570-4572	to	_	_	
+26-19	4573-4577	work	_	_	
+26-20	4578-4579	.	_	_	
+
+#Text=567 U.S. at 403 , 132 S.Ct . 2492 .
+27-1	4580-4583	567	*[34]	Legal Source[34]	
+27-2	4584-4588	U.S.	*[34]	Legal Source[34]	
+27-3	4589-4591	at	*[34]	Legal Source[34]	
+27-4	4592-4595	403	*[34]	Legal Source[34]	
+27-5	4596-4597	,	*[34]	Legal Source[34]	
+27-6	4598-4601	132	*[34]	Legal Source[34]	
+27-7	4602-4606	S.Ct	*[34]	Legal Source[34]	
+27-8	4607-4608	.	*[34]	Legal Source[34]	
+27-9	4609-4613	2492	*[34]	Legal Source[34]	
+27-10	4614-4615	.	_	_	
+
+#Text=In reaching that conclusion , we acknowledged that the Act 's employer - related sections contain an express preemption provision , while the employee - related provisions do not .
+28-1	4616-4618	In	_	_	
+28-2	4619-4627	reaching	_	_	
+28-3	4628-4632	that	_	_	
+28-4	4633-4643	conclusion	_	_	
+28-5	4644-4645	,	_	_	
+28-6	4646-4648	we	_	_	
+28-7	4649-4661	acknowledged	_	_	
+28-8	4662-4666	that	_	_	
+28-9	4667-4670	the	_	_	
+28-10	4671-4674	Act	_	_	
+28-11	4675-4677	's	_	_	
+28-12	4678-4686	employer	_	_	
+28-13	4687-4688	-	_	_	
+28-14	4689-4696	related	_	_	
+28-15	4697-4705	sections	_	_	
+28-16	4706-4713	contain	_	_	
+28-17	4714-4716	an	_	_	
+28-18	4717-4724	express	_	_	
+28-19	4725-4735	preemption	_	_	
+28-20	4736-4745	provision	_	_	
+28-21	4746-4747	,	_	_	
+28-22	4748-4753	while	_	_	
+28-23	4754-4757	the	_	_	
+28-24	4758-4766	employee	_	_	
+28-25	4767-4768	-	_	_	
+28-26	4769-4776	related	_	_	
+28-27	4777-4787	provisions	_	_	
+28-28	4788-4790	do	_	_	
+28-29	4791-4794	not	_	_	
+28-30	4795-4796	.	_	_	
+
+#Text=Id. , at 406 , 132 S.Ct . 2492 .
+29-1	4797-4800	Id.	*[35]	Legal Source[35]	
+29-2	4801-4802	,	*[35]	Legal Source[35]	
+29-3	4803-4805	at	*[35]	Legal Source[35]	
+29-4	4806-4809	406	*[35]	Legal Source[35]	
+29-5	4810-4811	,	*[35]	Legal Source[35]	
+29-6	4812-4815	132	*[35]	Legal Source[35]	
+29-7	4816-4820	S.Ct	*[35]	Legal Source[35]	
+29-8	4821-4822	.	*[35]	Legal Source[35]	
+29-9	4823-4827	2492	*[35]	Legal Source[35]	
+29-10	4828-4829	.	_	_	
+
+#Text=Even so , the Act 's employee - related provisions retained , through implication , preemptive force .
+30-1	4830-4834	Even	_	_	
+30-2	4835-4837	so	_	_	
+30-3	4838-4839	,	_	_	
+30-4	4840-4843	the	_	_	
+30-5	4844-4847	Act	_	_	
+30-6	4848-4850	's	_	_	
+30-7	4851-4859	employee	_	_	
+30-8	4860-4861	-	_	_	
+30-9	4862-4869	related	_	_	
+30-10	4870-4880	provisions	_	_	
+30-11	4881-4889	retained	_	_	
+30-12	4890-4891	,	_	_	
+30-13	4892-4899	through	_	_	
+30-14	4900-4911	implication	_	_	
+30-15	4912-4913	,	_	_	
+30-16	4914-4924	preemptive	_	_	
+30-17	4925-4930	force	_	_	
+30-18	4931-4932	.	_	_	
+
+#Text=Id. , at 406 - 407 , 132 S.Ct . 2492 .
+31-1	4933-4936	Id.	*[36]	Legal Source[36]	
+31-2	4937-4938	,	*[36]	Legal Source[36]	
+31-3	4939-4941	at	*[36]	Legal Source[36]	
+31-4	4942-4945	406	*[36]	Legal Source[36]	
+31-5	4946-4947	-	*[36]	Legal Source[36]	
+31-6	4948-4951	407	*[36]	Legal Source[36]	
+31-7	4952-4953	,	*[36]	Legal Source[36]	
+31-8	4954-4957	132	*[36]	Legal Source[36]	
+31-9	4958-4962	S.Ct	*[36]	Legal Source[36]	
+31-10	4963-4964	.	*[36]	Legal Source[36]	
+31-11	4965-4969	2492	*[36]	Legal Source[36]	
+31-12	4970-4971	.	_	_	
+
+#Text=Congress , we explained , " made a deliberate choice not to impose criminal penalties on aliens who " merely " seek , or engage in , unauthorized employment . "
+32-1	4972-4980	Congress	_	_	
+32-2	4981-4982	,	_	_	
+32-3	4983-4985	we	_	_	
+32-4	4986-4995	explained	_	_	
+32-5	4996-4997	,	_	_	
+32-6	4998-4999	"	*[37]	Direct Quote[37]	
+32-7	5000-5004	made	*[37]	Direct Quote[37]	
+32-8	5005-5006	a	*[37]	Direct Quote[37]	
+32-9	5007-5017	deliberate	*[37]	Direct Quote[37]	
+32-10	5018-5024	choice	*[37]	Direct Quote[37]	
+32-11	5025-5028	not	*[37]	Direct Quote[37]	
+32-12	5029-5031	to	*[37]	Direct Quote[37]	
+32-13	5032-5038	impose	*[37]	Direct Quote[37]	
+32-14	5039-5047	criminal	*[37]	Direct Quote[37]	
+32-15	5048-5057	penalties	*[37]	Direct Quote[37]	
+32-16	5058-5060	on	*[37]	Direct Quote[37]	
+32-17	5061-5067	aliens	*[37]	Direct Quote[37]	
+32-18	5068-5071	who	*[37]	Direct Quote[37]	
+32-19	5072-5073	"	*[37]	Direct Quote[37]	
+32-20	5074-5080	merely	_	_	
+32-21	5081-5082	"	*[38]	Direct Quote[38]	
+32-22	5083-5087	seek	*[38]	Direct Quote[38]	
+32-23	5088-5089	,	*[38]	Direct Quote[38]	
+32-24	5090-5092	or	*[38]	Direct Quote[38]	
+32-25	5093-5099	engage	*[38]	Direct Quote[38]	
+32-26	5100-5102	in	*[38]	Direct Quote[38]	
+32-27	5103-5104	,	*[38]	Direct Quote[38]	
+32-28	5105-5117	unauthorized	*[38]	Direct Quote[38]	
+32-29	5118-5128	employment	*[38]	Direct Quote[38]	
+32-30	5129-5130	.	*[38]	Direct Quote[38]	
+32-31	5131-5132	"	*[38]	Direct Quote[38]	
+
+#Text=Id. , at 405 , 132 S.Ct . 2492 .
+33-1	5133-5136	Id.	*[39]	Legal Source[39]	
+33-2	5137-5138	,	*[39]	Legal Source[39]	
+33-3	5139-5141	at	*[39]	Legal Source[39]	
+33-4	5142-5145	405	*[39]	Legal Source[39]	
+33-5	5146-5147	,	*[39]	Legal Source[39]	
+33-6	5148-5151	132	*[39]	Legal Source[39]	
+33-7	5152-5156	S.Ct	*[39]	Legal Source[39]	
+33-8	5157-5158	.	*[39]	Legal Source[39]	
+33-9	5159-5163	2492	*[39]	Legal Source[39]	
+33-10	5164-5165	.	_	_	
+
+#Text=The Act puts combating the employment of unauthorized aliens at the forefront of federal immigration policy .
+34-1	5166-5169	The	_	_	
+34-2	5170-5173	Act	*	Legal Source	
+34-3	5174-5178	puts	_	_	
+34-4	5179-5188	combating	_	_	
+34-5	5189-5192	the	_	_	
+34-6	5193-5203	employment	_	_	
+34-7	5204-5206	of	_	_	
+34-8	5207-5219	unauthorized	_	_	
+34-9	5220-5226	aliens	_	_	
+34-10	5227-5229	at	_	_	
+34-11	5230-5233	the	_	_	
+34-12	5234-5243	forefront	_	_	
+34-13	5244-5246	of	_	_	
+34-14	5247-5254	federal	_	_	
+34-15	5255-5266	immigration	_	_	
+34-16	5267-5273	policy	_	_	
+34-17	5274-5275	.	_	_	
+
+#Text=Id. , at 404 , 132 S.Ct . 2492 .
+35-1	5276-5279	Id.	*[40]	Legal Source[40]	
+35-2	5280-5281	,	*[40]	Legal Source[40]	
+35-3	5282-5284	at	*[40]	Legal Source[40]	
+35-4	5285-5288	404	*[40]	Legal Source[40]	
+35-5	5289-5290	,	*[40]	Legal Source[40]	
+35-6	5291-5294	132	*[40]	Legal Source[40]	
+35-7	5295-5299	S.Ct	*[40]	Legal Source[40]	
+35-8	5300-5301	.	*[40]	Legal Source[40]	
+35-9	5302-5306	2492	*[40]	Legal Source[40]	
+35-10	5307-5308	.	_	_	
+
+#Text=But it also reflects " a considered judgment " not to pursue that goal at all costs .
+36-1	5309-5312	But	_	_	
+36-2	5313-5315	it	_	_	
+36-3	5316-5320	also	_	_	
+36-4	5321-5329	reflects	_	_	
+36-5	5330-5331	"	*[41]	Direct Quote[41]	
+36-6	5332-5333	a	*[41]	Direct Quote[41]	
+36-7	5334-5344	considered	*[41]	Direct Quote[41]	
+36-8	5345-5353	judgment	*[41]	Direct Quote[41]	
+36-9	5354-5355	"	*[41]	Direct Quote[41]	
+36-10	5356-5359	not	_	_	
+36-11	5360-5362	to	_	_	
+36-12	5363-5369	pursue	_	_	
+36-13	5370-5374	that	_	_	
+36-14	5375-5379	goal	_	_	
+36-15	5380-5382	at	_	_	
+36-16	5383-5386	all	_	_	
+36-17	5387-5392	costs	_	_	
+36-18	5393-5394	.	_	_	
+
+#Text=Id. , at 405 , 132 S.Ct . 2492 .
+37-1	5395-5398	Id.	*[42]	Legal Source[42]	
+37-2	5399-5400	,	*[42]	Legal Source[42]	
+37-3	5401-5403	at	*[42]	Legal Source[42]	
+37-4	5404-5407	405	*[42]	Legal Source[42]	
+37-5	5408-5409	,	*[42]	Legal Source[42]	
+37-6	5410-5413	132	*[42]	Legal Source[42]	
+37-7	5414-5418	S.Ct	*[42]	Legal Source[42]	
+37-8	5419-5420	.	*[42]	Legal Source[42]	
+37-9	5421-5425	2492	*[42]	Legal Source[42]	
+37-10	5426-5427	.	_	_	
+
+#Text=" Unauthorized workers trying to support their families " usually " pose less danger than alien smugglers or aliens who commit a serious crime . "
+38-1	5428-5429	"	*[43]	Direct Quote[43]	
+38-2	5430-5442	Unauthorized	*[43]	Direct Quote[43]	
+38-3	5443-5450	workers	*[43]	Direct Quote[43]	
+38-4	5451-5457	trying	*[43]	Direct Quote[43]	
+38-5	5458-5460	to	*[43]	Direct Quote[43]	
+38-6	5461-5468	support	*[43]	Direct Quote[43]	
+38-7	5469-5474	their	*[43]	Direct Quote[43]	
+38-8	5475-5483	families	*[43]	Direct Quote[43]	
+38-9	5484-5485	"	*[43]	Direct Quote[43]	
+38-10	5486-5493	usually	_	_	
+38-11	5494-5495	"	*[44]	Direct Quote[44]	
+38-12	5496-5500	pose	*[44]	Direct Quote[44]	
+38-13	5501-5505	less	*[44]	Direct Quote[44]	
+38-14	5506-5512	danger	*[44]	Direct Quote[44]	
+38-15	5513-5517	than	*[44]	Direct Quote[44]	
+38-16	5518-5523	alien	*[44]	Direct Quote[44]	
+38-17	5524-5533	smugglers	*[44]	Direct Quote[44]	
+38-18	5534-5536	or	*[44]	Direct Quote[44]	
+38-19	5537-5543	aliens	*[44]	Direct Quote[44]	
+38-20	5544-5547	who	*[44]	Direct Quote[44]	
+38-21	5548-5554	commit	*[44]	Direct Quote[44]	
+38-22	5555-5556	a	*[44]	Direct Quote[44]	
+38-23	5557-5564	serious	*[44]	Direct Quote[44]	
+38-24	5565-5570	crime	*[44]	Direct Quote[44]	
+38-25	5571-5572	.	*[44]	Direct Quote[44]	
+38-26	5573-5574	"	*[44]	Direct Quote[44]	
+
+#Text=Id. , at 396 , 132 S.Ct . 2492 .
+39-1	5575-5578	Id.	*[45]	Legal Source[45]	
+39-2	5579-5580	,	*[45]	Legal Source[45]	
+39-3	5581-5583	at	*[45]	Legal Source[45]	
+39-4	5584-5587	396	*[45]	Legal Source[45]	
+39-5	5588-5589	,	*[45]	Legal Source[45]	
+39-6	5590-5593	132	*[45]	Legal Source[45]	
+39-7	5594-5598	S.Ct	*[45]	Legal Source[45]	
+39-8	5599-5600	.	*[45]	Legal Source[45]	
+39-9	5601-5605	2492	*[45]	Legal Source[45]	
+39-10	5606-5607	.	_	_	
+
+#Text=And they may have " children born in the United States , long ties to the community , " or other attributes that could counsel in favor of prosecutorial restraint .
+40-1	5608-5611	And	_	_	
+40-2	5612-5616	they	_	_	
+40-3	5617-5620	may	_	_	
+40-4	5621-5625	have	_	_	
+40-5	5626-5627	"	*[46]	Direct Quote[46]	
+40-6	5628-5636	children	*[46]	Direct Quote[46]	
+40-7	5637-5641	born	*[46]	Direct Quote[46]	
+40-8	5642-5644	in	*[46]	Direct Quote[46]	
+40-9	5645-5648	the	*[46]	Direct Quote[46]	
+40-10	5649-5655	United	*[46]	Direct Quote[46]	
+40-11	5656-5662	States	*[46]	Direct Quote[46]	
+40-12	5663-5664	,	*[46]	Direct Quote[46]	
+40-13	5665-5669	long	*[46]	Direct Quote[46]	
+40-14	5670-5674	ties	*[46]	Direct Quote[46]	
+40-15	5675-5677	to	*[46]	Direct Quote[46]	
+40-16	5678-5681	the	*[46]	Direct Quote[46]	
+40-17	5682-5691	community	*[46]	Direct Quote[46]	
+40-18	5692-5693	,	*[46]	Direct Quote[46]	
+40-19	5694-5695	"	*[46]	Direct Quote[46]	
+40-20	5696-5698	or	_	_	
+40-21	5699-5704	other	_	_	
+40-22	5705-5715	attributes	_	_	
+40-23	5716-5720	that	_	_	
+40-24	5721-5726	could	_	_	
+40-25	5727-5734	counsel	_	_	
+40-26	5735-5737	in	_	_	
+40-27	5738-5743	favor	_	_	
+40-28	5744-5746	of	_	_	
+40-29	5747-5760	prosecutorial	_	_	
+40-30	5761-5770	restraint	_	_	
+40-31	5771-5772	.	_	_	
+
+#Text=Ibid .
+41-1	5773-5777	Ibid	*[47]	Legal Source[47]	
+41-2	5778-5779	.	*[47]	Legal Source[47]	
+
+#Text=We ultimately held in Arizona that the States thus may not make criminal what Congress did not , for any such state law " would interfere with the careful balance struck by Congress with respect to unauthorized employment of aliens . "
+42-1	5780-5782	We	_	_	
+42-2	5783-5793	ultimately	_	_	
+42-3	5794-5798	held	_	_	
+42-4	5799-5801	in	_	_	
+42-5	5802-5809	Arizona	_	_	
+42-6	5810-5814	that	_	_	
+42-7	5815-5818	the	_	_	
+42-8	5819-5825	States	_	_	
+42-9	5826-5830	thus	_	_	
+42-10	5831-5834	may	_	_	
+42-11	5835-5838	not	_	_	
+42-12	5839-5843	make	_	_	
+42-13	5844-5852	criminal	_	_	
+42-14	5853-5857	what	_	_	
+42-15	5858-5866	Congress	_	_	
+42-16	5867-5870	did	_	_	
+42-17	5871-5874	not	_	_	
+42-18	5875-5876	,	_	_	
+42-19	5877-5880	for	_	_	
+42-20	5881-5884	any	_	_	
+42-21	5885-5889	such	_	_	
+42-22	5890-5895	state	_	_	
+42-23	5896-5899	law	_	_	
+42-24	5900-5901	"	*[48]	Direct Quote[48]	
+42-25	5902-5907	would	*[48]	Direct Quote[48]	
+42-26	5908-5917	interfere	*[48]	Direct Quote[48]	
+42-27	5918-5922	with	*[48]	Direct Quote[48]	
+42-28	5923-5926	the	*[48]	Direct Quote[48]	
+42-29	5927-5934	careful	*[48]	Direct Quote[48]	
+42-30	5935-5942	balance	*[48]	Direct Quote[48]	
+42-31	5943-5949	struck	*[48]	Direct Quote[48]	
+42-32	5950-5952	by	*[48]	Direct Quote[48]	
+42-33	5953-5961	Congress	*[48]	Direct Quote[48]	
+42-34	5962-5966	with	*[48]	Direct Quote[48]	
+42-35	5967-5974	respect	*[48]	Direct Quote[48]	
+42-36	5975-5977	to	*[48]	Direct Quote[48]	
+42-37	5978-5990	unauthorized	*[48]	Direct Quote[48]	
+42-38	5991-6001	employment	*[48]	Direct Quote[48]	
+42-39	6002-6004	of	*[48]	Direct Quote[48]	
+42-40	6005-6011	aliens	*[48]	Direct Quote[48]	
+42-41	6012-6013	.	*[48]	Direct Quote[48]	
+42-42	6014-6015	"	*[48]	Direct Quote[48]	
+
+#Text=Id. , at 406 , 132 S.Ct . 2492 .
+43-1	6016-6019	Id.	*[49]	Legal Source[49]	
+43-2	6020-6021	,	*[49]	Legal Source[49]	
+43-3	6022-6024	at	*[49]	Legal Source[49]	
+43-4	6025-6028	406	*[49]	Legal Source[49]	
+43-5	6029-6030	,	*[49]	Legal Source[49]	
+43-6	6031-6034	132	*[49]	Legal Source[49]	
+43-7	6035-6039	S.Ct	*[49]	Legal Source[49]	
+43-8	6040-6041	.	*[49]	Legal Source[49]	
+43-9	6042-6046	2492	*[49]	Legal Source[49]	
+43-10	6047-6048	.	_	_	
+
+#Text=Given that " obstacle to the regulatory system Congress chose , " we concluded that the state law at issue conflicted with the federal Act and was therefore preempted .
+44-1	6049-6054	Given	_	_	
+44-2	6055-6059	that	_	_	
+44-3	6060-6061	"	*[50]	Direct Quote[50]	
+44-4	6062-6070	obstacle	*[50]	Direct Quote[50]	
+44-5	6071-6073	to	*[50]	Direct Quote[50]	
+44-6	6074-6077	the	*[50]	Direct Quote[50]	
+44-7	6078-6088	regulatory	*[50]	Direct Quote[50]	
+44-8	6089-6095	system	*[50]	Direct Quote[50]	
+44-9	6096-6104	Congress	*[50]	Direct Quote[50]	
+44-10	6105-6110	chose	*[50]	Direct Quote[50]	
+44-11	6111-6112	,	*[50]	Direct Quote[50]	
+44-12	6113-6114	"	*[50]	Direct Quote[50]	
+44-13	6115-6117	we	_	_	
+44-14	6118-6127	concluded	_	_	
+44-15	6128-6132	that	_	_	
+44-16	6133-6136	the	_	_	
+44-17	6137-6142	state	_	_	
+44-18	6143-6146	law	_	_	
+44-19	6147-6149	at	_	_	
+44-20	6150-6155	issue	_	_	
+44-21	6156-6166	conflicted	_	_	
+44-22	6167-6171	with	_	_	
+44-23	6172-6175	the	_	_	
+44-24	6176-6183	federal	_	_	
+44-25	6184-6187	Act	_	_	
+44-26	6188-6191	and	_	_	
+44-27	6192-6195	was	_	_	
+44-28	6196-6205	therefore	_	_	
+44-29	6206-6215	preempted	_	_	
+44-30	6216-6217	.	_	_	
+
+#Text=Id. , at 406 - 407 , 132 S.Ct . 2492 .
+45-1	6218-6221	Id.	*[51]	Legal Source[51]	
+45-2	6222-6223	,	*[51]	Legal Source[51]	
+45-3	6224-6226	at	*[51]	Legal Source[51]	
+45-4	6227-6230	406	*[51]	Legal Source[51]	
+45-5	6231-6232	-	*[51]	Legal Source[51]	
+45-6	6233-6236	407	*[51]	Legal Source[51]	
+45-7	6237-6238	,	*[51]	Legal Source[51]	
+45-8	6239-6242	132	*[51]	Legal Source[51]	
+45-9	6243-6247	S.Ct	*[51]	Legal Source[51]	
+45-10	6248-6249	.	*[51]	Legal Source[51]	
+45-11	6250-6254	2492	*[51]	Legal Source[51]	
+45-12	6255-6256	.	_	_	
+
+#Text=State laws that police fraud committed to demonstrate federal work authorization are similarly preempted .
+46-1	6257-6262	State	_	_	
+46-2	6263-6267	laws	_	_	
+46-3	6268-6272	that	_	_	
+46-4	6273-6279	police	_	_	
+46-5	6280-6285	fraud	_	_	
+46-6	6286-6295	committed	_	_	
+46-7	6296-6298	to	_	_	
+46-8	6299-6310	demonstrate	_	_	
+46-9	6311-6318	federal	_	_	
+46-10	6319-6323	work	_	_	
+46-11	6324-6337	authorization	_	_	
+46-12	6338-6341	are	_	_	
+46-13	6342-6351	similarly	_	_	
+46-14	6352-6361	preempted	_	_	
+46-15	6362-6363	.	_	_	
+
+#Text=Even though IRCA criminalizes that conduct , the Act makes clear that only the Federal Government may prosecute people for misrepresenting their federal work - authorization status .
+47-1	6364-6368	Even	_	_	
+47-2	6369-6375	though	_	_	
+47-3	6376-6380	IRCA	_	_	
+47-4	6381-6393	criminalizes	_	_	
+47-5	6394-6398	that	_	_	
+47-6	6399-6406	conduct	_	_	
+47-7	6407-6408	,	_	_	
+47-8	6409-6412	the	_	_	
+47-9	6413-6416	Act	_	_	
+47-10	6417-6422	makes	_	_	
+47-11	6423-6428	clear	_	_	
+47-12	6429-6433	that	_	_	
+47-13	6434-6438	only	_	_	
+47-14	6439-6442	the	_	_	
+47-15	6443-6450	Federal	_	_	
+47-16	6451-6461	Government	_	_	
+47-17	6462-6465	may	_	_	
+47-18	6466-6475	prosecute	_	_	
+47-19	6476-6482	people	_	_	
+47-20	6483-6486	for	_	_	
+47-21	6487-6502	misrepresenting	_	_	
+47-22	6503-6508	their	_	_	
+47-23	6509-6516	federal	_	_	
+47-24	6517-6521	work	_	_	
+47-25	6522-6523	-	_	_	
+47-26	6524-6537	authorization	_	_	
+47-27	6538-6544	status	_	_	
+47-28	6545-6546	.	_	_	
+
+#Text=This is so for two reasons .
+48-1	6547-6551	This	_	_	
+48-2	6552-6554	is	_	_	
+48-3	6555-6557	so	_	_	
+48-4	6558-6561	for	_	_	
+48-5	6562-6565	two	_	_	
+48-6	6566-6573	reasons	_	_	
+48-7	6574-6575	.	_	_	
+
+#Text=First , the Act takes from the States the most direct means of policing work - authorization fraud .
+49-1	6576-6581	First	_	_	
+49-2	6582-6583	,	_	_	
+49-3	6584-6587	the	_	_	
+49-4	6588-6591	Act	*	Legal Source	
+49-5	6592-6597	takes	_	_	
+49-6	6598-6602	from	_	_	
+49-7	6603-6606	the	_	_	
+49-8	6607-6613	States	_	_	
+49-9	6614-6617	the	_	_	
+49-10	6618-6622	most	_	_	
+49-11	6623-6629	direct	_	_	
+49-12	6630-6635	means	_	_	
+49-13	6636-6638	of	_	_	
+49-14	6639-6647	policing	_	_	
+49-15	6648-6652	work	_	_	
+49-16	6653-6654	-	_	_	
+49-17	6655-6668	authorization	_	_	
+49-18	6669-6674	fraud	_	_	
+49-19	6675-6676	.	_	_	
+
+#Text=It prohibits States from using for that purpose both the I-9 and the federal employment verification system more generally .
+50-1	6677-6679	It	_	_	
+50-2	6680-6689	prohibits	_	_	
+50-3	6690-6696	States	_	_	
+50-4	6697-6701	from	_	_	
+50-5	6702-6707	using	_	_	
+50-6	6708-6711	for	_	_	
+50-7	6712-6716	that	_	_	
+50-8	6717-6724	purpose	_	_	
+50-9	6725-6729	both	_	_	
+50-10	6730-6733	the	_	_	
+50-11	6734-6737	I-9	_	_	
+50-12	6738-6741	and	_	_	
+50-13	6742-6745	the	_	_	
+50-14	6746-6753	federal	_	_	
+50-15	6754-6764	employment	_	_	
+50-16	6765-6777	verification	_	_	
+50-17	6778-6784	system	_	_	
+50-18	6785-6789	more	_	_	
+50-19	6790-6799	generally	_	_	
+50-20	6800-6801	.	_	_	
+
+#Text=See 8 U.S.C. § § 1324a(b)(5 ) , ( d)(2)(F ) .
+51-1	6802-6805	See	_	_	
+51-2	6806-6807	8	*[52]	Legal Source[52]	
+51-3	6808-6814	U.S.C.	*[52]	Legal Source[52]	
+51-4	6815-6816	§	*[52]	Legal Source[52]	
+51-5	6817-6818	§	*[52]	Legal Source[52]	
+51-6	6819-6829	1324a(b)(5	*[52]	Legal Source[52]	
+51-7	6830-6831	)	*[52]	Legal Source[52]	
+51-8	6832-6833	,	*[52]	Legal Source[52]	
+51-9	6834-6835	(	*[52]	Legal Source[52]	
+51-10	6836-6843	d)(2)(F	*[52]	Legal Source[52]	
+51-11	6844-6845	)	*[52]	Legal Source[52]	
+51-12	6846-6847	.	_	_	
+
+#Text=Those two provisions strongly suggest that the Act occupies the field of policing fraud committed to demonstrate federal work authorization .
+52-1	6848-6853	Those	_	_	
+52-2	6854-6857	two	_	_	
+52-3	6858-6868	provisions	_	_	
+52-4	6869-6877	strongly	_	_	
+52-5	6878-6885	suggest	_	_	
+52-6	6886-6890	that	_	_	
+52-7	6891-6894	the	_	_	
+52-8	6895-6898	Act	*	Legal Source	
+52-9	6899-6907	occupies	_	_	
+52-10	6908-6911	the	_	_	
+52-11	6912-6917	field	_	_	
+52-12	6918-6920	of	_	_	
+52-13	6921-6929	policing	_	_	
+52-14	6930-6935	fraud	_	_	
+52-15	6936-6945	committed	_	_	
+52-16	6946-6948	to	_	_	
+52-17	6949-6960	demonstrate	_	_	
+52-18	6961-6968	federal	_	_	
+52-19	6969-6973	work	_	_	
+52-20	6974-6987	authorization	_	_	
+52-21	6988-6989	.	_	_	
+
+#Text=Otherwise , their express prohibitions would not constrain the States in any meaningful way .
+53-1	6990-6999	Otherwise	_	_	
+53-2	7000-7001	,	_	_	
+53-3	7002-7007	their	_	_	
+53-4	7008-7015	express	_	_	
+53-5	7016-7028	prohibitions	_	_	
+53-6	7029-7034	would	_	_	
+53-7	7035-7038	not	_	_	
+53-8	7039-7048	constrain	_	_	
+53-9	7049-7052	the	_	_	
+53-10	7053-7059	States	_	_	
+53-11	7060-7062	in	_	_	
+53-12	7063-7066	any	_	_	
+53-13	7067-7077	meaningful	_	_	
+53-14	7078-7081	way	_	_	
+53-15	7082-7083	.	_	_	
+
+#Text=States could evade the Act simply by creating their own work - authorization form with the same requirements as the I-9 , requiring employees to submit that form at the same time as the I-9 , and prosecuting employees who make misrepresentations on the state form .
+54-1	7084-7090	States	_	_	
+54-2	7091-7096	could	_	_	
+54-3	7097-7102	evade	_	_	
+54-4	7103-7106	the	_	_	
+54-5	7107-7110	Act	_	_	
+54-6	7111-7117	simply	_	_	
+54-7	7118-7120	by	_	_	
+54-8	7121-7129	creating	_	_	
+54-9	7130-7135	their	_	_	
+54-10	7136-7139	own	_	_	
+54-11	7140-7144	work	_	_	
+54-12	7145-7146	-	_	_	
+54-13	7147-7160	authorization	_	_	
+54-14	7161-7165	form	_	_	
+54-15	7166-7170	with	_	_	
+54-16	7171-7174	the	_	_	
+54-17	7175-7179	same	_	_	
+54-18	7180-7192	requirements	_	_	
+54-19	7193-7195	as	_	_	
+54-20	7196-7199	the	_	_	
+54-21	7200-7203	I-9	_	_	
+54-22	7204-7205	,	_	_	
+54-23	7206-7215	requiring	_	_	
+54-24	7216-7225	employees	_	_	
+54-25	7226-7228	to	_	_	
+54-26	7229-7235	submit	_	_	
+54-27	7236-7240	that	_	_	
+54-28	7241-7245	form	_	_	
+54-29	7246-7248	at	_	_	
+54-30	7249-7252	the	_	_	
+54-31	7253-7257	same	_	_	
+54-32	7258-7262	time	_	_	
+54-33	7263-7265	as	_	_	
+54-34	7266-7269	the	_	_	
+54-35	7270-7273	I-9	_	_	
+54-36	7274-7275	,	_	_	
+54-37	7276-7279	and	_	_	
+54-38	7280-7291	prosecuting	_	_	
+54-39	7292-7301	employees	_	_	
+54-40	7302-7305	who	_	_	
+54-41	7306-7310	make	_	_	
+54-42	7311-7329	misrepresentations	_	_	
+54-43	7330-7332	on	_	_	
+54-44	7333-7336	the	_	_	
+54-45	7337-7342	state	_	_	
+54-46	7343-7347	form	_	_	
+54-47	7348-7349	.	_	_	
+
+#Text=No one contends that the States may do that .
+55-1	7350-7352	No	_	_	
+55-2	7353-7356	one	_	_	
+55-3	7357-7365	contends	_	_	
+55-4	7366-7370	that	_	_	
+55-5	7371-7374	the	_	_	
+55-6	7375-7381	States	_	_	
+55-7	7382-7385	may	_	_	
+55-8	7386-7388	do	_	_	
+55-9	7389-7393	that	_	_	
+55-10	7394-7395	.	_	_	
+
+#Text=Second , consider another part of our decision in Arizona .
+56-1	7396-7402	Second	_	_	
+56-2	7403-7404	,	_	_	
+56-3	7405-7413	consider	_	_	
+56-4	7414-7421	another	_	_	
+56-5	7422-7426	part	_	_	
+56-6	7427-7429	of	_	_	
+56-7	7430-7433	our	_	_	
+56-8	7434-7442	decision	_	_	
+56-9	7443-7445	in	_	_	
+56-10	7446-7453	Arizona	_	_	
+56-11	7454-7455	.	_	_	
+
+#Text=We also addressed in that case a different federal statute , one establishing a federal alien - registration system .
+57-1	7456-7458	We	_	_	
+57-2	7459-7463	also	_	_	
+57-3	7464-7473	addressed	_	_	
+57-4	7474-7476	in	_	_	
+57-5	7477-7481	that	_	_	
+57-6	7482-7486	case	_	_	
+57-7	7487-7488	a	_	_	
+57-8	7489-7498	different	_	_	
+57-9	7499-7506	federal	_	_	
+57-10	7507-7514	statute	_	_	
+57-11	7515-7516	,	_	_	
+57-12	7517-7520	one	_	_	
+57-13	7521-7533	establishing	_	_	
+57-14	7534-7535	a	_	_	
+57-15	7536-7543	federal	_	_	
+57-16	7544-7549	alien	_	_	
+57-17	7550-7551	-	_	_	
+57-18	7552-7564	registration	_	_	
+57-19	7565-7571	system	_	_	
+57-20	7572-7573	.	_	_	
+
+#Text=See 567 U.S. at 400 - 403 , 132 S.Ct . 2492 .
+58-1	7574-7577	See	_	_	
+58-2	7578-7581	567	*[53]	Legal Source[53]	
+58-3	7582-7586	U.S.	*[53]	Legal Source[53]	
+58-4	7587-7589	at	*[53]	Legal Source[53]	
+58-5	7590-7593	400	*[53]	Legal Source[53]	
+58-6	7594-7595	-	*[53]	Legal Source[53]	
+58-7	7596-7599	403	*[53]	Legal Source[53]	
+58-8	7600-7601	,	*[53]	Legal Source[53]	
+58-9	7602-7605	132	*[53]	Legal Source[53]	
+58-10	7606-7610	S.Ct	*[53]	Legal Source[53]	
+58-11	7611-7612	.	*[53]	Legal Source[53]	
+58-12	7613-7617	2492	*[53]	Legal Source[53]	
+58-13	7618-7619	.	_	_	
+
+#Text=Pointing to that statute 's " full set of standards governing alien registration , including the punishment for noncompliance , " we concluded that Congress had enacted " a comprehensive and unified system to keep track of aliens within the Nation 's borders . "
+59-1	7620-7628	Pointing	_	_	
+59-2	7629-7631	to	_	_	
+59-3	7632-7636	that	_	_	
+59-4	7637-7644	statute	_	_	
+59-5	7645-7647	's	_	_	
+59-6	7648-7649	"	*[54]	Direct Quote[54]	
+59-7	7650-7654	full	*[54]	Direct Quote[54]	
+59-8	7655-7658	set	*[54]	Direct Quote[54]	
+59-9	7659-7661	of	*[54]	Direct Quote[54]	
+59-10	7662-7671	standards	*[54]	Direct Quote[54]	
+59-11	7672-7681	governing	*[54]	Direct Quote[54]	
+59-12	7682-7687	alien	*[54]	Direct Quote[54]	
+59-13	7688-7700	registration	*[54]	Direct Quote[54]	
+59-14	7701-7702	,	*[54]	Direct Quote[54]	
+59-15	7703-7712	including	*[54]	Direct Quote[54]	
+59-16	7713-7716	the	*[54]	Direct Quote[54]	
+59-17	7717-7727	punishment	*[54]	Direct Quote[54]	
+59-18	7728-7731	for	*[54]	Direct Quote[54]	
+59-19	7732-7745	noncompliance	*[54]	Direct Quote[54]	
+59-20	7746-7747	,	*[54]	Direct Quote[54]	
+59-21	7748-7749	"	*[54]	Direct Quote[54]	
+59-22	7750-7752	we	_	_	
+59-23	7753-7762	concluded	_	_	
+59-24	7763-7767	that	_	_	
+59-25	7768-7776	Congress	_	_	
+59-26	7777-7780	had	_	_	
+59-27	7781-7788	enacted	_	_	
+59-28	7789-7790	"	*[55]	Direct Quote[55]	
+59-29	7791-7792	a	*[55]	Direct Quote[55]	
+59-30	7793-7806	comprehensive	*[55]	Direct Quote[55]	
+59-31	7807-7810	and	*[55]	Direct Quote[55]	
+59-32	7811-7818	unified	*[55]	Direct Quote[55]	
+59-33	7819-7825	system	*[55]	Direct Quote[55]	
+59-34	7826-7828	to	*[55]	Direct Quote[55]	
+59-35	7829-7833	keep	*[55]	Direct Quote[55]	
+59-36	7834-7839	track	*[55]	Direct Quote[55]	
+59-37	7840-7842	of	*[55]	Direct Quote[55]	
+59-38	7843-7849	aliens	*[55]	Direct Quote[55]	
+59-39	7850-7856	within	*[55]	Direct Quote[55]	
+59-40	7857-7860	the	*[55]	Direct Quote[55]	
+59-41	7861-7867	Nation	*[55]	Direct Quote[55]	
+59-42	7868-7870	's	*[55]	Direct Quote[55]	
+59-43	7871-7878	borders	*[55]	Direct Quote[55]	
+59-44	7879-7880	.	*[55]	Direct Quote[55]	
+59-45	7881-7882	"	*[55]	Direct Quote[55]	
+
+#Text=Id. , at 401 - 402 , 132 S.Ct . 2492 .
+60-1	7883-7886	Id.	*[56]	Legal Source[56]	
+60-2	7887-7888	,	*[56]	Legal Source[56]	
+60-3	7889-7891	at	*[56]	Legal Source[56]	
+60-4	7892-7895	401	*[56]	Legal Source[56]	
+60-5	7896-7897	-	*[56]	Legal Source[56]	
+60-6	7898-7901	402	*[56]	Legal Source[56]	
+60-7	7902-7903	,	*[56]	Legal Source[56]	
+60-8	7904-7907	132	*[56]	Legal Source[56]	
+60-9	7908-7912	S.Ct	*[56]	Legal Source[56]	
+60-10	7913-7914	.	*[56]	Legal Source[56]	
+60-11	7915-7919	2492	*[56]	Legal Source[56]	
+60-12	7920-7921	.	_	_	
+
+#Text=The statute therefore left no room for a state law designed to police violations of the federal alien - registration system .
+61-1	7922-7925	The	_	_	
+61-2	7926-7933	statute	_	_	
+61-3	7934-7943	therefore	_	_	
+61-4	7944-7948	left	_	_	
+61-5	7949-7951	no	_	_	
+61-6	7952-7956	room	_	_	
+61-7	7957-7960	for	_	_	
+61-8	7961-7962	a	_	_	
+61-9	7963-7968	state	_	_	
+61-10	7969-7972	law	_	_	
+61-11	7973-7981	designed	_	_	
+61-12	7982-7984	to	_	_	
+61-13	7985-7991	police	_	_	
+61-14	7992-8002	violations	_	_	
+61-15	8003-8005	of	_	_	
+61-16	8006-8009	the	_	_	
+61-17	8010-8017	federal	_	_	
+61-18	8018-8023	alien	_	_	
+61-19	8024-8025	-	_	_	
+61-20	8026-8038	registration	_	_	
+61-21	8039-8045	system	_	_	
+61-22	8046-8047	.	_	_	
+
+#Text=Similarly , IRCA 's intricate procedures and penalties create a comprehensive and unified system to keep track of who is authorized to work within the Nation 's borders .
+62-1	8048-8057	Similarly	_	_	
+62-2	8058-8059	,	_	_	
+62-3	8060-8064	IRCA	_	_	
+62-4	8065-8067	's	_	_	
+62-5	8068-8077	intricate	_	_	
+62-6	8078-8088	procedures	_	_	
+62-7	8089-8092	and	_	_	
+62-8	8093-8102	penalties	_	_	
+62-9	8103-8109	create	_	_	
+62-10	8110-8111	a	_	_	
+62-11	8112-8125	comprehensive	_	_	
+62-12	8126-8129	and	_	_	
+62-13	8130-8137	unified	_	_	
+62-14	8138-8144	system	_	_	
+62-15	8145-8147	to	_	_	
+62-16	8148-8152	keep	_	_	
+62-17	8153-8158	track	_	_	
+62-18	8159-8161	of	_	_	
+62-19	8162-8165	who	_	_	
+62-20	8166-8168	is	_	_	
+62-21	8169-8179	authorized	_	_	
+62-22	8180-8182	to	_	_	
+62-23	8183-8187	work	_	_	
+62-24	8188-8194	within	_	_	
+62-25	8195-8198	the	_	_	
+62-26	8199-8205	Nation	_	_	
+62-27	8206-8208	's	_	_	
+62-28	8209-8216	borders	_	_	
+62-29	8217-8218	.	_	_	
+
+#Text=See supra , at 808 - 810 .
+63-1	8219-8222	See	_	_	
+63-2	8223-8228	supra	*[57]	Legal Source[57]	
+63-3	8229-8230	,	*[57]	Legal Source[57]	
+63-4	8231-8233	at	*[57]	Legal Source[57]	
+63-5	8234-8237	808	*[57]	Legal Source[57]	
+63-6	8238-8239	-	*[57]	Legal Source[57]	
+63-7	8240-8243	810	*[57]	Legal Source[57]	
+63-8	8244-8245	.	_	_	
+
+#Text=This too shows that criminal enforcement falls to the Federal Government alone .
+64-1	8246-8250	This	_	_	
+64-2	8251-8254	too	_	_	
+64-3	8255-8260	shows	_	_	
+64-4	8261-8265	that	_	_	
+64-5	8266-8274	criminal	_	_	
+64-6	8275-8286	enforcement	_	_	
+64-7	8287-8292	falls	_	_	
+64-8	8293-8295	to	_	_	
+64-9	8296-8299	the	_	_	
+64-10	8300-8307	Federal	_	_	
+64-11	8308-8318	Government	_	_	
+64-12	8319-8324	alone	_	_	
+64-13	8325-8326	.	_	_	
+
+#Text=Nor does it matter that the state statutes invalidated in Arizona had expressly targeted aliens .
+65-1	8327-8330	Nor	_	_	
+65-2	8331-8335	does	_	_	
+65-3	8336-8338	it	_	_	
+65-4	8339-8345	matter	_	_	
+65-5	8346-8350	that	_	_	
+65-6	8351-8354	the	_	_	
+65-7	8355-8360	state	_	_	
+65-8	8361-8369	statutes	_	_	
+65-9	8370-8381	invalidated	_	_	
+65-10	8382-8384	in	_	_	
+65-11	8385-8392	Arizona	_	_	
+65-12	8393-8396	had	_	_	
+65-13	8397-8406	expressly	_	_	
+65-14	8407-8415	targeted	_	_	
+65-15	8416-8422	aliens	_	_	
+65-16	8423-8424	.	_	_	
+
+#Text=In preemption cases , we must consider not just what a state law says , but also what it does .
+66-1	8425-8427	In	_	_	
+66-2	8428-8438	preemption	_	_	
+66-3	8439-8444	cases	_	_	
+66-4	8445-8446	,	_	_	
+66-5	8447-8449	we	_	_	
+66-6	8450-8454	must	_	_	
+66-7	8455-8463	consider	_	_	
+66-8	8464-8467	not	_	_	
+66-9	8468-8472	just	_	_	
+66-10	8473-8477	what	_	_	
+66-11	8478-8479	a	_	_	
+66-12	8480-8485	state	_	_	
+66-13	8486-8489	law	_	_	
+66-14	8490-8494	says	_	_	
+66-15	8495-8496	,	_	_	
+66-16	8497-8500	but	_	_	
+66-17	8501-8505	also	_	_	
+66-18	8506-8510	what	_	_	
+66-19	8511-8513	it	_	_	
+66-20	8514-8518	does	_	_	
+66-21	8519-8520	.	_	_	
+
+#Text=Wos v. E. M. A. , 568 U.S. 627 , 637 , 133 S.Ct . 1391 , 185 L.Ed.2d 471 ( 2013 ) .
+67-1	8521-8524	Wos	*[58]	Legal Source[58]	
+67-2	8525-8527	v.	*[58]	Legal Source[58]	
+67-3	8528-8530	E.	*[58]	Legal Source[58]	
+67-4	8531-8533	M.	*[58]	Legal Source[58]	
+67-5	8534-8536	A.	*[58]	Legal Source[58]	
+67-6	8537-8538	,	*[58]	Legal Source[58]	
+67-7	8539-8542	568	*[58]	Legal Source[58]	
+67-8	8543-8547	U.S.	*[58]	Legal Source[58]	
+67-9	8548-8551	627	*[58]	Legal Source[58]	
+67-10	8552-8553	,	*[58]	Legal Source[58]	
+67-11	8554-8557	637	*[58]	Legal Source[58]	
+67-12	8558-8559	,	*[58]	Legal Source[58]	
+67-13	8560-8563	133	*[58]	Legal Source[58]	
+67-14	8564-8568	S.Ct	*[58]	Legal Source[58]	
+67-15	8569-8570	.	*[58]	Legal Source[58]	
+67-16	8571-8575	1391	*[58]	Legal Source[58]	
+67-17	8576-8577	,	*[58]	Legal Source[58]	
+67-18	8578-8581	185	*[58]	Legal Source[58]	
+67-19	8582-8589	L.Ed.2d	*[58]	Legal Source[58]	
+67-20	8590-8593	471	*[58]	Legal Source[58]	
+67-21	8594-8595	(	*[58]	Legal Source[58]	
+67-22	8596-8600	2013	*[58]	Legal Source[58]	
+67-23	8601-8602	)	*[58]	Legal Source[58]	
+67-24	8603-8604	.	_	_	
+
+#Text=For this reason , even generally applicable and facially neutral state laws may be preempted when applied in a particular factual context in a particular way .
+68-1	8605-8608	For	_	_	
+68-2	8609-8613	this	_	_	
+68-3	8614-8620	reason	_	_	
+68-4	8621-8622	,	_	_	
+68-5	8623-8627	even	_	_	
+68-6	8628-8637	generally	_	_	
+68-7	8638-8648	applicable	_	_	
+68-8	8649-8652	and	_	_	
+68-9	8653-8661	facially	_	_	
+68-10	8662-8669	neutral	_	_	
+68-11	8670-8675	state	_	_	
+68-12	8676-8680	laws	_	_	
+68-13	8681-8684	may	_	_	
+68-14	8685-8687	be	_	_	
+68-15	8688-8697	preempted	_	_	
+68-16	8698-8702	when	_	_	
+68-17	8703-8710	applied	_	_	
+68-18	8711-8713	in	_	_	
+68-19	8714-8715	a	_	_	
+68-20	8716-8726	particular	_	_	
+68-21	8727-8734	factual	_	_	
+68-22	8735-8742	context	_	_	
+68-23	8743-8745	in	_	_	
+68-24	8746-8747	a	_	_	
+68-25	8748-8758	particular	_	_	
+68-26	8759-8762	way	_	_	
+68-27	8763-8764	.	_	_	
+
+#Text=See , e.g. , Buckman Co. v. Plaintiffs ' Legal Comm . , 531 U.S. 341 , 347 - 350 , 121 S.Ct . 1012 , 148 L.Ed.2d 854 ( 2001 ) ( rejecting claims grounded in generally applicable state - law principles because they were based on a preempted theory of liability ) ; Northwest , Inc. v. Ginsberg , 572 U.S. 273 , 289 , 134 S.Ct . 1422 , 188 L.Ed.2d 538 ( 2014 ) ( similar ) .
+69-1	8765-8768	See	_	_	
+69-2	8769-8770	,	_	_	
+69-3	8771-8775	e.g.	_	_	
+69-4	8776-8777	,	_	_	
+69-5	8778-8785	Buckman	*[59]	Legal Source[59]	
+69-6	8786-8789	Co.	*[59]	Legal Source[59]	
+69-7	8790-8792	v.	*[59]	Legal Source[59]	
+69-8	8793-8803	Plaintiffs	*[59]	Legal Source[59]	
+69-9	8804-8805	'	*[59]	Legal Source[59]	
+69-10	8806-8811	Legal	*[59]	Legal Source[59]	
+69-11	8812-8816	Comm	*[59]	Legal Source[59]	
+69-12	8817-8818	.	*[59]	Legal Source[59]	
+69-13	8819-8820	,	*[59]	Legal Source[59]	
+69-14	8821-8824	531	*[59]	Legal Source[59]	
+69-15	8825-8829	U.S.	*[59]	Legal Source[59]	
+69-16	8830-8833	341	*[59]	Legal Source[59]	
+69-17	8834-8835	,	*[59]	Legal Source[59]	
+69-18	8836-8839	347	*[59]	Legal Source[59]	
+69-19	8840-8841	-	*[59]	Legal Source[59]	
+69-20	8842-8845	350	*[59]	Legal Source[59]	
+69-21	8846-8847	,	*[59]	Legal Source[59]	
+69-22	8848-8851	121	*[59]	Legal Source[59]	
+69-23	8852-8856	S.Ct	*[59]	Legal Source[59]	
+69-24	8857-8858	.	*[59]	Legal Source[59]	
+69-25	8859-8863	1012	*[59]	Legal Source[59]	
+69-26	8864-8865	,	*[59]	Legal Source[59]	
+69-27	8866-8869	148	*[59]	Legal Source[59]	
+69-28	8870-8877	L.Ed.2d	*[59]	Legal Source[59]	
+69-29	8878-8881	854	*[59]	Legal Source[59]	
+69-30	8882-8883	(	*[59]	Legal Source[59]	
+69-31	8884-8888	2001	*[59]	Legal Source[59]	
+69-32	8889-8890	)	*[59]	Legal Source[59]	
+69-33	8891-8892	(	_	_	
+69-34	8893-8902	rejecting	_	_	
+69-35	8903-8909	claims	_	_	
+69-36	8910-8918	grounded	_	_	
+69-37	8919-8921	in	_	_	
+69-38	8922-8931	generally	_	_	
+69-39	8932-8942	applicable	_	_	
+69-40	8943-8948	state	_	_	
+69-41	8949-8950	-	_	_	
+69-42	8951-8954	law	_	_	
+69-43	8955-8965	principles	_	_	
+69-44	8966-8973	because	_	_	
+69-45	8974-8978	they	_	_	
+69-46	8979-8983	were	_	_	
+69-47	8984-8989	based	_	_	
+69-48	8990-8992	on	_	_	
+69-49	8993-8994	a	_	_	
+69-50	8995-9004	preempted	_	_	
+69-51	9005-9011	theory	_	_	
+69-52	9012-9014	of	_	_	
+69-53	9015-9024	liability	_	_	
+69-54	9025-9026	)	_	_	
+69-55	9027-9028	;	_	_	
+69-56	9029-9038	Northwest	*[60]	Legal Source[60]	
+69-57	9039-9040	,	*[60]	Legal Source[60]	
+69-58	9041-9045	Inc.	*[60]	Legal Source[60]	
+69-59	9046-9048	v.	*[60]	Legal Source[60]	
+69-60	9049-9057	Ginsberg	*[60]	Legal Source[60]	
+69-61	9058-9059	,	*[60]	Legal Source[60]	
+69-62	9060-9063	572	*[60]	Legal Source[60]	
+69-63	9064-9068	U.S.	*[60]	Legal Source[60]	
+69-64	9069-9072	273	*[60]	Legal Source[60]	
+69-65	9073-9074	,	*[60]	Legal Source[60]	
+69-66	9075-9078	289	*[60]	Legal Source[60]	
+69-67	9079-9080	,	*[60]	Legal Source[60]	
+69-68	9081-9084	134	*[60]	Legal Source[60]	
+69-69	9085-9089	S.Ct	*[60]	Legal Source[60]	
+69-70	9090-9091	.	*[60]	Legal Source[60]	
+69-71	9092-9096	1422	*[60]	Legal Source[60]	
+69-72	9097-9098	,	*[60]	Legal Source[60]	
+69-73	9099-9102	188	*[60]	Legal Source[60]	
+69-74	9103-9110	L.Ed.2d	*[60]	Legal Source[60]	
+69-75	9111-9114	538	*[60]	Legal Source[60]	
+69-76	9115-9116	(	*[60]	Legal Source[60]	
+69-77	9117-9121	2014	*[60]	Legal Source[60]	
+69-78	9122-9123	)	*[60]	Legal Source[60]	
+69-79	9124-9125	(	_	_	
+69-80	9126-9133	similar	_	_	
+69-81	9134-9135	)	_	_	
+69-82	9136-9137	.	_	_	
+
+#Text=And here , Kansas applied its criminal laws to do what IRCA reserves to the Federal Government alone - police fraud committed to demonstrate federal work authorization .
+70-1	9138-9141	And	_	_	
+70-2	9142-9146	here	_	_	
+70-3	9147-9148	,	_	_	
+70-4	9149-9155	Kansas	_	_	
+70-5	9156-9163	applied	_	_	
+70-6	9164-9167	its	_	_	
+70-7	9168-9176	criminal	_	_	
+70-8	9177-9181	laws	_	_	
+70-9	9182-9184	to	_	_	
+70-10	9185-9187	do	_	_	
+70-11	9188-9192	what	_	_	
+70-12	9193-9197	IRCA	_	_	
+70-13	9198-9206	reserves	_	_	
+70-14	9207-9209	to	_	_	
+70-15	9210-9213	the	_	_	
+70-16	9214-9221	Federal	_	_	
+70-17	9222-9232	Government	_	_	
+70-18	9233-9238	alone	_	_	
+70-19	9239-9240	-	_	_	
+70-20	9241-9247	police	_	_	
+70-21	9248-9253	fraud	_	_	
+70-22	9254-9263	committed	_	_	
+70-23	9264-9266	to	_	_	
+70-24	9267-9278	demonstrate	_	_	
+70-25	9279-9286	federal	_	_	
+70-26	9287-9291	work	_	_	
+70-27	9292-9305	authorization	_	_	
+70-28	9306-9307	.	_	_	
+
+#Text=That is true even though Kansas prosecuted respondents based on their tax - withholding forms , rather than their I-9s .
+71-1	9308-9312	That	_	_	
+71-2	9313-9315	is	_	_	
+71-3	9316-9320	true	_	_	
+71-4	9321-9325	even	_	_	
+71-5	9326-9332	though	_	_	
+71-6	9333-9339	Kansas	_	_	
+71-7	9340-9350	prosecuted	_	_	
+71-8	9351-9362	respondents	_	_	
+71-9	9363-9368	based	_	_	
+71-10	9369-9371	on	_	_	
+71-11	9372-9377	their	_	_	
+71-12	9378-9381	tax	_	_	
+71-13	9382-9383	-	_	_	
+71-14	9384-9395	withholding	_	_	
+71-15	9396-9401	forms	_	_	
+71-16	9402-9403	,	_	_	
+71-17	9404-9410	rather	_	_	
+71-18	9411-9415	than	_	_	
+71-19	9416-9421	their	_	_	
+71-20	9422-9426	I-9s	_	_	
+71-21	9427-9428	.	_	_	
+
+#Text=Take Donaldo Morales , for example .
+72-1	9429-9433	Take	_	_	
+72-2	9434-9441	Donaldo	_	_	
+72-3	9442-9449	Morales	_	_	
+72-4	9450-9451	,	_	_	
+72-5	9452-9455	for	_	_	
+72-6	9456-9463	example	_	_	
+72-7	9464-9465	.	_	_	
+
+#Text=Kansas charged him under two state antifraud statutes .
+73-1	9466-9472	Kansas	_	_	
+73-2	9473-9480	charged	_	_	
+73-3	9481-9484	him	_	_	
+73-4	9485-9490	under	_	_	
+73-5	9491-9494	two	_	_	
+73-6	9495-9500	state	_	_	
+73-7	9501-9510	antifraud	_	_	
+73-8	9511-9519	statutes	_	_	
+73-9	9520-9521	.	_	_	
+
+#Text=Both required the State to prove , as an element , an intent to defraud .
+74-1	9522-9526	Both	_	_	
+74-2	9527-9535	required	_	_	
+74-3	9536-9539	the	_	_	
+74-4	9540-9545	State	_	_	
+74-5	9546-9548	to	_	_	
+74-6	9549-9554	prove	_	_	
+74-7	9555-9556	,	_	_	
+74-8	9557-9559	as	_	_	
+74-9	9560-9562	an	_	_	
+74-10	9563-9570	element	_	_	
+74-11	9571-9572	,	_	_	
+74-12	9573-9575	an	_	_	
+74-13	9576-9582	intent	_	_	
+74-14	9583-9585	to	_	_	
+74-15	9586-9593	defraud	_	_	
+74-16	9594-9595	.	_	_	
+
+#Text=See Kan. Stat . Ann . § § 21 - 5824 ( a ) , 21 - 6107(a)(1 ) ( 2018 Cum . Supp . ) .
+75-1	9596-9599	See	_	_	
+75-2	9600-9604	Kan.	*[61]	Legal Source[61]	
+75-3	9605-9609	Stat	*[61]	Legal Source[61]	
+75-4	9610-9611	.	*[61]	Legal Source[61]	
+75-5	9612-9615	Ann	*[61]	Legal Source[61]	
+75-6	9616-9617	.	*[61]	Legal Source[61]	
+75-7	9618-9619	§	*[61]	Legal Source[61]	
+75-8	9620-9621	§	*[61]	Legal Source[61]	
+75-9	9622-9624	21	*[61]	Legal Source[61]	
+75-10	9625-9626	-	*[61]	Legal Source[61]	
+75-11	9627-9631	5824	*[61]	Legal Source[61]	
+75-12	9632-9633	(	*[61]	Legal Source[61]	
+75-13	9634-9635	a	*[61]	Legal Source[61]	
+75-14	9636-9637	)	*[61]	Legal Source[61]	
+75-15	9638-9639	,	*[61]	Legal Source[61]	
+75-16	9640-9642	21	*[61]	Legal Source[61]	
+75-17	9643-9644	-	*[61]	Legal Source[61]	
+75-18	9645-9654	6107(a)(1	*[61]	Legal Source[61]	
+75-19	9655-9656	)	*[61]	Legal Source[61]	
+75-20	9657-9658	(	*[61]	Legal Source[61]	
+75-21	9659-9663	2018	*[61]	Legal Source[61]	
+75-22	9664-9667	Cum	*[61]	Legal Source[61]	
+75-23	9668-9669	.	*[61]	Legal Source[61]	
+75-24	9670-9674	Supp	*[61]	Legal Source[61]	
+75-25	9675-9676	.	*[61]	Legal Source[61]	
+75-26	9677-9678	)	*[61]	Legal Source[61]	
+75-27	9679-9680	.	_	_	
+
+#Text=Kansas law defines " intent to defraud " as the " intention to deceive another person , and to induce such other person , in reliance upon such deception , to " transfer a property right .
+76-1	9681-9687	Kansas	_	_	
+76-2	9688-9691	law	_	_	
+76-3	9692-9699	defines	*	Metalinguistic Cue	
+76-4	9700-9701	"	*[62]	Direct Quote[62]	
+76-5	9702-9708	intent	*[62]|*[63]	Direct Quote[62]|Focal Term[63]	
+76-6	9709-9711	to	*[62]|*[63]	Direct Quote[62]|Focal Term[63]	
+76-7	9712-9719	defraud	*[62]|*[63]	Direct Quote[62]|Focal Term[63]	
+76-8	9720-9721	"	*[62]	Direct Quote[62]	
+76-9	9722-9724	as	_	_	
+76-10	9725-9728	the	*[64]	Definition[64]	
+76-11	9729-9730	"	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-12	9731-9740	intention	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-13	9741-9743	to	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-14	9744-9751	deceive	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-15	9752-9759	another	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-16	9760-9766	person	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-17	9767-9768	,	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-18	9769-9772	and	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-19	9773-9775	to	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-20	9776-9782	induce	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-21	9783-9787	such	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-22	9788-9793	other	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-23	9794-9800	person	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-24	9801-9802	,	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-25	9803-9805	in	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-26	9806-9814	reliance	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-27	9815-9819	upon	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-28	9820-9824	such	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-29	9825-9834	deception	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-30	9835-9836	,	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-31	9837-9839	to	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-32	9840-9841	"	*[64]|*[65]	Definition[64]|Direct Quote[65]	
+76-33	9842-9850	transfer	*[64]	Definition[64]	
+76-34	9851-9852	a	*[64]	Definition[64]	
+76-35	9853-9861	property	*[64]	Definition[64]	
+76-36	9862-9867	right	*[64]	Definition[64]	
+76-37	9868-9869	.	_	_	
+
+#Text=§ 21 - 5111(o ) .
+77-1	9870-9871	§	*[66]	Legal Source[66]	
+77-2	9872-9874	21	*[66]	Legal Source[66]	
+77-3	9875-9876	-	*[66]	Legal Source[66]	
+77-4	9877-9883	5111(o	*[66]	Legal Source[66]	
+77-5	9884-9885	)	*[66]	Legal Source[66]	
+77-6	9886-9887	.	_	_	
+
+#Text=Kansas ' theory of guilt was that Morales intended to deceive his employer about his federal work - authorization status so that his employer , in reliance upon that deception , would give him a job .
+78-1	9888-9894	Kansas	_	_	
+78-2	9895-9896	'	_	_	
+78-3	9897-9903	theory	_	_	
+78-4	9904-9906	of	_	_	
+78-5	9907-9912	guilt	_	_	
+78-6	9913-9916	was	_	_	
+78-7	9917-9921	that	_	_	
+78-8	9922-9929	Morales	_	_	
+78-9	9930-9938	intended	_	_	
+78-10	9939-9941	to	_	_	
+78-11	9942-9949	deceive	_	_	
+78-12	9950-9953	his	_	_	
+78-13	9954-9962	employer	_	_	
+78-14	9963-9968	about	_	_	
+78-15	9969-9972	his	_	_	
+78-16	9973-9980	federal	_	_	
+78-17	9981-9985	work	_	_	
+78-18	9986-9987	-	_	_	
+78-19	9988-10001	authorization	_	_	
+78-20	10002-10008	status	_	_	
+78-21	10009-10011	so	_	_	
+78-22	10012-10016	that	_	_	
+78-23	10017-10020	his	_	_	
+78-24	10021-10029	employer	_	_	
+78-25	10030-10031	,	_	_	
+78-26	10032-10034	in	_	_	
+78-27	10035-10043	reliance	_	_	
+78-28	10044-10048	upon	_	_	
+78-29	10049-10053	that	_	_	
+78-30	10054-10063	deception	_	_	
+78-31	10064-10065	,	_	_	
+78-32	10066-10071	would	_	_	
+78-33	10072-10076	give	_	_	
+78-34	10077-10080	him	_	_	
+78-35	10081-10082	a	_	_	
+78-36	10083-10086	job	_	_	
+78-37	10087-10088	.	_	_	
+
+#Text=At trial , the State elicited testimony that employees needed " proof of eligibility to work in the United States . "
+79-1	10089-10091	At	_	_	
+79-2	10092-10097	trial	_	_	
+79-3	10098-10099	,	_	_	
+79-4	10100-10103	the	_	_	
+79-5	10104-10109	State	_	_	
+79-6	10110-10118	elicited	_	_	
+79-7	10119-10128	testimony	_	_	
+79-8	10129-10133	that	_	_	
+79-9	10134-10143	employees	_	_	
+79-10	10144-10150	needed	_	_	
+79-11	10151-10152	"	*[67]	Direct Quote[67]	
+79-12	10153-10158	proof	*[67]	Direct Quote[67]	
+79-13	10159-10161	of	*[67]	Direct Quote[67]	
+79-14	10162-10173	eligibility	*[67]	Direct Quote[67]	
+79-15	10174-10176	to	*[67]	Direct Quote[67]	
+79-16	10177-10181	work	*[67]	Direct Quote[67]	
+79-17	10182-10184	in	*[67]	Direct Quote[67]	
+79-18	10185-10188	the	*[67]	Direct Quote[67]	
+79-19	10189-10195	United	*[67]	Direct Quote[67]	
+79-20	10196-10202	States	*[67]	Direct Quote[67]	
+79-21	10203-10204	.	*[67]	Direct Quote[67]	
+79-22	10205-10206	"	*[67]	Direct Quote[67]	
+
+#Text=App . 149 .
+80-1	10207-10210	App	*[68]	Legal Source[68]	
+80-2	10211-10212	.	*[68]	Legal Source[68]	
+80-3	10213-10216	149	*[68]	Legal Source[68]	
+80-4	10217-10218	.	_	_	
+
+#Text=It then argued that Morales knew people like him had to use a false Social Security number to get a job because of " how they were here . "
+81-1	10219-10221	It	_	_	
+81-2	10222-10226	then	_	_	
+81-3	10227-10233	argued	_	_	
+81-4	10234-10238	that	_	_	
+81-5	10239-10246	Morales	_	_	
+81-6	10247-10251	knew	_	_	
+81-7	10252-10258	people	_	_	
+81-8	10259-10263	like	_	_	
+81-9	10264-10267	him	_	_	
+81-10	10268-10271	had	_	_	
+81-11	10272-10274	to	_	_	
+81-12	10275-10278	use	_	_	
+81-13	10279-10280	a	_	_	
+81-14	10281-10286	false	_	_	
+81-15	10287-10293	Social	_	_	
+81-16	10294-10302	Security	_	_	
+81-17	10303-10309	number	_	_	
+81-18	10310-10312	to	_	_	
+81-19	10313-10316	get	_	_	
+81-20	10317-10318	a	_	_	
+81-21	10319-10322	job	_	_	
+81-22	10323-10330	because	_	_	
+81-23	10331-10333	of	_	_	
+81-24	10334-10335	"	*[69]	Direct Quote[69]	
+81-25	10336-10339	how	*[69]	Direct Quote[69]	
+81-26	10340-10344	they	*[69]	Direct Quote[69]	
+81-27	10345-10349	were	*[69]	Direct Quote[69]	
+81-28	10350-10354	here	*[69]	Direct Quote[69]	
+81-29	10355-10356	.	*[69]	Direct Quote[69]	
+81-30	10357-10358	"	*[69]	Direct Quote[69]	
+
+#Text=I d . , at 176 .
+82-1	10359-10360	I	*[70]	Legal Source[70]	
+82-2	10361-10362	d	*[70]	Legal Source[70]	
+82-3	10363-10364	.	*[70]	Legal Source[70]	
+82-4	10365-10366	,	*[70]	Legal Source[70]	
+82-5	10367-10369	at	*[70]	Legal Source[70]	
+82-6	10370-10373	176	*[70]	Legal Source[70]	
+82-7	10374-10375	.	_	_	
+
+#Text=The trial court , sitting as the finder of fact , confirmed how it understood the reliance that Morales induced : Morales convinced his employer that he was " a legal citizen , " even though he was in truth " undocumented . "
+83-1	10376-10379	The	_	_	
+83-2	10380-10385	trial	_	_	
+83-3	10386-10391	court	_	_	
+83-4	10392-10393	,	_	_	
+83-5	10394-10401	sitting	_	_	
+83-6	10402-10404	as	_	_	
+83-7	10405-10408	the	_	_	
+83-8	10409-10415	finder	_	_	
+83-9	10416-10418	of	_	_	
+83-10	10419-10423	fact	_	_	
+83-11	10424-10425	,	_	_	
+83-12	10426-10435	confirmed	_	_	
+83-13	10436-10439	how	_	_	
+83-14	10440-10442	it	_	_	
+83-15	10443-10453	understood	_	_	
+83-16	10454-10457	the	_	_	
+83-17	10458-10466	reliance	_	_	
+83-18	10467-10471	that	_	_	
+83-19	10472-10479	Morales	_	_	
+83-20	10480-10487	induced	_	_	
+83-21	10488-10489	:	_	_	
+83-22	10490-10497	Morales	_	_	
+83-23	10498-10507	convinced	_	_	
+83-24	10508-10511	his	_	_	
+83-25	10512-10520	employer	_	_	
+83-26	10521-10525	that	_	_	
+83-27	10526-10528	he	_	_	
+83-28	10529-10532	was	_	_	
+83-29	10533-10534	"	*[71]	Direct Quote[71]	
+83-30	10535-10536	a	*[71]	Direct Quote[71]	
+83-31	10537-10542	legal	*[71]	Direct Quote[71]	
+83-32	10543-10550	citizen	*[71]	Direct Quote[71]	
+83-33	10551-10552	,	*[71]	Direct Quote[71]	
+83-34	10553-10554	"	*[71]	Direct Quote[71]	
+83-35	10555-10559	even	_	_	
+83-36	10560-10566	though	_	_	
+83-37	10567-10569	he	_	_	
+83-38	10570-10573	was	_	_	
+83-39	10574-10576	in	_	_	
+83-40	10577-10582	truth	_	_	
+83-41	10583-10584	"	*[72]	Direct Quote[72]	
+83-42	10585-10597	undocumented	*[72]	Direct Quote[72]	
+83-43	10598-10599	.	*[72]	Direct Quote[72]	
+83-44	10600-10601	"	*[72]	Direct Quote[72]	
+
+#Text=I d . , at 179 - 181 .
+84-1	10602-10603	I	*[73]	Legal Source[73]	
+84-2	10604-10605	d	*[73]	Legal Source[73]	
+84-3	10606-10607	.	*[73]	Legal Source[73]	
+84-4	10608-10609	,	*[73]	Legal Source[73]	
+84-5	10610-10612	at	*[73]	Legal Source[73]	
+84-6	10613-10616	179	*[73]	Legal Source[73]	
+84-7	10617-10618	-	*[73]	Legal Source[73]	
+84-8	10619-10622	181	*[73]	Legal Source[73]	
+84-9	10623-10624	.	_	_	
+
+#Text=On different facts , there would have been no preemption .
+85-1	10625-10627	On	_	_	
+85-2	10628-10637	different	_	_	
+85-3	10638-10643	facts	_	_	
+85-4	10644-10645	,	_	_	
+85-5	10646-10651	there	_	_	
+85-6	10652-10657	would	_	_	
+85-7	10658-10662	have	_	_	
+85-8	10663-10667	been	_	_	
+85-9	10668-10670	no	_	_	
+85-10	10671-10681	preemption	_	_	
+85-11	10682-10683	.	_	_	
+
+#Text=Had Kansas proved instead that Morales used a false Social Security number on his tax - withholding forms to induce another sort of reliance ( e.g. , to hide a criminal history ) , or perhaps to obtain another kind of benefit ( e.g. , to pay less in taxes ) , IRCA would permit the prosecution .
+86-1	10684-10687	Had	_	_	
+86-2	10688-10694	Kansas	_	_	
+86-3	10695-10701	proved	_	_	
+86-4	10702-10709	instead	_	_	
+86-5	10710-10714	that	_	_	
+86-6	10715-10722	Morales	_	_	
+86-7	10723-10727	used	_	_	
+86-8	10728-10729	a	_	_	
+86-9	10730-10735	false	_	_	
+86-10	10736-10742	Social	_	_	
+86-11	10743-10751	Security	_	_	
+86-12	10752-10758	number	_	_	
+86-13	10759-10761	on	_	_	
+86-14	10762-10765	his	_	_	
+86-15	10766-10769	tax	_	_	
+86-16	10770-10771	-	_	_	
+86-17	10772-10783	withholding	_	_	
+86-18	10784-10789	forms	_	_	
+86-19	10790-10792	to	_	_	
+86-20	10793-10799	induce	_	_	
+86-21	10800-10807	another	_	_	
+86-22	10808-10812	sort	_	_	
+86-23	10813-10815	of	_	_	
+86-24	10816-10824	reliance	_	_	
+86-25	10825-10826	(	_	_	
+86-26	10827-10831	e.g.	_	_	
+86-27	10832-10833	,	_	_	
+86-28	10834-10836	to	_	_	
+86-29	10837-10841	hide	_	_	
+86-30	10842-10843	a	_	_	
+86-31	10844-10852	criminal	_	_	
+86-32	10853-10860	history	_	_	
+86-33	10861-10862	)	_	_	
+86-34	10863-10864	,	_	_	
+86-35	10865-10867	or	_	_	
+86-36	10868-10875	perhaps	_	_	
+86-37	10876-10878	to	_	_	
+86-38	10879-10885	obtain	_	_	
+86-39	10886-10893	another	_	_	
+86-40	10894-10898	kind	_	_	
+86-41	10899-10901	of	_	_	
+86-42	10902-10909	benefit	_	_	
+86-43	10910-10911	(	_	_	
+86-44	10912-10916	e.g.	_	_	
+86-45	10917-10918	,	_	_	
+86-46	10919-10921	to	_	_	
+86-47	10922-10925	pay	_	_	
+86-48	10926-10930	less	_	_	
+86-49	10931-10933	in	_	_	
+86-50	10934-10939	taxes	_	_	
+86-51	10940-10941	)	_	_	
+86-52	10942-10943	,	_	_	
+86-53	10944-10948	IRCA	_	_	
+86-54	10949-10954	would	_	_	
+86-55	10955-10961	permit	_	_	
+86-56	10962-10965	the	_	_	
+86-57	10966-10977	prosecution	_	_	
+86-58	10978-10979	.	_	_	
+
+#Text=But that is not what Kansas did .
+87-1	10980-10983	But	_	_	
+87-2	10984-10988	that	_	_	
+87-3	10989-10991	is	_	_	
+87-4	10992-10995	not	_	_	
+87-5	10996-11000	what	_	_	
+87-6	11001-11007	Kansas	_	_	
+87-7	11008-11011	did	_	_	
+87-8	11012-11013	.	_	_	
+
+#Text=What Kansas did was prosecute Morales for misrepresenting his federal work - authorization status for the purpose of obtaining employment .
+88-1	11014-11018	What	_	_	
+88-2	11019-11025	Kansas	_	_	
+88-3	11026-11029	did	_	_	
+88-4	11030-11033	was	_	_	
+88-5	11034-11043	prosecute	_	_	
+88-6	11044-11051	Morales	_	_	
+88-7	11052-11055	for	_	_	
+88-8	11056-11071	misrepresenting	_	_	
+88-9	11072-11075	his	_	_	
+88-10	11076-11083	federal	_	_	
+88-11	11084-11088	work	_	_	
+88-12	11089-11090	-	_	_	
+88-13	11091-11104	authorization	_	_	
+88-14	11105-11111	status	_	_	
+88-15	11112-11115	for	_	_	
+88-16	11116-11119	the	_	_	
+88-17	11120-11127	purpose	_	_	
+88-18	11128-11130	of	_	_	
+88-19	11131-11140	obtaining	_	_	
+88-20	11141-11151	employment	_	_	
+88-21	11152-11153	.	_	_	
+
+#Text=Kansas ' prosecution of Morales thus fell squarely within the field that , in my view , the federal Act preempts .
+89-1	11154-11160	Kansas	_	_	
+89-2	11161-11162	'	_	_	
+89-3	11163-11174	prosecution	_	_	
+89-4	11175-11177	of	_	_	
+89-5	11178-11185	Morales	_	_	
+89-6	11186-11190	thus	_	_	
+89-7	11191-11195	fell	_	_	
+89-8	11196-11204	squarely	_	_	
+89-9	11205-11211	within	_	_	
+89-10	11212-11215	the	_	_	
+89-11	11216-11221	field	_	_	
+89-12	11222-11226	that	_	_	
+89-13	11227-11228	,	_	_	
+89-14	11229-11231	in	_	_	
+89-15	11232-11234	my	_	_	
+89-16	11235-11239	view	_	_	
+89-17	11240-11241	,	_	_	
+89-18	11242-11245	the	_	_	
+89-19	11246-11253	federal	_	_	
+89-20	11254-11257	Act	*	Legal Source	
+89-21	11258-11266	preempts	_	_	
+89-22	11267-11268	.	_	_	
+
+#Text=By permitting these prosecutions , the majority opens a colossal loophole .
+90-1	11269-11271	By	_	_	
+90-2	11272-11282	permitting	_	_	
+90-3	11283-11288	these	_	_	
+90-4	11289-11301	prosecutions	_	_	
+90-5	11302-11303	,	_	_	
+90-6	11304-11307	the	_	_	
+90-7	11308-11316	majority	_	_	
+90-8	11317-11322	opens	_	_	
+90-9	11323-11324	a	_	_	
+90-10	11325-11333	colossal	_	_	
+90-11	11334-11342	loophole	_	_	
+90-12	11343-11344	.	_	_	
+
+#Text=Starting a new job almost always involves filling out tax - withholding forms alongside an I-9 .
+91-1	11345-11353	Starting	_	_	
+91-2	11354-11355	a	_	_	
+91-3	11356-11359	new	_	_	
+91-4	11360-11363	job	_	_	
+91-5	11364-11370	almost	_	_	
+91-6	11371-11377	always	_	_	
+91-7	11378-11386	involves	_	_	
+91-8	11387-11394	filling	_	_	
+91-9	11395-11398	out	_	_	
+91-10	11399-11402	tax	_	_	
+91-11	11403-11404	-	_	_	
+91-12	11405-11416	withholding	_	_	
+91-13	11417-11422	forms	_	_	
+91-14	11423-11432	alongside	_	_	
+91-15	11433-11435	an	_	_	
+91-16	11436-11439	I-9	_	_	
+91-17	11440-11441	.	_	_	
+
+#Text=So unless they want to give themselves away , people hoping to hide their federal work - authorization status from their employer will put the same false information on their tax - withholding forms as they do on their I-9 .
+92-1	11442-11444	So	_	_	
+92-2	11445-11451	unless	_	_	
+92-3	11452-11456	they	_	_	
+92-4	11457-11461	want	_	_	
+92-5	11462-11464	to	_	_	
+92-6	11465-11469	give	_	_	
+92-7	11470-11480	themselves	_	_	
+92-8	11481-11485	away	_	_	
+92-9	11486-11487	,	_	_	
+92-10	11488-11494	people	_	_	
+92-11	11495-11501	hoping	_	_	
+92-12	11502-11504	to	_	_	
+92-13	11505-11509	hide	_	_	
+92-14	11510-11515	their	_	_	
+92-15	11516-11523	federal	_	_	
+92-16	11524-11528	work	_	_	
+92-17	11529-11530	-	_	_	
+92-18	11531-11544	authorization	_	_	
+92-19	11545-11551	status	_	_	
+92-20	11552-11556	from	_	_	
+92-21	11557-11562	their	_	_	
+92-22	11563-11571	employer	_	_	
+92-23	11572-11576	will	_	_	
+92-24	11577-11580	put	_	_	
+92-25	11581-11584	the	_	_	
+92-26	11585-11589	same	_	_	
+92-27	11590-11595	false	_	_	
+92-28	11596-11607	information	_	_	
+92-29	11608-11610	on	_	_	
+92-30	11611-11616	their	_	_	
+92-31	11617-11620	tax	_	_	
+92-32	11621-11622	-	_	_	
+92-33	11623-11634	withholding	_	_	
+92-34	11635-11640	forms	_	_	
+92-35	11641-11643	as	_	_	
+92-36	11644-11648	they	_	_	
+92-37	11649-11651	do	_	_	
+92-38	11652-11654	on	_	_	
+92-39	11655-11660	their	_	_	
+92-40	11661-11664	I-9	_	_	
+92-41	11665-11666	.	_	_	
+
+#Text=To let the States prosecute such people for the former is , in practical effect , to let the States police the latter .
+93-1	11667-11669	To	_	_	
+93-2	11670-11673	let	_	_	
+93-3	11674-11677	the	_	_	
+93-4	11678-11684	States	_	_	
+93-5	11685-11694	prosecute	_	_	
+93-6	11695-11699	such	_	_	
+93-7	11700-11706	people	_	_	
+93-8	11707-11710	for	_	_	
+93-9	11711-11714	the	_	_	
+93-10	11715-11721	former	_	_	
+93-11	11722-11724	is	_	_	
+93-12	11725-11726	,	_	_	
+93-13	11727-11729	in	_	_	
+93-14	11730-11739	practical	_	_	
+93-15	11740-11746	effect	_	_	
+93-16	11747-11748	,	_	_	
+93-17	11749-11751	to	_	_	
+93-18	11752-11755	let	_	_	
+93-19	11756-11759	the	_	_	
+93-20	11760-11766	States	_	_	
+93-21	11767-11773	police	_	_	
+93-22	11774-11777	the	_	_	
+93-23	11778-11784	latter	_	_	
+93-24	11785-11786	.	_	_	
+
+#Text=And policing the latter is what the Act expressly forbids .
+94-1	11787-11790	And	_	_	
+94-2	11791-11799	policing	_	_	
+94-3	11800-11803	the	_	_	
+94-4	11804-11810	latter	_	_	
+94-5	11811-11813	is	_	_	
+94-6	11814-11818	what	_	_	
+94-7	11819-11822	the	_	_	
+94-8	11823-11826	Act	*	Legal Source	
+94-9	11827-11836	expressly	*	Metalinguistic Cue	
+94-10	11837-11844	forbids	_	_	
+94-11	11845-11846	.	_	_	
+
+#Text=For these reasons , I would hold that federal law impliedly preempted Kansas ' criminal laws as they were applied in these cases .
+95-1	11847-11850	For	_	_	
+95-2	11851-11856	these	_	_	
+95-3	11857-11864	reasons	_	_	
+95-4	11865-11866	,	_	_	
+95-5	11867-11868	I	_	_	
+95-6	11869-11874	would	_	_	
+95-7	11875-11879	hold	_	_	
+95-8	11880-11884	that	_	_	
+95-9	11885-11892	federal	_	_	
+95-10	11893-11896	law	_	_	
+95-11	11897-11906	impliedly	_	_	
+95-12	11907-11916	preempted	_	_	
+95-13	11917-11923	Kansas	_	_	
+95-14	11924-11925	'	_	_	
+95-15	11926-11934	criminal	_	_	
+95-16	11935-11939	laws	_	_	
+95-17	11940-11942	as	_	_	
+95-18	11943-11947	they	_	_	
+95-19	11948-11952	were	_	_	
+95-20	11953-11960	applied	_	_	
+95-21	11961-11963	in	_	_	
+95-22	11964-11969	these	_	_	
+95-23	11970-11975	cases	_	_	
+95-24	11976-11977	.	_	_	
+
+#Text=Because the majority takes a different view , with respect , I dissent .
+96-1	11978-11985	Because	_	_	
+96-2	11986-11989	the	_	_	
+96-3	11990-11998	majority	_	_	
+96-4	11999-12004	takes	_	_	
+96-5	12005-12006	a	_	_	
+96-6	12007-12016	different	_	_	
+96-7	12017-12021	view	_	_	
+96-8	12022-12023	,	_	_	
+96-9	12024-12028	with	_	_	
+96-10	12029-12036	respect	_	_	
+96-11	12037-12038	,	_	_	
+96-12	12039-12040	I	_	_	
+96-13	12041-12048	dissent	_	_	
+96-14	12049-12050	.	_	_	

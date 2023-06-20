@@ -1,0 +1,778 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice KAVANAUGH , concurring .
+1-1	0-7	Justice	_	_	
+1-2	8-17	KAVANAUGH	_	_	
+1-3	18-19	,	_	_	
+1-4	20-30	concurring	_	_	
+1-5	31-32	.	_	_	
+
+#Text=I join the Court 's opinion in full .
+2-1	33-34	I	_	_	
+2-2	35-39	join	_	_	
+2-3	40-43	the	_	_	
+2-4	44-49	Court	_	_	
+2-5	50-52	's	_	_	
+2-6	53-60	opinion	_	_	
+2-7	61-63	in	_	_	
+2-8	64-68	full	_	_	
+2-9	69-70	.	_	_	
+
+#Text=I write separately to emphasize three points .
+3-1	71-72	I	_	_	
+3-2	73-78	write	_	_	
+3-3	79-89	separately	_	_	
+3-4	90-92	to	_	_	
+3-5	93-102	emphasize	_	_	
+3-6	103-108	three	_	_	
+3-7	109-115	points	_	_	
+3-8	116-117	.	_	_	
+
+#Text=First , the Court 's interpretation of the Clean Water Act regarding pollution " from " point sources adheres to the interpretation set forth in Justice Scalia 's plurality opinion in Rapanos v. United States , 547 U.S. 715 , 126 S.Ct . 2208 , 165 L.Ed.2d 159 ( 2006 ) .
+4-1	118-123	First	_	_	
+4-2	124-125	,	_	_	
+4-3	126-129	the	_	_	
+4-4	130-135	Court	_	_	
+4-5	136-138	's	_	_	
+4-6	139-153	interpretation	*	Metalinguistic Cue	
+4-7	154-156	of	_	_	
+4-8	157-160	the	_	_	
+4-9	161-166	Clean	*[1]	Legal Source[1]	
+4-10	167-172	Water	*[1]	Legal Source[1]	
+4-11	173-176	Act	*[1]	Legal Source[1]	
+4-12	177-186	regarding	_	_	
+4-13	187-196	pollution	_	_	
+4-14	197-198	"	*[2]	Direct Quote[2]	
+4-15	199-203	from	*[2]	Direct Quote[2]	
+4-16	204-205	"	*[2]	Direct Quote[2]	
+4-17	206-211	point	_	_	
+4-18	212-219	sources	_	_	
+4-19	220-227	adheres	_	_	
+4-20	228-230	to	_	_	
+4-21	231-234	the	_	_	
+4-22	235-249	interpretation	*	Metalinguistic Cue	
+4-23	250-253	set	_	_	
+4-24	254-259	forth	_	_	
+4-25	260-262	in	_	_	
+4-26	263-270	Justice	_	_	
+4-27	271-277	Scalia	_	_	
+4-28	278-280	's	_	_	
+4-29	281-290	plurality	_	_	
+4-30	291-298	opinion	_	_	
+4-31	299-301	in	_	_	
+4-32	302-309	Rapanos	*[3]	Direct Quote[3]	
+4-33	310-312	v.	*[3]	Direct Quote[3]	
+4-34	313-319	United	*[3]	Direct Quote[3]	
+4-35	320-326	States	*[3]	Direct Quote[3]	
+4-36	327-328	,	*[3]	Direct Quote[3]	
+4-37	329-332	547	*[3]	Direct Quote[3]	
+4-38	333-337	U.S.	*[3]	Direct Quote[3]	
+4-39	338-341	715	*[3]	Direct Quote[3]	
+4-40	342-343	,	*[3]	Direct Quote[3]	
+4-41	344-347	126	*[3]	Direct Quote[3]	
+4-42	348-352	S.Ct	*[3]	Direct Quote[3]	
+4-43	353-354	.	*[3]	Direct Quote[3]	
+4-44	355-359	2208	*[3]	Direct Quote[3]	
+4-45	360-361	,	*[3]	Direct Quote[3]	
+4-46	362-365	165	*[3]	Direct Quote[3]	
+4-47	366-373	L.Ed.2d	*[3]	Direct Quote[3]	
+4-48	374-377	159	*[3]	Direct Quote[3]	
+4-49	378-379	(	*[3]	Direct Quote[3]	
+4-50	380-384	2006	*[3]	Direct Quote[3]	
+4-51	385-386	)	*[3]	Direct Quote[3]	
+4-52	387-388	.	_	_	
+
+#Text=The Clean Water Act requires a permit for " any addition of any pollutant to navigable waters from any point source . "
+5-1	389-392	The	_	_	
+5-2	393-398	Clean	*[4]	Legal Source[4]	
+5-3	399-404	Water	*[4]	Legal Source[4]	
+5-4	405-408	Act	*[4]	Legal Source[4]	
+5-5	409-417	requires	_	_	
+5-6	418-419	a	_	_	
+5-7	420-426	permit	_	_	
+5-8	427-430	for	_	_	
+5-9	431-432	"	*[5]	Direct Quote[5]	
+5-10	433-436	any	*[5]	Direct Quote[5]	
+5-11	437-445	addition	*[5]	Direct Quote[5]	
+5-12	446-448	of	*[5]	Direct Quote[5]	
+5-13	449-452	any	*[5]	Direct Quote[5]	
+5-14	453-462	pollutant	*[5]	Direct Quote[5]	
+5-15	463-465	to	*[5]	Direct Quote[5]	
+5-16	466-475	navigable	*[5]	Direct Quote[5]	
+5-17	476-482	waters	*[5]	Direct Quote[5]	
+5-18	483-487	from	*[5]	Direct Quote[5]	
+5-19	488-491	any	*[5]	Direct Quote[5]	
+5-20	492-497	point	*[5]	Direct Quote[5]	
+5-21	498-504	source	*[5]	Direct Quote[5]	
+5-22	505-506	.	*[5]	Direct Quote[5]	
+5-23	507-508	"	*[5]	Direct Quote[5]	
+
+#Text=33 U.S.C. § 1362 ( 12)(A ) ; see § § 1311(a ) , 1342(a ) .
+6-1	509-511	33	*[6]	Legal Source[6]	
+6-2	512-518	U.S.C.	*[6]	Legal Source[6]	
+6-3	519-520	§	*[6]	Legal Source[6]	
+6-4	521-525	1362	*[6]	Legal Source[6]	
+6-5	526-527	(	*[6]	Legal Source[6]	
+6-6	528-533	12)(A	*[6]	Legal Source[6]	
+6-7	534-535	)	*[6]	Legal Source[6]	
+6-8	536-537	;	*[6]	Legal Source[6]	
+6-9	538-541	see	*[6]	Legal Source[6]	
+6-10	542-543	§	*[6]	Legal Source[6]	
+6-11	544-545	§	*[6]	Legal Source[6]	
+6-12	546-552	1311(a	*[6]	Legal Source[6]	
+6-13	553-554	)	*[6]	Legal Source[6]	
+6-14	555-556	,	*[6]	Legal Source[6]	
+6-15	557-563	1342(a	*[6]	Legal Source[6]	
+6-16	564-565	)	*[6]	Legal Source[6]	
+6-17	566-567	.	_	_	
+
+#Text=The key word is " from . "
+7-1	568-571	The	_	_	
+7-2	572-575	key	_	_	
+7-3	576-580	word	*	Metalinguistic Cue	
+7-4	581-583	is	_	_	
+7-5	584-585	"	*[7]	Direct Quote[7]	
+7-6	586-590	from	*[7]|*[8]	Direct Quote[7]|Focal Term[8]	
+7-7	591-592	.	*[7]	Direct Quote[7]	
+7-8	593-594	"	*[7]	Direct Quote[7]	
+
+#Text=The question in this case is whether the County of Maui needs a permit for its Lahaina Wastewater Reclamation Facility .
+8-1	595-598	The	_	_	
+8-2	599-607	question	_	_	
+8-3	608-610	in	_	_	
+8-4	611-615	this	_	_	
+8-5	616-620	case	_	_	
+8-6	621-623	is	_	_	
+8-7	624-631	whether	_	_	
+8-8	632-635	the	_	_	
+8-9	636-642	County	_	_	
+8-10	643-645	of	_	_	
+8-11	646-650	Maui	_	_	
+8-12	651-656	needs	_	_	
+8-13	657-658	a	_	_	
+8-14	659-665	permit	_	_	
+8-15	666-669	for	_	_	
+8-16	670-673	its	_	_	
+8-17	674-681	Lahaina	_	_	
+8-18	682-692	Wastewater	_	_	
+8-19	693-704	Reclamation	_	_	
+8-20	705-713	Facility	_	_	
+8-21	714-715	.	_	_	
+
+#Text=No one disputes that pollutants originated at Maui 's wastewater facility ( a point source ) , and no one disputes that the pollutants ended up in the Pacific Ocean ( a navigable water ) .
+9-1	716-718	No	_	_	
+9-2	719-722	one	_	_	
+9-3	723-731	disputes	_	_	
+9-4	732-736	that	_	_	
+9-5	737-747	pollutants	_	_	
+9-6	748-758	originated	_	_	
+9-7	759-761	at	_	_	
+9-8	762-766	Maui	_	_	
+9-9	767-769	's	_	_	
+9-10	770-780	wastewater	_	_	
+9-11	781-789	facility	_	_	
+9-12	790-791	(	_	_	
+9-13	792-793	a	_	_	
+9-14	794-799	point	_	_	
+9-15	800-806	source	_	_	
+9-16	807-808	)	_	_	
+9-17	809-810	,	_	_	
+9-18	811-814	and	_	_	
+9-19	815-817	no	_	_	
+9-20	818-821	one	_	_	
+9-21	822-830	disputes	_	_	
+9-22	831-835	that	_	_	
+9-23	836-839	the	_	_	
+9-24	840-850	pollutants	_	_	
+9-25	851-856	ended	_	_	
+9-26	857-859	up	_	_	
+9-27	860-862	in	_	_	
+9-28	863-866	the	_	_	
+9-29	867-874	Pacific	_	_	
+9-30	875-880	Ocean	_	_	
+9-31	881-882	(	_	_	
+9-32	883-884	a	_	_	
+9-33	885-894	navigable	_	_	
+9-34	895-900	water	_	_	
+9-35	901-902	)	_	_	
+9-36	903-904	.	_	_	
+
+#Text=Maui contends , however , that it does not need a permit .
+10-1	905-909	Maui	_	_	
+10-2	910-918	contends	_	_	
+10-3	919-920	,	_	_	
+10-4	921-928	however	_	_	
+10-5	929-930	,	_	_	
+10-6	931-935	that	_	_	
+10-7	936-938	it	_	_	
+10-8	939-943	does	_	_	
+10-9	944-947	not	_	_	
+10-10	948-952	need	_	_	
+10-11	953-954	a	_	_	
+10-12	955-961	permit	_	_	
+10-13	962-963	.	_	_	
+
+#Text=Maui says that the pollutants did not come " from " the Lahaina facility because the pollutants traveled through groundwater before reaching the ocean .
+11-1	964-968	Maui	_	_	
+11-2	969-973	says	_	_	
+11-3	974-978	that	_	_	
+11-4	979-982	the	_	_	
+11-5	983-993	pollutants	_	_	
+11-6	994-997	did	_	_	
+11-7	998-1001	not	_	_	
+11-8	1002-1006	come	_	_	
+11-9	1007-1008	"	*[9]	Direct Quote[9]	
+11-10	1009-1013	from	*[9]	Direct Quote[9]	
+11-11	1014-1015	"	*[9]	Direct Quote[9]	
+11-12	1016-1019	the	_	_	
+11-13	1020-1027	Lahaina	_	_	
+11-14	1028-1036	facility	_	_	
+11-15	1037-1044	because	_	_	
+11-16	1045-1048	the	_	_	
+11-17	1049-1059	pollutants	_	_	
+11-18	1060-1068	traveled	_	_	
+11-19	1069-1076	through	_	_	
+11-20	1077-1088	groundwater	_	_	
+11-21	1089-1095	before	_	_	
+11-22	1096-1104	reaching	_	_	
+11-23	1105-1108	the	_	_	
+11-24	1109-1114	ocean	_	_	
+11-25	1115-1116	.	_	_	
+
+#Text=Justice Scalia 's plurality opinion in Rapanos explained why Maui 's interpretation of the Clean Water Act is incorrect .
+12-1	1117-1124	Justice	_	_	
+12-2	1125-1131	Scalia	_	_	
+12-3	1132-1134	's	_	_	
+12-4	1135-1144	plurality	_	_	
+12-5	1145-1152	opinion	_	_	
+12-6	1153-1155	in	_	_	
+12-7	1156-1163	Rapanos	_	_	
+12-8	1164-1173	explained	_	_	
+12-9	1174-1177	why	_	_	
+12-10	1178-1182	Maui	_	_	
+12-11	1183-1185	's	_	_	
+12-12	1186-1200	interpretation	*	Metalinguistic Cue	
+12-13	1201-1203	of	_	_	
+12-14	1204-1207	the	_	_	
+12-15	1208-1213	Clean	_	_	
+12-16	1214-1219	Water	_	_	
+12-17	1220-1223	Act	_	_	
+12-18	1224-1226	is	_	_	
+12-19	1227-1236	incorrect	_	_	
+12-20	1237-1238	.	_	_	
+
+#Text=In that case , Justice Scalia stated that polluters could not " evade the permitting requirement of § 1342(a ) simply by discharging their pollutants into noncovered intermittent watercourses that lie upstream of covered waters . "
+13-1	1239-1241	In	_	_	
+13-2	1242-1246	that	_	_	
+13-3	1247-1251	case	_	_	
+13-4	1252-1253	,	_	_	
+13-5	1254-1261	Justice	_	_	
+13-6	1262-1268	Scalia	_	_	
+13-7	1269-1275	stated	_	_	
+13-8	1276-1280	that	_	_	
+13-9	1281-1290	polluters	_	_	
+13-10	1291-1296	could	_	_	
+13-11	1297-1300	not	_	_	
+13-12	1301-1302	"	*[10]	Direct Quote[10]	
+13-13	1303-1308	evade	*[10]	Direct Quote[10]	
+13-14	1309-1312	the	*[10]	Direct Quote[10]	
+13-15	1313-1323	permitting	*[10]	Direct Quote[10]	
+13-16	1324-1335	requirement	*[10]	Direct Quote[10]	
+13-17	1336-1338	of	*[10]	Direct Quote[10]	
+13-18	1339-1340	§	*[10]|*[11]	Direct Quote[10]|Legal Source[11]	
+13-19	1341-1347	1342(a	*[10]|*[11]	Direct Quote[10]|Legal Source[11]	
+13-20	1348-1349	)	*[10]|*[11]	Direct Quote[10]|Legal Source[11]	
+13-21	1350-1356	simply	*[10]	Direct Quote[10]	
+13-22	1357-1359	by	*[10]	Direct Quote[10]	
+13-23	1360-1371	discharging	*[10]	Direct Quote[10]	
+13-24	1372-1377	their	*[10]	Direct Quote[10]	
+13-25	1378-1388	pollutants	*[10]	Direct Quote[10]	
+13-26	1389-1393	into	*[10]	Direct Quote[10]	
+13-27	1394-1404	noncovered	*[10]	Direct Quote[10]	
+13-28	1405-1417	intermittent	*[10]	Direct Quote[10]	
+13-29	1418-1430	watercourses	*[10]	Direct Quote[10]	
+13-30	1431-1435	that	*[10]	Direct Quote[10]	
+13-31	1436-1439	lie	*[10]	Direct Quote[10]	
+13-32	1440-1448	upstream	*[10]	Direct Quote[10]	
+13-33	1449-1451	of	*[10]	Direct Quote[10]	
+13-34	1452-1459	covered	*[10]	Direct Quote[10]	
+13-35	1460-1466	waters	*[10]	Direct Quote[10]	
+13-36	1467-1468	.	*[10]	Direct Quote[10]	
+13-37	1469-1470	"	*[10]	Direct Quote[10]	
+
+#Text=547 U.S. at 742 - 743 , 126 S.Ct . 2208 .
+14-1	1471-1474	547	*[12]	Legal Source[12]	
+14-2	1475-1479	U.S.	*[12]	Legal Source[12]	
+14-3	1480-1482	at	*[12]	Legal Source[12]	
+14-4	1483-1486	742	*[12]	Legal Source[12]	
+14-5	1487-1488	-	*[12]	Legal Source[12]	
+14-6	1489-1492	743	*[12]	Legal Source[12]	
+14-7	1493-1494	,	*[12]	Legal Source[12]	
+14-8	1495-1498	126	*[12]	Legal Source[12]	
+14-9	1499-1503	S.Ct	*[12]	Legal Source[12]	
+14-10	1504-1505	.	*[12]	Legal Source[12]	
+14-11	1506-1510	2208	*[12]	Legal Source[12]	
+14-12	1511-1512	.	_	_	
+
+#Text=Justice Scalia reasoned that the Clean Water Act does not merely " forbid the ' addition of any pollutant directly to navigable waters from any point source , ' but rather the ' addition of any pollutant to navigable waters . '
+15-1	1513-1520	Justice	_	_	
+15-2	1521-1527	Scalia	_	_	
+15-3	1528-1536	reasoned	_	_	
+15-4	1537-1541	that	_	_	
+15-5	1542-1545	the	_	_	
+15-6	1546-1551	Clean	*[13]	Legal Source[13]	
+15-7	1552-1557	Water	*[13]	Legal Source[13]	
+15-8	1558-1561	Act	*[13]	Legal Source[13]	
+15-9	1562-1566	does	_	_	
+15-10	1567-1570	not	_	_	
+15-11	1571-1577	merely	_	_	
+15-12	1578-1579	"	*[14]	Direct Quote[14]	
+15-13	1580-1586	forbid	*[14]	Direct Quote[14]	
+15-14	1587-1590	the	*[14]	Direct Quote[14]	
+15-15	1591-1592	'	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-16	1593-1601	addition	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-17	1602-1604	of	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-18	1605-1608	any	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-19	1609-1618	pollutant	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-20	1619-1627	directly	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-21	1628-1630	to	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-22	1631-1640	navigable	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-23	1641-1647	waters	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-24	1648-1652	from	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-25	1653-1656	any	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-26	1657-1662	point	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-27	1663-1669	source	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-28	1670-1671	,	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-29	1672-1673	'	*[14]|*[15]	Direct Quote[14]|Direct Quote[15]	
+15-30	1674-1677	but	*[14]	Direct Quote[14]	
+15-31	1678-1684	rather	*[14]	Direct Quote[14]	
+15-32	1685-1688	the	*[14]	Direct Quote[14]	
+15-33	1689-1690	'	*[14]|*[16]	Direct Quote[14]|Direct Quote[16]	
+15-34	1691-1699	addition	*[14]|*[16]	Direct Quote[14]|Direct Quote[16]	
+15-35	1700-1702	of	*[14]|*[16]	Direct Quote[14]|Direct Quote[16]	
+15-36	1703-1706	any	*[14]|*[16]	Direct Quote[14]|Direct Quote[16]	
+15-37	1707-1716	pollutant	*[14]|*[16]	Direct Quote[14]|Direct Quote[16]	
+15-38	1717-1719	to	*[14]|*[16]	Direct Quote[14]|Direct Quote[16]	
+15-39	1720-1729	navigable	*[14]|*[16]	Direct Quote[14]|Direct Quote[16]	
+15-40	1730-1736	waters	*[14]|*[16]	Direct Quote[14]|Direct Quote[16]	
+15-41	1737-1738	.	*[14]|*[16]	Direct Quote[14]|Direct Quote[16]	
+15-42	1739-1740	'	*[14]|*[16]	Direct Quote[14]|Direct Quote[16]	
+
+#Text=Thus , from the time of the CWA 's enactment , lower courts have held that the discharge into intermittent channels of any pollutant that naturally washes downstream likely violates § 1311(a ) , even if the pollutants discharged from a point source do not emit ' directly into ' covered waters , but pass ' through conveyances ' in between . "
+16-1	1741-1745	Thus	*[17]	Direct Quote[17]	
+16-2	1746-1747	,	*[17]	Direct Quote[17]	
+16-3	1748-1752	from	*[17]	Direct Quote[17]	
+16-4	1753-1756	the	*[17]	Direct Quote[17]	
+16-5	1757-1761	time	*[17]	Direct Quote[17]	
+16-6	1762-1764	of	*[17]	Direct Quote[17]	
+16-7	1765-1768	the	*[17]	Direct Quote[17]	
+16-8	1769-1772	CWA	*[17]	Direct Quote[17]	
+16-9	1773-1775	's	*[17]	Direct Quote[17]	
+16-10	1776-1785	enactment	*[17]	Direct Quote[17]	
+16-11	1786-1787	,	*[17]	Direct Quote[17]	
+16-12	1788-1793	lower	*[17]	Direct Quote[17]	
+16-13	1794-1800	courts	*[17]	Direct Quote[17]	
+16-14	1801-1805	have	*[17]	Direct Quote[17]	
+16-15	1806-1810	held	*[17]	Direct Quote[17]	
+16-16	1811-1815	that	*[17]	Direct Quote[17]	
+16-17	1816-1819	the	*[17]	Direct Quote[17]	
+16-18	1820-1829	discharge	*[17]	Direct Quote[17]	
+16-19	1830-1834	into	*[17]	Direct Quote[17]	
+16-20	1835-1847	intermittent	*[17]	Direct Quote[17]	
+16-21	1848-1856	channels	*[17]	Direct Quote[17]	
+16-22	1857-1859	of	*[17]	Direct Quote[17]	
+16-23	1860-1863	any	*[17]	Direct Quote[17]	
+16-24	1864-1873	pollutant	*[17]	Direct Quote[17]	
+16-25	1874-1878	that	*[17]	Direct Quote[17]	
+16-26	1879-1888	naturally	*[17]	Direct Quote[17]	
+16-27	1889-1895	washes	*[17]	Direct Quote[17]	
+16-28	1896-1906	downstream	*[17]	Direct Quote[17]	
+16-29	1907-1913	likely	*[17]	Direct Quote[17]	
+16-30	1914-1922	violates	*[17]	Direct Quote[17]	
+16-31	1923-1924	§	*[17]|*[18]	Direct Quote[17]|Legal Source[18]	
+16-32	1925-1931	1311(a	*[17]|*[18]	Direct Quote[17]|Legal Source[18]	
+16-33	1932-1933	)	*[17]|*[18]	Direct Quote[17]|Legal Source[18]	
+16-34	1934-1935	,	*[17]	Direct Quote[17]	
+16-35	1936-1940	even	*[17]	Direct Quote[17]	
+16-36	1941-1943	if	*[17]	Direct Quote[17]	
+16-37	1944-1947	the	*[17]	Direct Quote[17]	
+16-38	1948-1958	pollutants	*[17]	Direct Quote[17]	
+16-39	1959-1969	discharged	*[17]	Direct Quote[17]	
+16-40	1970-1974	from	*[17]	Direct Quote[17]	
+16-41	1975-1976	a	*[17]	Direct Quote[17]	
+16-42	1977-1982	point	*[17]	Direct Quote[17]	
+16-43	1983-1989	source	*[17]	Direct Quote[17]	
+16-44	1990-1992	do	*[17]	Direct Quote[17]	
+16-45	1993-1996	not	*[17]	Direct Quote[17]	
+16-46	1997-2001	emit	*[17]	Direct Quote[17]	
+16-47	2002-2003	'	*[17]|*[19]	Direct Quote[17]|Direct Quote[19]	
+16-48	2004-2012	directly	*[17]|*[19]	Direct Quote[17]|Direct Quote[19]	
+16-49	2013-2017	into	*[17]|*[19]	Direct Quote[17]|Direct Quote[19]	
+16-50	2018-2019	'	*[17]|*[19]	Direct Quote[17]|Direct Quote[19]	
+16-51	2020-2027	covered	*[17]	Direct Quote[17]	
+16-52	2028-2034	waters	*[17]	Direct Quote[17]	
+16-53	2035-2036	,	*[17]	Direct Quote[17]	
+16-54	2037-2040	but	*[17]	Direct Quote[17]	
+16-55	2041-2045	pass	*[17]	Direct Quote[17]	
+16-56	2046-2047	'	*[17]|*[20]	Direct Quote[17]|Direct Quote[20]	
+16-57	2048-2055	through	*[17]|*[20]	Direct Quote[17]|Direct Quote[20]	
+16-58	2056-2067	conveyances	*[17]|*[20]	Direct Quote[17]|Direct Quote[20]	
+16-59	2068-2069	'	*[17]|*[20]	Direct Quote[17]|Direct Quote[20]	
+16-60	2070-2072	in	*[17]	Direct Quote[17]	
+16-61	2073-2080	between	*[17]	Direct Quote[17]	
+16-62	2081-2082	.	*[17]	Direct Quote[17]	
+16-63	2083-2084	"	*[17]	Direct Quote[17]	
+
+#Text=Id. , at 743 , 126 S.Ct . 2208 ( citations omitted ) .
+17-1	2085-2088	Id.	*[21]	Legal Source[21]	
+17-2	2089-2090	,	*[21]	Legal Source[21]	
+17-3	2091-2093	at	*[21]	Legal Source[21]	
+17-4	2094-2097	743	*[21]	Legal Source[21]	
+17-5	2098-2099	,	*[21]	Legal Source[21]	
+17-6	2100-2103	126	*[21]	Legal Source[21]	
+17-7	2104-2108	S.Ct	*[21]	Legal Source[21]	
+17-8	2109-2110	.	*[21]	Legal Source[21]	
+17-9	2111-2115	2208	*[21]	Legal Source[21]	
+17-10	2116-2117	(	*[21]	Legal Source[21]	
+17-11	2118-2127	citations	*[21]	Legal Source[21]	
+17-12	2128-2135	omitted	*[21]	Legal Source[21]	
+17-13	2136-2137	)	*[21]	Legal Source[21]	
+17-14	2138-2139	.	_	_	
+
+#Text=In other words , under Justice Scalia 's interpretation in Rapanos , the fact that the pollutants from Maui 's wastewater facility reach the ocean via an indirect route does not itself exempt Maui 's facility from the Clean Water Act 's permitting requirement for point sources .
+18-1	2140-2142	In	_	_	
+18-2	2143-2148	other	_	_	
+18-3	2149-2154	words	_	_	
+18-4	2155-2156	,	_	_	
+18-5	2157-2162	under	_	_	
+18-6	2163-2170	Justice	_	_	
+18-7	2171-2177	Scalia	_	_	
+18-8	2178-2180	's	_	_	
+18-9	2181-2195	interpretation	*	Metalinguistic Cue	
+18-10	2196-2198	in	_	_	
+18-11	2199-2206	Rapanos	_	_	
+18-12	2207-2208	,	_	_	
+18-13	2209-2212	the	_	_	
+18-14	2213-2217	fact	_	_	
+18-15	2218-2222	that	_	_	
+18-16	2223-2226	the	_	_	
+18-17	2227-2237	pollutants	_	_	
+18-18	2238-2242	from	_	_	
+18-19	2243-2247	Maui	_	_	
+18-20	2248-2250	's	_	_	
+18-21	2251-2261	wastewater	_	_	
+18-22	2262-2270	facility	_	_	
+18-23	2271-2276	reach	_	_	
+18-24	2277-2280	the	_	_	
+18-25	2281-2286	ocean	_	_	
+18-26	2287-2290	via	_	_	
+18-27	2291-2293	an	_	_	
+18-28	2294-2302	indirect	_	_	
+18-29	2303-2308	route	_	_	
+18-30	2309-2313	does	_	_	
+18-31	2314-2317	not	_	_	
+18-32	2318-2324	itself	_	_	
+18-33	2325-2331	exempt	_	_	
+18-34	2332-2336	Maui	_	_	
+18-35	2337-2339	's	_	_	
+18-36	2340-2348	facility	_	_	
+18-37	2349-2353	from	_	_	
+18-38	2354-2357	the	_	_	
+18-39	2358-2363	Clean	*[22]	Legal Source[22]	
+18-40	2364-2369	Water	*[22]	Legal Source[22]	
+18-41	2370-2373	Act	*[22]	Legal Source[22]	
+18-42	2374-2376	's	_	_	
+18-43	2377-2387	permitting	_	_	
+18-44	2388-2399	requirement	_	_	
+18-45	2400-2403	for	_	_	
+18-46	2404-2409	point	_	_	
+18-47	2410-2417	sources	_	_	
+18-48	2418-2419	.	_	_	
+
+#Text=The Court today adheres to Justice Scalia 's analysis in Rapanos on that issue .
+19-1	2420-2423	The	_	_	
+19-2	2424-2429	Court	_	_	
+19-3	2430-2435	today	_	_	
+19-4	2436-2443	adheres	_	_	
+19-5	2444-2446	to	_	_	
+19-6	2447-2454	Justice	_	_	
+19-7	2455-2461	Scalia	_	_	
+19-8	2462-2464	's	_	_	
+19-9	2465-2473	analysis	_	_	
+19-10	2474-2476	in	_	_	
+19-11	2477-2484	Rapanos	_	_	
+19-12	2485-2487	on	_	_	
+19-13	2488-2492	that	_	_	
+19-14	2493-2498	issue	_	_	
+19-15	2499-2500	.	_	_	
+
+#Text=Second , as Justice Scalia 's opinion in Rapanos pointed out and as the Court 's opinion today explains , the statute does not establish a bright - line test regarding when a pollutant may be considered to have come " from " a point source .
+20-1	2501-2507	Second	_	_	
+20-2	2508-2509	,	_	_	
+20-3	2510-2512	as	_	_	
+20-4	2513-2520	Justice	_	_	
+20-5	2521-2527	Scalia	_	_	
+20-6	2528-2530	's	_	_	
+20-7	2531-2538	opinion	_	_	
+20-8	2539-2541	in	_	_	
+20-9	2542-2549	Rapanos	_	_	
+20-10	2550-2557	pointed	_	_	
+20-11	2558-2561	out	_	_	
+20-12	2562-2565	and	_	_	
+20-13	2566-2568	as	_	_	
+20-14	2569-2572	the	_	_	
+20-15	2573-2578	Court	_	_	
+20-16	2579-2581	's	_	_	
+20-17	2582-2589	opinion	_	_	
+20-18	2590-2595	today	_	_	
+20-19	2596-2604	explains	_	_	
+20-20	2605-2606	,	_	_	
+20-21	2607-2610	the	_	_	
+20-22	2611-2618	statute	_	_	
+20-23	2619-2623	does	_	_	
+20-24	2624-2627	not	_	_	
+20-25	2628-2637	establish	_	_	
+20-26	2638-2639	a	_	_	
+20-27	2640-2646	bright	*[23]	Metalinguistic Cue[23]	
+20-28	2647-2648	-	*[23]	Metalinguistic Cue[23]	
+20-29	2649-2653	line	*[23]	Metalinguistic Cue[23]	
+20-30	2654-2658	test	*[23]	Metalinguistic Cue[23]	
+20-31	2659-2668	regarding	_	_	
+20-32	2669-2673	when	_	_	
+20-33	2674-2675	a	_	_	
+20-34	2676-2685	pollutant	_	_	
+20-35	2686-2689	may	_	_	
+20-36	2690-2692	be	_	_	
+20-37	2693-2703	considered	_	_	
+20-38	2704-2706	to	_	_	
+20-39	2707-2711	have	_	_	
+20-40	2712-2716	come	_	_	
+20-41	2717-2718	"	*[24]	Direct Quote[24]	
+20-42	2719-2723	from	*[24]|*[25]	Direct Quote[24]|Focal Term[25]	
+20-43	2724-2725	"	*[24]	Direct Quote[24]	
+20-44	2726-2727	a	_	_	
+20-45	2728-2733	point	_	_	
+20-46	2734-2740	source	_	_	
+20-47	2741-2742	.	_	_	
+
+#Text=The source of the vagueness is Congress ' statutory text , not the Court 's opinion .
+21-1	2743-2746	The	_	_	
+21-2	2747-2753	source	_	_	
+21-3	2754-2756	of	_	_	
+21-4	2757-2760	the	_	_	
+21-5	2761-2770	vagueness	*	Metalinguistic Cue	
+21-6	2771-2773	is	_	_	
+21-7	2774-2782	Congress	_	_	
+21-8	2783-2784	'	_	_	
+21-9	2785-2794	statutory	*[26]	Metalinguistic Cue[26]	
+21-10	2795-2799	text	*[26]	Metalinguistic Cue[26]	
+21-11	2800-2801	,	_	_	
+21-12	2802-2805	not	_	_	
+21-13	2806-2809	the	_	_	
+21-14	2810-2815	Court	_	_	
+21-15	2816-2818	's	_	_	
+21-16	2819-2826	opinion	_	_	
+21-17	2827-2828	.	_	_	
+
+#Text=The Court 's opinion seeks to translate the vague statutory text into more concrete guidance .
+22-1	2829-2832	The	_	_	
+22-2	2833-2838	Court	_	_	
+22-3	2839-2841	's	_	_	
+22-4	2842-2849	opinion	_	_	
+22-5	2850-2855	seeks	_	_	
+22-6	2856-2858	to	_	_	
+22-7	2859-2868	translate	_	_	
+22-8	2869-2872	the	_	_	
+22-9	2873-2878	vague	*[27]	Metalinguistic Cue[27]	
+22-10	2879-2888	statutory	*[27]	Metalinguistic Cue[27]	
+22-11	2889-2893	text	*[27]	Metalinguistic Cue[27]	
+22-12	2894-2898	into	_	_	
+22-13	2899-2903	more	_	_	
+22-14	2904-2912	concrete	_	_	
+22-15	2913-2921	guidance	_	_	
+22-16	2922-2923	.	_	_	
+
+#Text=Third , JUSTICE THOMAS ' dissent states that " the Court does not commit " to " which factors are the most important " in determining whether pollutants that enter navigable waters come " from " a point source .
+23-1	2924-2929	Third	_	_	
+23-2	2930-2931	,	_	_	
+23-3	2932-2939	JUSTICE	_	_	
+23-4	2940-2946	THOMAS	_	_	
+23-5	2947-2948	'	_	_	
+23-6	2949-2956	dissent	_	_	
+23-7	2957-2963	states	_	_	
+23-8	2964-2968	that	_	_	
+23-9	2969-2970	"	*[28]	Direct Quote[28]	
+23-10	2971-2974	the	*[28]	Direct Quote[28]	
+23-11	2975-2980	Court	*[28]	Direct Quote[28]	
+23-12	2981-2985	does	*[28]	Direct Quote[28]	
+23-13	2986-2989	not	*[28]	Direct Quote[28]	
+23-14	2990-2996	commit	*[28]	Direct Quote[28]	
+23-15	2997-2998	"	*[28]	Direct Quote[28]	
+23-16	2999-3001	to	_	_	
+23-17	3002-3003	"	*[29]	Direct Quote[29]	
+23-18	3004-3009	which	*[29]	Direct Quote[29]	
+23-19	3010-3017	factors	*[29]	Direct Quote[29]	
+23-20	3018-3021	are	*[29]	Direct Quote[29]	
+23-21	3022-3025	the	*[29]	Direct Quote[29]	
+23-22	3026-3030	most	*[29]	Direct Quote[29]	
+23-23	3031-3040	important	*[29]	Direct Quote[29]	
+23-24	3041-3042	"	*[29]	Direct Quote[29]	
+23-25	3043-3045	in	_	_	
+23-26	3046-3057	determining	_	_	
+23-27	3058-3065	whether	_	_	
+23-28	3066-3076	pollutants	_	_	
+23-29	3077-3081	that	_	_	
+23-30	3082-3087	enter	_	_	
+23-31	3088-3097	navigable	_	_	
+23-32	3098-3104	waters	_	_	
+23-33	3105-3109	come	_	_	
+23-34	3110-3111	"	*[30]	Direct Quote[30]	
+23-35	3112-3116	from	*[30]|*[31]	Direct Quote[30]|Focal Term[31]	
+23-36	3117-3118	"	*[30]	Direct Quote[30]	
+23-37	3119-3120	a	_	_	
+23-38	3121-3126	point	_	_	
+23-39	3127-3133	source	_	_	
+23-40	3134-3135	.	_	_	
+
+#Text=Post , at 1481 - 1482 .
+24-1	3136-3140	Post	*[32]	Legal Source[32]	
+24-2	3141-3142	,	*[32]	Legal Source[32]	
+24-3	3143-3145	at	*[32]	Legal Source[32]	
+24-4	3146-3150	1481	*[32]	Legal Source[32]	
+24-5	3151-3152	-	*[32]	Legal Source[32]	
+24-6	3153-3157	1482	*[32]	Legal Source[32]	
+24-7	3158-3159	.	_	_	
+
+#Text=That critique is not accurate , as I read the Court 's opinion .
+25-1	3160-3164	That	_	_	
+25-2	3165-3173	critique	_	_	
+25-3	3174-3176	is	_	_	
+25-4	3177-3180	not	_	_	
+25-5	3181-3189	accurate	_	_	
+25-6	3190-3191	,	_	_	
+25-7	3192-3194	as	_	_	
+25-8	3195-3196	I	_	_	
+25-9	3197-3201	read	_	_	
+25-10	3202-3205	the	_	_	
+25-11	3206-3211	Court	_	_	
+25-12	3212-3214	's	_	_	
+25-13	3215-3222	opinion	_	_	
+25-14	3223-3224	.	_	_	
+
+#Text=The Court identifies relevant factors to consider and emphasizes that " [ t]ime and distance are obviously important . "
+26-1	3225-3228	The	_	_	
+26-2	3229-3234	Court	_	_	
+26-3	3235-3245	identifies	_	_	
+26-4	3246-3254	relevant	_	_	
+26-5	3255-3262	factors	_	_	
+26-6	3263-3265	to	_	_	
+26-7	3266-3274	consider	_	_	
+26-8	3275-3278	and	_	_	
+26-9	3279-3289	emphasizes	_	_	
+26-10	3290-3294	that	_	_	
+26-11	3295-3296	"	*[33]	Direct Quote[33]	
+26-12	3297-3298	[	*[33]	Direct Quote[33]	
+26-13	3299-3304	t]ime	*[33]	Direct Quote[33]	
+26-14	3305-3308	and	*[33]	Direct Quote[33]	
+26-15	3309-3317	distance	*[33]	Direct Quote[33]	
+26-16	3318-3321	are	*[33]	Direct Quote[33]	
+26-17	3322-3331	obviously	*[33]	Direct Quote[33]	
+26-18	3332-3341	important	*[33]	Direct Quote[33]	
+26-19	3342-3343	.	*[33]	Direct Quote[33]	
+26-20	3344-3345	"	*[33]	Direct Quote[33]	
+
+#Text=Ante , at 1476 .
+27-1	3346-3350	Ante	*[34]	Legal Source[34]	
+27-2	3351-3352	,	*[34]	Legal Source[34]	
+27-3	3353-3355	at	*[34]	Legal Source[34]	
+27-4	3356-3360	1476	*[34]	Legal Source[34]	
+27-5	3361-3362	.	_	_	
+
+#Text=And the Court expressly adds that " [ t]ime and distance will be the most important factors in most cases , but not necessarily every case . "
+28-1	3363-3366	And	_	_	
+28-2	3367-3370	the	_	_	
+28-3	3371-3376	Court	_	_	
+28-4	3377-3386	expressly	*	Metalinguistic Cue	
+28-5	3387-3391	adds	_	_	
+28-6	3392-3396	that	_	_	
+28-7	3397-3398	"	*[35]	Direct Quote[35]	
+28-8	3399-3400	[	*[35]	Direct Quote[35]	
+28-9	3401-3406	t]ime	*[35]	Direct Quote[35]	
+28-10	3407-3410	and	*[35]	Direct Quote[35]	
+28-11	3411-3419	distance	*[35]	Direct Quote[35]	
+28-12	3420-3424	will	*[35]	Direct Quote[35]	
+28-13	3425-3427	be	*[35]	Direct Quote[35]	
+28-14	3428-3431	the	*[35]	Direct Quote[35]	
+28-15	3432-3436	most	*[35]	Direct Quote[35]	
+28-16	3437-3446	important	*[35]	Direct Quote[35]	
+28-17	3447-3454	factors	*[35]	Direct Quote[35]	
+28-18	3455-3457	in	*[35]	Direct Quote[35]	
+28-19	3458-3462	most	*[35]	Direct Quote[35]	
+28-20	3463-3468	cases	*[35]	Direct Quote[35]	
+28-21	3469-3470	,	*[35]	Direct Quote[35]	
+28-22	3471-3474	but	*[35]	Direct Quote[35]	
+28-23	3475-3478	not	*[35]	Direct Quote[35]	
+28-24	3479-3490	necessarily	*[35]	Direct Quote[35]	
+28-25	3491-3496	every	*[35]	Direct Quote[35]	
+28-26	3497-3501	case	*[35]	Direct Quote[35]	
+28-27	3502-3503	.	*[35]	Direct Quote[35]	
+28-28	3504-3505	"	*[35]	Direct Quote[35]	
+
+#Text=Ante , at 1477 .
+29-1	3506-3510	Ante	*[36]	Legal Source[36]	
+29-2	3511-3512	,	*[36]	Legal Source[36]	
+29-3	3513-3515	at	*[36]	Legal Source[36]	
+29-4	3516-3520	1477	*[36]	Legal Source[36]	
+29-5	3521-3522	.	_	_	
+
+#Text=Although the statutory text does not supply a bright - line test , the Court 's emphasis on time and distance will help guide application of the statutory standard going forward .
+30-1	3523-3531	Although	_	_	
+30-2	3532-3535	the	_	_	
+30-3	3536-3545	statutory	*[37]	Metalinguistic Cue[37]	
+30-4	3546-3550	text	*[37]	Metalinguistic Cue[37]	
+30-5	3551-3555	does	_	_	
+30-6	3556-3559	not	_	_	
+30-7	3560-3566	supply	_	_	
+30-8	3567-3568	a	_	_	
+30-9	3569-3575	bright	*[38]	Metalinguistic Cue[38]	
+30-10	3576-3577	-	*[38]	Metalinguistic Cue[38]	
+30-11	3578-3582	line	*[38]	Metalinguistic Cue[38]	
+30-12	3583-3587	test	*[38]	Metalinguistic Cue[38]	
+30-13	3588-3589	,	_	_	
+30-14	3590-3593	the	_	_	
+30-15	3594-3599	Court	_	_	
+30-16	3600-3602	's	_	_	
+30-17	3603-3611	emphasis	_	_	
+30-18	3612-3614	on	_	_	
+30-19	3615-3619	time	_	_	
+30-20	3620-3623	and	_	_	
+30-21	3624-3632	distance	_	_	
+30-22	3633-3637	will	_	_	
+30-23	3638-3642	help	_	_	
+30-24	3643-3648	guide	_	_	
+30-25	3649-3660	application	_	_	
+30-26	3661-3663	of	_	_	
+30-27	3664-3667	the	_	_	
+30-28	3668-3677	statutory	_	_	
+30-29	3678-3686	standard	_	_	
+30-30	3687-3692	going	_	_	
+30-31	3693-3700	forward	_	_	
+30-32	3701-3702	.	_	_	
+
+#Text=With those additional comments , I join the Court 's opinion in full .
+31-1	3703-3707	With	_	_	
+31-2	3708-3713	those	_	_	
+31-3	3714-3724	additional	_	_	
+31-4	3725-3733	comments	_	_	
+31-5	3734-3735	,	_	_	
+31-6	3736-3737	I	_	_	
+31-7	3738-3742	join	_	_	
+31-8	3743-3746	the	_	_	
+31-9	3747-3752	Court	_	_	
+31-10	3753-3755	's	_	_	
+31-11	3756-3763	opinion	_	_	
+31-12	3764-3766	in	_	_	
+31-13	3767-3771	full	_	_	
+31-14	3772-3773	.	_	_	

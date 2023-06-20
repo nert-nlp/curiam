@@ -1,0 +1,2627 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice THOMAS delivered the opinion of the Court .
+1-1	0-7	Justice	_	_	
+1-2	8-14	THOMAS	_	_	
+1-3	15-24	delivered	_	_	
+1-4	25-28	the	_	_	
+1-5	29-36	opinion	_	_	
+1-6	37-39	of	_	_	
+1-7	40-43	the	_	_	
+1-8	44-49	Court	_	_	
+1-9	50-51	.	_	_	
+
+#Text=The Fair Debt Collection Practices Act ( FDCPA ) authorizes private civil actions against debt collectors who engage in certain prohibited practices .
+2-1	52-55	The	_	_	
+2-2	56-60	Fair	*[1]	Legal Source[1]	
+2-3	61-65	Debt	*[1]	Legal Source[1]	
+2-4	66-76	Collection	*[1]	Legal Source[1]	
+2-5	77-86	Practices	*[1]	Legal Source[1]	
+2-6	87-90	Act	*[1]	Legal Source[1]	
+2-7	91-92	(	*[1]	Legal Source[1]	
+2-8	93-98	FDCPA	*[1]	Legal Source[1]	
+2-9	99-100	)	*[1]	Legal Source[1]	
+2-10	101-111	authorizes	_	_	
+2-11	112-119	private	_	_	
+2-12	120-125	civil	_	_	
+2-13	126-133	actions	_	_	
+2-14	134-141	against	_	_	
+2-15	142-146	debt	_	_	
+2-16	147-157	collectors	_	_	
+2-17	158-161	who	_	_	
+2-18	162-168	engage	_	_	
+2-19	169-171	in	_	_	
+2-20	172-179	certain	_	_	
+2-21	180-190	prohibited	_	_	
+2-22	191-200	practices	_	_	
+2-23	201-202	.	_	_	
+
+#Text=91 Stat . 881 , 15 U.S.C. § 1692k(a ) .
+3-1	203-205	91	*[2]	Legal Source[2]	
+3-2	206-210	Stat	*[2]	Legal Source[2]	
+3-3	211-212	.	*[2]	Legal Source[2]	
+3-4	213-216	881	*[2]	Legal Source[2]	
+3-5	217-218	,	*[2]	Legal Source[2]	
+3-6	219-221	15	*[2]	Legal Source[2]	
+3-7	222-228	U.S.C.	*[2]	Legal Source[2]	
+3-8	229-230	§	*[2]	Legal Source[2]	
+3-9	231-238	1692k(a	*[2]	Legal Source[2]	
+3-10	239-240	)	*[2]	Legal Source[2]	
+3-11	241-242	.	_	_	
+
+#Text=An action under the FDCPA may be brought " within one year from the date on which the violation occurs . "
+4-1	243-245	An	_	_	
+4-2	246-252	action	_	_	
+4-3	253-258	under	_	_	
+4-4	259-262	the	_	_	
+4-5	263-268	FDCPA	*	Legal Source	
+4-6	269-272	may	_	_	
+4-7	273-275	be	_	_	
+4-8	276-283	brought	_	_	
+4-9	284-285	"	*[3]	Direct Quote[3]	
+4-10	286-292	within	*[3]	Direct Quote[3]	
+4-11	293-296	one	*[3]	Direct Quote[3]	
+4-12	297-301	year	*[3]	Direct Quote[3]	
+4-13	302-306	from	*[3]	Direct Quote[3]	
+4-14	307-310	the	*[3]	Direct Quote[3]	
+4-15	311-315	date	*[3]	Direct Quote[3]	
+4-16	316-318	on	*[3]	Direct Quote[3]	
+4-17	319-324	which	*[3]	Direct Quote[3]	
+4-18	325-328	the	*[3]	Direct Quote[3]	
+4-19	329-338	violation	*[3]	Direct Quote[3]	
+4-20	339-345	occurs	*[3]	Direct Quote[3]	
+4-21	346-347	.	*[3]	Direct Quote[3]	
+4-22	348-349	"	*[3]	Direct Quote[3]	
+
+#Text=§ 1692k(d ) .
+5-1	350-351	§	*[4]	Legal Source[4]	
+5-2	352-359	1692k(d	*[4]	Legal Source[4]	
+5-3	360-361	)	*[4]	Legal Source[4]	
+5-4	362-363	.	_	_	
+
+#Text=This case requires us to determine when the FDCPA 's limitations period begins to run .
+6-1	364-368	This	_	_	
+6-2	369-373	case	_	_	
+6-3	374-382	requires	_	_	
+6-4	383-385	us	_	_	
+6-5	386-388	to	_	_	
+6-6	389-398	determine	_	_	
+6-7	399-403	when	_	_	
+6-8	404-407	the	_	_	
+6-9	408-413	FDCPA	*	Legal Source	
+6-10	414-416	's	_	_	
+6-11	417-428	limitations	_	_	
+6-12	429-435	period	_	_	
+6-13	436-442	begins	_	_	
+6-14	443-445	to	_	_	
+6-15	446-449	run	_	_	
+6-16	450-451	.	_	_	
+
+#Text=We hold that , absent the application of an equitable doctrine , the statute of limitations in § 1692k(d ) begins to run on the date on which the alleged FDCPA violation occurs , not the date on which the violation is discovered .
+7-1	452-454	We	_	_	
+7-2	455-459	hold	_	_	
+7-3	460-464	that	_	_	
+7-4	465-466	,	_	_	
+7-5	467-473	absent	_	_	
+7-6	474-477	the	_	_	
+7-7	478-489	application	_	_	
+7-8	490-492	of	_	_	
+7-9	493-495	an	_	_	
+7-10	496-505	equitable	_	_	
+7-11	506-514	doctrine	_	_	
+7-12	515-516	,	_	_	
+7-13	517-520	the	_	_	
+7-14	521-528	statute	_	_	
+7-15	529-531	of	_	_	
+7-16	532-543	limitations	_	_	
+7-17	544-546	in	_	_	
+7-18	547-548	§	*[5]	Legal Source[5]	
+7-19	549-556	1692k(d	*[5]	Legal Source[5]	
+7-20	557-558	)	*[5]	Legal Source[5]	
+7-21	559-565	begins	_	_	
+7-22	566-568	to	_	_	
+7-23	569-572	run	_	_	
+7-24	573-575	on	_	_	
+7-25	576-579	the	_	_	
+7-26	580-584	date	_	_	
+7-27	585-587	on	_	_	
+7-28	588-593	which	_	_	
+7-29	594-597	the	_	_	
+7-30	598-605	alleged	_	_	
+7-31	606-611	FDCPA	_	_	
+7-32	612-621	violation	_	_	
+7-33	622-628	occurs	_	_	
+7-34	629-630	,	_	_	
+7-35	631-634	not	_	_	
+7-36	635-638	the	_	_	
+7-37	639-643	date	_	_	
+7-38	644-646	on	_	_	
+7-39	647-652	which	_	_	
+7-40	653-656	the	_	_	
+7-41	657-666	violation	_	_	
+7-42	667-669	is	_	_	
+7-43	670-680	discovered	_	_	
+7-44	681-682	.	_	_	
+
+#Text=I
+8-1	683-684	I	_	_	
+
+#Text=A
+9-1	685-686	A	_	_	
+
+#Text=In 1977 , Congress enacted the FDCPA " to eliminate abusive debt collection practices by debt collectors , to insure that those debt collectors who refrain from using abusive debt collection practices are not competitively disadvantaged , and to promote consistent State action to protect consumers against debt collection abuses . "
+10-1	687-689	In	_	_	
+10-2	690-694	1977	_	_	
+10-3	695-696	,	_	_	
+10-4	697-705	Congress	_	_	
+10-5	706-713	enacted	_	_	
+10-6	714-717	the	_	_	
+10-7	718-723	FDCPA	*	Legal Source	
+10-8	724-725	"	*[6]	Direct Quote[6]	
+10-9	726-728	to	*[6]	Direct Quote[6]	
+10-10	729-738	eliminate	*[6]	Direct Quote[6]	
+10-11	739-746	abusive	*[6]	Direct Quote[6]	
+10-12	747-751	debt	*[6]	Direct Quote[6]	
+10-13	752-762	collection	*[6]	Direct Quote[6]	
+10-14	763-772	practices	*[6]	Direct Quote[6]	
+10-15	773-775	by	*[6]	Direct Quote[6]	
+10-16	776-780	debt	*[6]	Direct Quote[6]	
+10-17	781-791	collectors	*[6]	Direct Quote[6]	
+10-18	792-793	,	*[6]	Direct Quote[6]	
+10-19	794-796	to	*[6]	Direct Quote[6]	
+10-20	797-803	insure	*[6]	Direct Quote[6]	
+10-21	804-808	that	*[6]	Direct Quote[6]	
+10-22	809-814	those	*[6]	Direct Quote[6]	
+10-23	815-819	debt	*[6]	Direct Quote[6]	
+10-24	820-830	collectors	*[6]	Direct Quote[6]	
+10-25	831-834	who	*[6]	Direct Quote[6]	
+10-26	835-842	refrain	*[6]	Direct Quote[6]	
+10-27	843-847	from	*[6]	Direct Quote[6]	
+10-28	848-853	using	*[6]	Direct Quote[6]	
+10-29	854-861	abusive	*[6]	Direct Quote[6]	
+10-30	862-866	debt	*[6]	Direct Quote[6]	
+10-31	867-877	collection	*[6]	Direct Quote[6]	
+10-32	878-887	practices	*[6]	Direct Quote[6]	
+10-33	888-891	are	*[6]	Direct Quote[6]	
+10-34	892-895	not	*[6]	Direct Quote[6]	
+10-35	896-909	competitively	*[6]	Direct Quote[6]	
+10-36	910-923	disadvantaged	*[6]	Direct Quote[6]	
+10-37	924-925	,	*[6]	Direct Quote[6]	
+10-38	926-929	and	*[6]	Direct Quote[6]	
+10-39	930-932	to	*[6]	Direct Quote[6]	
+10-40	933-940	promote	*[6]	Direct Quote[6]	
+10-41	941-951	consistent	*[6]	Direct Quote[6]	
+10-42	952-957	State	*[6]	Direct Quote[6]	
+10-43	958-964	action	*[6]	Direct Quote[6]	
+10-44	965-967	to	*[6]	Direct Quote[6]	
+10-45	968-975	protect	*[6]	Direct Quote[6]	
+10-46	976-985	consumers	*[6]	Direct Quote[6]	
+10-47	986-993	against	*[6]	Direct Quote[6]	
+10-48	994-998	debt	*[6]	Direct Quote[6]	
+10-49	999-1009	collection	*[6]	Direct Quote[6]	
+10-50	1010-1016	abuses	*[6]	Direct Quote[6]	
+10-51	1017-1018	.	*[6]	Direct Quote[6]	
+10-52	1019-1020	"	*[6]	Direct Quote[6]	
+
+#Text=§ 1692(e ) .
+11-1	1021-1022	§	*[7]	Legal Source[7]	
+11-2	1023-1029	1692(e	*[7]	Legal Source[7]	
+11-3	1030-1031	)	*[7]	Legal Source[7]	
+11-4	1032-1033	.	_	_	
+
+#Text=The FDCPA pursues these stated purposes by imposing affirmative requirements on debt collectors and prohibiting a range of debt - collection practices .
+12-1	1034-1037	The	_	_	
+12-2	1038-1043	FDCPA	*	Legal Source	
+12-3	1044-1051	pursues	_	_	
+12-4	1052-1057	these	_	_	
+12-5	1058-1064	stated	_	_	
+12-6	1065-1073	purposes	_	_	
+12-7	1074-1076	by	_	_	
+12-8	1077-1085	imposing	_	_	
+12-9	1086-1097	affirmative	_	_	
+12-10	1098-1110	requirements	_	_	
+12-11	1111-1113	on	_	_	
+12-12	1114-1118	debt	_	_	
+12-13	1119-1129	collectors	_	_	
+12-14	1130-1133	and	_	_	
+12-15	1134-1145	prohibiting	_	_	
+12-16	1146-1147	a	_	_	
+12-17	1148-1153	range	_	_	
+12-18	1154-1156	of	_	_	
+12-19	1157-1161	debt	_	_	
+12-20	1162-1163	-	_	_	
+12-21	1164-1174	collection	_	_	
+12-22	1175-1184	practices	_	_	
+12-23	1185-1186	.	_	_	
+
+#Text=§ § 1692b-1692j .
+13-1	1187-1188	§	*[8]	Legal Source[8]	
+13-2	1189-1190	§	*[8]	Legal Source[8]	
+13-3	1191-1202	1692b-1692j	*[8]	Legal Source[8]	
+13-4	1203-1204	.	_	_	
+
+#Text=The FDCPA authorizes the Federal Trade Commission , the Bureau of Consumer Financial Protection , and other federal agencies to enforce its provisions .
+14-1	1205-1208	The	_	_	
+14-2	1209-1214	FDCPA	*	Legal Source	
+14-3	1215-1225	authorizes	_	_	
+14-4	1226-1229	the	_	_	
+14-5	1230-1237	Federal	_	_	
+14-6	1238-1243	Trade	_	_	
+14-7	1244-1254	Commission	_	_	
+14-8	1255-1256	,	_	_	
+14-9	1257-1260	the	_	_	
+14-10	1261-1267	Bureau	_	_	
+14-11	1268-1270	of	_	_	
+14-12	1271-1279	Consumer	_	_	
+14-13	1280-1289	Financial	_	_	
+14-14	1290-1300	Protection	_	_	
+14-15	1301-1302	,	_	_	
+14-16	1303-1306	and	_	_	
+14-17	1307-1312	other	_	_	
+14-18	1313-1320	federal	_	_	
+14-19	1321-1329	agencies	_	_	
+14-20	1330-1332	to	_	_	
+14-21	1333-1340	enforce	_	_	
+14-22	1341-1344	its	_	_	
+14-23	1345-1355	provisions	_	_	
+14-24	1356-1357	.	_	_	
+
+#Text=§ 1692 l .
+15-1	1358-1359	§	*[9]	Legal Source[9]	
+15-2	1360-1364	1692	*[9]	Legal Source[9]	
+15-3	1365-1366	l	*[9]	Legal Source[9]	
+15-4	1367-1368	.	_	_	
+
+#Text=The FDCPA also authorizes private civil actions against debt collectors .
+16-1	1369-1372	The	_	_	
+16-2	1373-1378	FDCPA	*	Legal Source	
+16-3	1379-1383	also	_	_	
+16-4	1384-1394	authorizes	_	_	
+16-5	1395-1402	private	_	_	
+16-6	1403-1408	civil	_	_	
+16-7	1409-1416	actions	_	_	
+16-8	1417-1424	against	_	_	
+16-9	1425-1429	debt	_	_	
+16-10	1430-1440	collectors	_	_	
+16-11	1441-1442	.	_	_	
+
+#Text=§ 1692k(a ) .
+17-1	1443-1444	§	*[10]	Legal Source[10]	
+17-2	1445-1452	1692k(a	*[10]	Legal Source[10]	
+17-3	1453-1454	)	*[10]	Legal Source[10]	
+17-4	1455-1456	.	_	_	
+
+#Text=These private civil actions " may be brought in any appropriate United States district court without regard to the amount in controversy , or in any other court of competent jurisdiction , within one year from the date on which the violation occurs . "
+18-1	1457-1462	These	_	_	
+18-2	1463-1470	private	_	_	
+18-3	1471-1476	civil	_	_	
+18-4	1477-1484	actions	_	_	
+18-5	1485-1486	"	*[11]	Direct Quote[11]	
+18-6	1487-1490	may	*[11]	Direct Quote[11]	
+18-7	1491-1493	be	*[11]	Direct Quote[11]	
+18-8	1494-1501	brought	*[11]	Direct Quote[11]	
+18-9	1502-1504	in	*[11]	Direct Quote[11]	
+18-10	1505-1508	any	*[11]	Direct Quote[11]	
+18-11	1509-1520	appropriate	*[11]	Direct Quote[11]	
+18-12	1521-1527	United	*[11]	Direct Quote[11]	
+18-13	1528-1534	States	*[11]	Direct Quote[11]	
+18-14	1535-1543	district	*[11]	Direct Quote[11]	
+18-15	1544-1549	court	*[11]	Direct Quote[11]	
+18-16	1550-1557	without	*[11]	Direct Quote[11]	
+18-17	1558-1564	regard	*[11]	Direct Quote[11]	
+18-18	1565-1567	to	*[11]	Direct Quote[11]	
+18-19	1568-1571	the	*[11]	Direct Quote[11]	
+18-20	1572-1578	amount	*[11]	Direct Quote[11]	
+18-21	1579-1581	in	*[11]	Direct Quote[11]	
+18-22	1582-1593	controversy	*[11]	Direct Quote[11]	
+18-23	1594-1595	,	*[11]	Direct Quote[11]	
+18-24	1596-1598	or	*[11]	Direct Quote[11]	
+18-25	1599-1601	in	*[11]	Direct Quote[11]	
+18-26	1602-1605	any	*[11]	Direct Quote[11]	
+18-27	1606-1611	other	*[11]	Direct Quote[11]	
+18-28	1612-1617	court	*[11]	Direct Quote[11]	
+18-29	1618-1620	of	*[11]	Direct Quote[11]	
+18-30	1621-1630	competent	*[11]	Direct Quote[11]	
+18-31	1631-1643	jurisdiction	*[11]	Direct Quote[11]	
+18-32	1644-1645	,	*[11]	Direct Quote[11]	
+18-33	1646-1652	within	*[11]	Direct Quote[11]	
+18-34	1653-1656	one	*[11]	Direct Quote[11]	
+18-35	1657-1661	year	*[11]	Direct Quote[11]	
+18-36	1662-1666	from	*[11]	Direct Quote[11]	
+18-37	1667-1670	the	*[11]	Direct Quote[11]	
+18-38	1671-1675	date	*[11]	Direct Quote[11]	
+18-39	1676-1678	on	*[11]	Direct Quote[11]	
+18-40	1679-1684	which	*[11]	Direct Quote[11]	
+18-41	1685-1688	the	*[11]	Direct Quote[11]	
+18-42	1689-1698	violation	*[11]	Direct Quote[11]	
+18-43	1699-1705	occurs	*[11]	Direct Quote[11]	
+18-44	1706-1707	.	*[11]	Direct Quote[11]	
+18-45	1708-1709	"	*[11]	Direct Quote[11]	
+
+#Text=§ 1692k(d ) .
+19-1	1710-1711	§	*[12]	Legal Source[12]	
+19-2	1712-1719	1692k(d	*[12]	Legal Source[12]	
+19-3	1720-1721	)	*[12]	Legal Source[12]	
+19-4	1722-1723	.	_	_	
+
+#Text=B
+20-1	1724-1725	B	_	_	
+
+#Text=Petitioner Kevin Rotkiske failed to pay approximately $ 1,200 in credit card debt .
+21-1	1726-1736	Petitioner	_	_	
+21-2	1737-1742	Kevin	_	_	
+21-3	1743-1751	Rotkiske	_	_	
+21-4	1752-1758	failed	_	_	
+21-5	1759-1761	to	_	_	
+21-6	1762-1765	pay	_	_	
+21-7	1766-1779	approximately	_	_	
+21-8	1780-1781	$	_	_	
+21-9	1782-1787	1,200	_	_	
+21-10	1788-1790	in	_	_	
+21-11	1791-1797	credit	_	_	
+21-12	1798-1802	card	_	_	
+21-13	1803-1807	debt	_	_	
+21-14	1808-1809	.	_	_	
+
+#Text=His credit card company referred the debt to respondent Klemm & Associates ( Klemm ) for collection .
+22-1	1810-1813	His	_	_	
+22-2	1814-1820	credit	_	_	
+22-3	1821-1825	card	_	_	
+22-4	1826-1833	company	_	_	
+22-5	1834-1842	referred	_	_	
+22-6	1843-1846	the	_	_	
+22-7	1847-1851	debt	_	_	
+22-8	1852-1854	to	_	_	
+22-9	1855-1865	respondent	_	_	
+22-10	1866-1871	Klemm	_	_	
+22-11	1872-1873	&	_	_	
+22-12	1874-1884	Associates	_	_	
+22-13	1885-1886	(	_	_	
+22-14	1887-1892	Klemm	_	_	
+22-15	1893-1894	)	_	_	
+22-16	1895-1898	for	_	_	
+22-17	1899-1909	collection	_	_	
+22-18	1910-1911	.	_	_	
+
+#Text=In March 2008 , Klemm sued Rotkiske , seeking to collect the unpaid debt .
+23-1	1912-1914	In	_	_	
+23-2	1915-1920	March	_	_	
+23-3	1921-1925	2008	_	_	
+23-4	1926-1927	,	_	_	
+23-5	1928-1933	Klemm	_	_	
+23-6	1934-1938	sued	_	_	
+23-7	1939-1947	Rotkiske	_	_	
+23-8	1948-1949	,	_	_	
+23-9	1950-1957	seeking	_	_	
+23-10	1958-1960	to	_	_	
+23-11	1961-1968	collect	_	_	
+23-12	1969-1972	the	_	_	
+23-13	1973-1979	unpaid	_	_	
+23-14	1980-1984	debt	_	_	
+23-15	1985-1986	.	_	_	
+
+#Text=Klemm attempted service at an address where Rotkiske no longer lived , and a person whose description did not match Rotkiske 's accepted service of the complaint .
+24-1	1987-1992	Klemm	_	_	
+24-2	1993-2002	attempted	_	_	
+24-3	2003-2010	service	_	_	
+24-4	2011-2013	at	_	_	
+24-5	2014-2016	an	_	_	
+24-6	2017-2024	address	_	_	
+24-7	2025-2030	where	_	_	
+24-8	2031-2039	Rotkiske	_	_	
+24-9	2040-2042	no	_	_	
+24-10	2043-2049	longer	_	_	
+24-11	2050-2055	lived	_	_	
+24-12	2056-2057	,	_	_	
+24-13	2058-2061	and	_	_	
+24-14	2062-2063	a	_	_	
+24-15	2064-2070	person	_	_	
+24-16	2071-2076	whose	_	_	
+24-17	2077-2088	description	_	_	
+24-18	2089-2092	did	_	_	
+24-19	2093-2096	not	_	_	
+24-20	2097-2102	match	_	_	
+24-21	2103-2111	Rotkiske	_	_	
+24-22	2112-2114	's	_	_	
+24-23	2115-2123	accepted	_	_	
+24-24	2124-2131	service	_	_	
+24-25	2132-2134	of	_	_	
+24-26	2135-2138	the	_	_	
+24-27	2139-2148	complaint	_	_	
+24-28	2149-2150	.	_	_	
+
+#Text=Klemm later withdrew the suit .
+25-1	2151-2156	Klemm	_	_	
+25-2	2157-2162	later	_	_	
+25-3	2163-2171	withdrew	_	_	
+25-4	2172-2175	the	_	_	
+25-5	2176-2180	suit	_	_	
+25-6	2181-2182	.	_	_	
+
+#Text=Klemm refiled suit in January 2009 , and a process server attempted service at the same address .
+26-1	2183-2188	Klemm	_	_	
+26-2	2189-2196	refiled	_	_	
+26-3	2197-2201	suit	_	_	
+26-4	2202-2204	in	_	_	
+26-5	2205-2212	January	_	_	
+26-6	2213-2217	2009	_	_	
+26-7	2218-2219	,	_	_	
+26-8	2220-2223	and	_	_	
+26-9	2224-2225	a	_	_	
+26-10	2226-2233	process	_	_	
+26-11	2234-2240	server	_	_	
+26-12	2241-2250	attempted	_	_	
+26-13	2251-2258	service	_	_	
+26-14	2259-2261	at	_	_	
+26-15	2262-2265	the	_	_	
+26-16	2266-2270	same	_	_	
+26-17	2271-2278	address	_	_	
+26-18	2279-2280	.	_	_	
+
+#Text=Once again , someone other than Rotkiske accepted service .
+27-1	2281-2285	Once	_	_	
+27-2	2286-2291	again	_	_	
+27-3	2292-2293	,	_	_	
+27-4	2294-2301	someone	_	_	
+27-5	2302-2307	other	_	_	
+27-6	2308-2312	than	_	_	
+27-7	2313-2321	Rotkiske	_	_	
+27-8	2322-2330	accepted	_	_	
+27-9	2331-2338	service	_	_	
+27-10	2339-2340	.	_	_	
+
+#Text=Rotkiske failed to respond to the summons , and Klemm obtained a default judgment .
+28-1	2341-2349	Rotkiske	_	_	
+28-2	2350-2356	failed	_	_	
+28-3	2357-2359	to	_	_	
+28-4	2360-2367	respond	_	_	
+28-5	2368-2370	to	_	_	
+28-6	2371-2374	the	_	_	
+28-7	2375-2382	summons	_	_	
+28-8	2383-2384	,	_	_	
+28-9	2385-2388	and	_	_	
+28-10	2389-2394	Klemm	_	_	
+28-11	2395-2403	obtained	_	_	
+28-12	2404-2405	a	_	_	
+28-13	2406-2413	default	_	_	
+28-14	2414-2422	judgment	_	_	
+28-15	2423-2424	.	_	_	
+
+#Text=Rotkiske claims that he was not aware of Klemm 's 2009 debt - collection lawsuit until September 2014 , when he was denied a mortgage because of the default judgment against him .
+29-1	2425-2433	Rotkiske	_	_	
+29-2	2434-2440	claims	_	_	
+29-3	2441-2445	that	_	_	
+29-4	2446-2448	he	_	_	
+29-5	2449-2452	was	_	_	
+29-6	2453-2456	not	_	_	
+29-7	2457-2462	aware	_	_	
+29-8	2463-2465	of	_	_	
+29-9	2466-2471	Klemm	_	_	
+29-10	2472-2474	's	_	_	
+29-11	2475-2479	2009	_	_	
+29-12	2480-2484	debt	_	_	
+29-13	2485-2486	-	_	_	
+29-14	2487-2497	collection	_	_	
+29-15	2498-2505	lawsuit	_	_	
+29-16	2506-2511	until	_	_	
+29-17	2512-2521	September	_	_	
+29-18	2522-2526	2014	_	_	
+29-19	2527-2528	,	_	_	
+29-20	2529-2533	when	_	_	
+29-21	2534-2536	he	_	_	
+29-22	2537-2540	was	_	_	
+29-23	2541-2547	denied	_	_	
+29-24	2548-2549	a	_	_	
+29-25	2550-2558	mortgage	_	_	
+29-26	2559-2566	because	_	_	
+29-27	2567-2569	of	_	_	
+29-28	2570-2573	the	_	_	
+29-29	2574-2581	default	_	_	
+29-30	2582-2590	judgment	_	_	
+29-31	2591-2598	against	_	_	
+29-32	2599-2602	him	_	_	
+29-33	2603-2604	.	_	_	
+
+#Text=On June 29 , 2015 , more than six years after the default judgment , Rotkiske brought suit against Klemm under the FDCPA .
+30-1	2605-2607	On	_	_	
+30-2	2608-2612	June	_	_	
+30-3	2613-2615	29	_	_	
+30-4	2616-2617	,	_	_	
+30-5	2618-2622	2015	_	_	
+30-6	2623-2624	,	_	_	
+30-7	2625-2629	more	_	_	
+30-8	2630-2634	than	_	_	
+30-9	2635-2638	six	_	_	
+30-10	2639-2644	years	_	_	
+30-11	2645-2650	after	_	_	
+30-12	2651-2654	the	_	_	
+30-13	2655-2662	default	_	_	
+30-14	2663-2671	judgment	_	_	
+30-15	2672-2673	,	_	_	
+30-16	2674-2682	Rotkiske	_	_	
+30-17	2683-2690	brought	_	_	
+30-18	2691-2695	suit	_	_	
+30-19	2696-2703	against	_	_	
+30-20	2704-2709	Klemm	_	_	
+30-21	2710-2715	under	_	_	
+30-22	2716-2719	the	_	_	
+30-23	2720-2725	FDCPA	*	Legal Source	
+30-24	2726-2727	.	_	_	
+
+#Text=Rotkiske 's amended complaint alleged that equitable tolling excused his otherwise untimely filing because Klemm purposely served process in a manner that ensured he would not receive service .
+31-1	2728-2736	Rotkiske	_	_	
+31-2	2737-2739	's	_	_	
+31-3	2740-2747	amended	_	_	
+31-4	2748-2757	complaint	_	_	
+31-5	2758-2765	alleged	_	_	
+31-6	2766-2770	that	_	_	
+31-7	2771-2780	equitable	_	_	
+31-8	2781-2788	tolling	_	_	
+31-9	2789-2796	excused	_	_	
+31-10	2797-2800	his	_	_	
+31-11	2801-2810	otherwise	_	_	
+31-12	2811-2819	untimely	_	_	
+31-13	2820-2826	filing	_	_	
+31-14	2827-2834	because	_	_	
+31-15	2835-2840	Klemm	_	_	
+31-16	2841-2850	purposely	_	_	
+31-17	2851-2857	served	_	_	
+31-18	2858-2865	process	_	_	
+31-19	2866-2868	in	_	_	
+31-20	2869-2870	a	_	_	
+31-21	2871-2877	manner	_	_	
+31-22	2878-2882	that	_	_	
+31-23	2883-2890	ensured	_	_	
+31-24	2891-2893	he	_	_	
+31-25	2894-2899	would	_	_	
+31-26	2900-2903	not	_	_	
+31-27	2904-2911	receive	_	_	
+31-28	2912-2919	service	_	_	
+31-29	2920-2921	.	_	_	
+
+#Text=The sole FDCPA claim in the complaint asserted that Klemm commenced the 2009 debt - collection lawsuit after the state - law limitations period expired and therefore " violated the FDCPA by contacting [ Rotkiske ] without lawful ability to collect . "
+32-1	2922-2925	The	_	_	
+32-2	2926-2930	sole	_	_	
+32-3	2931-2936	FDCPA	_	_	
+32-4	2937-2942	claim	_	_	
+32-5	2943-2945	in	_	_	
+32-6	2946-2949	the	_	_	
+32-7	2950-2959	complaint	_	_	
+32-8	2960-2968	asserted	_	_	
+32-9	2969-2973	that	_	_	
+32-10	2974-2979	Klemm	_	_	
+32-11	2980-2989	commenced	_	_	
+32-12	2990-2993	the	_	_	
+32-13	2994-2998	2009	_	_	
+32-14	2999-3003	debt	_	_	
+32-15	3004-3005	-	_	_	
+32-16	3006-3016	collection	_	_	
+32-17	3017-3024	lawsuit	_	_	
+32-18	3025-3030	after	_	_	
+32-19	3031-3034	the	_	_	
+32-20	3035-3040	state	_	_	
+32-21	3041-3042	-	_	_	
+32-22	3043-3046	law	_	_	
+32-23	3047-3058	limitations	_	_	
+32-24	3059-3065	period	_	_	
+32-25	3066-3073	expired	_	_	
+32-26	3074-3077	and	_	_	
+32-27	3078-3087	therefore	_	_	
+32-28	3088-3089	"	_	_	
+32-29	3090-3098	violated	_	_	
+32-30	3099-3102	the	_	_	
+32-31	3103-3108	FDCPA	_	_	
+32-32	3109-3111	by	_	_	
+32-33	3112-3122	contacting	_	_	
+32-34	3123-3124	[	_	_	
+32-35	3125-3133	Rotkiske	_	_	
+32-36	3134-3135	]	_	_	
+32-37	3136-3143	without	_	_	
+32-38	3144-3150	lawful	_	_	
+32-39	3151-3158	ability	_	_	
+32-40	3159-3161	to	_	_	
+32-41	3162-3169	collect	_	_	
+32-42	3170-3171	.	_	_	
+32-43	3172-3173	"	_	_	
+
+#Text=First Amended Complaint in No . 2:15 - cv-03638 ( ED Pa. ) , Doc . 15 , p. 4 .
+33-1	3174-3179	First	*[13]	Legal Source[13]	
+33-2	3180-3187	Amended	*[13]	Legal Source[13]	
+33-3	3188-3197	Complaint	*[13]	Legal Source[13]	
+33-4	3198-3200	in	*[13]	Legal Source[13]	
+33-5	3201-3203	No	*[13]	Legal Source[13]	
+33-6	3204-3205	.	*[13]	Legal Source[13]	
+33-7	3206-3210	2:15	*[13]	Legal Source[13]	
+33-8	3211-3212	-	*[13]	Legal Source[13]	
+33-9	3213-3221	cv-03638	*[13]	Legal Source[13]	
+33-10	3222-3223	(	*[13]	Legal Source[13]	
+33-11	3224-3226	ED	*[13]	Legal Source[13]	
+33-12	3227-3230	Pa.	*[13]	Legal Source[13]	
+33-13	3231-3232	)	*[13]	Legal Source[13]	
+33-14	3233-3234	,	*[13]	Legal Source[13]	
+33-15	3235-3238	Doc	*[13]	Legal Source[13]	
+33-16	3239-3240	.	*[13]	Legal Source[13]	
+33-17	3241-3243	15	*[13]	Legal Source[13]	
+33-18	3244-3245	,	*[13]	Legal Source[13]	
+33-19	3246-3248	p.	*[13]	Legal Source[13]	
+33-20	3249-3250	4	*[13]	Legal Source[13]	
+33-21	3251-3252	.	_	_	
+
+#Text=Klemm moved to dismiss the action as barred by the FDCPA 's one - year statute of limitations , 15 U.S.C. § 1692k(d ) .
+34-1	3253-3258	Klemm	_	_	
+34-2	3259-3264	moved	_	_	
+34-3	3265-3267	to	_	_	
+34-4	3268-3275	dismiss	_	_	
+34-5	3276-3279	the	_	_	
+34-6	3280-3286	action	_	_	
+34-7	3287-3289	as	_	_	
+34-8	3290-3296	barred	_	_	
+34-9	3297-3299	by	_	_	
+34-10	3300-3303	the	_	_	
+34-11	3304-3309	FDCPA	*	Legal Source	
+34-12	3310-3312	's	_	_	
+34-13	3313-3316	one	_	_	
+34-14	3317-3318	-	_	_	
+34-15	3319-3323	year	_	_	
+34-16	3324-3331	statute	_	_	
+34-17	3332-3334	of	_	_	
+34-18	3335-3346	limitations	_	_	
+34-19	3347-3348	,	_	_	
+34-20	3349-3351	15	*[14]	Legal Source[14]	
+34-21	3352-3358	U.S.C.	*[14]	Legal Source[14]	
+34-22	3359-3360	§	*[14]	Legal Source[14]	
+34-23	3361-3368	1692k(d	*[14]	Legal Source[14]	
+34-24	3369-3370	)	*[14]	Legal Source[14]	
+34-25	3371-3372	.	_	_	
+
+#Text=Rotkiske argued that the court should apply a " discovery rule " to delay the beginning of the limitations period until the date he knew or should have known of the alleged FDCPA violation .
+35-1	3373-3381	Rotkiske	_	_	
+35-2	3382-3388	argued	_	_	
+35-3	3389-3393	that	_	_	
+35-4	3394-3397	the	_	_	
+35-5	3398-3403	court	_	_	
+35-6	3404-3410	should	_	_	
+35-7	3411-3416	apply	_	_	
+35-8	3417-3418	a	_	_	
+35-9	3419-3420	"	*[15]	Direct Quote[15]	
+35-10	3421-3430	discovery	*[15]	Direct Quote[15]	
+35-11	3431-3435	rule	*[15]	Direct Quote[15]	
+35-12	3436-3437	"	*[15]	Direct Quote[15]	
+35-13	3438-3440	to	_	_	
+35-14	3441-3446	delay	_	_	
+35-15	3447-3450	the	_	_	
+35-16	3451-3460	beginning	_	_	
+35-17	3461-3463	of	_	_	
+35-18	3464-3467	the	_	_	
+35-19	3468-3479	limitations	_	_	
+35-20	3480-3486	period	_	_	
+35-21	3487-3492	until	_	_	
+35-22	3493-3496	the	_	_	
+35-23	3497-3501	date	_	_	
+35-24	3502-3504	he	_	_	
+35-25	3505-3509	knew	_	_	
+35-26	3510-3512	or	_	_	
+35-27	3513-3519	should	_	_	
+35-28	3520-3524	have	_	_	
+35-29	3525-3530	known	_	_	
+35-30	3531-3533	of	_	_	
+35-31	3534-3537	the	_	_	
+35-32	3538-3545	alleged	_	_	
+35-33	3546-3551	FDCPA	_	_	
+35-34	3552-3561	violation	_	_	
+35-35	3562-3563	.	_	_	
+
+#Text=To support this contention , Rotkiske relied on the Ninth Circuit 's decision in Mangum v. Action Collection Serv . , Inc. , 575 F.3d 935 ( 2009 ) .
+36-1	3564-3566	To	_	_	
+36-2	3567-3574	support	_	_	
+36-3	3575-3579	this	_	_	
+36-4	3580-3590	contention	_	_	
+36-5	3591-3592	,	_	_	
+36-6	3593-3601	Rotkiske	_	_	
+36-7	3602-3608	relied	_	_	
+36-8	3609-3611	on	_	_	
+36-9	3612-3615	the	_	_	
+36-10	3616-3621	Ninth	_	_	
+36-11	3622-3629	Circuit	_	_	
+36-12	3630-3632	's	_	_	
+36-13	3633-3641	decision	_	_	
+36-14	3642-3644	in	_	_	
+36-15	3645-3651	Mangum	*[16]	Legal Source[16]	
+36-16	3652-3654	v.	*[16]	Legal Source[16]	
+36-17	3655-3661	Action	*[16]	Legal Source[16]	
+36-18	3662-3672	Collection	*[16]	Legal Source[16]	
+36-19	3673-3677	Serv	*[16]	Legal Source[16]	
+36-20	3678-3679	.	*[16]	Legal Source[16]	
+36-21	3680-3681	,	*[16]	Legal Source[16]	
+36-22	3682-3686	Inc.	*[16]	Legal Source[16]	
+36-23	3687-3688	,	*[16]	Legal Source[16]	
+36-24	3689-3692	575	*[16]	Legal Source[16]	
+36-25	3693-3697	F.3d	*[16]	Legal Source[16]	
+36-26	3698-3701	935	*[16]	Legal Source[16]	
+36-27	3702-3703	(	*[16]	Legal Source[16]	
+36-28	3704-3708	2009	*[16]	Legal Source[16]	
+36-29	3709-3710	)	*[16]	Legal Source[16]	
+36-30	3711-3712	.	_	_	
+
+#Text=That case held that , under the " discovery rule , " limitations periods in federal litigation generally begin to run when plaintiffs know or have reason to know of their injury .
+37-1	3713-3717	That	_	_	
+37-2	3718-3722	case	_	_	
+37-3	3723-3727	held	_	_	
+37-4	3728-3732	that	_	_	
+37-5	3733-3734	,	_	_	
+37-6	3735-3740	under	_	_	
+37-7	3741-3744	the	_	_	
+37-8	3745-3746	"	*[17]	Direct Quote[17]	
+37-9	3747-3756	discovery	*[17]	Direct Quote[17]	
+37-10	3757-3761	rule	*[17]	Direct Quote[17]	
+37-11	3762-3763	,	*[17]	Direct Quote[17]	
+37-12	3764-3765	"	*[17]	Direct Quote[17]	
+37-13	3766-3777	limitations	_	_	
+37-14	3778-3785	periods	_	_	
+37-15	3786-3788	in	_	_	
+37-16	3789-3796	federal	_	_	
+37-17	3797-3807	litigation	_	_	
+37-18	3808-3817	generally	_	_	
+37-19	3818-3823	begin	_	_	
+37-20	3824-3826	to	_	_	
+37-21	3827-3830	run	_	_	
+37-22	3831-3835	when	_	_	
+37-23	3836-3846	plaintiffs	_	_	
+37-24	3847-3851	know	_	_	
+37-25	3852-3854	or	_	_	
+37-26	3855-3859	have	_	_	
+37-27	3860-3866	reason	_	_	
+37-28	3867-3869	to	_	_	
+37-29	3870-3874	know	_	_	
+37-30	3875-3877	of	_	_	
+37-31	3878-3883	their	_	_	
+37-32	3884-3890	injury	_	_	
+37-33	3891-3892	.	_	_	
+
+#Text=Id. , at 940 - 941 .
+38-1	3893-3896	Id.	*[18]	Legal Source[18]	
+38-2	3897-3898	,	*[18]	Legal Source[18]	
+38-3	3899-3901	at	*[18]	Legal Source[18]	
+38-4	3902-3905	940	*[18]	Legal Source[18]	
+38-5	3906-3907	-	*[18]	Legal Source[18]	
+38-6	3908-3911	941	*[18]	Legal Source[18]	
+38-7	3912-3913	.	_	_	
+
+#Text=The District Court dismissed the action .
+39-1	3914-3917	The	_	_	
+39-2	3918-3926	District	_	_	
+39-3	3927-3932	Court	_	_	
+39-4	3933-3942	dismissed	_	_	
+39-5	3943-3946	the	_	_	
+39-6	3947-3953	action	_	_	
+39-7	3954-3955	.	_	_	
+
+#Text=It held that the Ninth Circuit 's general rule does not apply to § 1692k(d ) , relying on the statute 's plain language .
+40-1	3956-3958	It	_	_	
+40-2	3959-3963	held	_	_	
+40-3	3964-3968	that	_	_	
+40-4	3969-3972	the	_	_	
+40-5	3973-3978	Ninth	_	_	
+40-6	3979-3986	Circuit	_	_	
+40-7	3987-3989	's	_	_	
+40-8	3990-3997	general	_	_	
+40-9	3998-4002	rule	_	_	
+40-10	4003-4007	does	_	_	
+40-11	4008-4011	not	_	_	
+40-12	4012-4017	apply	_	_	
+40-13	4018-4020	to	_	_	
+40-14	4021-4022	§	*[19]	Legal Source[19]	
+40-15	4023-4030	1692k(d	*[19]	Legal Source[19]	
+40-16	4031-4032	)	*[19]	Legal Source[19]	
+40-17	4033-4034	,	_	_	
+40-18	4035-4042	relying	_	_	
+40-19	4043-4045	on	_	_	
+40-20	4046-4049	the	_	_	
+40-21	4050-4057	statute	_	_	
+40-22	4058-4060	's	_	_	
+40-23	4061-4066	plain	*[20]	Metalinguistic Cue[20]	
+40-24	4067-4075	language	*[20]	Metalinguistic Cue[20]	
+40-25	4076-4077	.	_	_	
+
+#Text=The court also concluded that Rotkiske was not entitled to equitable tolling because , even accepting the truth of the allegations in the complaint , he was not misled by Klemm 's conduct .
+41-1	4078-4081	The	_	_	
+41-2	4082-4087	court	_	_	
+41-3	4088-4092	also	_	_	
+41-4	4093-4102	concluded	_	_	
+41-5	4103-4107	that	_	_	
+41-6	4108-4116	Rotkiske	_	_	
+41-7	4117-4120	was	_	_	
+41-8	4121-4124	not	_	_	
+41-9	4125-4133	entitled	_	_	
+41-10	4134-4136	to	_	_	
+41-11	4137-4146	equitable	_	_	
+41-12	4147-4154	tolling	_	_	
+41-13	4155-4162	because	_	_	
+41-14	4163-4164	,	_	_	
+41-15	4165-4169	even	_	_	
+41-16	4170-4179	accepting	_	_	
+41-17	4180-4183	the	_	_	
+41-18	4184-4189	truth	_	_	
+41-19	4190-4192	of	_	_	
+41-20	4193-4196	the	_	_	
+41-21	4197-4208	allegations	_	_	
+41-22	4209-4211	in	_	_	
+41-23	4212-4215	the	_	_	
+41-24	4216-4225	complaint	_	_	
+41-25	4226-4227	,	_	_	
+41-26	4228-4230	he	_	_	
+41-27	4231-4234	was	_	_	
+41-28	4235-4238	not	_	_	
+41-29	4239-4245	misled	_	_	
+41-30	4246-4248	by	_	_	
+41-31	4249-4254	Klemm	_	_	
+41-32	4255-4257	's	_	_	
+41-33	4258-4265	conduct	_	_	
+41-34	4266-4267	.	_	_	
+
+#Text=On appeal , the Third Circuit sua sponte reviewed the case en banc and unanimously affirmed .
+42-1	4268-4270	On	_	_	
+42-2	4271-4277	appeal	_	_	
+42-3	4278-4279	,	_	_	
+42-4	4280-4283	the	_	_	
+42-5	4284-4289	Third	_	_	
+42-6	4290-4297	Circuit	_	_	
+42-7	4298-4301	sua	_	_	
+42-8	4302-4308	sponte	_	_	
+42-9	4309-4317	reviewed	_	_	
+42-10	4318-4321	the	_	_	
+42-11	4322-4326	case	_	_	
+42-12	4327-4329	en	_	_	
+42-13	4330-4334	banc	_	_	
+42-14	4335-4338	and	_	_	
+42-15	4339-4350	unanimously	_	_	
+42-16	4351-4359	affirmed	_	_	
+42-17	4360-4361	.	_	_	
+
+#Text=890 F.3d 422 ( 2018 ) .
+43-1	4362-4365	890	*[21]	Legal Source[21]	
+43-2	4366-4370	F.3d	*[21]	Legal Source[21]	
+43-3	4371-4374	422	*[21]	Legal Source[21]	
+43-4	4375-4376	(	*[21]	Legal Source[21]	
+43-5	4377-4381	2018	*[21]	Legal Source[21]	
+43-6	4382-4383	)	*[21]	Legal Source[21]	
+43-7	4384-4385	.	_	_	
+
+#Text=The court held that , under the text of § 1692k(d ) , the FDCPA 's one - year limitations period runs from the " date on which the violation occurs , " not the date a potential plaintiff discovers or should have discovered the violation .
+44-1	4386-4389	The	_	_	
+44-2	4390-4395	court	_	_	
+44-3	4396-4400	held	_	_	
+44-4	4401-4405	that	_	_	
+44-5	4406-4407	,	_	_	
+44-6	4408-4413	under	_	_	
+44-7	4414-4417	the	_	_	
+44-8	4418-4422	text	*	Metalinguistic Cue	
+44-9	4423-4425	of	_	_	
+44-10	4426-4427	§	*[22]	Legal Source[22]	
+44-11	4428-4435	1692k(d	*[22]	Legal Source[22]	
+44-12	4436-4437	)	*[22]	Legal Source[22]	
+44-13	4438-4439	,	_	_	
+44-14	4440-4443	the	_	_	
+44-15	4444-4449	FDCPA	*	Legal Source	
+44-16	4450-4452	's	_	_	
+44-17	4453-4456	one	_	_	
+44-18	4457-4458	-	_	_	
+44-19	4459-4463	year	_	_	
+44-20	4464-4475	limitations	_	_	
+44-21	4476-4482	period	_	_	
+44-22	4483-4487	runs	_	_	
+44-23	4488-4492	from	_	_	
+44-24	4493-4496	the	_	_	
+44-25	4497-4498	"	*[23]	Direct Quote[23]	
+44-26	4499-4503	date	*[23]	Direct Quote[23]	
+44-27	4504-4506	on	*[23]	Direct Quote[23]	
+44-28	4507-4512	which	*[23]	Direct Quote[23]	
+44-29	4513-4516	the	*[23]	Direct Quote[23]	
+44-30	4517-4526	violation	*[23]	Direct Quote[23]	
+44-31	4527-4533	occurs	*[23]	Direct Quote[23]	
+44-32	4534-4535	,	*[23]	Direct Quote[23]	
+44-33	4536-4537	"	*[23]	Direct Quote[23]	
+44-34	4538-4541	not	_	_	
+44-35	4542-4545	the	_	_	
+44-36	4546-4550	date	_	_	
+44-37	4551-4552	a	_	_	
+44-38	4553-4562	potential	_	_	
+44-39	4563-4572	plaintiff	_	_	
+44-40	4573-4582	discovers	_	_	
+44-41	4583-4585	or	_	_	
+44-42	4586-4592	should	_	_	
+44-43	4593-4597	have	_	_	
+44-44	4598-4608	discovered	_	_	
+44-45	4609-4612	the	_	_	
+44-46	4613-4622	violation	_	_	
+44-47	4623-4624	.	_	_	
+
+#Text=Id. , at 425 - 426 .
+45-1	4625-4628	Id.	*[24]	Legal Source[24]	
+45-2	4629-4630	,	*[24]	Legal Source[24]	
+45-3	4631-4633	at	*[24]	Legal Source[24]	
+45-4	4634-4637	425	*[24]	Legal Source[24]	
+45-5	4638-4639	-	*[24]	Legal Source[24]	
+45-6	4640-4643	426	*[24]	Legal Source[24]	
+45-7	4644-4645	.	_	_	
+
+#Text=The court expressly rejected the Ninth Circuit 's approach , stating that there is no default presumption that all federal limitations periods run from the date of discovery .
+46-1	4646-4649	The	_	_	
+46-2	4650-4655	court	_	_	
+46-3	4656-4665	expressly	_	_	
+46-4	4666-4674	rejected	_	_	
+46-5	4675-4678	the	_	_	
+46-6	4679-4684	Ninth	_	_	
+46-7	4685-4692	Circuit	_	_	
+46-8	4693-4695	's	_	_	
+46-9	4696-4704	approach	_	_	
+46-10	4705-4706	,	_	_	
+46-11	4707-4714	stating	_	_	
+46-12	4715-4719	that	_	_	
+46-13	4720-4725	there	_	_	
+46-14	4726-4728	is	_	_	
+46-15	4729-4731	no	_	_	
+46-16	4732-4739	default	_	_	
+46-17	4740-4751	presumption	_	_	
+46-18	4752-4756	that	_	_	
+46-19	4757-4760	all	_	_	
+46-20	4761-4768	federal	_	_	
+46-21	4769-4780	limitations	_	_	
+46-22	4781-4788	periods	_	_	
+46-23	4789-4792	run	_	_	
+46-24	4793-4797	from	_	_	
+46-25	4798-4801	the	_	_	
+46-26	4802-4806	date	_	_	
+46-27	4807-4809	of	_	_	
+46-28	4810-4819	discovery	_	_	
+46-29	4820-4821	.	_	_	
+
+#Text=Id. , at 427 .
+47-1	4822-4825	Id.	*[25]	Legal Source[25]	
+47-2	4826-4827	,	*[25]	Legal Source[25]	
+47-3	4828-4830	at	*[25]	Legal Source[25]	
+47-4	4831-4834	427	*[25]	Legal Source[25]	
+47-5	4835-4836	.	_	_	
+
+#Text=Rotkiske failed to raise the application of equitable doctrines on appeal , so the court did not address that issue .
+48-1	4837-4845	Rotkiske	_	_	
+48-2	4846-4852	failed	_	_	
+48-3	4853-4855	to	_	_	
+48-4	4856-4861	raise	_	_	
+48-5	4862-4865	the	_	_	
+48-6	4866-4877	application	_	_	
+48-7	4878-4880	of	_	_	
+48-8	4881-4890	equitable	_	_	
+48-9	4891-4900	doctrines	_	_	
+48-10	4901-4903	on	_	_	
+48-11	4904-4910	appeal	_	_	
+48-12	4911-4912	,	_	_	
+48-13	4913-4915	so	_	_	
+48-14	4916-4919	the	_	_	
+48-15	4920-4925	court	_	_	
+48-16	4926-4929	did	_	_	
+48-17	4930-4933	not	_	_	
+48-18	4934-4941	address	_	_	
+48-19	4942-4946	that	_	_	
+48-20	4947-4952	issue	_	_	
+48-21	4953-4954	.	_	_	
+
+#Text=Id. , at 428 - 429 .
+49-1	4955-4958	Id.	*[26]	Legal Source[26]	
+49-2	4959-4960	,	*[26]	Legal Source[26]	
+49-3	4961-4963	at	*[26]	Legal Source[26]	
+49-4	4964-4967	428	*[26]	Legal Source[26]	
+49-5	4968-4969	-	*[26]	Legal Source[26]	
+49-6	4970-4973	429	*[26]	Legal Source[26]	
+49-7	4974-4975	.	_	_	
+
+#Text=Given the conflict between the Courts of Appeals , see i d. , at 427 , we granted certiorari .
+50-1	4976-4981	Given	_	_	
+50-2	4982-4985	the	_	_	
+50-3	4986-4994	conflict	_	_	
+50-4	4995-5002	between	_	_	
+50-5	5003-5006	the	_	_	
+50-6	5007-5013	Courts	_	_	
+50-7	5014-5016	of	_	_	
+50-8	5017-5024	Appeals	_	_	
+50-9	5025-5026	,	_	_	
+50-10	5027-5030	see	_	_	
+50-11	5031-5032	i	*[27]	Legal Source[27]	
+50-12	5033-5035	d.	*[27]	Legal Source[27]	
+50-13	5036-5037	,	*[27]	Legal Source[27]	
+50-14	5038-5040	at	*[27]	Legal Source[27]	
+50-15	5041-5044	427	*[27]	Legal Source[27]	
+50-16	5045-5046	,	_	_	
+50-17	5047-5049	we	_	_	
+50-18	5050-5057	granted	_	_	
+50-19	5058-5068	certiorari	_	_	
+50-20	5069-5070	.	_	_	
+
+#Text=586 U.S. ---- , 140 S.Ct . 355 , --- L.Ed.2d ---- , 2019 WL 6703563 ( 2019 ) .
+51-1	5071-5074	586	*[28]	Legal Source[28]	
+51-2	5075-5079	U.S.	*[28]	Legal Source[28]	
+51-3	5080-5084	----	*[28]	Legal Source[28]	
+51-4	5085-5086	,	*[28]	Legal Source[28]	
+51-5	5087-5090	140	*[28]	Legal Source[28]	
+51-6	5091-5095	S.Ct	*[28]	Legal Source[28]	
+51-7	5096-5097	.	*[28]	Legal Source[28]	
+51-8	5098-5101	355	*[28]	Legal Source[28]	
+51-9	5102-5103	,	*[28]	Legal Source[28]	
+51-10	5104-5107	---	*[28]	Legal Source[28]	
+51-11	5108-5115	L.Ed.2d	*[28]	Legal Source[28]	
+51-12	5116-5120	----	*[28]	Legal Source[28]	
+51-13	5121-5122	,	*[28]	Legal Source[28]	
+51-14	5123-5127	2019	*[28]	Legal Source[28]	
+51-15	5128-5130	WL	*[28]	Legal Source[28]	
+51-16	5131-5138	6703563	*[28]	Legal Source[28]	
+51-17	5139-5140	(	*[28]	Legal Source[28]	
+51-18	5141-5145	2019	*[28]	Legal Source[28]	
+51-19	5146-5147	)	*[28]	Legal Source[28]	
+51-20	5148-5149	.	_	_	
+
+#Text=II
+52-1	5150-5152	II	_	_	
+
+#Text=The question before us is whether the " discovery rule " applies to the FDCPA 's limitations period .
+53-1	5153-5156	The	_	_	
+53-2	5157-5165	question	_	_	
+53-3	5166-5172	before	_	_	
+53-4	5173-5175	us	_	_	
+53-5	5176-5178	is	_	_	
+53-6	5179-5186	whether	_	_	
+53-7	5187-5190	the	_	_	
+53-8	5191-5192	"	*[29]	Direct Quote[29]	
+53-9	5193-5202	discovery	*[29]	Direct Quote[29]	
+53-10	5203-5207	rule	*[29]	Direct Quote[29]	
+53-11	5208-5209	"	*[29]	Direct Quote[29]	
+53-12	5210-5217	applies	_	_	
+53-13	5218-5220	to	_	_	
+53-14	5221-5224	the	_	_	
+53-15	5225-5230	FDCPA	*	Legal Source	
+53-16	5231-5233	's	_	_	
+53-17	5234-5245	limitations	_	_	
+53-18	5246-5252	period	_	_	
+53-19	5253-5254	.	_	_	
+
+#Text=The phrase " discovery rule , " however , has no generally accepted meaning .
+54-1	5255-5258	The	_	_	
+54-2	5259-5265	phrase	*	Metalinguistic Cue	
+54-3	5266-5267	"	*[30]	Direct Quote[30]	
+54-4	5268-5277	discovery	*[30]|*[31]	Direct Quote[30]|Focal Term[31]	
+54-5	5278-5282	rule	*[30]|*[31]	Direct Quote[30]|Focal Term[31]	
+54-6	5283-5284	,	*[30]	Direct Quote[30]	
+54-7	5285-5286	"	*[30]	Direct Quote[30]	
+54-8	5287-5294	however	_	_	
+54-9	5295-5296	,	_	_	
+54-10	5297-5300	has	_	_	
+54-11	5301-5303	no	_	_	
+54-12	5304-5313	generally	*[32]	Metalinguistic Cue[32]	
+54-13	5314-5322	accepted	*[32]	Metalinguistic Cue[32]	
+54-14	5323-5330	meaning	*[32]	Metalinguistic Cue[32]	
+54-15	5331-5332	.	_	_	
+
+#Text=Rotkiske 's arguments invoking the discovery rule implicate two distinct concepts - the application of a general discovery rule as a principle of statutory interpretation and the application of a fraud - specific discovery rule as an equitable doctrine .
+55-1	5333-5341	Rotkiske	_	_	
+55-2	5342-5344	's	_	_	
+55-3	5345-5354	arguments	_	_	
+55-4	5355-5363	invoking	_	_	
+55-5	5364-5367	the	_	_	
+55-6	5368-5377	discovery	_	_	
+55-7	5378-5382	rule	_	_	
+55-8	5383-5392	implicate	_	_	
+55-9	5393-5396	two	_	_	
+55-10	5397-5405	distinct	_	_	
+55-11	5406-5414	concepts	_	_	
+55-12	5415-5416	-	_	_	
+55-13	5417-5420	the	_	_	
+55-14	5421-5432	application	_	_	
+55-15	5433-5435	of	_	_	
+55-16	5436-5437	a	_	_	
+55-17	5438-5445	general	_	_	
+55-18	5446-5455	discovery	_	_	
+55-19	5456-5460	rule	_	_	
+55-20	5461-5463	as	_	_	
+55-21	5464-5465	a	_	_	
+55-22	5466-5475	principle	_	_	
+55-23	5476-5478	of	_	_	
+55-24	5479-5488	statutory	_	_	
+55-25	5489-5503	interpretation	_	_	
+55-26	5504-5507	and	_	_	
+55-27	5508-5511	the	_	_	
+55-28	5512-5523	application	_	_	
+55-29	5524-5526	of	_	_	
+55-30	5527-5528	a	_	_	
+55-31	5529-5534	fraud	_	_	
+55-32	5535-5536	-	_	_	
+55-33	5537-5545	specific	_	_	
+55-34	5546-5555	discovery	_	_	
+55-35	5556-5560	rule	_	_	
+55-36	5561-5563	as	_	_	
+55-37	5564-5566	an	_	_	
+55-38	5567-5576	equitable	_	_	
+55-39	5577-5585	doctrine	_	_	
+55-40	5586-5587	.	_	_	
+
+#Text=We address each in turn .
+56-1	5588-5590	We	_	_	
+56-2	5591-5598	address	_	_	
+56-3	5599-5603	each	_	_	
+56-4	5604-5606	in	_	_	
+56-5	5607-5611	turn	_	_	
+56-6	5612-5613	.	_	_	
+
+#Text=A
+57-1	5614-5615	A	_	_	
+
+#Text=When interpreting limitations provisions , as always , " we begin by analyzing the statutory language . "
+58-1	5616-5620	When	*[33]	Appeal to Meaning[33]	
+58-2	5621-5633	interpreting	*[33]|*[34]	Appeal to Meaning[33]|Metalinguistic Cue[34]	
+58-3	5634-5645	limitations	*[33]	Appeal to Meaning[33]	
+58-4	5646-5656	provisions	*[33]	Appeal to Meaning[33]	
+58-5	5657-5658	,	*[33]	Appeal to Meaning[33]	
+58-6	5659-5661	as	*[33]	Appeal to Meaning[33]	
+58-7	5662-5668	always	*[33]	Appeal to Meaning[33]	
+58-8	5669-5670	,	*[33]	Appeal to Meaning[33]	
+58-9	5671-5672	"	*[33]|*[35]	Appeal to Meaning[33]|Direct Quote[35]	
+58-10	5673-5675	we	*[33]|*[35]	Appeal to Meaning[33]|Direct Quote[35]	
+58-11	5676-5681	begin	*[33]|*[35]	Appeal to Meaning[33]|Direct Quote[35]	
+58-12	5682-5684	by	*[33]|*[35]	Appeal to Meaning[33]|Direct Quote[35]	
+58-13	5685-5694	analyzing	*[33]|*[35]	Appeal to Meaning[33]|Direct Quote[35]	
+58-14	5695-5698	the	*[33]|*[35]	Appeal to Meaning[33]|Direct Quote[35]	
+58-15	5699-5708	statutory	*[33]|*[35]|*[36]	Appeal to Meaning[33]|Direct Quote[35]|Metalinguistic Cue[36]	
+58-16	5709-5717	language	*[33]|*[35]|*[36]	Appeal to Meaning[33]|Direct Quote[35]|Metalinguistic Cue[36]	
+58-17	5718-5719	.	*[35]	Direct Quote[35]	
+58-18	5720-5721	"	*[35]	Direct Quote[35]	
+
+#Text=Hardt v. Reliance Standard Life Ins . Co. , 560 U.S. 242 , 251 , 130 S.Ct . 2149 , 176 L.Ed.2d 998 ( 2010 ) .
+59-1	5722-5727	Hardt	*[37]	Legal Source[37]	
+59-2	5728-5730	v.	*[37]	Legal Source[37]	
+59-3	5731-5739	Reliance	*[37]	Legal Source[37]	
+59-4	5740-5748	Standard	*[37]	Legal Source[37]	
+59-5	5749-5753	Life	*[37]	Legal Source[37]	
+59-6	5754-5757	Ins	*[37]	Legal Source[37]	
+59-7	5758-5759	.	*[37]	Legal Source[37]	
+59-8	5760-5763	Co.	*[37]	Legal Source[37]	
+59-9	5764-5765	,	*[37]	Legal Source[37]	
+59-10	5766-5769	560	*[37]	Legal Source[37]	
+59-11	5770-5774	U.S.	*[37]	Legal Source[37]	
+59-12	5775-5778	242	*[37]	Legal Source[37]	
+59-13	5779-5780	,	*[37]	Legal Source[37]	
+59-14	5781-5784	251	*[37]	Legal Source[37]	
+59-15	5785-5786	,	*[37]	Legal Source[37]	
+59-16	5787-5790	130	*[37]	Legal Source[37]	
+59-17	5791-5795	S.Ct	*[37]	Legal Source[37]	
+59-18	5796-5797	.	*[37]	Legal Source[37]	
+59-19	5798-5802	2149	*[37]	Legal Source[37]	
+59-20	5803-5804	,	*[37]	Legal Source[37]	
+59-21	5805-5808	176	*[37]	Legal Source[37]	
+59-22	5809-5816	L.Ed.2d	*[37]	Legal Source[37]	
+59-23	5817-5820	998	*[37]	Legal Source[37]	
+59-24	5821-5822	(	*[37]	Legal Source[37]	
+59-25	5823-5827	2010	*[37]	Legal Source[37]	
+59-26	5828-5829	)	*[37]	Legal Source[37]	
+59-27	5830-5831	.	_	_	
+
+#Text=If the words of a statute are unambiguous , this first step of the interpretive inquiry is our last .
+60-1	5832-5834	If	_	_	
+60-2	5835-5838	the	_	_	
+60-3	5839-5844	words	*	Metalinguistic Cue	
+60-4	5845-5847	of	_	_	
+60-5	5848-5849	a	_	_	
+60-6	5850-5857	statute	_	_	
+60-7	5858-5861	are	_	_	
+60-8	5862-5873	unambiguous	*	Metalinguistic Cue	
+60-9	5874-5875	,	_	_	
+60-10	5876-5880	this	_	_	
+60-11	5881-5886	first	_	_	
+60-12	5887-5891	step	_	_	
+60-13	5892-5894	of	_	_	
+60-14	5895-5898	the	_	_	
+60-15	5899-5911	interpretive	*	Metalinguistic Cue	
+60-16	5912-5919	inquiry	_	_	
+60-17	5920-5922	is	_	_	
+60-18	5923-5926	our	_	_	
+60-19	5927-5931	last	_	_	
+60-20	5932-5933	.	_	_	
+
+#Text=Connecticut Nat . Bank v. Germain , 503 U.S. 249 , 254 , 112 S.Ct . 1146 , 117 L.Ed.2d 391 ( 1992 ) .
+61-1	5934-5945	Connecticut	*[38]	Legal Source[38]	
+61-2	5946-5949	Nat	*[38]	Legal Source[38]	
+61-3	5950-5951	.	*[38]	Legal Source[38]	
+61-4	5952-5956	Bank	*[38]	Legal Source[38]	
+61-5	5957-5959	v.	*[38]	Legal Source[38]	
+61-6	5960-5967	Germain	*[38]	Legal Source[38]	
+61-7	5968-5969	,	*[38]	Legal Source[38]	
+61-8	5970-5973	503	*[38]	Legal Source[38]	
+61-9	5974-5978	U.S.	*[38]	Legal Source[38]	
+61-10	5979-5982	249	*[38]	Legal Source[38]	
+61-11	5983-5984	,	*[38]	Legal Source[38]	
+61-12	5985-5988	254	*[38]	Legal Source[38]	
+61-13	5989-5990	,	*[38]	Legal Source[38]	
+61-14	5991-5994	112	*[38]	Legal Source[38]	
+61-15	5995-5999	S.Ct	*[38]	Legal Source[38]	
+61-16	6000-6001	.	*[38]	Legal Source[38]	
+61-17	6002-6006	1146	*[38]	Legal Source[38]	
+61-18	6007-6008	,	*[38]	Legal Source[38]	
+61-19	6009-6012	117	*[38]	Legal Source[38]	
+61-20	6013-6020	L.Ed.2d	*[38]	Legal Source[38]	
+61-21	6021-6024	391	*[38]	Legal Source[38]	
+61-22	6025-6026	(	*[38]	Legal Source[38]	
+61-23	6027-6031	1992	*[38]	Legal Source[38]	
+61-24	6032-6033	)	*[38]	Legal Source[38]	
+61-25	6034-6035	.	_	_	
+
+#Text=If " there are two plausible constructions of a statute of limitations , " we generally " adopt the construction that starts the time limit running when the cause of action ... accrues " because " Congress legislates against the ' standard rule that the limitations period commences when the plaintiff has a complete and present cause of action . ' "
+62-1	6036-6038	If	_	_	
+62-2	6039-6040	"	*[39]	Direct Quote[39]	
+62-3	6041-6046	there	*[39]	Direct Quote[39]	
+62-4	6047-6050	are	*[39]	Direct Quote[39]	
+62-5	6051-6054	two	*[39]	Direct Quote[39]	
+62-6	6055-6064	plausible	*[39]	Direct Quote[39]	
+62-7	6065-6078	constructions	*[39]|*[40]	Direct Quote[39]|Metalinguistic Cue[40]	
+62-8	6079-6081	of	*[39]	Direct Quote[39]	
+62-9	6082-6083	a	*[39]	Direct Quote[39]	
+62-10	6084-6091	statute	*[39]|*[41]	Direct Quote[39]|Focal Term[41]	
+62-11	6092-6094	of	*[39]|*[41]	Direct Quote[39]|Focal Term[41]	
+62-12	6095-6106	limitations	*[39]|*[41]	Direct Quote[39]|Focal Term[41]	
+62-13	6107-6108	,	*[39]	Direct Quote[39]	
+62-14	6109-6110	"	*[39]	Direct Quote[39]	
+62-15	6111-6113	we	_	_	
+62-16	6114-6123	generally	_	_	
+62-17	6124-6125	"	*[42]	Direct Quote[42]	
+62-18	6126-6131	adopt	*[42]	Direct Quote[42]	
+62-19	6132-6135	the	*[42]	Direct Quote[42]	
+62-20	6136-6148	construction	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-21	6149-6153	that	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-22	6154-6160	starts	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-23	6161-6164	the	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-24	6165-6169	time	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-25	6170-6175	limit	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-26	6176-6183	running	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-27	6184-6188	when	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-28	6189-6192	the	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-29	6193-6198	cause	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-30	6199-6201	of	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-31	6202-6208	action	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-32	6209-6212	...	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-33	6213-6220	accrues	*[42]|*[43]	Direct Quote[42]|Definition[43]	
+62-34	6221-6222	"	*[42]	Direct Quote[42]	
+62-35	6223-6230	because	_	_	
+62-36	6231-6232	"	*[44]	Direct Quote[44]	
+62-37	6233-6241	Congress	*[44]	Direct Quote[44]	
+62-38	6242-6252	legislates	*[44]	Direct Quote[44]	
+62-39	6253-6260	against	*[44]	Direct Quote[44]	
+62-40	6261-6264	the	*[44]	Direct Quote[44]	
+62-41	6265-6266	'	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-42	6267-6275	standard	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-43	6276-6280	rule	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-44	6281-6285	that	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-45	6286-6289	the	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-46	6290-6301	limitations	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-47	6302-6308	period	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-48	6309-6318	commences	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-49	6319-6323	when	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-50	6324-6327	the	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-51	6328-6337	plaintiff	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-52	6338-6341	has	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-53	6342-6343	a	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-54	6344-6352	complete	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-55	6353-6356	and	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-56	6357-6364	present	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-57	6365-6370	cause	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-58	6371-6373	of	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-59	6374-6380	action	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-60	6381-6382	.	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-61	6383-6384	'	*[44]|*[45]	Direct Quote[44]|Direct Quote[45]	
+62-62	6385-6386	"	*[44]	Direct Quote[44]	
+
+#Text=Graham County Soil & Water Conservation Dist . v. United States ex rel . Wilson , 545 U.S. 409 , 418 - 419 , 125 S.Ct . 2444 , 162 L.Ed.2d 390 ( 2005 ) ( quoting Bay Area Laundry and Dry Cleaning Pension Trust Fund v. Ferbar Corp. of Cal . , 522 U.S. 192 , 201 , 118 S.Ct . 542 , 139 L.Ed.2d 553 ( 1997 ) ) .
+63-1	6387-6393	Graham	*[46]	Legal Source[46]	
+63-2	6394-6400	County	*[46]	Legal Source[46]	
+63-3	6401-6405	Soil	*[46]	Legal Source[46]	
+63-4	6406-6407	&	*[46]	Legal Source[46]	
+63-5	6408-6413	Water	*[46]	Legal Source[46]	
+63-6	6414-6426	Conservation	*[46]	Legal Source[46]	
+63-7	6427-6431	Dist	*[46]	Legal Source[46]	
+63-8	6432-6433	.	*[46]	Legal Source[46]	
+63-9	6434-6436	v.	*[46]	Legal Source[46]	
+63-10	6437-6443	United	*[46]	Legal Source[46]	
+63-11	6444-6450	States	*[46]	Legal Source[46]	
+63-12	6451-6453	ex	*[46]	Legal Source[46]	
+63-13	6454-6457	rel	*[46]	Legal Source[46]	
+63-14	6458-6459	.	*[46]	Legal Source[46]	
+63-15	6460-6466	Wilson	*[46]	Legal Source[46]	
+63-16	6467-6468	,	*[46]	Legal Source[46]	
+63-17	6469-6472	545	*[46]	Legal Source[46]	
+63-18	6473-6477	U.S.	*[46]	Legal Source[46]	
+63-19	6478-6481	409	*[46]	Legal Source[46]	
+63-20	6482-6483	,	*[46]	Legal Source[46]	
+63-21	6484-6487	418	*[46]	Legal Source[46]	
+63-22	6488-6489	-	*[46]	Legal Source[46]	
+63-23	6490-6493	419	*[46]	Legal Source[46]	
+63-24	6494-6495	,	*[46]	Legal Source[46]	
+63-25	6496-6499	125	*[46]	Legal Source[46]	
+63-26	6500-6504	S.Ct	*[46]	Legal Source[46]	
+63-27	6505-6506	.	*[46]	Legal Source[46]	
+63-28	6507-6511	2444	*[46]	Legal Source[46]	
+63-29	6512-6513	,	*[46]	Legal Source[46]	
+63-30	6514-6517	162	*[46]	Legal Source[46]	
+63-31	6518-6525	L.Ed.2d	*[46]	Legal Source[46]	
+63-32	6526-6529	390	*[46]	Legal Source[46]	
+63-33	6530-6531	(	*[46]	Legal Source[46]	
+63-34	6532-6536	2005	*[46]	Legal Source[46]	
+63-35	6537-6538	)	*[46]	Legal Source[46]	
+63-36	6539-6540	(	_	_	
+63-37	6541-6548	quoting	_	_	
+63-38	6549-6552	Bay	*[47]	Legal Source[47]	
+63-39	6553-6557	Area	*[47]	Legal Source[47]	
+63-40	6558-6565	Laundry	*[47]	Legal Source[47]	
+63-41	6566-6569	and	*[47]	Legal Source[47]	
+63-42	6570-6573	Dry	*[47]	Legal Source[47]	
+63-43	6574-6582	Cleaning	*[47]	Legal Source[47]	
+63-44	6583-6590	Pension	*[47]	Legal Source[47]	
+63-45	6591-6596	Trust	*[47]	Legal Source[47]	
+63-46	6597-6601	Fund	*[47]	Legal Source[47]	
+63-47	6602-6604	v.	*[47]	Legal Source[47]	
+63-48	6605-6611	Ferbar	*[47]	Legal Source[47]	
+63-49	6612-6617	Corp.	*[47]	Legal Source[47]	
+63-50	6618-6620	of	*[47]	Legal Source[47]	
+63-51	6621-6624	Cal	*[47]	Legal Source[47]	
+63-52	6625-6626	.	*[47]	Legal Source[47]	
+63-53	6627-6628	,	*[47]	Legal Source[47]	
+63-54	6629-6632	522	*[47]	Legal Source[47]	
+63-55	6633-6637	U.S.	*[47]	Legal Source[47]	
+63-56	6638-6641	192	*[47]	Legal Source[47]	
+63-57	6642-6643	,	*[47]	Legal Source[47]	
+63-58	6644-6647	201	*[47]	Legal Source[47]	
+63-59	6648-6649	,	*[47]	Legal Source[47]	
+63-60	6650-6653	118	*[47]	Legal Source[47]	
+63-61	6654-6658	S.Ct	*[47]	Legal Source[47]	
+63-62	6659-6660	.	*[47]	Legal Source[47]	
+63-63	6661-6664	542	*[47]	Legal Source[47]	
+63-64	6665-6666	,	*[47]	Legal Source[47]	
+63-65	6667-6670	139	*[47]	Legal Source[47]	
+63-66	6671-6678	L.Ed.2d	*[47]	Legal Source[47]	
+63-67	6679-6682	553	*[47]	Legal Source[47]	
+63-68	6683-6684	(	*[47]	Legal Source[47]	
+63-69	6685-6689	1997	*[47]	Legal Source[47]	
+63-70	6690-6691	)	*[47]	Legal Source[47]	
+63-71	6692-6693	)	_	_	
+63-72	6694-6695	.	_	_	
+
+#Text=Here , the text of § 1692k(d ) clearly states that an FDCPA action " may be brought ... within one year from the date on which the violation occurs . "
+64-1	6696-6700	Here	_	_	
+64-2	6701-6702	,	_	_	
+64-3	6703-6706	the	_	_	
+64-4	6707-6711	text	*	Metalinguistic Cue	
+64-5	6712-6714	of	_	_	
+64-6	6715-6716	§	*[48]	Legal Source[48]	
+64-7	6717-6724	1692k(d	*[48]	Legal Source[48]	
+64-8	6725-6726	)	*[48]	Legal Source[48]	
+64-9	6727-6734	clearly	*	Metalinguistic Cue	
+64-10	6735-6741	states	_	_	
+64-11	6742-6746	that	_	_	
+64-12	6747-6749	an	_	_	
+64-13	6750-6755	FDCPA	_	_	
+64-14	6756-6762	action	_	_	
+64-15	6763-6764	"	*[49]	Direct Quote[49]	
+64-16	6765-6768	may	*[49]	Direct Quote[49]	
+64-17	6769-6771	be	*[49]	Direct Quote[49]	
+64-18	6772-6779	brought	*[49]	Direct Quote[49]	
+64-19	6780-6783	...	*[49]	Direct Quote[49]	
+64-20	6784-6790	within	*[49]	Direct Quote[49]	
+64-21	6791-6794	one	*[49]	Direct Quote[49]	
+64-22	6795-6799	year	*[49]	Direct Quote[49]	
+64-23	6800-6804	from	*[49]	Direct Quote[49]	
+64-24	6805-6808	the	*[49]	Direct Quote[49]	
+64-25	6809-6813	date	*[49]	Direct Quote[49]	
+64-26	6814-6816	on	*[49]	Direct Quote[49]	
+64-27	6817-6822	which	*[49]	Direct Quote[49]	
+64-28	6823-6826	the	*[49]	Direct Quote[49]	
+64-29	6827-6836	violation	*[49]	Direct Quote[49]	
+64-30	6837-6843	occurs	*[49]	Direct Quote[49]	
+64-31	6844-6845	.	*[49]	Direct Quote[49]	
+64-32	6846-6847	"	*[49]	Direct Quote[49]	
+
+#Text=That language unambiguously sets the date of the violation as the event that starts the one - year limitations period .
+65-1	6848-6852	That	_	_	
+65-2	6853-6861	language	*[50]	Metalinguistic Cue[50]	
+65-3	6862-6875	unambiguously	*[50]	Metalinguistic Cue[50]	
+65-4	6876-6880	sets	_	_	
+65-5	6881-6884	the	_	_	
+65-6	6885-6889	date	_	_	
+65-7	6890-6892	of	_	_	
+65-8	6893-6896	the	_	_	
+65-9	6897-6906	violation	_	_	
+65-10	6907-6909	as	_	_	
+65-11	6910-6913	the	_	_	
+65-12	6914-6919	event	_	_	
+65-13	6920-6924	that	_	_	
+65-14	6925-6931	starts	_	_	
+65-15	6932-6935	the	_	_	
+65-16	6936-6939	one	_	_	
+65-17	6940-6941	-	_	_	
+65-18	6942-6946	year	_	_	
+65-19	6947-6958	limitations	_	_	
+65-20	6959-6965	period	_	_	
+65-21	6966-6967	.	_	_	
+
+#Text=At the time of the FDCPA 's enactment , the term " violation " referred to the " [ a]ct or instance of violating , or state of being violated . "
+66-1	6968-6970	At	_	_	
+66-2	6971-6974	the	_	_	
+66-3	6975-6979	time	_	_	
+66-4	6980-6982	of	_	_	
+66-5	6983-6986	the	_	_	
+66-6	6987-6992	FDCPA	*	Legal Source	
+66-7	6993-6995	's	_	_	
+66-8	6996-7005	enactment	_	_	
+66-9	7006-7007	,	_	_	
+66-10	7008-7011	the	_	_	
+66-11	7012-7016	term	*	Metalinguistic Cue	
+66-12	7017-7018	"	*[51]	Direct Quote[51]	
+66-13	7019-7028	violation	*[51]|*[52]	Direct Quote[51]|Focal Term[52]	
+66-14	7029-7030	"	*[51]	Direct Quote[51]	
+66-15	7031-7039	referred	_	_	
+66-16	7040-7042	to	_	_	
+66-17	7043-7046	the	_	_	
+66-18	7047-7048	"	*[53]	Direct Quote[53]	
+66-19	7049-7050	[	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-20	7051-7055	a]ct	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-21	7056-7058	or	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-22	7059-7067	instance	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-23	7068-7070	of	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-24	7071-7080	violating	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-25	7081-7082	,	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-26	7083-7085	or	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-27	7086-7091	state	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-28	7092-7094	of	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-29	7095-7100	being	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-30	7101-7109	violated	*[53]|*[54]	Direct Quote[53]|Definition[54]	
+66-31	7110-7111	.	*[53]	Direct Quote[53]	
+66-32	7112-7113	"	*[53]	Direct Quote[53]	
+
+#Text=Webster 's New International Dictionary 2846 ( 2d ed . 1949 ) ( Webster 's Second ) .
+67-1	7114-7121	Webster	*[55]	Language Source[55]	
+67-2	7122-7124	's	*[55]	Language Source[55]	
+67-3	7125-7128	New	*[55]	Language Source[55]	
+67-4	7129-7142	International	*[55]	Language Source[55]	
+67-5	7143-7153	Dictionary	*[55]	Language Source[55]	
+67-6	7154-7158	2846	*[55]	Language Source[55]	
+67-7	7159-7160	(	*[55]	Language Source[55]	
+67-8	7161-7163	2d	*[55]	Language Source[55]	
+67-9	7164-7166	ed	*[55]	Language Source[55]	
+67-10	7167-7168	.	*[55]	Language Source[55]	
+67-11	7169-7173	1949	*[55]	Language Source[55]	
+67-12	7174-7175	)	*[55]	Language Source[55]	
+67-13	7176-7177	(	*[55]	Language Source[55]	
+67-14	7178-7185	Webster	*[55]	Language Source[55]	
+67-15	7186-7188	's	*[55]	Language Source[55]	
+67-16	7189-7195	Second	*[55]	Language Source[55]	
+67-17	7196-7197	)	*[55]	Language Source[55]	
+67-18	7198-7199	.	_	_	
+
+#Text=The term " occur " meant " to happen , " and , as Webster 's Second explains , " occur " described " that which is thought of as definitely taking place as an event . "
+68-1	7200-7203	The	_	_	
+68-2	7204-7208	term	*	Metalinguistic Cue	
+68-3	7209-7210	"	*[56]	Direct Quote[56]	
+68-4	7211-7216	occur	*[56]|*[57]	Direct Quote[56]|Focal Term[57]	
+68-5	7217-7218	"	*[56]	Direct Quote[56]	
+68-6	7219-7224	meant	*	Metalinguistic Cue	
+68-7	7225-7226	"	*[58]	Direct Quote[58]	
+68-8	7227-7229	to	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+68-9	7230-7236	happen	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+68-10	7237-7238	,	*[58]	Direct Quote[58]	
+68-11	7239-7240	"	*[58]	Direct Quote[58]	
+68-12	7241-7244	and	_	_	
+68-13	7245-7246	,	_	_	
+68-14	7247-7249	as	_	_	
+68-15	7250-7257	Webster	*[60]	Language Source[60]	
+68-16	7258-7260	's	*[60]	Language Source[60]	
+68-17	7261-7267	Second	*[60]	Language Source[60]	
+68-18	7268-7276	explains	_	_	
+68-19	7277-7278	,	_	_	
+68-20	7279-7280	"	*[61]	Direct Quote[61]	
+68-21	7281-7286	occur	*[61]|*[62]	Direct Quote[61]|Focal Term[62]	
+68-22	7287-7288	"	*[61]	Direct Quote[61]	
+68-23	7289-7298	described	*	Metalinguistic Cue	
+68-24	7299-7300	"	*[63]	Direct Quote[63]	
+68-25	7301-7305	that	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-26	7306-7311	which	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-27	7312-7314	is	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-28	7315-7322	thought	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-29	7323-7325	of	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-30	7326-7328	as	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-31	7329-7339	definitely	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-32	7340-7346	taking	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-33	7347-7352	place	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-34	7353-7355	as	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-35	7356-7358	an	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-36	7359-7364	event	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+68-37	7365-7366	.	*[63]	Direct Quote[63]	
+68-38	7367-7368	"	*[63]	Direct Quote[63]	
+
+#Text=Id. , at 1684 .
+69-1	7369-7372	Id.	*[65]	Language Source[65]	
+69-2	7373-7374	,	*[65]	Language Source[65]	
+69-3	7375-7377	at	*[65]	Language Source[65]	
+69-4	7378-7382	1684	*[65]	Language Source[65]	
+69-5	7383-7384	.	_	_	
+
+#Text=Read together , these dictionary definitions confirm what is clear from the face of § 1692k(d ) 's text : The FDCPA limitations period begins to run on the date the alleged FDCPA violation actually happened .
+70-1	7385-7389	Read	*	Metalinguistic Cue	
+70-2	7390-7398	together	_	_	
+70-3	7399-7400	,	_	_	
+70-4	7401-7406	these	_	_	
+70-5	7407-7417	dictionary	*[66]	Metalinguistic Cue[66]	
+70-6	7418-7429	definitions	*[66]	Metalinguistic Cue[66]	
+70-7	7430-7437	confirm	_	_	
+70-8	7438-7442	what	_	_	
+70-9	7443-7445	is	_	_	
+70-10	7446-7451	clear	_	_	
+70-11	7452-7456	from	_	_	
+70-12	7457-7460	the	_	_	
+70-13	7461-7465	face	_	_	
+70-14	7466-7468	of	_	_	
+70-15	7469-7470	§	*[67]	Legal Source[67]	
+70-16	7471-7478	1692k(d	*[67]	Legal Source[67]	
+70-17	7479-7480	)	*[67]	Legal Source[67]	
+70-18	7481-7483	's	_	_	
+70-19	7484-7488	text	*	Metalinguistic Cue	
+70-20	7489-7490	:	_	_	
+70-21	7491-7494	The	_	_	
+70-22	7495-7500	FDCPA	_	_	
+70-23	7501-7512	limitations	_	_	
+70-24	7513-7519	period	_	_	
+70-25	7520-7526	begins	_	_	
+70-26	7527-7529	to	_	_	
+70-27	7530-7533	run	_	_	
+70-28	7534-7536	on	_	_	
+70-29	7537-7540	the	_	_	
+70-30	7541-7545	date	_	_	
+70-31	7546-7549	the	_	_	
+70-32	7550-7557	alleged	_	_	
+70-33	7558-7563	FDCPA	_	_	
+70-34	7564-7573	violation	_	_	
+70-35	7574-7582	actually	_	_	
+70-36	7583-7591	happened	_	_	
+70-37	7592-7593	.	_	_	
+
+#Text=We must presume that Congress " says in a statute what it means and means in a statute what it says there . "
+71-1	7594-7596	We	*[68]	Appeal to Meaning[68]	
+71-2	7597-7601	must	*[68]	Appeal to Meaning[68]	
+71-3	7602-7609	presume	*[68]	Appeal to Meaning[68]	
+71-4	7610-7614	that	*[68]	Appeal to Meaning[68]	
+71-5	7615-7623	Congress	*[68]	Appeal to Meaning[68]	
+71-6	7624-7625	"	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-7	7626-7630	says	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-8	7631-7633	in	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-9	7634-7635	a	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-10	7636-7643	statute	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-11	7644-7648	what	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-12	7649-7651	it	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-13	7652-7657	means	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-14	7658-7661	and	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-15	7662-7667	means	*[68]|*[69]|*[70]	Appeal to Meaning[68]|Direct Quote[69]|Metalinguistic Cue[70]	
+71-16	7668-7670	in	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-17	7671-7672	a	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-18	7673-7680	statute	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-19	7681-7685	what	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-20	7686-7688	it	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-21	7689-7693	says	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-22	7694-7699	there	*[68]|*[69]	Appeal to Meaning[68]|Direct Quote[69]	
+71-23	7700-7701	.	*[69]	Direct Quote[69]	
+71-24	7702-7703	"	*[69]	Direct Quote[69]	
+
+#Text=Connecticut Nat . Bank , 503 U.S. at 254 , 112 S.Ct . 1146 .
+72-1	7704-7715	Connecticut	*[71]	Legal Source[71]	
+72-2	7716-7719	Nat	*[71]	Legal Source[71]	
+72-3	7720-7721	.	*[71]	Legal Source[71]	
+72-4	7722-7726	Bank	*[71]	Legal Source[71]	
+72-5	7727-7728	,	*[71]	Legal Source[71]	
+72-6	7729-7732	503	*[71]	Legal Source[71]	
+72-7	7733-7737	U.S.	*[71]	Legal Source[71]	
+72-8	7738-7740	at	*[71]	Legal Source[71]	
+72-9	7741-7744	254	*[71]	Legal Source[71]	
+72-10	7745-7746	,	*[71]	Legal Source[71]	
+72-11	7747-7750	112	*[71]	Legal Source[71]	
+72-12	7751-7755	S.Ct	*[71]	Legal Source[71]	
+72-13	7756-7757	.	*[71]	Legal Source[71]	
+72-14	7758-7762	1146	*[71]	Legal Source[71]	
+72-15	7763-7764	.	_	_	
+
+#Text=Rotkiske does not contest the plain meaning of § 1692k(d ) 's text or claim that he brought suit within one year of the alleged FDCPA violation .
+73-1	7765-7773	Rotkiske	_	_	
+73-2	7774-7778	does	_	_	
+73-3	7779-7782	not	_	_	
+73-4	7783-7790	contest	_	_	
+73-5	7791-7794	the	_	_	
+73-6	7795-7800	plain	*[72]	Metalinguistic Cue[72]	
+73-7	7801-7808	meaning	*[72]	Metalinguistic Cue[72]	
+73-8	7809-7811	of	_	_	
+73-9	7812-7813	§	*[73]	Legal Source[73]	
+73-10	7814-7821	1692k(d	*[73]	Legal Source[73]	
+73-11	7822-7823	)	*[73]	Legal Source[73]	
+73-12	7824-7826	's	_	_	
+73-13	7827-7831	text	_	_	
+73-14	7832-7834	or	_	_	
+73-15	7835-7840	claim	_	_	
+73-16	7841-7845	that	_	_	
+73-17	7846-7848	he	_	_	
+73-18	7849-7856	brought	_	_	
+73-19	7857-7861	suit	_	_	
+73-20	7862-7868	within	_	_	
+73-21	7869-7872	one	_	_	
+73-22	7873-7877	year	_	_	
+73-23	7878-7880	of	_	_	
+73-24	7881-7884	the	_	_	
+73-25	7885-7892	alleged	_	_	
+73-26	7893-7898	FDCPA	_	_	
+73-27	7899-7908	violation	_	_	
+73-28	7909-7910	.	_	_	
+
+#Text=Instead , he suggests that we should interpret § 1692k(d ) to include a general " discovery rule " that applies to all FDCPA actions .
+74-1	7911-7918	Instead	_	_	
+74-2	7919-7920	,	_	_	
+74-3	7921-7923	he	_	_	
+74-4	7924-7932	suggests	_	_	
+74-5	7933-7937	that	_	_	
+74-6	7938-7940	we	_	_	
+74-7	7941-7947	should	_	_	
+74-8	7948-7957	interpret	*	Metalinguistic Cue	
+74-9	7958-7959	§	*[74]	Legal Source[74]	
+74-10	7960-7967	1692k(d	*[74]	Legal Source[74]	
+74-11	7968-7969	)	*[74]	Legal Source[74]	
+74-12	7970-7972	to	_	_	
+74-13	7973-7980	include	_	_	
+74-14	7981-7982	a	_	_	
+74-15	7983-7990	general	_	_	
+74-16	7991-7992	"	*[75]	Direct Quote[75]	
+74-17	7993-8002	discovery	*[75]	Direct Quote[75]	
+74-18	8003-8007	rule	*[75]	Direct Quote[75]	
+74-19	8008-8009	"	*[75]	Direct Quote[75]	
+74-20	8010-8014	that	_	_	
+74-21	8015-8022	applies	_	_	
+74-22	8023-8025	to	_	_	
+74-23	8026-8029	all	_	_	
+74-24	8030-8035	FDCPA	_	_	
+74-25	8036-8043	actions	_	_	
+74-26	8044-8045	.	_	_	
+
+#Text=In effect , Rotkiske asks the Court to read in a provision stating that § 1692k(d ) 's limitations period begins to run on the date an alleged FDCPA violation is discovered .
+75-1	8046-8048	In	_	_	
+75-2	8049-8055	effect	_	_	
+75-3	8056-8057	,	_	_	
+75-4	8058-8066	Rotkiske	_	_	
+75-5	8067-8071	asks	_	_	
+75-6	8072-8075	the	_	_	
+75-7	8076-8081	Court	_	_	
+75-8	8082-8084	to	_	_	
+75-9	8085-8089	read	*	Metalinguistic Cue	
+75-10	8090-8092	in	_	_	
+75-11	8093-8094	a	_	_	
+75-12	8095-8104	provision	_	_	
+75-13	8105-8112	stating	_	_	
+75-14	8113-8117	that	_	_	
+75-15	8118-8119	§	*[76]	Legal Source[76]	
+75-16	8120-8127	1692k(d	*[76]	Legal Source[76]	
+75-17	8128-8129	)	*[76]	Legal Source[76]	
+75-18	8130-8132	's	_	_	
+75-19	8133-8144	limitations	_	_	
+75-20	8145-8151	period	_	_	
+75-21	8152-8158	begins	_	_	
+75-22	8159-8161	to	_	_	
+75-23	8162-8165	run	_	_	
+75-24	8166-8168	on	_	_	
+75-25	8169-8172	the	_	_	
+75-26	8173-8177	date	_	_	
+75-27	8178-8180	an	_	_	
+75-28	8181-8188	alleged	_	_	
+75-29	8189-8194	FDCPA	_	_	
+75-30	8195-8204	violation	_	_	
+75-31	8205-8207	is	_	_	
+75-32	8208-8218	discovered	_	_	
+75-33	8219-8220	.	_	_	
+
+#Text=This expansive approach to the discovery rule is a " bad wine of recent vintage . "
+76-1	8221-8225	This	_	_	
+76-2	8226-8235	expansive	_	_	
+76-3	8236-8244	approach	_	_	
+76-4	8245-8247	to	_	_	
+76-5	8248-8251	the	_	_	
+76-6	8252-8261	discovery	_	_	
+76-7	8262-8266	rule	_	_	
+76-8	8267-8269	is	_	_	
+76-9	8270-8271	a	_	_	
+76-10	8272-8273	"	*[77]	Direct Quote[77]	
+76-11	8274-8277	bad	*[77]	Direct Quote[77]	
+76-12	8278-8282	wine	*[77]	Direct Quote[77]	
+76-13	8283-8285	of	*[77]	Direct Quote[77]	
+76-14	8286-8292	recent	*[77]	Direct Quote[77]	
+76-15	8293-8300	vintage	*[77]	Direct Quote[77]	
+76-16	8301-8302	.	*[77]	Direct Quote[77]	
+76-17	8303-8304	"	*[77]	Direct Quote[77]	
+
+#Text=TRW Inc. v. Andrews , 534 U.S. 19 , 37 , 122 S.Ct . 441 , 151 L.Ed.2d 339 ( 2001 ) ( Scalia , J. , concurring in judgment ) .
+77-1	8305-8308	TRW	*[78]	Legal Source[78]	
+77-2	8309-8313	Inc.	*[78]	Legal Source[78]	
+77-3	8314-8316	v.	*[78]	Legal Source[78]	
+77-4	8317-8324	Andrews	*[78]	Legal Source[78]	
+77-5	8325-8326	,	*[78]	Legal Source[78]	
+77-6	8327-8330	534	*[78]	Legal Source[78]	
+77-7	8331-8335	U.S.	*[78]	Legal Source[78]	
+77-8	8336-8338	19	*[78]	Legal Source[78]	
+77-9	8339-8340	,	*[78]	Legal Source[78]	
+77-10	8341-8343	37	*[78]	Legal Source[78]	
+77-11	8344-8345	,	*[78]	Legal Source[78]	
+77-12	8346-8349	122	*[78]	Legal Source[78]	
+77-13	8350-8354	S.Ct	*[78]	Legal Source[78]	
+77-14	8355-8356	.	*[78]	Legal Source[78]	
+77-15	8357-8360	441	*[78]	Legal Source[78]	
+77-16	8361-8362	,	*[78]	Legal Source[78]	
+77-17	8363-8366	151	*[78]	Legal Source[78]	
+77-18	8367-8374	L.Ed.2d	*[78]	Legal Source[78]	
+77-19	8375-8378	339	*[78]	Legal Source[78]	
+77-20	8379-8380	(	*[78]	Legal Source[78]	
+77-21	8381-8385	2001	*[78]	Legal Source[78]	
+77-22	8386-8387	)	*[78]	Legal Source[78]	
+77-23	8388-8389	(	*[78]	Legal Source[78]	
+77-24	8390-8396	Scalia	*[78]	Legal Source[78]	
+77-25	8397-8398	,	*[78]	Legal Source[78]	
+77-26	8399-8401	J.	*[78]	Legal Source[78]	
+77-27	8402-8403	,	*[78]	Legal Source[78]	
+77-28	8404-8414	concurring	*[78]	Legal Source[78]	
+77-29	8415-8417	in	*[78]	Legal Source[78]	
+77-30	8418-8426	judgment	*[78]	Legal Source[78]	
+77-31	8427-8428	)	*[78]	Legal Source[78]	
+77-32	8429-8430	.	_	_	
+
+#Text=It is a fundamental principle of statutory interpretation that " absent provision[s ] can not be supplied by the courts . "
+78-1	8431-8433	It	*[79]	Named Interpretive Rule[79]	
+78-2	8434-8436	is	*[79]	Named Interpretive Rule[79]	
+78-3	8437-8438	a	*[79]	Named Interpretive Rule[79]	
+78-4	8439-8450	fundamental	*[79]	Named Interpretive Rule[79]	
+78-5	8451-8460	principle	*[79]	Named Interpretive Rule[79]	
+78-6	8461-8463	of	*[79]	Named Interpretive Rule[79]	
+78-7	8464-8473	statutory	*[79]	Named Interpretive Rule[79]	
+78-8	8474-8488	interpretation	*[79]	Named Interpretive Rule[79]	
+78-9	8489-8493	that	*[79]	Named Interpretive Rule[79]	
+78-10	8494-8495	"	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-11	8496-8502	absent	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-12	8503-8514	provision[s	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-13	8515-8516	]	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-14	8517-8520	can	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-15	8521-8524	not	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-16	8525-8527	be	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-17	8528-8536	supplied	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-18	8537-8539	by	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-19	8540-8543	the	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-20	8544-8550	courts	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-21	8551-8552	.	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+78-22	8553-8554	"	*[79]|*[80]	Named Interpretive Rule[79]|Direct Quote[80]	
+
+#Text=A. Scalia & B. Garner , Reading Law : The Interpretation of Legal Texts 94 ( 2012 ) .
+79-1	8555-8557	A.	*[81]	Legal Source[81]	
+79-2	8558-8564	Scalia	*[81]	Legal Source[81]	
+79-3	8565-8566	&	*[81]	Legal Source[81]	
+79-4	8567-8569	B.	*[81]	Legal Source[81]	
+79-5	8570-8576	Garner	*[81]	Legal Source[81]	
+79-6	8577-8578	,	*[81]	Legal Source[81]	
+79-7	8579-8586	Reading	*[81]	Legal Source[81]	
+79-8	8587-8590	Law	*[81]	Legal Source[81]	
+79-9	8591-8592	:	*[81]	Legal Source[81]	
+79-10	8593-8596	The	*[81]	Legal Source[81]	
+79-11	8597-8611	Interpretation	*[81]|*[82]	Legal Source[81]|Metalinguistic Cue[82]	
+79-12	8612-8614	of	*[81]	Legal Source[81]	
+79-13	8615-8620	Legal	*[81]	Legal Source[81]	
+79-14	8621-8626	Texts	*[81]|*[83]	Legal Source[81]|Metalinguistic Cue[83]	
+79-15	8627-8629	94	*[81]	Legal Source[81]	
+79-16	8630-8631	(	*[81]	Legal Source[81]	
+79-17	8632-8636	2012	*[81]	Legal Source[81]	
+79-18	8637-8638	)	*[81]	Legal Source[81]	
+79-19	8639-8640	.	_	_	
+
+#Text=To do so " ' is not a construction of a statute , but , in effect , an enlargement of it by the court . ' "
+80-1	8641-8643	To	_	_	
+80-2	8644-8646	do	_	_	
+80-3	8647-8649	so	_	_	
+80-4	8650-8651	"	*[84]	Direct Quote[84]	
+80-5	8652-8653	'	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-6	8654-8656	is	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-7	8657-8660	not	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-8	8661-8662	a	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-9	8663-8675	construction	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-10	8676-8678	of	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-11	8679-8680	a	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-12	8681-8688	statute	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-13	8689-8690	,	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-14	8691-8694	but	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-15	8695-8696	,	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-16	8697-8699	in	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-17	8700-8706	effect	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-18	8707-8708	,	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-19	8709-8711	an	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-20	8712-8723	enlargement	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-21	8724-8726	of	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-22	8727-8729	it	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-23	8730-8732	by	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-24	8733-8736	the	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-25	8737-8742	court	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-26	8743-8744	.	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-27	8745-8746	'	*[84]|*[85]	Direct Quote[84]|Direct Quote[85]	
+80-28	8747-8748	"	*[84]	Direct Quote[84]	
+
+#Text=Nichols v. United States , 578 U.S. ---- , ---- , 136 S.Ct . 1113 , 1118 , 194 L.Ed.2d 324 ( 2016 ) ( quoting Iselin v. United States , 270 U.S. 245 , 251 , 46 S.Ct . 248 , 70 L.Ed . 566 ( 1926 ) ) .
+81-1	8749-8756	Nichols	*[86]	Legal Source[86]	
+81-2	8757-8759	v.	*[86]	Legal Source[86]	
+81-3	8760-8766	United	*[86]	Legal Source[86]	
+81-4	8767-8773	States	*[86]	Legal Source[86]	
+81-5	8774-8775	,	*[86]	Legal Source[86]	
+81-6	8776-8779	578	*[86]	Legal Source[86]	
+81-7	8780-8784	U.S.	*[86]	Legal Source[86]	
+81-8	8785-8789	----	*[86]	Legal Source[86]	
+81-9	8790-8791	,	*[86]	Legal Source[86]	
+81-10	8792-8796	----	*[86]	Legal Source[86]	
+81-11	8797-8798	,	*[86]	Legal Source[86]	
+81-12	8799-8802	136	*[86]	Legal Source[86]	
+81-13	8803-8807	S.Ct	*[86]	Legal Source[86]	
+81-14	8808-8809	.	*[86]	Legal Source[86]	
+81-15	8810-8814	1113	*[86]	Legal Source[86]	
+81-16	8815-8816	,	*[86]	Legal Source[86]	
+81-17	8817-8821	1118	*[86]	Legal Source[86]	
+81-18	8822-8823	,	*[86]	Legal Source[86]	
+81-19	8824-8827	194	*[86]	Legal Source[86]	
+81-20	8828-8835	L.Ed.2d	*[86]	Legal Source[86]	
+81-21	8836-8839	324	*[86]	Legal Source[86]	
+81-22	8840-8841	(	*[86]	Legal Source[86]	
+81-23	8842-8846	2016	*[86]	Legal Source[86]	
+81-24	8847-8848	)	*[86]	Legal Source[86]	
+81-25	8849-8850	(	_	_	
+81-26	8851-8858	quoting	_	_	
+81-27	8859-8865	Iselin	*[87]	Legal Source[87]	
+81-28	8866-8868	v.	*[87]	Legal Source[87]	
+81-29	8869-8875	United	*[87]	Legal Source[87]	
+81-30	8876-8882	States	*[87]	Legal Source[87]	
+81-31	8883-8884	,	*[87]	Legal Source[87]	
+81-32	8885-8888	270	*[87]	Legal Source[87]	
+81-33	8889-8893	U.S.	*[87]	Legal Source[87]	
+81-34	8894-8897	245	*[87]	Legal Source[87]	
+81-35	8898-8899	,	*[87]	Legal Source[87]	
+81-36	8900-8903	251	*[87]	Legal Source[87]	
+81-37	8904-8905	,	*[87]	Legal Source[87]	
+81-38	8906-8908	46	*[87]	Legal Source[87]	
+81-39	8909-8913	S.Ct	*[87]	Legal Source[87]	
+81-40	8914-8915	.	*[87]	Legal Source[87]	
+81-41	8916-8919	248	*[87]	Legal Source[87]	
+81-42	8920-8921	,	*[87]	Legal Source[87]	
+81-43	8922-8924	70	*[87]	Legal Source[87]	
+81-44	8925-8929	L.Ed	*[87]	Legal Source[87]	
+81-45	8930-8931	.	*[87]	Legal Source[87]	
+81-46	8932-8935	566	*[87]	Legal Source[87]	
+81-47	8936-8937	(	*[87]	Legal Source[87]	
+81-48	8938-8942	1926	*[87]	Legal Source[87]	
+81-49	8943-8944	)	*[87]	Legal Source[87]	
+81-50	8945-8946	)	_	_	
+81-51	8947-8948	.	_	_	
+
+#Text=Atextual judicial supplementation is particularly inappropriate when , as here , Congress has shown that it knows how to adopt the omitted language or provision .
+82-1	8949-8957	Atextual	*[88]	Metalinguistic Cue[88]	
+82-2	8958-8966	judicial	*[88]	Metalinguistic Cue[88]	
+82-3	8967-8982	supplementation	*[88]	Metalinguistic Cue[88]	
+82-4	8983-8985	is	_	_	
+82-5	8986-8998	particularly	_	_	
+82-6	8999-9012	inappropriate	_	_	
+82-7	9013-9017	when	_	_	
+82-8	9018-9019	,	_	_	
+82-9	9020-9022	as	_	_	
+82-10	9023-9027	here	_	_	
+82-11	9028-9029	,	_	_	
+82-12	9030-9038	Congress	_	_	
+82-13	9039-9042	has	_	_	
+82-14	9043-9048	shown	_	_	
+82-15	9049-9053	that	_	_	
+82-16	9054-9056	it	_	_	
+82-17	9057-9062	knows	_	_	
+82-18	9063-9066	how	_	_	
+82-19	9067-9069	to	_	_	
+82-20	9070-9075	adopt	_	_	
+82-21	9076-9079	the	_	_	
+82-22	9080-9087	omitted	_	_	
+82-23	9088-9096	language	*	Metalinguistic Cue	
+82-24	9097-9099	or	_	_	
+82-25	9100-9109	provision	_	_	
+82-26	9110-9111	.	_	_	
+
+#Text=Congress has enacted statutes that expressly include the language Rotkiske asks us to read in , setting limitations periods to run from the date on which the violation occurs or the date of discovery of such violation .
+83-1	9112-9120	Congress	_	_	
+83-2	9121-9124	has	_	_	
+83-3	9125-9132	enacted	_	_	
+83-4	9133-9141	statutes	_	_	
+83-5	9142-9146	that	_	_	
+83-6	9147-9156	expressly	_	_	
+83-7	9157-9164	include	_	_	
+83-8	9165-9168	the	_	_	
+83-9	9169-9177	language	*	Metalinguistic Cue	
+83-10	9178-9186	Rotkiske	_	_	
+83-11	9187-9191	asks	_	_	
+83-12	9192-9194	us	_	_	
+83-13	9195-9197	to	_	_	
+83-14	9198-9202	read	*	Metalinguistic Cue	
+83-15	9203-9205	in	_	_	
+83-16	9206-9207	,	_	_	
+83-17	9208-9215	setting	_	_	
+83-18	9216-9227	limitations	_	_	
+83-19	9228-9235	periods	_	_	
+83-20	9236-9238	to	_	_	
+83-21	9239-9242	run	_	_	
+83-22	9243-9247	from	_	_	
+83-23	9248-9251	the	_	_	
+83-24	9252-9256	date	_	_	
+83-25	9257-9259	on	_	_	
+83-26	9260-9265	which	_	_	
+83-27	9266-9269	the	_	_	
+83-28	9270-9279	violation	_	_	
+83-29	9280-9286	occurs	_	_	
+83-30	9287-9289	or	_	_	
+83-31	9290-9293	the	_	_	
+83-32	9294-9298	date	_	_	
+83-33	9299-9301	of	_	_	
+83-34	9302-9311	discovery	_	_	
+83-35	9312-9314	of	_	_	
+83-36	9315-9319	such	_	_	
+83-37	9320-9329	violation	_	_	
+83-38	9330-9331	.	_	_	
+
+#Text=See , e.g. , 12 U.S.C. § 3416 ; 15 U.S.C. § 1679i .
+84-1	9332-9335	See	_	_	
+84-2	9336-9337	,	_	_	
+84-3	9338-9342	e.g.	_	_	
+84-4	9343-9344	,	_	_	
+84-5	9345-9347	12	*[89]	Legal Source[89]	
+84-6	9348-9354	U.S.C.	*[89]	Legal Source[89]	
+84-7	9355-9356	§	*[89]	Legal Source[89]	
+84-8	9357-9361	3416	*[89]	Legal Source[89]	
+84-9	9362-9363	;	*[89]	Legal Source[89]	
+84-10	9364-9366	15	*[89]	Legal Source[89]	
+84-11	9367-9373	U.S.C.	*[89]	Legal Source[89]	
+84-12	9374-9375	§	*[89]	Legal Source[89]	
+84-13	9376-9381	1679i	*[89]	Legal Source[89]	
+84-14	9382-9383	.	_	_	
+
+#Text=In fact , at the time Congress enacted the FDCPA , many statutes included provisions that , in certain circumstances , would begin the running of a limitations period upon the discovery of a violation , injury , or some other event .
+85-1	9384-9386	In	_	_	
+85-2	9387-9391	fact	_	_	
+85-3	9392-9393	,	_	_	
+85-4	9394-9396	at	_	_	
+85-5	9397-9400	the	_	_	
+85-6	9401-9405	time	_	_	
+85-7	9406-9414	Congress	_	_	
+85-8	9415-9422	enacted	_	_	
+85-9	9423-9426	the	_	_	
+85-10	9427-9432	FDCPA	*	Legal Source	
+85-11	9433-9434	,	_	_	
+85-12	9435-9439	many	_	_	
+85-13	9440-9448	statutes	_	_	
+85-14	9449-9457	included	_	_	
+85-15	9458-9468	provisions	_	_	
+85-16	9469-9473	that	_	_	
+85-17	9474-9475	,	_	_	
+85-18	9476-9478	in	_	_	
+85-19	9479-9486	certain	_	_	
+85-20	9487-9500	circumstances	_	_	
+85-21	9501-9502	,	_	_	
+85-22	9503-9508	would	_	_	
+85-23	9509-9514	begin	_	_	
+85-24	9515-9518	the	_	_	
+85-25	9519-9526	running	_	_	
+85-26	9527-9529	of	_	_	
+85-27	9530-9531	a	_	_	
+85-28	9532-9543	limitations	_	_	
+85-29	9544-9550	period	_	_	
+85-30	9551-9555	upon	_	_	
+85-31	9556-9559	the	_	_	
+85-32	9560-9569	discovery	_	_	
+85-33	9570-9572	of	_	_	
+85-34	9573-9574	a	_	_	
+85-35	9575-9584	violation	_	_	
+85-36	9585-9586	,	_	_	
+85-37	9587-9593	injury	_	_	
+85-38	9594-9595	,	_	_	
+85-39	9596-9598	or	_	_	
+85-40	9599-9603	some	_	_	
+85-41	9604-9609	other	_	_	
+85-42	9610-9615	event	_	_	
+85-43	9616-9617	.	_	_	
+
+#Text=See , e.g. , 15 U.S.C. § 77 m ( 1976 ed . ) ; 19 U.S.C. § 1621 ( 1976 ed . ) ; 26 U.S.C. § 7217 ( c ) ( 1976 ed . ) ; 29 U.S.C. § 1113 ( 1976 ed . ) .
+86-1	9618-9621	See	_	_	
+86-2	9622-9623	,	_	_	
+86-3	9624-9628	e.g.	_	_	
+86-4	9629-9630	,	_	_	
+86-5	9631-9633	15	*[90]	Legal Source[90]	
+86-6	9634-9640	U.S.C.	*[90]	Legal Source[90]	
+86-7	9641-9642	§	*[90]	Legal Source[90]	
+86-8	9643-9645	77	*[90]	Legal Source[90]	
+86-9	9646-9647	m	*[90]	Legal Source[90]	
+86-10	9648-9649	(	*[90]	Legal Source[90]	
+86-11	9650-9654	1976	*[90]	Legal Source[90]	
+86-12	9655-9657	ed	*[90]	Legal Source[90]	
+86-13	9658-9659	.	*[90]	Legal Source[90]	
+86-14	9660-9661	)	*[90]	Legal Source[90]	
+86-15	9662-9663	;	_	_	
+86-16	9664-9666	19	*[91]	Legal Source[91]	
+86-17	9667-9673	U.S.C.	*[91]	Legal Source[91]	
+86-18	9674-9675	§	*[91]	Legal Source[91]	
+86-19	9676-9680	1621	*[91]	Legal Source[91]	
+86-20	9681-9682	(	*[91]	Legal Source[91]	
+86-21	9683-9687	1976	*[91]	Legal Source[91]	
+86-22	9688-9690	ed	*[91]	Legal Source[91]	
+86-23	9691-9692	.	*[91]	Legal Source[91]	
+86-24	9693-9694	)	*[91]	Legal Source[91]	
+86-25	9695-9696	;	_	_	
+86-26	9697-9699	26	*[92]	Legal Source[92]	
+86-27	9700-9706	U.S.C.	*[92]	Legal Source[92]	
+86-28	9707-9708	§	*[92]	Legal Source[92]	
+86-29	9709-9713	7217	*[92]	Legal Source[92]	
+86-30	9714-9715	(	*[92]	Legal Source[92]	
+86-31	9716-9717	c	*[92]	Legal Source[92]	
+86-32	9718-9719	)	*[92]	Legal Source[92]	
+86-33	9720-9721	(	*[92]	Legal Source[92]	
+86-34	9722-9726	1976	*[92]	Legal Source[92]	
+86-35	9727-9729	ed	*[92]	Legal Source[92]	
+86-36	9730-9731	.	*[92]	Legal Source[92]	
+86-37	9732-9733	)	*[92]	Legal Source[92]	
+86-38	9734-9735	;	_	_	
+86-39	9736-9738	29	*[93]	Legal Source[93]	
+86-40	9739-9745	U.S.C.	*[93]	Legal Source[93]	
+86-41	9746-9747	§	*[93]	Legal Source[93]	
+86-42	9748-9752	1113	*[93]	Legal Source[93]	
+86-43	9753-9754	(	*[93]	Legal Source[93]	
+86-44	9755-9759	1976	*[93]	Legal Source[93]	
+86-45	9760-9762	ed	*[93]	Legal Source[93]	
+86-46	9763-9764	.	*[93]	Legal Source[93]	
+86-47	9765-9766	)	*[93]	Legal Source[93]	
+86-48	9767-9768	.	_	_	
+
+#Text=It is not our role to second - guess Congress ' decision to include a " violation occurs " provision , rather than a discovery provision , in § 1692k(d ) .
+87-1	9769-9771	It	_	_	
+87-2	9772-9774	is	_	_	
+87-3	9775-9778	not	_	_	
+87-4	9779-9782	our	_	_	
+87-5	9783-9787	role	_	_	
+87-6	9788-9790	to	_	_	
+87-7	9791-9797	second	_	_	
+87-8	9798-9799	-	_	_	
+87-9	9800-9805	guess	_	_	
+87-10	9806-9814	Congress	_	_	
+87-11	9815-9816	'	_	_	
+87-12	9817-9825	decision	_	_	
+87-13	9826-9828	to	_	_	
+87-14	9829-9836	include	_	_	
+87-15	9837-9838	a	_	_	
+87-16	9839-9840	"	*[94]	Direct Quote[94]	
+87-17	9841-9850	violation	*[94]	Direct Quote[94]	
+87-18	9851-9857	occurs	*[94]	Direct Quote[94]	
+87-19	9858-9859	"	*[94]	Direct Quote[94]	
+87-20	9860-9869	provision	_	_	
+87-21	9870-9871	,	_	_	
+87-22	9872-9878	rather	_	_	
+87-23	9879-9883	than	_	_	
+87-24	9884-9885	a	_	_	
+87-25	9886-9895	discovery	_	_	
+87-26	9896-9905	provision	_	_	
+87-27	9906-9907	,	_	_	
+87-28	9908-9910	in	_	_	
+87-29	9911-9912	§	*[95]	Legal Source[95]	
+87-30	9913-9920	1692k(d	*[95]	Legal Source[95]	
+87-31	9921-9922	)	*[95]	Legal Source[95]	
+87-32	9923-9924	.	_	_	
+
+#Text=The length of a limitations period " reflects a value judgment concerning the point at which the interests in favor of protecting valid claims are outweighed by the interests in prohibiting the prosecution of stale ones . "
+88-1	9925-9928	The	_	_	
+88-2	9929-9935	length	_	_	
+88-3	9936-9938	of	_	_	
+88-4	9939-9940	a	_	_	
+88-5	9941-9952	limitations	_	_	
+88-6	9953-9959	period	_	_	
+88-7	9960-9961	"	*[96]	Direct Quote[96]	
+88-8	9962-9970	reflects	*[96]	Direct Quote[96]	
+88-9	9971-9972	a	*[96]	Direct Quote[96]	
+88-10	9973-9978	value	*[96]	Direct Quote[96]	
+88-11	9979-9987	judgment	*[96]	Direct Quote[96]	
+88-12	9988-9998	concerning	*[96]	Direct Quote[96]	
+88-13	9999-10002	the	*[96]	Direct Quote[96]	
+88-14	10003-10008	point	*[96]	Direct Quote[96]	
+88-15	10009-10011	at	*[96]	Direct Quote[96]	
+88-16	10012-10017	which	*[96]	Direct Quote[96]	
+88-17	10018-10021	the	*[96]	Direct Quote[96]	
+88-18	10022-10031	interests	*[96]	Direct Quote[96]	
+88-19	10032-10034	in	*[96]	Direct Quote[96]	
+88-20	10035-10040	favor	*[96]	Direct Quote[96]	
+88-21	10041-10043	of	*[96]	Direct Quote[96]	
+88-22	10044-10054	protecting	*[96]	Direct Quote[96]	
+88-23	10055-10060	valid	*[96]	Direct Quote[96]	
+88-24	10061-10067	claims	*[96]	Direct Quote[96]	
+88-25	10068-10071	are	*[96]	Direct Quote[96]	
+88-26	10072-10082	outweighed	*[96]	Direct Quote[96]	
+88-27	10083-10085	by	*[96]	Direct Quote[96]	
+88-28	10086-10089	the	*[96]	Direct Quote[96]	
+88-29	10090-10099	interests	*[96]	Direct Quote[96]	
+88-30	10100-10102	in	*[96]	Direct Quote[96]	
+88-31	10103-10114	prohibiting	*[96]	Direct Quote[96]	
+88-32	10115-10118	the	*[96]	Direct Quote[96]	
+88-33	10119-10130	prosecution	*[96]	Direct Quote[96]	
+88-34	10131-10133	of	*[96]	Direct Quote[96]	
+88-35	10134-10139	stale	*[96]	Direct Quote[96]	
+88-36	10140-10144	ones	*[96]	Direct Quote[96]	
+88-37	10145-10146	.	*[96]	Direct Quote[96]	
+88-38	10147-10148	"	*[96]	Direct Quote[96]	
+
+#Text=Johnson v. Railway Express Agency , Inc. , 421 U.S. 454 , 463 - 464 , 95 S.Ct . 1716 , 44 L.Ed.2d 295 ( 1975 ) .
+89-1	10149-10156	Johnson	*[97]	Legal Source[97]	
+89-2	10157-10159	v.	*[97]	Legal Source[97]	
+89-3	10160-10167	Railway	*[97]	Legal Source[97]	
+89-4	10168-10175	Express	*[97]	Legal Source[97]	
+89-5	10176-10182	Agency	*[97]	Legal Source[97]	
+89-6	10183-10184	,	*[97]	Legal Source[97]	
+89-7	10185-10189	Inc.	*[97]	Legal Source[97]	
+89-8	10190-10191	,	*[97]	Legal Source[97]	
+89-9	10192-10195	421	*[97]	Legal Source[97]	
+89-10	10196-10200	U.S.	*[97]	Legal Source[97]	
+89-11	10201-10204	454	*[97]	Legal Source[97]	
+89-12	10205-10206	,	*[97]	Legal Source[97]	
+89-13	10207-10210	463	*[97]	Legal Source[97]	
+89-14	10211-10212	-	*[97]	Legal Source[97]	
+89-15	10213-10216	464	*[97]	Legal Source[97]	
+89-16	10217-10218	,	*[97]	Legal Source[97]	
+89-17	10219-10221	95	*[97]	Legal Source[97]	
+89-18	10222-10226	S.Ct	*[97]	Legal Source[97]	
+89-19	10227-10228	.	*[97]	Legal Source[97]	
+89-20	10229-10233	1716	*[97]	Legal Source[97]	
+89-21	10234-10235	,	*[97]	Legal Source[97]	
+89-22	10236-10238	44	*[97]	Legal Source[97]	
+89-23	10239-10246	L.Ed.2d	*[97]	Legal Source[97]	
+89-24	10247-10250	295	*[97]	Legal Source[97]	
+89-25	10251-10252	(	*[97]	Legal Source[97]	
+89-26	10253-10257	1975	*[97]	Legal Source[97]	
+89-27	10258-10259	)	*[97]	Legal Source[97]	
+89-28	10260-10261	.	_	_	
+
+#Text=It is Congress , not this Court , that balances those interests .
+90-1	10262-10264	It	_	_	
+90-2	10265-10267	is	_	_	
+90-3	10268-10276	Congress	_	_	
+90-4	10277-10278	,	_	_	
+90-5	10279-10282	not	_	_	
+90-6	10283-10287	this	_	_	
+90-7	10288-10293	Court	_	_	
+90-8	10294-10295	,	_	_	
+90-9	10296-10300	that	_	_	
+90-10	10301-10309	balances	_	_	
+90-11	10310-10315	those	_	_	
+90-12	10316-10325	interests	_	_	
+90-13	10326-10327	.	_	_	
+
+#Text=We simply enforce the value judgments made by Congress .
+91-1	10328-10330	We	_	_	
+91-2	10331-10337	simply	_	_	
+91-3	10338-10345	enforce	_	_	
+91-4	10346-10349	the	_	_	
+91-5	10350-10355	value	_	_	
+91-6	10356-10365	judgments	_	_	
+91-7	10366-10370	made	_	_	
+91-8	10371-10373	by	_	_	
+91-9	10374-10382	Congress	_	_	
+91-10	10383-10384	.	_	_	
+
+#Text=B
+92-1	10385-10386	B	_	_	
+
+#Text=Narrowing his initial assertion and moving away from the question on which we granted certiorari , Rotkiske also contends that his filing should be treated as timely under an equitable , fraud - specific discovery rule , relying on a line of decisions beginning with Bailey v. Glover , 21 Wall . 342 , 22 L.Ed . 636 ( 1875 ) .
+93-1	10387-10396	Narrowing	_	_	
+93-2	10397-10400	his	_	_	
+93-3	10401-10408	initial	_	_	
+93-4	10409-10418	assertion	_	_	
+93-5	10419-10422	and	_	_	
+93-6	10423-10429	moving	_	_	
+93-7	10430-10434	away	_	_	
+93-8	10435-10439	from	_	_	
+93-9	10440-10443	the	_	_	
+93-10	10444-10452	question	_	_	
+93-11	10453-10455	on	_	_	
+93-12	10456-10461	which	_	_	
+93-13	10462-10464	we	_	_	
+93-14	10465-10472	granted	_	_	
+93-15	10473-10483	certiorari	_	_	
+93-16	10484-10485	,	_	_	
+93-17	10486-10494	Rotkiske	_	_	
+93-18	10495-10499	also	_	_	
+93-19	10500-10508	contends	_	_	
+93-20	10509-10513	that	_	_	
+93-21	10514-10517	his	_	_	
+93-22	10518-10524	filing	_	_	
+93-23	10525-10531	should	_	_	
+93-24	10532-10534	be	_	_	
+93-25	10535-10542	treated	_	_	
+93-26	10543-10545	as	_	_	
+93-27	10546-10552	timely	_	_	
+93-28	10553-10558	under	_	_	
+93-29	10559-10561	an	_	_	
+93-30	10562-10571	equitable	_	_	
+93-31	10572-10573	,	_	_	
+93-32	10574-10579	fraud	_	_	
+93-33	10580-10581	-	_	_	
+93-34	10582-10590	specific	_	_	
+93-35	10591-10600	discovery	_	_	
+93-36	10601-10605	rule	_	_	
+93-37	10606-10607	,	_	_	
+93-38	10608-10615	relying	_	_	
+93-39	10616-10618	on	_	_	
+93-40	10619-10620	a	_	_	
+93-41	10621-10625	line	_	_	
+93-42	10626-10628	of	_	_	
+93-43	10629-10638	decisions	_	_	
+93-44	10639-10648	beginning	_	_	
+93-45	10649-10653	with	_	_	
+93-46	10654-10660	Bailey	*[98]	Legal Source[98]	
+93-47	10661-10663	v.	*[98]	Legal Source[98]	
+93-48	10664-10670	Glover	*[98]	Legal Source[98]	
+93-49	10671-10672	,	*[98]	Legal Source[98]	
+93-50	10673-10675	21	*[98]	Legal Source[98]	
+93-51	10676-10680	Wall	*[98]	Legal Source[98]	
+93-52	10681-10682	.	*[98]	Legal Source[98]	
+93-53	10683-10686	342	*[98]	Legal Source[98]	
+93-54	10687-10688	,	*[98]	Legal Source[98]	
+93-55	10689-10691	22	*[98]	Legal Source[98]	
+93-56	10692-10696	L.Ed	*[98]	Legal Source[98]	
+93-57	10697-10698	.	*[98]	Legal Source[98]	
+93-58	10699-10702	636	*[98]	Legal Source[98]	
+93-59	10703-10704	(	*[98]	Legal Source[98]	
+93-60	10705-10709	1875	*[98]	Legal Source[98]	
+93-61	10710-10711	)	*[98]	Legal Source[98]	
+93-62	10712-10713	.	_	_	
+
+#Text=Rotkiske claims that Bailey and its progeny apply an equitable doctrine that delays the commencement of the statute of limitations in fraud actions , and that he has pleaded ( or could plead ) a claim within the scope of this doctrine .
+94-1	10714-10722	Rotkiske	_	_	
+94-2	10723-10729	claims	_	_	
+94-3	10730-10734	that	_	_	
+94-4	10735-10741	Bailey	_	_	
+94-5	10742-10745	and	_	_	
+94-6	10746-10749	its	_	_	
+94-7	10750-10757	progeny	_	_	
+94-8	10758-10763	apply	_	_	
+94-9	10764-10766	an	_	_	
+94-10	10767-10776	equitable	_	_	
+94-11	10777-10785	doctrine	_	_	
+94-12	10786-10790	that	_	_	
+94-13	10791-10797	delays	_	_	
+94-14	10798-10801	the	_	_	
+94-15	10802-10814	commencement	_	_	
+94-16	10815-10817	of	_	_	
+94-17	10818-10821	the	_	_	
+94-18	10822-10829	statute	_	_	
+94-19	10830-10832	of	_	_	
+94-20	10833-10844	limitations	_	_	
+94-21	10845-10847	in	_	_	
+94-22	10848-10853	fraud	_	_	
+94-23	10854-10861	actions	_	_	
+94-24	10862-10863	,	_	_	
+94-25	10864-10867	and	_	_	
+94-26	10868-10872	that	_	_	
+94-27	10873-10875	he	_	_	
+94-28	10876-10879	has	_	_	
+94-29	10880-10887	pleaded	_	_	
+94-30	10888-10889	(	_	_	
+94-31	10890-10892	or	_	_	
+94-32	10893-10898	could	_	_	
+94-33	10899-10904	plead	_	_	
+94-34	10905-10906	)	_	_	
+94-35	10907-10908	a	_	_	
+94-36	10909-10914	claim	_	_	
+94-37	10915-10921	within	_	_	
+94-38	10922-10925	the	_	_	
+94-39	10926-10931	scope	_	_	
+94-40	10932-10934	of	_	_	
+94-41	10935-10939	this	_	_	
+94-42	10940-10948	doctrine	_	_	
+94-43	10949-10950	.	_	_	
+
+#Text=This Court has noted the existence of decisions applying a discovery rule in " fraud cases " that is distinct from the traditional equitable tolling doctrine .
+95-1	10951-10955	This	_	_	
+95-2	10956-10961	Court	_	_	
+95-3	10962-10965	has	_	_	
+95-4	10966-10971	noted	_	_	
+95-5	10972-10975	the	_	_	
+95-6	10976-10985	existence	_	_	
+95-7	10986-10988	of	_	_	
+95-8	10989-10998	decisions	_	_	
+95-9	10999-11007	applying	_	_	
+95-10	11008-11009	a	_	_	
+95-11	11010-11019	discovery	_	_	
+95-12	11020-11024	rule	_	_	
+95-13	11025-11027	in	_	_	
+95-14	11028-11029	"	*[99]	Direct Quote[99]	
+95-15	11030-11035	fraud	*[99]	Direct Quote[99]	
+95-16	11036-11041	cases	*[99]	Direct Quote[99]	
+95-17	11042-11043	"	*[99]	Direct Quote[99]	
+95-18	11044-11048	that	_	_	
+95-19	11049-11051	is	_	_	
+95-20	11052-11060	distinct	_	_	
+95-21	11061-11065	from	_	_	
+95-22	11066-11069	the	_	_	
+95-23	11070-11081	traditional	_	_	
+95-24	11082-11091	equitable	_	_	
+95-25	11092-11099	tolling	_	_	
+95-26	11100-11108	doctrine	_	_	
+95-27	11109-11110	.	_	_	
+
+#Text=Merck & Co. v. Reynolds , 559 U.S. 633 , 644 , 130 S.Ct . 1784 , 176 L.Ed.2d 582 ( 2010 ) ; Gabelli v. SEC , 568 U.S. 442 , 450 , 133 S.Ct . 1216 , 185 L.Ed.2d 297 ( 2013 ) ( referring to the " fraud discovery rule " ) .
+96-1	11111-11116	Merck	*[100]	Legal Source[100]	
+96-2	11117-11118	&	*[100]	Legal Source[100]	
+96-3	11119-11122	Co.	*[100]	Legal Source[100]	
+96-4	11123-11125	v.	*[100]	Legal Source[100]	
+96-5	11126-11134	Reynolds	*[100]	Legal Source[100]	
+96-6	11135-11136	,	*[100]	Legal Source[100]	
+96-7	11137-11140	559	*[100]	Legal Source[100]	
+96-8	11141-11145	U.S.	*[100]	Legal Source[100]	
+96-9	11146-11149	633	*[100]	Legal Source[100]	
+96-10	11150-11151	,	*[100]	Legal Source[100]	
+96-11	11152-11155	644	*[100]	Legal Source[100]	
+96-12	11156-11157	,	*[100]	Legal Source[100]	
+96-13	11158-11161	130	*[100]	Legal Source[100]	
+96-14	11162-11166	S.Ct	*[100]	Legal Source[100]	
+96-15	11167-11168	.	*[100]	Legal Source[100]	
+96-16	11169-11173	1784	*[100]	Legal Source[100]	
+96-17	11174-11175	,	*[100]	Legal Source[100]	
+96-18	11176-11179	176	*[100]	Legal Source[100]	
+96-19	11180-11187	L.Ed.2d	*[100]	Legal Source[100]	
+96-20	11188-11191	582	*[100]	Legal Source[100]	
+96-21	11192-11193	(	*[100]	Legal Source[100]	
+96-22	11194-11198	2010	*[100]	Legal Source[100]	
+96-23	11199-11200	)	*[100]	Legal Source[100]	
+96-24	11201-11202	;	_	_	
+96-25	11203-11210	Gabelli	*[101]	Legal Source[101]	
+96-26	11211-11213	v.	*[101]	Legal Source[101]	
+96-27	11214-11217	SEC	*[101]	Legal Source[101]	
+96-28	11218-11219	,	*[101]	Legal Source[101]	
+96-29	11220-11223	568	*[101]	Legal Source[101]	
+96-30	11224-11228	U.S.	*[101]	Legal Source[101]	
+96-31	11229-11232	442	*[101]	Legal Source[101]	
+96-32	11233-11234	,	*[101]	Legal Source[101]	
+96-33	11235-11238	450	*[101]	Legal Source[101]	
+96-34	11239-11240	,	*[101]	Legal Source[101]	
+96-35	11241-11244	133	*[101]	Legal Source[101]	
+96-36	11245-11249	S.Ct	*[101]	Legal Source[101]	
+96-37	11250-11251	.	*[101]	Legal Source[101]	
+96-38	11252-11256	1216	*[101]	Legal Source[101]	
+96-39	11257-11258	,	*[101]	Legal Source[101]	
+96-40	11259-11262	185	*[101]	Legal Source[101]	
+96-41	11263-11270	L.Ed.2d	*[101]	Legal Source[101]	
+96-42	11271-11274	297	*[101]	Legal Source[101]	
+96-43	11275-11276	(	*[101]	Legal Source[101]	
+96-44	11277-11281	2013	*[101]	Legal Source[101]	
+96-45	11282-11283	)	*[101]	Legal Source[101]	
+96-46	11284-11285	(	_	_	
+96-47	11286-11295	referring	_	_	
+96-48	11296-11298	to	_	_	
+96-49	11299-11302	the	_	_	
+96-50	11303-11304	"	*[102]	Direct Quote[102]	
+96-51	11305-11310	fraud	*[102]	Direct Quote[102]	
+96-52	11311-11320	discovery	*[102]	Direct Quote[102]	
+96-53	11321-11325	rule	*[102]	Direct Quote[102]	
+96-54	11326-11327	"	*[102]	Direct Quote[102]	
+96-55	11328-11329	)	_	_	
+96-56	11330-11331	.	_	_	
+
+#Text=And it has repeatedly characterized these decisions as applying an equity - based doctrine .
+97-1	11332-11335	And	_	_	
+97-2	11336-11338	it	_	_	
+97-3	11339-11342	has	_	_	
+97-4	11343-11353	repeatedly	_	_	
+97-5	11354-11367	characterized	_	_	
+97-6	11368-11373	these	_	_	
+97-7	11374-11383	decisions	_	_	
+97-8	11384-11386	as	_	_	
+97-9	11387-11395	applying	_	_	
+97-10	11396-11398	an	_	_	
+97-11	11399-11405	equity	_	_	
+97-12	11406-11407	-	_	_	
+97-13	11408-11413	based	_	_	
+97-14	11414-11422	doctrine	_	_	
+97-15	11423-11424	.	_	_	
+
+#Text=California Public Employees ' Retirement System v. ANZ Securities , Inc. , 582 U.S. ---- , ---- - ---- , 137 S.Ct . 2042 , 2051 - 2053 , 198 L.Ed.2d 584 ( 2017 ) ; Lozano v. Montoya Alvarez , 572 U.S. 1 , 10 - 11 , 134 S.Ct . 1224 , 188 L.Ed.2d 200 ( 2014 ) ; Credit Suisse Securities ( USA ) LLC v. Simmonds , 566 U.S. 221 , 226 - 227 , 132 S.Ct . 1414 , 182 L.Ed.2d 446 ( 2012 ) ; Young v. United States , 535 U.S. 43 , 49 - 50 , 122 S.Ct . 1036 , 152 L.Ed.2d 79 ( 2002 ) .
+98-1	11425-11435	California	*[103]	Legal Source[103]	
+98-2	11436-11442	Public	*[103]	Legal Source[103]	
+98-3	11443-11452	Employees	*[103]	Legal Source[103]	
+98-4	11453-11454	'	*[103]	Legal Source[103]	
+98-5	11455-11465	Retirement	*[103]	Legal Source[103]	
+98-6	11466-11472	System	*[103]	Legal Source[103]	
+98-7	11473-11475	v.	*[103]	Legal Source[103]	
+98-8	11476-11479	ANZ	*[103]	Legal Source[103]	
+98-9	11480-11490	Securities	*[103]	Legal Source[103]	
+98-10	11491-11492	,	*[103]	Legal Source[103]	
+98-11	11493-11497	Inc.	*[103]	Legal Source[103]	
+98-12	11498-11499	,	*[103]	Legal Source[103]	
+98-13	11500-11503	582	*[103]	Legal Source[103]	
+98-14	11504-11508	U.S.	*[103]	Legal Source[103]	
+98-15	11509-11513	----	*[103]	Legal Source[103]	
+98-16	11514-11515	,	*[103]	Legal Source[103]	
+98-17	11516-11520	----	*[103]	Legal Source[103]	
+98-18	11521-11522	-	*[103]	Legal Source[103]	
+98-19	11523-11527	----	*[103]	Legal Source[103]	
+98-20	11528-11529	,	*[103]	Legal Source[103]	
+98-21	11530-11533	137	*[103]	Legal Source[103]	
+98-22	11534-11538	S.Ct	*[103]	Legal Source[103]	
+98-23	11539-11540	.	*[103]	Legal Source[103]	
+98-24	11541-11545	2042	*[103]	Legal Source[103]	
+98-25	11546-11547	,	*[103]	Legal Source[103]	
+98-26	11548-11552	2051	*[103]	Legal Source[103]	
+98-27	11553-11554	-	*[103]	Legal Source[103]	
+98-28	11555-11559	2053	*[103]	Legal Source[103]	
+98-29	11560-11561	,	*[103]	Legal Source[103]	
+98-30	11562-11565	198	*[103]	Legal Source[103]	
+98-31	11566-11573	L.Ed.2d	*[103]	Legal Source[103]	
+98-32	11574-11577	584	*[103]	Legal Source[103]	
+98-33	11578-11579	(	*[103]	Legal Source[103]	
+98-34	11580-11584	2017	*[103]	Legal Source[103]	
+98-35	11585-11586	)	*[103]	Legal Source[103]	
+98-36	11587-11588	;	_	_	
+98-37	11589-11595	Lozano	*[104]	Legal Source[104]	
+98-38	11596-11598	v.	*[104]	Legal Source[104]	
+98-39	11599-11606	Montoya	*[104]	Legal Source[104]	
+98-40	11607-11614	Alvarez	*[104]	Legal Source[104]	
+98-41	11615-11616	,	*[104]	Legal Source[104]	
+98-42	11617-11620	572	*[104]	Legal Source[104]	
+98-43	11621-11625	U.S.	*[104]	Legal Source[104]	
+98-44	11626-11627	1	*[104]	Legal Source[104]	
+98-45	11628-11629	,	*[104]	Legal Source[104]	
+98-46	11630-11632	10	*[104]	Legal Source[104]	
+98-47	11633-11634	-	*[104]	Legal Source[104]	
+98-48	11635-11637	11	*[104]	Legal Source[104]	
+98-49	11638-11639	,	*[104]	Legal Source[104]	
+98-50	11640-11643	134	*[104]	Legal Source[104]	
+98-51	11644-11648	S.Ct	*[104]	Legal Source[104]	
+98-52	11649-11650	.	*[104]	Legal Source[104]	
+98-53	11651-11655	1224	*[104]	Legal Source[104]	
+98-54	11656-11657	,	*[104]	Legal Source[104]	
+98-55	11658-11661	188	*[104]	Legal Source[104]	
+98-56	11662-11669	L.Ed.2d	*[104]	Legal Source[104]	
+98-57	11670-11673	200	*[104]	Legal Source[104]	
+98-58	11674-11675	(	*[104]	Legal Source[104]	
+98-59	11676-11680	2014	*[104]	Legal Source[104]	
+98-60	11681-11682	)	*[104]	Legal Source[104]	
+98-61	11683-11684	;	_	_	
+98-62	11685-11691	Credit	*[105]	Legal Source[105]	
+98-63	11692-11698	Suisse	*[105]	Legal Source[105]	
+98-64	11699-11709	Securities	*[105]	Legal Source[105]	
+98-65	11710-11711	(	*[105]	Legal Source[105]	
+98-66	11712-11715	USA	*[105]	Legal Source[105]	
+98-67	11716-11717	)	*[105]	Legal Source[105]	
+98-68	11718-11721	LLC	*[105]	Legal Source[105]	
+98-69	11722-11724	v.	*[105]	Legal Source[105]	
+98-70	11725-11733	Simmonds	*[105]	Legal Source[105]	
+98-71	11734-11735	,	*[105]	Legal Source[105]	
+98-72	11736-11739	566	*[105]	Legal Source[105]	
+98-73	11740-11744	U.S.	*[105]	Legal Source[105]	
+98-74	11745-11748	221	*[105]	Legal Source[105]	
+98-75	11749-11750	,	*[105]	Legal Source[105]	
+98-76	11751-11754	226	*[105]	Legal Source[105]	
+98-77	11755-11756	-	*[105]	Legal Source[105]	
+98-78	11757-11760	227	*[105]	Legal Source[105]	
+98-79	11761-11762	,	*[105]	Legal Source[105]	
+98-80	11763-11766	132	*[105]	Legal Source[105]	
+98-81	11767-11771	S.Ct	*[105]	Legal Source[105]	
+98-82	11772-11773	.	*[105]	Legal Source[105]	
+98-83	11774-11778	1414	*[105]	Legal Source[105]	
+98-84	11779-11780	,	*[105]	Legal Source[105]	
+98-85	11781-11784	182	*[105]	Legal Source[105]	
+98-86	11785-11792	L.Ed.2d	*[105]	Legal Source[105]	
+98-87	11793-11796	446	*[105]	Legal Source[105]	
+98-88	11797-11798	(	*[105]	Legal Source[105]	
+98-89	11799-11803	2012	*[105]	Legal Source[105]	
+98-90	11804-11805	)	*[105]	Legal Source[105]	
+98-91	11806-11807	;	_	_	
+98-92	11808-11813	Young	*[106]	Legal Source[106]	
+98-93	11814-11816	v.	*[106]	Legal Source[106]	
+98-94	11817-11823	United	*[106]	Legal Source[106]	
+98-95	11824-11830	States	*[106]	Legal Source[106]	
+98-96	11831-11832	,	*[106]	Legal Source[106]	
+98-97	11833-11836	535	*[106]	Legal Source[106]	
+98-98	11837-11841	U.S.	*[106]	Legal Source[106]	
+98-99	11842-11844	43	*[106]	Legal Source[106]	
+98-100	11845-11846	,	*[106]	Legal Source[106]	
+98-101	11847-11849	49	*[106]	Legal Source[106]	
+98-102	11850-11851	-	*[106]	Legal Source[106]	
+98-103	11852-11854	50	*[106]	Legal Source[106]	
+98-104	11855-11856	,	*[106]	Legal Source[106]	
+98-105	11857-11860	122	*[106]	Legal Source[106]	
+98-106	11861-11865	S.Ct	*[106]	Legal Source[106]	
+98-107	11866-11867	.	*[106]	Legal Source[106]	
+98-108	11868-11872	1036	*[106]	Legal Source[106]	
+98-109	11873-11874	,	*[106]	Legal Source[106]	
+98-110	11875-11878	152	*[106]	Legal Source[106]	
+98-111	11879-11886	L.Ed.2d	*[106]	Legal Source[106]	
+98-112	11887-11889	79	*[106]	Legal Source[106]	
+98-113	11890-11891	(	*[106]	Legal Source[106]	
+98-114	11892-11896	2002	*[106]	Legal Source[106]	
+98-115	11897-11898	)	*[106]	Legal Source[106]	
+98-116	11899-11900	.	_	_	
+
+#Text=Rotkiske failed to preserve this issue before the Third Circuit , 890 F.3d at 428 , and failed to raise this issue in his petition for certiorari .
+99-1	11901-11909	Rotkiske	_	_	
+99-2	11910-11916	failed	_	_	
+99-3	11917-11919	to	_	_	
+99-4	11920-11928	preserve	_	_	
+99-5	11929-11933	this	_	_	
+99-6	11934-11939	issue	_	_	
+99-7	11940-11946	before	_	_	
+99-8	11947-11950	the	_	_	
+99-9	11951-11956	Third	_	_	
+99-10	11957-11964	Circuit	_	_	
+99-11	11965-11966	,	_	_	
+99-12	11967-11970	890	*[107]	Legal Source[107]	
+99-13	11971-11975	F.3d	*[107]	Legal Source[107]	
+99-14	11976-11978	at	*[107]	Legal Source[107]	
+99-15	11979-11982	428	*[107]	Legal Source[107]	
+99-16	11983-11984	,	_	_	
+99-17	11985-11988	and	_	_	
+99-18	11989-11995	failed	_	_	
+99-19	11996-11998	to	_	_	
+99-20	11999-12004	raise	_	_	
+99-21	12005-12009	this	_	_	
+99-22	12010-12015	issue	_	_	
+99-23	12016-12018	in	_	_	
+99-24	12019-12022	his	_	_	
+99-25	12023-12031	petition	_	_	
+99-26	12032-12035	for	_	_	
+99-27	12036-12046	certiorari	_	_	
+99-28	12047-12048	.	_	_	
+
+#Text=Accordingly , Rotkiske can not rely on this doctrine to excuse his otherwise untimely filing .
+100-1	12049-12060	Accordingly	_	_	
+100-2	12061-12062	,	_	_	
+100-3	12063-12071	Rotkiske	_	_	
+100-4	12072-12075	can	_	_	
+100-5	12076-12079	not	_	_	
+100-6	12080-12084	rely	_	_	
+100-7	12085-12087	on	_	_	
+100-8	12088-12092	this	_	_	
+100-9	12093-12101	doctrine	_	_	
+100-10	12102-12104	to	_	_	
+100-11	12105-12111	excuse	_	_	
+100-12	12112-12115	his	_	_	
+100-13	12116-12125	otherwise	_	_	
+100-14	12126-12134	untimely	_	_	
+100-15	12135-12141	filing	_	_	
+100-16	12142-12143	.	_	_	
+
+#Text=* * *
+101-1	12144-12145	*	_	_	
+101-2	12146-12147	*	_	_	
+101-3	12148-12149	*	_	_	
+
+#Text=For the foregoing reasons , the judgment of the Court of Appeals is affirmed .
+102-1	12150-12153	For	_	_	
+102-2	12154-12157	the	_	_	
+102-3	12158-12167	foregoing	_	_	
+102-4	12168-12175	reasons	_	_	
+102-5	12176-12177	,	_	_	
+102-6	12178-12181	the	_	_	
+102-7	12182-12190	judgment	_	_	
+102-8	12191-12193	of	_	_	
+102-9	12194-12197	the	_	_	
+102-10	12198-12203	Court	_	_	
+102-11	12204-12206	of	_	_	
+102-12	12207-12214	Appeals	_	_	
+102-13	12215-12217	is	_	_	
+102-14	12218-12226	affirmed	_	_	
+102-15	12227-12228	.	_	_	
+
+#Text=It is so ordered .
+103-1	12229-12231	It	_	_	
+103-2	12232-12234	is	_	_	
+103-3	12235-12237	so	_	_	
+103-4	12238-12245	ordered	_	_	
+103-5	12246-12247	.	_	_	

@@ -1,0 +1,2926 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice GORSUCH delivered the opinion of the Court .
+1-1	0-7	Justice	_	_	
+1-2	8-15	GORSUCH	_	_	
+1-3	16-25	delivered	_	_	
+1-4	26-29	the	_	_	
+1-5	30-37	opinion	_	_	
+1-6	38-40	of	_	_	
+1-7	41-44	the	_	_	
+1-8	45-50	Court	_	_	
+1-9	51-52	.	_	_	
+
+#Text=When it comes to remedies for trademark infringement , the Lanham Act authorizes many .
+2-1	53-57	When	_	_	
+2-2	58-60	it	_	_	
+2-3	61-66	comes	_	_	
+2-4	67-69	to	_	_	
+2-5	70-78	remedies	_	_	
+2-6	79-82	for	_	_	
+2-7	83-92	trademark	_	_	
+2-8	93-105	infringement	_	_	
+2-9	106-107	,	_	_	
+2-10	108-111	the	_	_	
+2-11	112-118	Lanham	*[1]	Legal Source[1]	
+2-12	119-122	Act	*[1]	Legal Source[1]	
+2-13	123-133	authorizes	_	_	
+2-14	134-138	many	_	_	
+2-15	139-140	.	_	_	
+
+#Text=A district court may award a winning plaintiff injunctive relief , damages , or the defendant 's ill - gotten profits .
+3-1	141-142	A	_	_	
+3-2	143-151	district	_	_	
+3-3	152-157	court	_	_	
+3-4	158-161	may	_	_	
+3-5	162-167	award	_	_	
+3-6	168-169	a	_	_	
+3-7	170-177	winning	_	_	
+3-8	178-187	plaintiff	_	_	
+3-9	188-198	injunctive	_	_	
+3-10	199-205	relief	_	_	
+3-11	206-207	,	_	_	
+3-12	208-215	damages	_	_	
+3-13	216-217	,	_	_	
+3-14	218-220	or	_	_	
+3-15	221-224	the	_	_	
+3-16	225-234	defendant	_	_	
+3-17	235-237	's	_	_	
+3-18	238-241	ill	_	_	
+3-19	242-243	-	_	_	
+3-20	244-250	gotten	_	_	
+3-21	251-258	profits	_	_	
+3-22	259-260	.	_	_	
+
+#Text=Without question , a defendant 's state of mind may have a bearing on what relief a plaintiff should receive .
+4-1	261-268	Without	_	_	
+4-2	269-277	question	_	_	
+4-3	278-279	,	_	_	
+4-4	280-281	a	_	_	
+4-5	282-291	defendant	_	_	
+4-6	292-294	's	_	_	
+4-7	295-300	state	_	_	
+4-8	301-303	of	_	_	
+4-9	304-308	mind	_	_	
+4-10	309-312	may	_	_	
+4-11	313-317	have	_	_	
+4-12	318-319	a	_	_	
+4-13	320-327	bearing	_	_	
+4-14	328-330	on	_	_	
+4-15	331-335	what	_	_	
+4-16	336-342	relief	_	_	
+4-17	343-344	a	_	_	
+4-18	345-354	plaintiff	_	_	
+4-19	355-361	should	_	_	
+4-20	362-369	receive	_	_	
+4-21	370-371	.	_	_	
+
+#Text=An innocent trademark violator often stands in very different shoes than an intentional one .
+5-1	372-374	An	_	_	
+5-2	375-383	innocent	_	_	
+5-3	384-393	trademark	_	_	
+5-4	394-402	violator	_	_	
+5-5	403-408	often	_	_	
+5-6	409-415	stands	_	_	
+5-7	416-418	in	_	_	
+5-8	419-423	very	_	_	
+5-9	424-433	different	_	_	
+5-10	434-439	shoes	_	_	
+5-11	440-444	than	_	_	
+5-12	445-447	an	_	_	
+5-13	448-459	intentional	_	_	
+5-14	460-463	one	_	_	
+5-15	464-465	.	_	_	
+
+#Text=But some circuits have gone further .
+6-1	466-469	But	_	_	
+6-2	470-474	some	_	_	
+6-3	475-483	circuits	_	_	
+6-4	484-488	have	_	_	
+6-5	489-493	gone	_	_	
+6-6	494-501	further	_	_	
+6-7	502-503	.	_	_	
+
+#Text=These courts hold a plaintiff can win a profits remedy , in particular , only after showing the defendant willfully infringed its trademark .
+7-1	504-509	These	_	_	
+7-2	510-516	courts	_	_	
+7-3	517-521	hold	_	_	
+7-4	522-523	a	_	_	
+7-5	524-533	plaintiff	_	_	
+7-6	534-537	can	_	_	
+7-7	538-541	win	_	_	
+7-8	542-543	a	_	_	
+7-9	544-551	profits	_	_	
+7-10	552-558	remedy	_	_	
+7-11	559-560	,	_	_	
+7-12	561-563	in	_	_	
+7-13	564-574	particular	_	_	
+7-14	575-576	,	_	_	
+7-15	577-581	only	_	_	
+7-16	582-587	after	_	_	
+7-17	588-595	showing	_	_	
+7-18	596-599	the	_	_	
+7-19	600-609	defendant	_	_	
+7-20	610-619	willfully	_	_	
+7-21	620-629	infringed	_	_	
+7-22	630-633	its	_	_	
+7-23	634-643	trademark	_	_	
+7-24	644-645	.	_	_	
+
+#Text=The question before us is whether that categorical rule can be reconciled with the statute 's plain language .
+8-1	646-649	The	_	_	
+8-2	650-658	question	_	_	
+8-3	659-665	before	_	_	
+8-4	666-668	us	_	_	
+8-5	669-671	is	_	_	
+8-6	672-679	whether	_	_	
+8-7	680-684	that	_	_	
+8-8	685-696	categorical	_	_	
+8-9	697-701	rule	_	_	
+8-10	702-705	can	_	_	
+8-11	706-708	be	_	_	
+8-12	709-719	reconciled	_	_	
+8-13	720-724	with	_	_	
+8-14	725-728	the	_	_	
+8-15	729-736	statute	_	_	
+8-16	737-739	's	_	_	
+8-17	740-745	plain	*[2]	Metalinguistic Cue[2]	
+8-18	746-754	language	*[2]	Metalinguistic Cue[2]	
+8-19	755-756	.	_	_	
+
+#Text=The question comes to us in a case involving handbag fasteners .
+9-1	757-760	The	_	_	
+9-2	761-769	question	_	_	
+9-3	770-775	comes	_	_	
+9-4	776-778	to	_	_	
+9-5	779-781	us	_	_	
+9-6	782-784	in	_	_	
+9-7	785-786	a	_	_	
+9-8	787-791	case	_	_	
+9-9	792-801	involving	_	_	
+9-10	802-809	handbag	_	_	
+9-11	810-819	fasteners	_	_	
+9-12	820-821	.	_	_	
+
+#Text=Romag sells magnetic snap fasteners for use in leather goods .
+10-1	822-827	Romag	_	_	
+10-2	828-833	sells	_	_	
+10-3	834-842	magnetic	_	_	
+10-4	843-847	snap	_	_	
+10-5	848-857	fasteners	_	_	
+10-6	858-861	for	_	_	
+10-7	862-865	use	_	_	
+10-8	866-868	in	_	_	
+10-9	869-876	leather	_	_	
+10-10	877-882	goods	_	_	
+10-11	883-884	.	_	_	
+
+#Text=Fossil designs , markets , and distributes a wide range of fashion accessories .
+11-1	885-891	Fossil	_	_	
+11-2	892-899	designs	_	_	
+11-3	900-901	,	_	_	
+11-4	902-909	markets	_	_	
+11-5	910-911	,	_	_	
+11-6	912-915	and	_	_	
+11-7	916-927	distributes	_	_	
+11-8	928-929	a	_	_	
+11-9	930-934	wide	_	_	
+11-10	935-940	range	_	_	
+11-11	941-943	of	_	_	
+11-12	944-951	fashion	_	_	
+11-13	952-963	accessories	_	_	
+11-14	964-965	.	_	_	
+
+#Text=Years ago , the pair signed an agreement allowing Fossil to use Romag 's fasteners in Fossil 's handbags and other products .
+12-1	966-971	Years	_	_	
+12-2	972-975	ago	_	_	
+12-3	976-977	,	_	_	
+12-4	978-981	the	_	_	
+12-5	982-986	pair	_	_	
+12-6	987-993	signed	_	_	
+12-7	994-996	an	_	_	
+12-8	997-1006	agreement	_	_	
+12-9	1007-1015	allowing	_	_	
+12-10	1016-1022	Fossil	_	_	
+12-11	1023-1025	to	_	_	
+12-12	1026-1029	use	_	_	
+12-13	1030-1035	Romag	_	_	
+12-14	1036-1038	's	_	_	
+12-15	1039-1048	fasteners	_	_	
+12-16	1049-1051	in	_	_	
+12-17	1052-1058	Fossil	_	_	
+12-18	1059-1061	's	_	_	
+12-19	1062-1070	handbags	_	_	
+12-20	1071-1074	and	_	_	
+12-21	1075-1080	other	_	_	
+12-22	1081-1089	products	_	_	
+12-23	1090-1091	.	_	_	
+
+#Text=Initially , both sides seemed content with the arrangement .
+13-1	1092-1101	Initially	_	_	
+13-2	1102-1103	,	_	_	
+13-3	1104-1108	both	_	_	
+13-4	1109-1114	sides	_	_	
+13-5	1115-1121	seemed	_	_	
+13-6	1122-1129	content	_	_	
+13-7	1130-1134	with	_	_	
+13-8	1135-1138	the	_	_	
+13-9	1139-1150	arrangement	_	_	
+13-10	1151-1152	.	_	_	
+
+#Text=But in time Romag discovered that the factories Fossil hired in China to make its products were using counterfeit Romag fasteners - and that Fossil was doing little to guard against the practice .
+14-1	1153-1156	But	_	_	
+14-2	1157-1159	in	_	_	
+14-3	1160-1164	time	_	_	
+14-4	1165-1170	Romag	_	_	
+14-5	1171-1181	discovered	_	_	
+14-6	1182-1186	that	_	_	
+14-7	1187-1190	the	_	_	
+14-8	1191-1200	factories	_	_	
+14-9	1201-1207	Fossil	_	_	
+14-10	1208-1213	hired	_	_	
+14-11	1214-1216	in	_	_	
+14-12	1217-1222	China	_	_	
+14-13	1223-1225	to	_	_	
+14-14	1226-1230	make	_	_	
+14-15	1231-1234	its	_	_	
+14-16	1235-1243	products	_	_	
+14-17	1244-1248	were	_	_	
+14-18	1249-1254	using	_	_	
+14-19	1255-1266	counterfeit	_	_	
+14-20	1267-1272	Romag	_	_	
+14-21	1273-1282	fasteners	_	_	
+14-22	1283-1284	-	_	_	
+14-23	1285-1288	and	_	_	
+14-24	1289-1293	that	_	_	
+14-25	1294-1300	Fossil	_	_	
+14-26	1301-1304	was	_	_	
+14-27	1305-1310	doing	_	_	
+14-28	1311-1317	little	_	_	
+14-29	1318-1320	to	_	_	
+14-30	1321-1326	guard	_	_	
+14-31	1327-1334	against	_	_	
+14-32	1335-1338	the	_	_	
+14-33	1339-1347	practice	_	_	
+14-34	1348-1349	.	_	_	
+
+#Text=Unable to resolve its concerns amicably , Romag sued .
+15-1	1350-1356	Unable	_	_	
+15-2	1357-1359	to	_	_	
+15-3	1360-1367	resolve	_	_	
+15-4	1368-1371	its	_	_	
+15-5	1372-1380	concerns	_	_	
+15-6	1381-1389	amicably	_	_	
+15-7	1390-1391	,	_	_	
+15-8	1392-1397	Romag	_	_	
+15-9	1398-1402	sued	_	_	
+15-10	1403-1404	.	_	_	
+
+#Text=The company alleged that Fossil had infringed its trademark and falsely represented that its fasteners came from Romag .
+16-1	1405-1408	The	_	_	
+16-2	1409-1416	company	_	_	
+16-3	1417-1424	alleged	_	_	
+16-4	1425-1429	that	_	_	
+16-5	1430-1436	Fossil	_	_	
+16-6	1437-1440	had	_	_	
+16-7	1441-1450	infringed	_	_	
+16-8	1451-1454	its	_	_	
+16-9	1455-1464	trademark	_	_	
+16-10	1465-1468	and	_	_	
+16-11	1469-1476	falsely	_	_	
+16-12	1477-1488	represented	_	_	
+16-13	1489-1493	that	_	_	
+16-14	1494-1497	its	_	_	
+16-15	1498-1507	fasteners	_	_	
+16-16	1508-1512	came	_	_	
+16-17	1513-1517	from	_	_	
+16-18	1518-1523	Romag	_	_	
+16-19	1524-1525	.	_	_	
+
+#Text=After trial , a jury agreed with Romag , and found that Fossil had acted " in callous disregard " of Romag 's rights .
+17-1	1526-1531	After	_	_	
+17-2	1532-1537	trial	_	_	
+17-3	1538-1539	,	_	_	
+17-4	1540-1541	a	_	_	
+17-5	1542-1546	jury	_	_	
+17-6	1547-1553	agreed	_	_	
+17-7	1554-1558	with	_	_	
+17-8	1559-1564	Romag	_	_	
+17-9	1565-1566	,	_	_	
+17-10	1567-1570	and	_	_	
+17-11	1571-1576	found	_	_	
+17-12	1577-1581	that	_	_	
+17-13	1582-1588	Fossil	_	_	
+17-14	1589-1592	had	_	_	
+17-15	1593-1598	acted	_	_	
+17-16	1599-1600	"	*[3]	Direct Quote[3]	
+17-17	1601-1603	in	*[3]	Direct Quote[3]	
+17-18	1604-1611	callous	*[3]	Direct Quote[3]	
+17-19	1612-1621	disregard	*[3]	Direct Quote[3]	
+17-20	1622-1623	"	*[3]	Direct Quote[3]	
+17-21	1624-1626	of	_	_	
+17-22	1627-1632	Romag	_	_	
+17-23	1633-1635	's	_	_	
+17-24	1636-1642	rights	_	_	
+17-25	1643-1644	.	_	_	
+
+#Text=At the same time , however , the jury rejected Romag 's accusation that Fossil had acted willfully , as that term was defined by the district court .
+18-1	1645-1647	At	_	_	
+18-2	1648-1651	the	_	_	
+18-3	1652-1656	same	_	_	
+18-4	1657-1661	time	_	_	
+18-5	1662-1663	,	_	_	
+18-6	1664-1671	however	_	_	
+18-7	1672-1673	,	_	_	
+18-8	1674-1677	the	_	_	
+18-9	1678-1682	jury	_	_	
+18-10	1683-1691	rejected	_	_	
+18-11	1692-1697	Romag	_	_	
+18-12	1698-1700	's	_	_	
+18-13	1701-1711	accusation	_	_	
+18-14	1712-1716	that	_	_	
+18-15	1717-1723	Fossil	_	_	
+18-16	1724-1727	had	_	_	
+18-17	1728-1733	acted	_	_	
+18-18	1734-1743	willfully	*	Focal Term	
+18-19	1744-1745	,	_	_	
+18-20	1746-1748	as	_	_	
+18-21	1749-1753	that	_	_	
+18-22	1754-1758	term	*	Metalinguistic Cue	
+18-23	1759-1762	was	_	_	
+18-24	1763-1770	defined	_	_	
+18-25	1771-1773	by	_	_	
+18-26	1774-1777	the	_	_	
+18-27	1778-1786	district	_	_	
+18-28	1787-1792	court	_	_	
+18-29	1793-1794	.	_	_	
+
+#Text=For our purposes , the last finding is the important one .
+19-1	1795-1798	For	_	_	
+19-2	1799-1802	our	_	_	
+19-3	1803-1811	purposes	_	_	
+19-4	1812-1813	,	_	_	
+19-5	1814-1817	the	_	_	
+19-6	1818-1822	last	_	_	
+19-7	1823-1830	finding	_	_	
+19-8	1831-1833	is	_	_	
+19-9	1834-1837	the	_	_	
+19-10	1838-1847	important	_	_	
+19-11	1848-1851	one	_	_	
+19-12	1852-1853	.	_	_	
+
+#Text=By way of relief for Fossil 's trademark violation , Romag sought ( among other things ) an order requiring Fossil to hand over the profits it had earned thanks to its trademark violation .
+20-1	1854-1856	By	_	_	
+20-2	1857-1860	way	_	_	
+20-3	1861-1863	of	_	_	
+20-4	1864-1870	relief	_	_	
+20-5	1871-1874	for	_	_	
+20-6	1875-1881	Fossil	_	_	
+20-7	1882-1884	's	_	_	
+20-8	1885-1894	trademark	_	_	
+20-9	1895-1904	violation	_	_	
+20-10	1905-1906	,	_	_	
+20-11	1907-1912	Romag	_	_	
+20-12	1913-1919	sought	_	_	
+20-13	1920-1921	(	_	_	
+20-14	1922-1927	among	_	_	
+20-15	1928-1933	other	_	_	
+20-16	1934-1940	things	_	_	
+20-17	1941-1942	)	_	_	
+20-18	1943-1945	an	_	_	
+20-19	1946-1951	order	_	_	
+20-20	1952-1961	requiring	_	_	
+20-21	1962-1968	Fossil	_	_	
+20-22	1969-1971	to	_	_	
+20-23	1972-1976	hand	_	_	
+20-24	1977-1981	over	_	_	
+20-25	1982-1985	the	_	_	
+20-26	1986-1993	profits	_	_	
+20-27	1994-1996	it	_	_	
+20-28	1997-2000	had	_	_	
+20-29	2001-2007	earned	_	_	
+20-30	2008-2014	thanks	_	_	
+20-31	2015-2017	to	_	_	
+20-32	2018-2021	its	_	_	
+20-33	2022-2031	trademark	_	_	
+20-34	2032-2041	violation	_	_	
+20-35	2042-2043	.	_	_	
+
+#Text=But the district court refused this request .
+21-1	2044-2047	But	_	_	
+21-2	2048-2051	the	_	_	
+21-3	2052-2060	district	_	_	
+21-4	2061-2066	court	_	_	
+21-5	2067-2074	refused	_	_	
+21-6	2075-2079	this	_	_	
+21-7	2080-2087	request	_	_	
+21-8	2088-2089	.	_	_	
+
+#Text=The court pointed out that controlling Second Circuit precedent requires a plaintiff seeking a profits award to prove that the defendant 's violation was willful .
+22-1	2090-2093	The	_	_	
+22-2	2094-2099	court	_	_	
+22-3	2100-2107	pointed	_	_	
+22-4	2108-2111	out	_	_	
+22-5	2112-2116	that	_	_	
+22-6	2117-2128	controlling	_	_	
+22-7	2129-2135	Second	_	_	
+22-8	2136-2143	Circuit	_	_	
+22-9	2144-2153	precedent	_	_	
+22-10	2154-2162	requires	_	_	
+22-11	2163-2164	a	_	_	
+22-12	2165-2174	plaintiff	_	_	
+22-13	2175-2182	seeking	_	_	
+22-14	2183-2184	a	_	_	
+22-15	2185-2192	profits	_	_	
+22-16	2193-2198	award	_	_	
+22-17	2199-2201	to	_	_	
+22-18	2202-2207	prove	_	_	
+22-19	2208-2212	that	_	_	
+22-20	2213-2216	the	_	_	
+22-21	2217-2226	defendant	_	_	
+22-22	2227-2229	's	_	_	
+22-23	2230-2239	violation	_	_	
+22-24	2240-2243	was	_	_	
+22-25	2244-2251	willful	_	_	
+22-26	2252-2253	.	_	_	
+
+#Text=Not all circuits , however , agree with the Second Circuit 's rule .
+23-1	2254-2257	Not	_	_	
+23-2	2258-2261	all	_	_	
+23-3	2262-2270	circuits	_	_	
+23-4	2271-2272	,	_	_	
+23-5	2273-2280	however	_	_	
+23-6	2281-2282	,	_	_	
+23-7	2283-2288	agree	_	_	
+23-8	2289-2293	with	_	_	
+23-9	2294-2297	the	_	_	
+23-10	2298-2304	Second	_	_	
+23-11	2305-2312	Circuit	_	_	
+23-12	2313-2315	's	_	_	
+23-13	2316-2320	rule	_	_	
+23-14	2321-2322	.	_	_	
+
+#Text=We took this case to resolve that dispute over the law 's demands .
+24-1	2323-2325	We	_	_	
+24-2	2326-2330	took	_	_	
+24-3	2331-2335	this	_	_	
+24-4	2336-2340	case	_	_	
+24-5	2341-2343	to	_	_	
+24-6	2344-2351	resolve	_	_	
+24-7	2352-2356	that	_	_	
+24-8	2357-2364	dispute	_	_	
+24-9	2365-2369	over	_	_	
+24-10	2370-2373	the	_	_	
+24-11	2374-2377	law	_	_	
+24-12	2378-2380	's	_	_	
+24-13	2381-2388	demands	_	_	
+24-14	2389-2390	.	_	_	
+
+#Text=588 U.S. ---- , 139 S.Ct . 2778 , 204 L.Ed.2d 1157 ( 2019 ) .
+25-1	2391-2394	588	*[4]	Legal Source[4]	
+25-2	2395-2399	U.S.	*[4]	Legal Source[4]	
+25-3	2400-2404	----	*[4]	Legal Source[4]	
+25-4	2405-2406	,	*[4]	Legal Source[4]	
+25-5	2407-2410	139	*[4]	Legal Source[4]	
+25-6	2411-2415	S.Ct	*[4]	Legal Source[4]	
+25-7	2416-2417	.	*[4]	Legal Source[4]	
+25-8	2418-2422	2778	*[4]	Legal Source[4]	
+25-9	2423-2424	,	*[4]	Legal Source[4]	
+25-10	2425-2428	204	*[4]	Legal Source[4]	
+25-11	2429-2436	L.Ed.2d	*[4]	Legal Source[4]	
+25-12	2437-2441	1157	*[4]	Legal Source[4]	
+25-13	2442-2443	(	*[4]	Legal Source[4]	
+25-14	2444-2448	2019	*[4]	Legal Source[4]	
+25-15	2449-2450	)	*[4]	Legal Source[4]	
+25-16	2451-2452	.	_	_	
+
+#Text=Where does Fossil 's proposed willfulness rule come from ?
+26-1	2453-2458	Where	_	_	
+26-2	2459-2463	does	_	_	
+26-3	2464-2470	Fossil	_	_	
+26-4	2471-2473	's	_	_	
+26-5	2474-2482	proposed	_	_	
+26-6	2483-2494	willfulness	_	_	
+26-7	2495-2499	rule	_	_	
+26-8	2500-2504	come	_	_	
+26-9	2505-2509	from	_	_	
+26-10	2510-2511	?	_	_	
+
+#Text=The relevant section of the Lanham Act governing remedies for trademark violations , § 35 , 60 Stat . 439 -440 , as amended , 15 U.S.C. § 1117 ( a ) , says this :
+27-1	2512-2515	The	_	_	
+27-2	2516-2524	relevant	_	_	
+27-3	2525-2532	section	_	_	
+27-4	2533-2535	of	_	_	
+27-5	2536-2539	the	_	_	
+27-6	2540-2546	Lanham	*[5]	Legal Source[5]	
+27-7	2547-2550	Act	*[5]	Legal Source[5]	
+27-8	2551-2560	governing	_	_	
+27-9	2561-2569	remedies	_	_	
+27-10	2570-2573	for	_	_	
+27-11	2574-2583	trademark	_	_	
+27-12	2584-2594	violations	_	_	
+27-13	2595-2596	,	_	_	
+27-14	2597-2598	§	*[6]	Legal Source[6]	
+27-15	2599-2601	35	*[6]	Legal Source[6]	
+27-16	2602-2603	,	*[6]	Legal Source[6]	
+27-17	2604-2606	60	*[6]	Legal Source[6]	
+27-18	2607-2611	Stat	*[6]	Legal Source[6]	
+27-19	2612-2613	.	*[6]	Legal Source[6]	
+27-20	2614-2617	439	*[6]	Legal Source[6]	
+27-21	2618-2622	-440	*[6]	Legal Source[6]	
+27-22	2623-2624	,	*[6]	Legal Source[6]	
+27-23	2625-2627	as	*[6]	Legal Source[6]	
+27-24	2628-2635	amended	*[6]	Legal Source[6]	
+27-25	2636-2637	,	*[6]	Legal Source[6]	
+27-26	2638-2640	15	*[6]	Legal Source[6]	
+27-27	2641-2647	U.S.C.	*[6]	Legal Source[6]	
+27-28	2648-2649	§	*[6]	Legal Source[6]	
+27-29	2650-2654	1117	*[6]	Legal Source[6]	
+27-30	2655-2656	(	*[6]	Legal Source[6]	
+27-31	2657-2658	a	*[6]	Legal Source[6]	
+27-32	2659-2660	)	*[6]	Legal Source[6]	
+27-33	2661-2662	,	_	_	
+27-34	2663-2667	says	_	_	
+27-35	2668-2672	this	_	_	
+27-36	2673-2674	:	_	_	
+
+#Text=" When a violation of any right of the registrant of a mark registered in the Patent and Trademark Office , a violation under section 1125(a ) or ( d ) of this title , or a willful violation under section 1125(c ) of this title , shall have been established ... , the plaintiff shall be entitled , subject to the provisions of sections 1111 and 1114 of this title , and subject to the principles of equity , to recover ( 1 ) defendant 's profits , ( 2 ) any damages sustained by the plaintiff , and ( 3 ) the costs of the action . "
+28-1	2675-2676	"	*[7]	Direct Quote[7]	
+28-2	2677-2681	When	*[7]	Direct Quote[7]	
+28-3	2682-2683	a	*[7]	Direct Quote[7]	
+28-4	2684-2693	violation	*[7]	Direct Quote[7]	
+28-5	2694-2696	of	*[7]	Direct Quote[7]	
+28-6	2697-2700	any	*[7]	Direct Quote[7]	
+28-7	2701-2706	right	*[7]	Direct Quote[7]	
+28-8	2707-2709	of	*[7]	Direct Quote[7]	
+28-9	2710-2713	the	*[7]	Direct Quote[7]	
+28-10	2714-2724	registrant	*[7]	Direct Quote[7]	
+28-11	2725-2727	of	*[7]	Direct Quote[7]	
+28-12	2728-2729	a	*[7]	Direct Quote[7]	
+28-13	2730-2734	mark	*[7]	Direct Quote[7]	
+28-14	2735-2745	registered	*[7]	Direct Quote[7]	
+28-15	2746-2748	in	*[7]	Direct Quote[7]	
+28-16	2749-2752	the	*[7]	Direct Quote[7]	
+28-17	2753-2759	Patent	*[7]	Direct Quote[7]	
+28-18	2760-2763	and	*[7]	Direct Quote[7]	
+28-19	2764-2773	Trademark	*[7]	Direct Quote[7]	
+28-20	2774-2780	Office	*[7]	Direct Quote[7]	
+28-21	2781-2782	,	*[7]	Direct Quote[7]	
+28-22	2783-2784	a	*[7]	Direct Quote[7]	
+28-23	2785-2794	violation	*[7]	Direct Quote[7]	
+28-24	2795-2800	under	*[7]	Direct Quote[7]	
+28-25	2801-2808	section	*[7]|*[8]	Direct Quote[7]|Legal Source[8]	
+28-26	2809-2815	1125(a	*[7]|*[8]	Direct Quote[7]|Legal Source[8]	
+28-27	2816-2817	)	*[7]|*[8]	Direct Quote[7]|Legal Source[8]	
+28-28	2818-2820	or	*[7]|*[8]	Direct Quote[7]|Legal Source[8]	
+28-29	2821-2822	(	*[7]|*[8]	Direct Quote[7]|Legal Source[8]	
+28-30	2823-2824	d	*[7]|*[8]	Direct Quote[7]|Legal Source[8]	
+28-31	2825-2826	)	*[7]|*[8]	Direct Quote[7]|Legal Source[8]	
+28-32	2827-2829	of	*[7]	Direct Quote[7]	
+28-33	2830-2834	this	*[7]	Direct Quote[7]	
+28-34	2835-2840	title	*[7]	Direct Quote[7]	
+28-35	2841-2842	,	*[7]	Direct Quote[7]	
+28-36	2843-2845	or	*[7]	Direct Quote[7]	
+28-37	2846-2847	a	*[7]	Direct Quote[7]	
+28-38	2848-2855	willful	*[7]	Direct Quote[7]	
+28-39	2856-2865	violation	*[7]	Direct Quote[7]	
+28-40	2866-2871	under	*[7]	Direct Quote[7]	
+28-41	2872-2879	section	*[7]|*[9]	Direct Quote[7]|Legal Source[9]	
+28-42	2880-2886	1125(c	*[7]|*[9]	Direct Quote[7]|Legal Source[9]	
+28-43	2887-2888	)	*[7]|*[9]	Direct Quote[7]|Legal Source[9]	
+28-44	2889-2891	of	*[7]	Direct Quote[7]	
+28-45	2892-2896	this	*[7]	Direct Quote[7]	
+28-46	2897-2902	title	*[7]	Direct Quote[7]	
+28-47	2903-2904	,	*[7]	Direct Quote[7]	
+28-48	2905-2910	shall	*[7]	Direct Quote[7]	
+28-49	2911-2915	have	*[7]	Direct Quote[7]	
+28-50	2916-2920	been	*[7]	Direct Quote[7]	
+28-51	2921-2932	established	*[7]	Direct Quote[7]	
+28-52	2933-2936	...	*[7]	Direct Quote[7]	
+28-53	2937-2938	,	*[7]	Direct Quote[7]	
+28-54	2939-2942	the	*[7]	Direct Quote[7]	
+28-55	2943-2952	plaintiff	*[7]	Direct Quote[7]	
+28-56	2953-2958	shall	*[7]	Direct Quote[7]	
+28-57	2959-2961	be	*[7]	Direct Quote[7]	
+28-58	2962-2970	entitled	*[7]	Direct Quote[7]	
+28-59	2971-2972	,	*[7]	Direct Quote[7]	
+28-60	2973-2980	subject	*[7]	Direct Quote[7]	
+28-61	2981-2983	to	*[7]	Direct Quote[7]	
+28-62	2984-2987	the	*[7]	Direct Quote[7]	
+28-63	2988-2998	provisions	*[7]	Direct Quote[7]	
+28-64	2999-3001	of	*[7]	Direct Quote[7]	
+28-65	3002-3010	sections	*[7]|*[10]	Direct Quote[7]|Legal Source[10]	
+28-66	3011-3015	1111	*[7]|*[10]	Direct Quote[7]|Legal Source[10]	
+28-67	3016-3019	and	*[7]|*[10]	Direct Quote[7]|Legal Source[10]	
+28-68	3020-3024	1114	*[7]|*[10]	Direct Quote[7]|Legal Source[10]	
+28-69	3025-3027	of	*[7]	Direct Quote[7]	
+28-70	3028-3032	this	*[7]	Direct Quote[7]	
+28-71	3033-3038	title	*[7]	Direct Quote[7]	
+28-72	3039-3040	,	*[7]	Direct Quote[7]	
+28-73	3041-3044	and	*[7]	Direct Quote[7]	
+28-74	3045-3052	subject	*[7]	Direct Quote[7]	
+28-75	3053-3055	to	*[7]	Direct Quote[7]	
+28-76	3056-3059	the	*[7]	Direct Quote[7]	
+28-77	3060-3070	principles	*[7]	Direct Quote[7]	
+28-78	3071-3073	of	*[7]	Direct Quote[7]	
+28-79	3074-3080	equity	*[7]	Direct Quote[7]	
+28-80	3081-3082	,	*[7]	Direct Quote[7]	
+28-81	3083-3085	to	*[7]	Direct Quote[7]	
+28-82	3086-3093	recover	*[7]	Direct Quote[7]	
+28-83	3094-3095	(	*[7]	Direct Quote[7]	
+28-84	3096-3097	1	*[7]	Direct Quote[7]	
+28-85	3098-3099	)	*[7]	Direct Quote[7]	
+28-86	3100-3109	defendant	*[7]	Direct Quote[7]	
+28-87	3110-3112	's	*[7]	Direct Quote[7]	
+28-88	3113-3120	profits	*[7]	Direct Quote[7]	
+28-89	3121-3122	,	*[7]	Direct Quote[7]	
+28-90	3123-3124	(	*[7]	Direct Quote[7]	
+28-91	3125-3126	2	*[7]	Direct Quote[7]	
+28-92	3127-3128	)	*[7]	Direct Quote[7]	
+28-93	3129-3132	any	*[7]	Direct Quote[7]	
+28-94	3133-3140	damages	*[7]	Direct Quote[7]	
+28-95	3141-3150	sustained	*[7]	Direct Quote[7]	
+28-96	3151-3153	by	*[7]	Direct Quote[7]	
+28-97	3154-3157	the	*[7]	Direct Quote[7]	
+28-98	3158-3167	plaintiff	*[7]	Direct Quote[7]	
+28-99	3168-3169	,	*[7]	Direct Quote[7]	
+28-100	3170-3173	and	*[7]	Direct Quote[7]	
+28-101	3174-3175	(	*[7]	Direct Quote[7]	
+28-102	3176-3177	3	*[7]	Direct Quote[7]	
+28-103	3178-3179	)	*[7]	Direct Quote[7]	
+28-104	3180-3183	the	*[7]	Direct Quote[7]	
+28-105	3184-3189	costs	*[7]	Direct Quote[7]	
+28-106	3190-3192	of	*[7]	Direct Quote[7]	
+28-107	3193-3196	the	*[7]	Direct Quote[7]	
+28-108	3197-3203	action	*[7]	Direct Quote[7]	
+28-109	3204-3205	.	*[7]	Direct Quote[7]	
+28-110	3206-3207	"	*[7]	Direct Quote[7]	
+
+#Text=Immediately , this language spells trouble for Fossil and the circuit precedent on which it relies .
+29-1	3208-3219	Immediately	_	_	
+29-2	3220-3221	,	_	_	
+29-3	3222-3226	this	_	_	
+29-4	3227-3235	language	*	Metalinguistic Cue	
+29-5	3236-3242	spells	_	_	
+29-6	3243-3250	trouble	_	_	
+29-7	3251-3254	for	_	_	
+29-8	3255-3261	Fossil	_	_	
+29-9	3262-3265	and	_	_	
+29-10	3266-3269	the	_	_	
+29-11	3270-3277	circuit	_	_	
+29-12	3278-3287	precedent	_	_	
+29-13	3288-3290	on	_	_	
+29-14	3291-3296	which	_	_	
+29-15	3297-3299	it	_	_	
+29-16	3300-3306	relies	_	_	
+29-17	3307-3308	.	_	_	
+
+#Text=The statute does make a showing of willfulness a precondition to a profits award when the plaintiff proceeds under § 1125(c ) .
+30-1	3309-3312	The	_	_	
+30-2	3313-3320	statute	_	_	
+30-3	3321-3325	does	_	_	
+30-4	3326-3330	make	_	_	
+30-5	3331-3332	a	_	_	
+30-6	3333-3340	showing	_	_	
+30-7	3341-3343	of	_	_	
+30-8	3344-3355	willfulness	_	_	
+30-9	3356-3357	a	_	_	
+30-10	3358-3370	precondition	_	_	
+30-11	3371-3373	to	_	_	
+30-12	3374-3375	a	_	_	
+30-13	3376-3383	profits	_	_	
+30-14	3384-3389	award	_	_	
+30-15	3390-3394	when	_	_	
+30-16	3395-3398	the	_	_	
+30-17	3399-3408	plaintiff	_	_	
+30-18	3409-3417	proceeds	_	_	
+30-19	3418-3423	under	_	_	
+30-20	3424-3425	§	*[11]	Legal Source[11]	
+30-21	3426-3432	1125(c	*[11]	Legal Source[11]	
+30-22	3433-3434	)	*[11]	Legal Source[11]	
+30-23	3435-3436	.	_	_	
+
+#Text=That section , added to the Lanham Act some years after its initial adoption , creates a cause of action for trademark dilution - conduct that lessens the association consumers have with a trademark .
+31-1	3437-3441	That	_	_	
+31-2	3442-3449	section	_	_	
+31-3	3450-3451	,	_	_	
+31-4	3452-3457	added	_	_	
+31-5	3458-3460	to	_	_	
+31-6	3461-3464	the	_	_	
+31-7	3465-3471	Lanham	*[12]	Legal Source[12]	
+31-8	3472-3475	Act	*[12]	Legal Source[12]	
+31-9	3476-3480	some	_	_	
+31-10	3481-3486	years	_	_	
+31-11	3487-3492	after	_	_	
+31-12	3493-3496	its	_	_	
+31-13	3497-3504	initial	_	_	
+31-14	3505-3513	adoption	_	_	
+31-15	3514-3515	,	_	_	
+31-16	3516-3523	creates	_	_	
+31-17	3524-3525	a	_	_	
+31-18	3526-3531	cause	_	_	
+31-19	3532-3534	of	_	_	
+31-20	3535-3541	action	_	_	
+31-21	3542-3545	for	_	_	
+31-22	3546-3555	trademark	_	_	
+31-23	3556-3564	dilution	_	_	
+31-24	3565-3566	-	_	_	
+31-25	3567-3574	conduct	_	_	
+31-26	3575-3579	that	_	_	
+31-27	3580-3587	lessens	_	_	
+31-28	3588-3591	the	_	_	
+31-29	3592-3603	association	_	_	
+31-30	3604-3613	consumers	_	_	
+31-31	3614-3618	have	_	_	
+31-32	3619-3623	with	_	_	
+31-33	3624-3625	a	_	_	
+31-34	3626-3635	trademark	_	_	
+31-35	3636-3637	.	_	_	
+
+#Text=But Romag alleged and proved a violation of § 1125(a ) , a provision establishing a cause of action for the false or misleading use of trademarks .
+32-1	3638-3641	But	_	_	
+32-2	3642-3647	Romag	_	_	
+32-3	3648-3655	alleged	_	_	
+32-4	3656-3659	and	_	_	
+32-5	3660-3666	proved	_	_	
+32-6	3667-3668	a	_	_	
+32-7	3669-3678	violation	_	_	
+32-8	3679-3681	of	_	_	
+32-9	3682-3683	§	*[13]	Legal Source[13]	
+32-10	3684-3690	1125(a	*[13]	Legal Source[13]	
+32-11	3691-3692	)	*[13]	Legal Source[13]	
+32-12	3693-3694	,	_	_	
+32-13	3695-3696	a	_	_	
+32-14	3697-3706	provision	_	_	
+32-15	3707-3719	establishing	_	_	
+32-16	3720-3721	a	_	_	
+32-17	3722-3727	cause	_	_	
+32-18	3728-3730	of	_	_	
+32-19	3731-3737	action	_	_	
+32-20	3738-3741	for	_	_	
+32-21	3742-3745	the	_	_	
+32-22	3746-3751	false	_	_	
+32-23	3752-3754	or	_	_	
+32-24	3755-3765	misleading	_	_	
+32-25	3766-3769	use	_	_	
+32-26	3770-3772	of	_	_	
+32-27	3773-3783	trademarks	_	_	
+32-28	3784-3785	.	_	_	
+
+#Text=And in cases like that , the statutory language has never required a showing of willfulness to win a defendant 's profits .
+33-1	3786-3789	And	_	_	
+33-2	3790-3792	in	_	_	
+33-3	3793-3798	cases	_	_	
+33-4	3799-3803	like	_	_	
+33-5	3804-3808	that	_	_	
+33-6	3809-3810	,	_	_	
+33-7	3811-3814	the	_	_	
+33-8	3815-3824	statutory	*[14]	Metalinguistic Cue[14]	
+33-9	3825-3833	language	*[14]	Metalinguistic Cue[14]	
+33-10	3834-3837	has	_	_	
+33-11	3838-3843	never	_	_	
+33-12	3844-3852	required	_	_	
+33-13	3853-3854	a	_	_	
+33-14	3855-3862	showing	_	_	
+33-15	3863-3865	of	_	_	
+33-16	3866-3877	willfulness	_	_	
+33-17	3878-3880	to	_	_	
+33-18	3881-3884	win	_	_	
+33-19	3885-3886	a	_	_	
+33-20	3887-3896	defendant	_	_	
+33-21	3897-3899	's	_	_	
+33-22	3900-3907	profits	_	_	
+33-23	3908-3909	.	_	_	
+
+#Text=Yes , the law tells us that a profits award is subject to limitations found in § § 1111 and 1114 .
+34-1	3910-3913	Yes	_	_	
+34-2	3914-3915	,	_	_	
+34-3	3916-3919	the	_	_	
+34-4	3920-3923	law	_	_	
+34-5	3924-3929	tells	_	_	
+34-6	3930-3932	us	_	_	
+34-7	3933-3937	that	_	_	
+34-8	3938-3939	a	_	_	
+34-9	3940-3947	profits	_	_	
+34-10	3948-3953	award	_	_	
+34-11	3954-3956	is	_	_	
+34-12	3957-3964	subject	_	_	
+34-13	3965-3967	to	_	_	
+34-14	3968-3979	limitations	_	_	
+34-15	3980-3985	found	_	_	
+34-16	3986-3988	in	_	_	
+34-17	3989-3990	§	*[15]	Legal Source[15]	
+34-18	3991-3992	§	*[15]	Legal Source[15]	
+34-19	3993-3997	1111	*[15]	Legal Source[15]	
+34-20	3998-4001	and	*[15]	Legal Source[15]	
+34-21	4002-4006	1114	*[15]	Legal Source[15]	
+34-22	4007-4008	.	_	_	
+
+#Text=But no one suggests those cross - referenced sections contain the rule Fossil seeks .
+35-1	4009-4012	But	_	_	
+35-2	4013-4015	no	_	_	
+35-3	4016-4019	one	_	_	
+35-4	4020-4028	suggests	_	_	
+35-5	4029-4034	those	_	_	
+35-6	4035-4040	cross	_	_	
+35-7	4041-4042	-	_	_	
+35-8	4043-4053	referenced	_	_	
+35-9	4054-4062	sections	_	_	
+35-10	4063-4070	contain	_	_	
+35-11	4071-4074	the	_	_	
+35-12	4075-4079	rule	_	_	
+35-13	4080-4086	Fossil	_	_	
+35-14	4087-4092	seeks	_	_	
+35-15	4093-4094	.	_	_	
+
+#Text=Nor does this Court usually read into statutes words that are n't there .
+36-1	4095-4098	Nor	*[16]	Appeal to Meaning[16]	
+36-2	4099-4103	does	*[16]	Appeal to Meaning[16]	
+36-3	4104-4108	this	*[16]	Appeal to Meaning[16]	
+36-4	4109-4114	Court	*[16]	Appeal to Meaning[16]	
+36-5	4115-4122	usually	*[16]	Appeal to Meaning[16]	
+36-6	4123-4127	read	*[16]|*[17]	Appeal to Meaning[16]|Metalinguistic Cue[17]	
+36-7	4128-4132	into	*[16]	Appeal to Meaning[16]	
+36-8	4133-4141	statutes	*[16]	Appeal to Meaning[16]	
+36-9	4142-4147	words	*[16]|*[18]	Appeal to Meaning[16]|Metalinguistic Cue[18]	
+36-10	4148-4152	that	*[16]	Appeal to Meaning[16]	
+36-11	4153-4156	are	*[16]	Appeal to Meaning[16]	
+36-12	4157-4160	n't	*[16]	Appeal to Meaning[16]	
+36-13	4161-4166	there	*[16]	Appeal to Meaning[16]	
+36-14	4167-4168	.	_	_	
+
+#Text=It 's a temptation we are doubly careful to avoid when Congress has ( as here ) included the term in question elsewhere in the very same statutory provision .
+37-1	4169-4171	It	_	_	
+37-2	4172-4174	's	_	_	
+37-3	4175-4176	a	_	_	
+37-4	4177-4187	temptation	_	_	
+37-5	4188-4190	we	_	_	
+37-6	4191-4194	are	_	_	
+37-7	4195-4201	doubly	_	_	
+37-8	4202-4209	careful	_	_	
+37-9	4210-4212	to	_	_	
+37-10	4213-4218	avoid	_	_	
+37-11	4219-4223	when	_	_	
+37-12	4224-4232	Congress	_	_	
+37-13	4233-4236	has	_	_	
+37-14	4237-4238	(	_	_	
+37-15	4239-4241	as	_	_	
+37-16	4242-4246	here	_	_	
+37-17	4247-4248	)	_	_	
+37-18	4249-4257	included	_	_	
+37-19	4258-4261	the	_	_	
+37-20	4262-4266	term	*	Metalinguistic Cue	
+37-21	4267-4269	in	_	_	
+37-22	4270-4278	question	_	_	
+37-23	4279-4288	elsewhere	_	_	
+37-24	4289-4291	in	_	_	
+37-25	4292-4295	the	_	_	
+37-26	4296-4300	very	_	_	
+37-27	4301-4305	same	_	_	
+37-28	4306-4315	statutory	_	_	
+37-29	4316-4325	provision	_	_	
+37-30	4326-4327	.	_	_	
+
+#Text=A wider look at the statute 's structure gives us even more reason for pause .
+38-1	4328-4329	A	_	_	
+38-2	4330-4335	wider	_	_	
+38-3	4336-4340	look	_	_	
+38-4	4341-4343	at	_	_	
+38-5	4344-4347	the	_	_	
+38-6	4348-4355	statute	_	_	
+38-7	4356-4358	's	_	_	
+38-8	4359-4368	structure	_	_	
+38-9	4369-4374	gives	_	_	
+38-10	4375-4377	us	_	_	
+38-11	4378-4382	even	_	_	
+38-12	4383-4387	more	_	_	
+38-13	4388-4394	reason	_	_	
+38-14	4395-4398	for	_	_	
+38-15	4399-4404	pause	_	_	
+38-16	4405-4406	.	_	_	
+
+#Text=The Lanham Act speaks often and expressly about mental states .
+39-1	4407-4410	The	_	_	
+39-2	4411-4417	Lanham	*[19]	Legal Source[19]	
+39-3	4418-4421	Act	*[19]	Legal Source[19]	
+39-4	4422-4428	speaks	_	_	
+39-5	4429-4434	often	_	_	
+39-6	4435-4438	and	_	_	
+39-7	4439-4448	expressly	_	_	
+39-8	4449-4454	about	_	_	
+39-9	4455-4461	mental	_	_	
+39-10	4462-4468	states	_	_	
+39-11	4469-4470	.	_	_	
+
+#Text=Section 1117(b ) requires courts to treble profits or damages and award attorney 's fees when a defendant engages in certain acts intentionally and with specified knowledge .
+40-1	4471-4478	Section	*[20]	Legal Source[20]	
+40-2	4479-4485	1117(b	*[20]	Legal Source[20]	
+40-3	4486-4487	)	*[20]	Legal Source[20]	
+40-4	4488-4496	requires	_	_	
+40-5	4497-4503	courts	_	_	
+40-6	4504-4506	to	_	_	
+40-7	4507-4513	treble	_	_	
+40-8	4514-4521	profits	_	_	
+40-9	4522-4524	or	_	_	
+40-10	4525-4532	damages	_	_	
+40-11	4533-4536	and	_	_	
+40-12	4537-4542	award	_	_	
+40-13	4543-4551	attorney	_	_	
+40-14	4552-4554	's	_	_	
+40-15	4555-4559	fees	_	_	
+40-16	4560-4564	when	_	_	
+40-17	4565-4566	a	_	_	
+40-18	4567-4576	defendant	_	_	
+40-19	4577-4584	engages	_	_	
+40-20	4585-4587	in	_	_	
+40-21	4588-4595	certain	_	_	
+40-22	4596-4600	acts	_	_	
+40-23	4601-4614	intentionally	_	_	
+40-24	4615-4618	and	_	_	
+40-25	4619-4623	with	_	_	
+40-26	4624-4633	specified	_	_	
+40-27	4634-4643	knowledge	_	_	
+40-28	4644-4645	.	_	_	
+
+#Text=Section 1117(c ) increases the cap on statutory damages from $ 200,000 to $ 2,000,000 for certain willful violations .
+41-1	4646-4653	Section	*[21]	Legal Source[21]	
+41-2	4654-4660	1117(c	*[21]	Legal Source[21]	
+41-3	4661-4662	)	*[21]	Legal Source[21]	
+41-4	4663-4672	increases	_	_	
+41-5	4673-4676	the	_	_	
+41-6	4677-4680	cap	_	_	
+41-7	4681-4683	on	_	_	
+41-8	4684-4693	statutory	_	_	
+41-9	4694-4701	damages	_	_	
+41-10	4702-4706	from	_	_	
+41-11	4707-4708	$	_	_	
+41-12	4709-4716	200,000	_	_	
+41-13	4717-4719	to	_	_	
+41-14	4720-4721	$	_	_	
+41-15	4722-4731	2,000,000	_	_	
+41-16	4732-4735	for	_	_	
+41-17	4736-4743	certain	_	_	
+41-18	4744-4751	willful	_	_	
+41-19	4752-4762	violations	_	_	
+41-20	4763-4764	.	_	_	
+
+#Text=Section 1118 permits courts to order the infringing items be destroyed if a plaintiff proves any violation of § 1125(a ) or a willful violation of § 1125(c ) .
+42-1	4765-4772	Section	*[22]	Legal Source[22]	
+42-2	4773-4777	1118	*[22]	Legal Source[22]	
+42-3	4778-4785	permits	_	_	
+42-4	4786-4792	courts	_	_	
+42-5	4793-4795	to	_	_	
+42-6	4796-4801	order	_	_	
+42-7	4802-4805	the	_	_	
+42-8	4806-4816	infringing	_	_	
+42-9	4817-4822	items	_	_	
+42-10	4823-4825	be	_	_	
+42-11	4826-4835	destroyed	_	_	
+42-12	4836-4838	if	_	_	
+42-13	4839-4840	a	_	_	
+42-14	4841-4850	plaintiff	_	_	
+42-15	4851-4857	proves	_	_	
+42-16	4858-4861	any	_	_	
+42-17	4862-4871	violation	_	_	
+42-18	4872-4874	of	_	_	
+42-19	4875-4876	§	*[23]	Legal Source[23]	
+42-20	4877-4883	1125(a	*[23]	Legal Source[23]	
+42-21	4884-4885	)	*[23]	Legal Source[23]	
+42-22	4886-4888	or	_	_	
+42-23	4889-4890	a	_	_	
+42-24	4891-4898	willful	_	_	
+42-25	4899-4908	violation	_	_	
+42-26	4909-4911	of	_	_	
+42-27	4912-4913	§	*[24]	Legal Source[24]	
+42-28	4914-4920	1125(c	*[24]	Legal Source[24]	
+42-29	4921-4922	)	*[24]	Legal Source[24]	
+42-30	4923-4924	.	_	_	
+
+#Text=Section 1114 makes certain innocent infringers subject only to injunctions .
+43-1	4925-4932	Section	*[25]	Legal Source[25]	
+43-2	4933-4937	1114	*[25]	Legal Source[25]	
+43-3	4938-4943	makes	_	_	
+43-4	4944-4951	certain	_	_	
+43-5	4952-4960	innocent	_	_	
+43-6	4961-4971	infringers	_	_	
+43-7	4972-4979	subject	_	_	
+43-8	4980-4984	only	_	_	
+43-9	4985-4987	to	_	_	
+43-10	4988-4999	injunctions	_	_	
+43-11	5000-5001	.	_	_	
+
+#Text=Elsewhere , the statute specifies certain mens rea standards needed to establish liability , before even getting to the question of remedies .
+44-1	5002-5011	Elsewhere	_	_	
+44-2	5012-5013	,	_	_	
+44-3	5014-5017	the	_	_	
+44-4	5018-5025	statute	_	_	
+44-5	5026-5035	specifies	_	_	
+44-6	5036-5043	certain	_	_	
+44-7	5044-5048	mens	_	_	
+44-8	5049-5052	rea	_	_	
+44-9	5053-5062	standards	_	_	
+44-10	5063-5069	needed	_	_	
+44-11	5070-5072	to	_	_	
+44-12	5073-5082	establish	_	_	
+44-13	5083-5092	liability	_	_	
+44-14	5093-5094	,	_	_	
+44-15	5095-5101	before	_	_	
+44-16	5102-5106	even	_	_	
+44-17	5107-5114	getting	_	_	
+44-18	5115-5117	to	_	_	
+44-19	5118-5121	the	_	_	
+44-20	5122-5130	question	_	_	
+44-21	5131-5133	of	_	_	
+44-22	5134-5142	remedies	_	_	
+44-23	5143-5144	.	_	_	
+
+#Text=See , e.g. , § § 1125(d)(1)(A)(i ) , ( B)(i ) ( prohibiting certain conduct only if undertaken with " bad faith intent " and listing nine factors relevant to ascertaining bad faith intent ) .
+45-1	5145-5148	See	_	_	
+45-2	5149-5150	,	_	_	
+45-3	5151-5155	e.g.	_	_	
+45-4	5156-5157	,	_	_	
+45-5	5158-5159	§	*[26]	Legal Source[26]	
+45-6	5160-5161	§	*[26]	Legal Source[26]	
+45-7	5162-5177	1125(d)(1)(A)(i	*[26]	Legal Source[26]	
+45-8	5178-5179	)	*[26]	Legal Source[26]	
+45-9	5180-5181	,	*[26]	Legal Source[26]	
+45-10	5182-5183	(	*[26]	Legal Source[26]	
+45-11	5184-5188	B)(i	*[26]	Legal Source[26]	
+45-12	5189-5190	)	*[26]	Legal Source[26]	
+45-13	5191-5192	(	_	_	
+45-14	5193-5204	prohibiting	_	_	
+45-15	5205-5212	certain	_	_	
+45-16	5213-5220	conduct	_	_	
+45-17	5221-5225	only	_	_	
+45-18	5226-5228	if	_	_	
+45-19	5229-5239	undertaken	_	_	
+45-20	5240-5244	with	_	_	
+45-21	5245-5246	"	*[27]	Direct Quote[27]	
+45-22	5247-5250	bad	*[27]	Direct Quote[27]	
+45-23	5251-5256	faith	*[27]	Direct Quote[27]	
+45-24	5257-5263	intent	*[27]	Direct Quote[27]	
+45-25	5264-5265	"	*[27]	Direct Quote[27]	
+45-26	5266-5269	and	_	_	
+45-27	5270-5277	listing	_	_	
+45-28	5278-5282	nine	_	_	
+45-29	5283-5290	factors	_	_	
+45-30	5291-5299	relevant	_	_	
+45-31	5300-5302	to	_	_	
+45-32	5303-5315	ascertaining	_	_	
+45-33	5316-5319	bad	_	_	
+45-34	5320-5325	faith	_	_	
+45-35	5326-5332	intent	_	_	
+45-36	5333-5334	)	_	_	
+45-37	5335-5336	.	_	_	
+
+#Text=Without doubt , the Lanham Act exhibits considerable care with mens rea standards .
+46-1	5337-5344	Without	_	_	
+46-2	5345-5350	doubt	_	_	
+46-3	5351-5352	,	_	_	
+46-4	5353-5356	the	_	_	
+46-5	5357-5363	Lanham	*[28]	Legal Source[28]	
+46-6	5364-5367	Act	*[28]	Legal Source[28]	
+46-7	5368-5376	exhibits	_	_	
+46-8	5377-5389	considerable	_	_	
+46-9	5390-5394	care	_	_	
+46-10	5395-5399	with	_	_	
+46-11	5400-5404	mens	_	_	
+46-12	5405-5408	rea	_	_	
+46-13	5409-5418	standards	_	_	
+46-14	5419-5420	.	_	_	
+
+#Text=The absence of any such standard in the provision before us , thus , seems all the more telling .
+47-1	5421-5424	The	_	_	
+47-2	5425-5432	absence	_	_	
+47-3	5433-5435	of	_	_	
+47-4	5436-5439	any	_	_	
+47-5	5440-5444	such	_	_	
+47-6	5445-5453	standard	_	_	
+47-7	5454-5456	in	_	_	
+47-8	5457-5460	the	_	_	
+47-9	5461-5470	provision	_	_	
+47-10	5471-5477	before	_	_	
+47-11	5478-5480	us	_	_	
+47-12	5481-5482	,	_	_	
+47-13	5483-5487	thus	_	_	
+47-14	5488-5489	,	_	_	
+47-15	5490-5495	seems	_	_	
+47-16	5496-5499	all	_	_	
+47-17	5500-5503	the	_	_	
+47-18	5504-5508	more	_	_	
+47-19	5509-5516	telling	_	_	
+47-20	5517-5518	.	_	_	
+
+#Text=So how exactly does Fossil seek to conjure a willfulness requirement out of § 1117(a ) ?
+48-1	5519-5521	So	_	_	
+48-2	5522-5525	how	_	_	
+48-3	5526-5533	exactly	_	_	
+48-4	5534-5538	does	_	_	
+48-5	5539-5545	Fossil	_	_	
+48-6	5546-5550	seek	_	_	
+48-7	5551-5553	to	_	_	
+48-8	5554-5561	conjure	_	_	
+48-9	5562-5563	a	_	_	
+48-10	5564-5575	willfulness	_	_	
+48-11	5576-5587	requirement	_	_	
+48-12	5588-5591	out	_	_	
+48-13	5592-5594	of	_	_	
+48-14	5595-5596	§	*[29]	Legal Source[29]	
+48-15	5597-5603	1117(a	*[29]	Legal Source[29]	
+48-16	5604-5605	)	*[29]	Legal Source[29]	
+48-17	5606-5607	?	_	_	
+
+#Text=Lacking any more obvious statutory hook , the company points to the language indicating that a violation under § 1125(a ) can trigger an award of the defendant 's profits " subject to the principles of equity . "
+49-1	5608-5615	Lacking	_	_	
+49-2	5616-5619	any	_	_	
+49-3	5620-5624	more	_	_	
+49-4	5625-5632	obvious	_	_	
+49-5	5633-5642	statutory	_	_	
+49-6	5643-5647	hook	_	_	
+49-7	5648-5649	,	_	_	
+49-8	5650-5653	the	_	_	
+49-9	5654-5661	company	_	_	
+49-10	5662-5668	points	_	_	
+49-11	5669-5671	to	_	_	
+49-12	5672-5675	the	_	_	
+49-13	5676-5684	language	*	Metalinguistic Cue	
+49-14	5685-5695	indicating	_	_	
+49-15	5696-5700	that	_	_	
+49-16	5701-5702	a	_	_	
+49-17	5703-5712	violation	_	_	
+49-18	5713-5718	under	_	_	
+49-19	5719-5720	§	*[30]	Legal Source[30]	
+49-20	5721-5727	1125(a	*[30]	Legal Source[30]	
+49-21	5728-5729	)	*[30]	Legal Source[30]	
+49-22	5730-5733	can	_	_	
+49-23	5734-5741	trigger	_	_	
+49-24	5742-5744	an	_	_	
+49-25	5745-5750	award	_	_	
+49-26	5751-5753	of	_	_	
+49-27	5754-5757	the	_	_	
+49-28	5758-5767	defendant	_	_	
+49-29	5768-5770	's	_	_	
+49-30	5771-5778	profits	_	_	
+49-31	5779-5780	"	*[31]	Direct Quote[31]	
+49-32	5781-5788	subject	*[31]	Direct Quote[31]	
+49-33	5789-5791	to	*[31]	Direct Quote[31]	
+49-34	5792-5795	the	*[31]	Direct Quote[31]	
+49-35	5796-5806	principles	*[31]	Direct Quote[31]	
+49-36	5807-5809	of	*[31]	Direct Quote[31]	
+49-37	5810-5816	equity	*[31]	Direct Quote[31]	
+49-38	5817-5818	.	*[31]	Direct Quote[31]	
+49-39	5819-5820	"	*[31]	Direct Quote[31]	
+
+#Text=In Fossil 's telling , equity courts historically required a showing of willfulness before authorizing a profits remedy in trademark disputes .
+50-1	5821-5823	In	_	_	
+50-2	5824-5830	Fossil	_	_	
+50-3	5831-5833	's	_	_	
+50-4	5834-5841	telling	_	_	
+50-5	5842-5843	,	_	_	
+50-6	5844-5850	equity	_	_	
+50-7	5851-5857	courts	_	_	
+50-8	5858-5870	historically	_	_	
+50-9	5871-5879	required	_	_	
+50-10	5880-5881	a	_	_	
+50-11	5882-5889	showing	_	_	
+50-12	5890-5892	of	_	_	
+50-13	5893-5904	willfulness	_	_	
+50-14	5905-5911	before	_	_	
+50-15	5912-5923	authorizing	_	_	
+50-16	5924-5925	a	_	_	
+50-17	5926-5933	profits	_	_	
+50-18	5934-5940	remedy	_	_	
+50-19	5941-5943	in	_	_	
+50-20	5944-5953	trademark	_	_	
+50-21	5954-5962	disputes	_	_	
+50-22	5963-5964	.	_	_	
+
+#Text=Admittedly , equity courts did n't require so much in patent infringement cases and other arguably analogous suits .
+51-1	5965-5975	Admittedly	_	_	
+51-2	5976-5977	,	_	_	
+51-3	5978-5984	equity	_	_	
+51-4	5985-5991	courts	_	_	
+51-5	5992-5995	did	_	_	
+51-6	5996-5999	n't	_	_	
+51-7	6000-6007	require	_	_	
+51-8	6008-6010	so	_	_	
+51-9	6011-6015	much	_	_	
+51-10	6016-6018	in	_	_	
+51-11	6019-6025	patent	_	_	
+51-12	6026-6038	infringement	_	_	
+51-13	6039-6044	cases	_	_	
+51-14	6045-6048	and	_	_	
+51-15	6049-6054	other	_	_	
+51-16	6055-6063	arguably	_	_	
+51-17	6064-6073	analogous	_	_	
+51-18	6074-6079	suits	_	_	
+51-19	6080-6081	.	_	_	
+
+#Text=See , e.g. , Dowagiac Mfg . Co. v. Minnesota Moline Plow Co. , 235 U.S. 641 , 644 , 650 - 651 , 35 S.Ct . 221 , 59 L.Ed . 398 ( 1915 ) .
+52-1	6082-6085	See	_	_	
+52-2	6086-6087	,	_	_	
+52-3	6088-6092	e.g.	_	_	
+52-4	6093-6094	,	_	_	
+52-5	6095-6103	Dowagiac	*[32]	Legal Source[32]	
+52-6	6104-6107	Mfg	*[32]	Legal Source[32]	
+52-7	6108-6109	.	*[32]	Legal Source[32]	
+52-8	6110-6113	Co.	*[32]	Legal Source[32]	
+52-9	6114-6116	v.	*[32]	Legal Source[32]	
+52-10	6117-6126	Minnesota	*[32]	Legal Source[32]	
+52-11	6127-6133	Moline	*[32]	Legal Source[32]	
+52-12	6134-6138	Plow	*[32]	Legal Source[32]	
+52-13	6139-6142	Co.	*[32]	Legal Source[32]	
+52-14	6143-6144	,	*[32]	Legal Source[32]	
+52-15	6145-6148	235	*[32]	Legal Source[32]	
+52-16	6149-6153	U.S.	*[32]	Legal Source[32]	
+52-17	6154-6157	641	*[32]	Legal Source[32]	
+52-18	6158-6159	,	*[32]	Legal Source[32]	
+52-19	6160-6163	644	*[32]	Legal Source[32]	
+52-20	6164-6165	,	*[32]	Legal Source[32]	
+52-21	6166-6169	650	*[32]	Legal Source[32]	
+52-22	6170-6171	-	*[32]	Legal Source[32]	
+52-23	6172-6175	651	*[32]	Legal Source[32]	
+52-24	6176-6177	,	*[32]	Legal Source[32]	
+52-25	6178-6180	35	*[32]	Legal Source[32]	
+52-26	6181-6185	S.Ct	*[32]	Legal Source[32]	
+52-27	6186-6187	.	*[32]	Legal Source[32]	
+52-28	6188-6191	221	*[32]	Legal Source[32]	
+52-29	6192-6193	,	*[32]	Legal Source[32]	
+52-30	6194-6196	59	*[32]	Legal Source[32]	
+52-31	6197-6201	L.Ed	*[32]	Legal Source[32]	
+52-32	6202-6203	.	*[32]	Legal Source[32]	
+52-33	6204-6207	398	*[32]	Legal Source[32]	
+52-34	6208-6209	(	*[32]	Legal Source[32]	
+52-35	6210-6214	1915	*[32]	Legal Source[32]	
+52-36	6215-6216	)	*[32]	Legal Source[32]	
+52-37	6217-6218	.	_	_	
+
+#Text=But , Fossil says , trademark is different .
+53-1	6219-6222	But	_	_	
+53-2	6223-6224	,	_	_	
+53-3	6225-6231	Fossil	_	_	
+53-4	6232-6236	says	_	_	
+53-5	6237-6238	,	_	_	
+53-6	6239-6248	trademark	_	_	
+53-7	6249-6251	is	_	_	
+53-8	6252-6261	different	_	_	
+53-9	6262-6263	.	_	_	
+
+#Text=There alone , a willfulness requirement was so long and universally recognized that today it rises to the level of a " principle of equity " the Lanham Act carries forward .
+54-1	6264-6269	There	_	_	
+54-2	6270-6275	alone	_	_	
+54-3	6276-6277	,	_	_	
+54-4	6278-6279	a	_	_	
+54-5	6280-6291	willfulness	_	_	
+54-6	6292-6303	requirement	_	_	
+54-7	6304-6307	was	_	_	
+54-8	6308-6310	so	_	_	
+54-9	6311-6315	long	_	_	
+54-10	6316-6319	and	_	_	
+54-11	6320-6331	universally	_	_	
+54-12	6332-6342	recognized	_	_	
+54-13	6343-6347	that	_	_	
+54-14	6348-6353	today	_	_	
+54-15	6354-6356	it	_	_	
+54-16	6357-6362	rises	_	_	
+54-17	6363-6365	to	_	_	
+54-18	6366-6369	the	_	_	
+54-19	6370-6375	level	_	_	
+54-20	6376-6378	of	_	_	
+54-21	6379-6380	a	_	_	
+54-22	6381-6382	"	*[33]	Direct Quote[33]	
+54-23	6383-6392	principle	*[33]	Direct Quote[33]	
+54-24	6393-6395	of	*[33]	Direct Quote[33]	
+54-25	6396-6402	equity	*[33]	Direct Quote[33]	
+54-26	6403-6404	"	*[33]	Direct Quote[33]	
+54-27	6405-6408	the	_	_	
+54-28	6409-6415	Lanham	*[34]	Legal Source[34]	
+54-29	6416-6419	Act	*[34]	Legal Source[34]	
+54-30	6420-6427	carries	_	_	
+54-31	6428-6435	forward	_	_	
+54-32	6436-6437	.	_	_	
+
+#Text=It 's a curious suggestion .
+55-1	6438-6440	It	_	_	
+55-2	6441-6443	's	_	_	
+55-3	6444-6445	a	_	_	
+55-4	6446-6453	curious	_	_	
+55-5	6454-6464	suggestion	_	_	
+55-6	6465-6466	.	_	_	
+
+#Text=Fossil 's contention that the term " principles of equity " includes a willfulness requirement would not directly contradict the statute 's other , express mens rea provisions or render them wholly superfluous .
+56-1	6467-6473	Fossil	_	_	
+56-2	6474-6476	's	_	_	
+56-3	6477-6487	contention	_	_	
+56-4	6488-6492	that	_	_	
+56-5	6493-6496	the	_	_	
+56-6	6497-6501	term	*	Metalinguistic Cue	
+56-7	6502-6503	"	*[35]	Direct Quote[35]	
+56-8	6504-6514	principles	*[35]|*[36]	Direct Quote[35]|Focal Term[36]	
+56-9	6515-6517	of	*[35]|*[36]	Direct Quote[35]|Focal Term[36]	
+56-10	6518-6524	equity	*[35]|*[36]	Direct Quote[35]|Focal Term[36]	
+56-11	6525-6526	"	*[35]	Direct Quote[35]	
+56-12	6527-6535	includes	_	_	
+56-13	6536-6537	a	_	_	
+56-14	6538-6549	willfulness	_	_	
+56-15	6550-6561	requirement	_	_	
+56-16	6562-6567	would	_	_	
+56-17	6568-6571	not	_	_	
+56-18	6572-6580	directly	_	_	
+56-19	6581-6591	contradict	_	_	
+56-20	6592-6595	the	_	_	
+56-21	6596-6603	statute	_	_	
+56-22	6604-6606	's	_	_	
+56-23	6607-6612	other	_	_	
+56-24	6613-6614	,	_	_	
+56-25	6615-6622	express	_	_	
+56-26	6623-6627	mens	_	_	
+56-27	6628-6631	rea	_	_	
+56-28	6632-6642	provisions	_	_	
+56-29	6643-6645	or	_	_	
+56-30	6646-6652	render	_	_	
+56-31	6653-6657	them	_	_	
+56-32	6658-6664	wholly	_	_	
+56-33	6665-6676	superfluous	_	_	
+56-34	6677-6678	.	_	_	
+
+#Text=But it would require us to assume that Congress intended to incorporate a willfulness requirement here obliquely while it prescribed mens rea conditions expressly elsewhere throughout the Lanham Act .
+57-1	6679-6682	But	_	_	
+57-2	6683-6685	it	_	_	
+57-3	6686-6691	would	_	_	
+57-4	6692-6699	require	_	_	
+57-5	6700-6702	us	_	_	
+57-6	6703-6705	to	_	_	
+57-7	6706-6712	assume	_	_	
+57-8	6713-6717	that	_	_	
+57-9	6718-6726	Congress	_	_	
+57-10	6727-6735	intended	_	_	
+57-11	6736-6738	to	_	_	
+57-12	6739-6750	incorporate	_	_	
+57-13	6751-6752	a	_	_	
+57-14	6753-6764	willfulness	_	_	
+57-15	6765-6776	requirement	_	_	
+57-16	6777-6781	here	_	_	
+57-17	6782-6791	obliquely	_	_	
+57-18	6792-6797	while	_	_	
+57-19	6798-6800	it	_	_	
+57-20	6801-6811	prescribed	_	_	
+57-21	6812-6816	mens	_	_	
+57-22	6817-6820	rea	_	_	
+57-23	6821-6831	conditions	_	_	
+57-24	6832-6841	expressly	_	_	
+57-25	6842-6851	elsewhere	_	_	
+57-26	6852-6862	throughout	_	_	
+57-27	6863-6866	the	_	_	
+57-28	6867-6873	Lanham	*[37]	Legal Source[37]	
+57-29	6874-6877	Act	*[37]	Legal Source[37]	
+57-30	6878-6879	.	_	_	
+
+#Text=That might be possible , but on first blush it is n't exactly an obvious construction of the statute .
+58-1	6880-6884	That	_	_	
+58-2	6885-6890	might	_	_	
+58-3	6891-6893	be	_	_	
+58-4	6894-6902	possible	_	_	
+58-5	6903-6904	,	_	_	
+58-6	6905-6908	but	_	_	
+58-7	6909-6911	on	_	_	
+58-8	6912-6917	first	_	_	
+58-9	6918-6923	blush	_	_	
+58-10	6924-6926	it	_	_	
+58-11	6927-6929	is	_	_	
+58-12	6930-6933	n't	_	_	
+58-13	6934-6941	exactly	_	_	
+58-14	6942-6944	an	_	_	
+58-15	6945-6952	obvious	_	_	
+58-16	6953-6965	construction	_	_	
+58-17	6966-6968	of	_	_	
+58-18	6969-6972	the	_	_	
+58-19	6973-6980	statute	_	_	
+58-20	6981-6982	.	_	_	
+
+#Text=Nor do matters improve with a second look .
+59-1	6983-6986	Nor	_	_	
+59-2	6987-6989	do	_	_	
+59-3	6990-6997	matters	_	_	
+59-4	6998-7005	improve	_	_	
+59-5	7006-7010	with	_	_	
+59-6	7011-7012	a	_	_	
+59-7	7013-7019	second	_	_	
+59-8	7020-7024	look	_	_	
+59-9	7025-7026	.	_	_	
+
+#Text=The phrase " principles of equity " does n't readily bring to mind a substantive rule about mens rea from a discrete domain like trademark law .
+60-1	7027-7030	The	_	_	
+60-2	7031-7037	phrase	*	Metalinguistic Cue	
+60-3	7038-7039	"	*[38]	Direct Quote[38]	
+60-4	7040-7050	principles	*[38]|*[39]	Direct Quote[38]|Focal Term[39]	
+60-5	7051-7053	of	*[38]|*[39]	Direct Quote[38]|Focal Term[39]	
+60-6	7054-7060	equity	*[38]|*[39]	Direct Quote[38]|Focal Term[39]	
+60-7	7061-7062	"	*[38]	Direct Quote[38]	
+60-8	7063-7067	does	_	_	
+60-9	7068-7071	n't	_	_	
+60-10	7072-7079	readily	_	_	
+60-11	7080-7085	bring	_	_	
+60-12	7086-7088	to	_	_	
+60-13	7089-7093	mind	_	_	
+60-14	7094-7095	a	_	_	
+60-15	7096-7107	substantive	_	_	
+60-16	7108-7112	rule	_	_	
+60-17	7113-7118	about	_	_	
+60-18	7119-7123	mens	_	_	
+60-19	7124-7127	rea	_	_	
+60-20	7128-7132	from	_	_	
+60-21	7133-7134	a	_	_	
+60-22	7135-7143	discrete	_	_	
+60-23	7144-7150	domain	_	_	
+60-24	7151-7155	like	_	_	
+60-25	7156-7165	trademark	_	_	
+60-26	7166-7169	law	_	_	
+60-27	7170-7171	.	_	_	
+
+#Text=In the context of this statute , it more naturally suggests fundamental rules that apply more systematically across claims and practice areas .
+61-1	7172-7174	In	_	_	
+61-2	7175-7178	the	_	_	
+61-3	7179-7186	context	*	Metalinguistic Cue	
+61-4	7187-7189	of	_	_	
+61-5	7190-7194	this	_	_	
+61-6	7195-7202	statute	_	_	
+61-7	7203-7204	,	_	_	
+61-8	7205-7207	it	_	_	
+61-9	7208-7212	more	_	_	
+61-10	7213-7222	naturally	_	_	
+61-11	7223-7231	suggests	_	_	
+61-12	7232-7243	fundamental	_	_	
+61-13	7244-7249	rules	_	_	
+61-14	7250-7254	that	_	_	
+61-15	7255-7260	apply	_	_	
+61-16	7261-7265	more	_	_	
+61-17	7266-7280	systematically	_	_	
+61-18	7281-7287	across	_	_	
+61-19	7288-7294	claims	_	_	
+61-20	7295-7298	and	_	_	
+61-21	7299-7307	practice	_	_	
+61-22	7308-7313	areas	_	_	
+61-23	7314-7315	.	_	_	
+
+#Text=A principle is a " fundamental truth or doctrine , as of law ; a comprehensive rule or doctrine which furnishes a basis or origin for others . " Black 's Law Dictionary 1417 ( 3d ed . 1933 ) ; Black 's Law Dictionary 1357 ( 4th ed . 1951 ) .
+62-1	7316-7317	A	_	_	
+62-2	7318-7327	principle	*	Focal Term	
+62-3	7328-7330	is	_	_	
+62-4	7331-7332	a	_	_	
+62-5	7333-7334	"	*[40]	Direct Quote[40]	
+62-6	7335-7346	fundamental	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-7	7347-7352	truth	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-8	7353-7355	or	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-9	7356-7364	doctrine	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-10	7365-7366	,	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-11	7367-7369	as	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-12	7370-7372	of	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-13	7373-7376	law	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-14	7377-7378	;	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-15	7379-7380	a	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-16	7381-7394	comprehensive	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-17	7395-7399	rule	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-18	7400-7402	or	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-19	7403-7411	doctrine	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-20	7412-7417	which	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-21	7418-7427	furnishes	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-22	7428-7429	a	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-23	7430-7435	basis	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-24	7436-7438	or	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-25	7439-7445	origin	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-26	7446-7449	for	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-27	7450-7456	others	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+62-28	7457-7458	.	*[40]	Direct Quote[40]	
+62-29	7459-7460	"	*[40]	Direct Quote[40]	
+62-30	7461-7466	Black	*[42]	Language Source[42]	
+62-31	7467-7469	's	*[42]	Language Source[42]	
+62-32	7470-7473	Law	*[42]	Language Source[42]	
+62-33	7474-7484	Dictionary	*[42]	Language Source[42]	
+62-34	7485-7489	1417	*[42]	Language Source[42]	
+62-35	7490-7491	(	*[42]	Language Source[42]	
+62-36	7492-7494	3d	*[42]	Language Source[42]	
+62-37	7495-7497	ed	*[42]	Language Source[42]	
+62-38	7498-7499	.	*[42]	Language Source[42]	
+62-39	7500-7504	1933	*[42]	Language Source[42]	
+62-40	7505-7506	)	*[42]	Language Source[42]	
+62-41	7507-7508	;	_	_	
+62-42	7509-7514	Black	*[43]	Language Source[43]	
+62-43	7515-7517	's	*[43]	Language Source[43]	
+62-44	7518-7521	Law	*[43]	Language Source[43]	
+62-45	7522-7532	Dictionary	*[43]	Language Source[43]	
+62-46	7533-7537	1357	*[43]	Language Source[43]	
+62-47	7538-7539	(	*[43]	Language Source[43]	
+62-48	7540-7543	4th	*[43]	Language Source[43]	
+62-49	7544-7546	ed	*[43]	Language Source[43]	
+62-50	7547-7548	.	*[43]	Language Source[43]	
+62-51	7549-7553	1951	*[43]	Language Source[43]	
+62-52	7554-7555	)	*[43]	Language Source[43]	
+62-53	7556-7557	.	_	_	
+
+#Text=And treatises and handbooks on the " principles of equity " generally contain transsubstantive guidance on broad and fundamental questions about matters like parties , modes of proof , defenses , and remedies .
+63-1	7558-7561	And	_	_	
+63-2	7562-7571	treatises	_	_	
+63-3	7572-7575	and	_	_	
+63-4	7576-7585	handbooks	_	_	
+63-5	7586-7588	on	_	_	
+63-6	7589-7592	the	_	_	
+63-7	7593-7594	"	*[44]	Direct Quote[44]	
+63-8	7595-7605	principles	*[44]|*[45]	Direct Quote[44]|Focal Term[45]	
+63-9	7606-7608	of	*[44]|*[45]	Direct Quote[44]|Focal Term[45]	
+63-10	7609-7615	equity	*[44]|*[45]	Direct Quote[44]|Focal Term[45]	
+63-11	7616-7617	"	*[44]	Direct Quote[44]	
+63-12	7618-7627	generally	_	_	
+63-13	7628-7635	contain	_	_	
+63-14	7636-7652	transsubstantive	_	_	
+63-15	7653-7661	guidance	_	_	
+63-16	7662-7664	on	_	_	
+63-17	7665-7670	broad	_	_	
+63-18	7671-7674	and	_	_	
+63-19	7675-7686	fundamental	_	_	
+63-20	7687-7696	questions	_	_	
+63-21	7697-7702	about	_	_	
+63-22	7703-7710	matters	_	_	
+63-23	7711-7715	like	_	_	
+63-24	7716-7723	parties	_	_	
+63-25	7724-7725	,	_	_	
+63-26	7726-7731	modes	_	_	
+63-27	7732-7734	of	_	_	
+63-28	7735-7740	proof	_	_	
+63-29	7741-7742	,	_	_	
+63-30	7743-7751	defenses	_	_	
+63-31	7752-7753	,	_	_	
+63-32	7754-7757	and	_	_	
+63-33	7758-7766	remedies	_	_	
+63-34	7767-7768	.	_	_	
+
+#Text=See , e.g. , E. Merwin , Principles of Equity and Equity Pleading ( 1895 ) ; J. Indermaur & C. Thwaites , Manual of the Principles of Equity ( 7th ed . 1913 ) ; H. Smith , Practical Exposition of the Principles of Equity ( 5th ed . 1914 ) ; R. Megarry , Snell 's Principles of Equity ( 23d ed . 1947 ) .
+64-1	7769-7772	See	_	_	
+64-2	7773-7774	,	_	_	
+64-3	7775-7779	e.g.	_	_	
+64-4	7780-7781	,	_	_	
+64-5	7782-7784	E.	*[46]	Legal Source[46]	
+64-6	7785-7791	Merwin	*[46]	Legal Source[46]	
+64-7	7792-7793	,	*[46]	Legal Source[46]	
+64-8	7794-7804	Principles	*[46]	Legal Source[46]	
+64-9	7805-7807	of	*[46]	Legal Source[46]	
+64-10	7808-7814	Equity	*[46]	Legal Source[46]	
+64-11	7815-7818	and	*[46]	Legal Source[46]	
+64-12	7819-7825	Equity	*[46]	Legal Source[46]	
+64-13	7826-7834	Pleading	*[46]	Legal Source[46]	
+64-14	7835-7836	(	*[46]	Legal Source[46]	
+64-15	7837-7841	1895	*[46]	Legal Source[46]	
+64-16	7842-7843	)	*[46]	Legal Source[46]	
+64-17	7844-7845	;	_	_	
+64-18	7846-7848	J.	*[47]	Legal Source[47]	
+64-19	7849-7858	Indermaur	*[47]	Legal Source[47]	
+64-20	7859-7860	&	*[47]	Legal Source[47]	
+64-21	7861-7863	C.	*[47]	Legal Source[47]	
+64-22	7864-7872	Thwaites	*[47]	Legal Source[47]	
+64-23	7873-7874	,	*[47]	Legal Source[47]	
+64-24	7875-7881	Manual	*[47]	Legal Source[47]	
+64-25	7882-7884	of	*[47]	Legal Source[47]	
+64-26	7885-7888	the	*[47]	Legal Source[47]	
+64-27	7889-7899	Principles	*[47]	Legal Source[47]	
+64-28	7900-7902	of	*[47]	Legal Source[47]	
+64-29	7903-7909	Equity	*[47]	Legal Source[47]	
+64-30	7910-7911	(	*[47]	Legal Source[47]	
+64-31	7912-7915	7th	*[47]	Legal Source[47]	
+64-32	7916-7918	ed	*[47]	Legal Source[47]	
+64-33	7919-7920	.	*[47]	Legal Source[47]	
+64-34	7921-7925	1913	*[47]	Legal Source[47]	
+64-35	7926-7927	)	*[47]	Legal Source[47]	
+64-36	7928-7929	;	_	_	
+64-37	7930-7932	H.	*[48]	Legal Source[48]	
+64-38	7933-7938	Smith	*[48]	Legal Source[48]	
+64-39	7939-7940	,	*[48]	Legal Source[48]	
+64-40	7941-7950	Practical	*[48]	Legal Source[48]	
+64-41	7951-7961	Exposition	*[48]	Legal Source[48]	
+64-42	7962-7964	of	*[48]	Legal Source[48]	
+64-43	7965-7968	the	*[48]	Legal Source[48]	
+64-44	7969-7979	Principles	*[48]	Legal Source[48]	
+64-45	7980-7982	of	*[48]	Legal Source[48]	
+64-46	7983-7989	Equity	*[48]	Legal Source[48]	
+64-47	7990-7991	(	*[48]	Legal Source[48]	
+64-48	7992-7995	5th	*[48]	Legal Source[48]	
+64-49	7996-7998	ed	*[48]	Legal Source[48]	
+64-50	7999-8000	.	*[48]	Legal Source[48]	
+64-51	8001-8005	1914	*[48]	Legal Source[48]	
+64-52	8006-8007	)	*[48]	Legal Source[48]	
+64-53	8008-8009	;	_	_	
+64-54	8010-8012	R.	*[49]	Legal Source[49]	
+64-55	8013-8020	Megarry	*[49]	Legal Source[49]	
+64-56	8021-8022	,	*[49]	Legal Source[49]	
+64-57	8023-8028	Snell	*[49]	Legal Source[49]	
+64-58	8029-8031	's	*[49]	Legal Source[49]	
+64-59	8032-8042	Principles	*[49]	Legal Source[49]	
+64-60	8043-8045	of	*[49]	Legal Source[49]	
+64-61	8046-8052	Equity	*[49]	Legal Source[49]	
+64-62	8053-8054	(	*[49]	Legal Source[49]	
+64-63	8055-8058	23d	*[49]	Legal Source[49]	
+64-64	8059-8061	ed	*[49]	Legal Source[49]	
+64-65	8062-8063	.	*[49]	Legal Source[49]	
+64-66	8064-8068	1947	*[49]	Legal Source[49]	
+64-67	8069-8070	)	*[49]	Legal Source[49]	
+64-68	8071-8072	.	_	_	
+
+#Text=Our precedent , too , has used the term " principles of equity " to refer to just such transsubstantive topics .
+65-1	8073-8076	Our	_	_	
+65-2	8077-8086	precedent	_	_	
+65-3	8087-8088	,	_	_	
+65-4	8089-8092	too	_	_	
+65-5	8093-8094	,	_	_	
+65-6	8095-8098	has	_	_	
+65-7	8099-8103	used	_	_	
+65-8	8104-8107	the	_	_	
+65-9	8108-8112	term	*	Metalinguistic Cue	
+65-10	8113-8114	"	*[50]	Direct Quote[50]	
+65-11	8115-8125	principles	*[50]	Direct Quote[50]	
+65-12	8126-8128	of	*[50]	Direct Quote[50]	
+65-13	8129-8135	equity	*[50]	Direct Quote[50]	
+65-14	8136-8137	"	*[50]	Direct Quote[50]	
+65-15	8138-8140	to	_	_	
+65-16	8141-8146	refer	_	_	
+65-17	8147-8149	to	_	_	
+65-18	8150-8154	just	_	_	
+65-19	8155-8159	such	_	_	
+65-20	8160-8176	transsubstantive	_	_	
+65-21	8177-8183	topics	_	_	
+65-22	8184-8185	.	_	_	
+
+#Text=See , e.g. , eBay Inc. v. MercExchange , L. L. C. , 547 U.S. 388 , 391 , 393 , 126 S.Ct . 1837 , 164 L.Ed.2d 641 ( 2006 ) ; Holmberg v. Armbrecht , 327 U.S. 392 , 395 , 66 S.Ct . 582 , 90 L.Ed . 743 ( 1946 ) .
+66-1	8186-8189	See	_	_	
+66-2	8190-8191	,	_	_	
+66-3	8192-8196	e.g.	_	_	
+66-4	8197-8198	,	_	_	
+66-5	8199-8203	eBay	*[51]	Legal Source[51]	
+66-6	8204-8208	Inc.	*[51]	Legal Source[51]	
+66-7	8209-8211	v.	*[51]	Legal Source[51]	
+66-8	8212-8224	MercExchange	*[51]	Legal Source[51]	
+66-9	8225-8226	,	*[51]	Legal Source[51]	
+66-10	8227-8229	L.	*[51]	Legal Source[51]	
+66-11	8230-8232	L.	*[51]	Legal Source[51]	
+66-12	8233-8235	C.	*[51]	Legal Source[51]	
+66-13	8236-8237	,	*[51]	Legal Source[51]	
+66-14	8238-8241	547	*[51]	Legal Source[51]	
+66-15	8242-8246	U.S.	*[51]	Legal Source[51]	
+66-16	8247-8250	388	*[51]	Legal Source[51]	
+66-17	8251-8252	,	*[51]	Legal Source[51]	
+66-18	8253-8256	391	*[51]	Legal Source[51]	
+66-19	8257-8258	,	*[51]	Legal Source[51]	
+66-20	8259-8262	393	*[51]	Legal Source[51]	
+66-21	8263-8264	,	*[51]	Legal Source[51]	
+66-22	8265-8268	126	*[51]	Legal Source[51]	
+66-23	8269-8273	S.Ct	*[51]	Legal Source[51]	
+66-24	8274-8275	.	*[51]	Legal Source[51]	
+66-25	8276-8280	1837	*[51]	Legal Source[51]	
+66-26	8281-8282	,	*[51]	Legal Source[51]	
+66-27	8283-8286	164	*[51]	Legal Source[51]	
+66-28	8287-8294	L.Ed.2d	*[51]	Legal Source[51]	
+66-29	8295-8298	641	*[51]	Legal Source[51]	
+66-30	8299-8300	(	*[51]	Legal Source[51]	
+66-31	8301-8305	2006	*[51]	Legal Source[51]	
+66-32	8306-8307	)	*[51]	Legal Source[51]	
+66-33	8308-8309	;	_	_	
+66-34	8310-8318	Holmberg	*[52]	Legal Source[52]	
+66-35	8319-8321	v.	*[52]	Legal Source[52]	
+66-36	8322-8331	Armbrecht	*[52]	Legal Source[52]	
+66-37	8332-8333	,	*[52]	Legal Source[52]	
+66-38	8334-8337	327	*[52]	Legal Source[52]	
+66-39	8338-8342	U.S.	*[52]	Legal Source[52]	
+66-40	8343-8346	392	*[52]	Legal Source[52]	
+66-41	8347-8348	,	*[52]	Legal Source[52]	
+66-42	8349-8352	395	*[52]	Legal Source[52]	
+66-43	8353-8354	,	*[52]	Legal Source[52]	
+66-44	8355-8357	66	*[52]	Legal Source[52]	
+66-45	8358-8362	S.Ct	*[52]	Legal Source[52]	
+66-46	8363-8364	.	*[52]	Legal Source[52]	
+66-47	8365-8368	582	*[52]	Legal Source[52]	
+66-48	8369-8370	,	*[52]	Legal Source[52]	
+66-49	8371-8373	90	*[52]	Legal Source[52]	
+66-50	8374-8378	L.Ed	*[52]	Legal Source[52]	
+66-51	8379-8380	.	*[52]	Legal Source[52]	
+66-52	8381-8384	743	*[52]	Legal Source[52]	
+66-53	8385-8386	(	*[52]	Legal Source[52]	
+66-54	8387-8391	1946	*[52]	Legal Source[52]	
+66-55	8392-8393	)	*[52]	Legal Source[52]	
+66-56	8394-8395	.	_	_	
+
+#Text=Congress itself has elsewhere used " equitable principles " in just this way : An amendment to a different section of the Lanham Act lists " laches , estoppel , and acquiescence " as examples of " equitable principles . "
+67-1	8396-8404	Congress	_	_	
+67-2	8405-8411	itself	_	_	
+67-3	8412-8415	has	_	_	
+67-4	8416-8425	elsewhere	_	_	
+67-5	8426-8430	used	_	_	
+67-6	8431-8432	"	*[53]	Direct Quote[53]	
+67-7	8433-8442	equitable	*[53]|*[54]	Direct Quote[53]|Focal Term[54]	
+67-8	8443-8453	principles	*[53]|*[54]	Direct Quote[53]|Focal Term[54]	
+67-9	8454-8455	"	*[53]	Direct Quote[53]	
+67-10	8456-8458	in	_	_	
+67-11	8459-8463	just	_	_	
+67-12	8464-8468	this	_	_	
+67-13	8469-8472	way	_	_	
+67-14	8473-8474	:	_	_	
+67-15	8475-8477	An	_	_	
+67-16	8478-8487	amendment	_	_	
+67-17	8488-8490	to	_	_	
+67-18	8491-8492	a	_	_	
+67-19	8493-8502	different	_	_	
+67-20	8503-8510	section	_	_	
+67-21	8511-8513	of	_	_	
+67-22	8514-8517	the	_	_	
+67-23	8518-8524	Lanham	*[55]	Legal Source[55]	
+67-24	8525-8528	Act	*[55]	Legal Source[55]	
+67-25	8529-8534	lists	_	_	
+67-26	8535-8536	"	*[56]	Direct Quote[56]	
+67-27	8537-8543	laches	*[56]|*[57]	Direct Quote[56]|Example Use[57]	
+67-28	8544-8545	,	*[56]|*[57]	Direct Quote[56]|Example Use[57]	
+67-29	8546-8554	estoppel	*[56]|*[57]	Direct Quote[56]|Example Use[57]	
+67-30	8555-8556	,	*[56]|*[57]	Direct Quote[56]|Example Use[57]	
+67-31	8557-8560	and	*[56]|*[57]	Direct Quote[56]|Example Use[57]	
+67-32	8561-8573	acquiescence	*[56]|*[57]	Direct Quote[56]|Example Use[57]	
+67-33	8574-8575	"	*[56]	Direct Quote[56]	
+67-34	8576-8578	as	_	_	
+67-35	8579-8587	examples	*	Metalinguistic Cue	
+67-36	8588-8590	of	_	_	
+67-37	8591-8592	"	*[58]	Direct Quote[58]	
+67-38	8593-8602	equitable	*[58]	Direct Quote[58]	
+67-39	8603-8613	principles	*[58]	Direct Quote[58]	
+67-40	8614-8615	.	*[58]	Direct Quote[58]	
+67-41	8616-8617	"	*[58]	Direct Quote[58]	
+
+#Text=15 U.S.C. § 1069 .
+68-1	8618-8620	15	*[59]	Legal Source[59]	
+68-2	8621-8627	U.S.C.	*[59]	Legal Source[59]	
+68-3	8628-8629	§	*[59]	Legal Source[59]	
+68-4	8630-8634	1069	*[59]	Legal Source[59]	
+68-5	8635-8636	.	_	_	
+
+#Text=Given all this , it seems a little unlikely Congress meant " principles of equity " to direct us to a narrow rule about a profits remedy within trademark law .
+69-1	8637-8642	Given	_	_	
+69-2	8643-8646	all	_	_	
+69-3	8647-8651	this	_	_	
+69-4	8652-8653	,	_	_	
+69-5	8654-8656	it	_	_	
+69-6	8657-8662	seems	_	_	
+69-7	8663-8664	a	_	_	
+69-8	8665-8671	little	_	_	
+69-9	8672-8680	unlikely	_	_	
+69-10	8681-8689	Congress	_	_	
+69-11	8690-8695	meant	*	Metalinguistic Cue	
+69-12	8696-8697	"	*[60]	Direct Quote[60]	
+69-13	8698-8708	principles	*[60]|*[61]	Direct Quote[60]|Focal Term[61]	
+69-14	8709-8711	of	*[60]|*[61]	Direct Quote[60]|Focal Term[61]	
+69-15	8712-8718	equity	*[60]|*[61]	Direct Quote[60]|Focal Term[61]	
+69-16	8719-8720	"	*[60]	Direct Quote[60]	
+69-17	8721-8723	to	_	_	
+69-18	8724-8730	direct	_	_	
+69-19	8731-8733	us	_	_	
+69-20	8734-8736	to	_	_	
+69-21	8737-8738	a	_	_	
+69-22	8739-8745	narrow	_	_	
+69-23	8746-8750	rule	_	_	
+69-24	8751-8756	about	_	_	
+69-25	8757-8758	a	_	_	
+69-26	8759-8766	profits	_	_	
+69-27	8767-8773	remedy	_	_	
+69-28	8774-8780	within	_	_	
+69-29	8781-8790	trademark	_	_	
+69-30	8791-8794	law	_	_	
+69-31	8795-8796	.	_	_	
+
+#Text=But even if we were to spot Fossil that first essential premise of its argument , the next has problems too .
+70-1	8797-8800	But	_	_	
+70-2	8801-8805	even	_	_	
+70-3	8806-8808	if	_	_	
+70-4	8809-8811	we	_	_	
+70-5	8812-8816	were	_	_	
+70-6	8817-8819	to	_	_	
+70-7	8820-8824	spot	_	_	
+70-8	8825-8831	Fossil	_	_	
+70-9	8832-8836	that	_	_	
+70-10	8837-8842	first	_	_	
+70-11	8843-8852	essential	_	_	
+70-12	8853-8860	premise	_	_	
+70-13	8861-8863	of	_	_	
+70-14	8864-8867	its	_	_	
+70-15	8868-8876	argument	_	_	
+70-16	8877-8878	,	_	_	
+70-17	8879-8882	the	_	_	
+70-18	8883-8887	next	_	_	
+70-19	8888-8891	has	_	_	
+70-20	8892-8900	problems	_	_	
+70-21	8901-8904	too	_	_	
+70-22	8905-8906	.	_	_	
+
+#Text=From the record the parties have put before us , it 's far from clear whether trademark law historically required a showing of willfulness before allowing a profits remedy .
+71-1	8907-8911	From	_	_	
+71-2	8912-8915	the	_	_	
+71-3	8916-8922	record	_	_	
+71-4	8923-8926	the	_	_	
+71-5	8927-8934	parties	_	_	
+71-6	8935-8939	have	_	_	
+71-7	8940-8943	put	_	_	
+71-8	8944-8950	before	_	_	
+71-9	8951-8953	us	_	_	
+71-10	8954-8955	,	_	_	
+71-11	8956-8958	it	_	_	
+71-12	8959-8961	's	_	_	
+71-13	8962-8965	far	_	_	
+71-14	8966-8970	from	_	_	
+71-15	8971-8976	clear	_	_	
+71-16	8977-8984	whether	_	_	
+71-17	8985-8994	trademark	_	_	
+71-18	8995-8998	law	_	_	
+71-19	8999-9011	historically	_	_	
+71-20	9012-9020	required	_	_	
+71-21	9021-9022	a	_	_	
+71-22	9023-9030	showing	_	_	
+71-23	9031-9033	of	_	_	
+71-24	9034-9045	willfulness	_	_	
+71-25	9046-9052	before	_	_	
+71-26	9053-9061	allowing	_	_	
+71-27	9062-9063	a	_	_	
+71-28	9064-9071	profits	_	_	
+71-29	9072-9078	remedy	_	_	
+71-30	9079-9080	.	_	_	
+
+#Text=The Trademark Act of 1905 - the Lanham Act 's statutory predecessor which many earlier cases interpreted and applied - did not mention such a requirement .
+72-1	9081-9084	The	_	_	
+72-2	9085-9094	Trademark	*[62]	Legal Source[62]	
+72-3	9095-9098	Act	*[62]	Legal Source[62]	
+72-4	9099-9101	of	*[62]	Legal Source[62]	
+72-5	9102-9106	1905	*[62]	Legal Source[62]	
+72-6	9107-9108	-	_	_	
+72-7	9109-9112	the	_	_	
+72-8	9113-9119	Lanham	*[63]	Legal Source[63]	
+72-9	9120-9123	Act	*[63]	Legal Source[63]	
+72-10	9124-9126	's	_	_	
+72-11	9127-9136	statutory	_	_	
+72-12	9137-9148	predecessor	_	_	
+72-13	9149-9154	which	_	_	
+72-14	9155-9159	many	_	_	
+72-15	9160-9167	earlier	_	_	
+72-16	9168-9173	cases	_	_	
+72-17	9174-9185	interpreted	_	_	
+72-18	9186-9189	and	_	_	
+72-19	9190-9197	applied	_	_	
+72-20	9198-9199	-	_	_	
+72-21	9200-9203	did	_	_	
+72-22	9204-9207	not	_	_	
+72-23	9208-9215	mention	_	_	
+72-24	9216-9220	such	_	_	
+72-25	9221-9222	a	_	_	
+72-26	9223-9234	requirement	_	_	
+72-27	9235-9236	.	_	_	
+
+#Text=It 's true , as Fossil notes , that some courts proceeding before the 1905 Act , and even some later cases following that Act , did treat willfulness or something like it as a prerequisite for a profits award and rarely authorized profits for purely good - faith infringement .
+73-1	9237-9239	It	_	_	
+73-2	9240-9242	's	_	_	
+73-3	9243-9247	true	_	_	
+73-4	9248-9249	,	_	_	
+73-5	9250-9252	as	_	_	
+73-6	9253-9259	Fossil	_	_	
+73-7	9260-9265	notes	_	_	
+73-8	9266-9267	,	_	_	
+73-9	9268-9272	that	_	_	
+73-10	9273-9277	some	_	_	
+73-11	9278-9284	courts	_	_	
+73-12	9285-9295	proceeding	_	_	
+73-13	9296-9302	before	_	_	
+73-14	9303-9306	the	_	_	
+73-15	9307-9311	1905	*[64]	Legal Source[64]	
+73-16	9312-9315	Act	*[64]	Legal Source[64]	
+73-17	9316-9317	,	_	_	
+73-18	9318-9321	and	_	_	
+73-19	9322-9326	even	_	_	
+73-20	9327-9331	some	_	_	
+73-21	9332-9337	later	_	_	
+73-22	9338-9343	cases	_	_	
+73-23	9344-9353	following	_	_	
+73-24	9354-9358	that	_	_	
+73-25	9359-9362	Act	*	Legal Source	
+73-26	9363-9364	,	_	_	
+73-27	9365-9368	did	_	_	
+73-28	9369-9374	treat	_	_	
+73-29	9375-9386	willfulness	_	_	
+73-30	9387-9389	or	_	_	
+73-31	9390-9399	something	_	_	
+73-32	9400-9404	like	_	_	
+73-33	9405-9407	it	_	_	
+73-34	9408-9410	as	_	_	
+73-35	9411-9412	a	_	_	
+73-36	9413-9425	prerequisite	_	_	
+73-37	9426-9429	for	_	_	
+73-38	9430-9431	a	_	_	
+73-39	9432-9439	profits	_	_	
+73-40	9440-9445	award	_	_	
+73-41	9446-9449	and	_	_	
+73-42	9450-9456	rarely	_	_	
+73-43	9457-9467	authorized	_	_	
+73-44	9468-9475	profits	_	_	
+73-45	9476-9479	for	_	_	
+73-46	9480-9486	purely	_	_	
+73-47	9487-9491	good	_	_	
+73-48	9492-9493	-	_	_	
+73-49	9494-9499	faith	_	_	
+73-50	9500-9512	infringement	_	_	
+73-51	9513-9514	.	_	_	
+
+#Text=See , e.g. , Horlick 's Malted Milk Corp. v. Horluck 's , Inc. , 51 F.2d 357 , 359 ( W.D. Wash. 1931 ) ( explaining that the plaintiff " can not recover defendant 's profits unless it has been shown beyond a reasonable doubt that defendant was guilty of willful fraud in the use of the enjoined trade - name " ) ; see also Saxlehner v. Siegel - Cooper Co. , 179 U.S. 42 , 42 - 43 , 21 S.Ct . 16 , 45 L.Ed . 77 ( 1900 ) ( holding that one defendant " should not be required to account for gains and profits " when it " appear[ed ] to have acted in good faith " ) .
+74-1	9515-9518	See	_	_	
+74-2	9519-9520	,	_	_	
+74-3	9521-9525	e.g.	_	_	
+74-4	9526-9527	,	_	_	
+74-5	9528-9535	Horlick	*[65]	Legal Source[65]	
+74-6	9536-9538	's	*[65]	Legal Source[65]	
+74-7	9539-9545	Malted	*[65]	Legal Source[65]	
+74-8	9546-9550	Milk	*[65]	Legal Source[65]	
+74-9	9551-9556	Corp.	*[65]	Legal Source[65]	
+74-10	9557-9559	v.	*[65]	Legal Source[65]	
+74-11	9560-9567	Horluck	*[65]	Legal Source[65]	
+74-12	9568-9570	's	*[65]	Legal Source[65]	
+74-13	9571-9572	,	*[65]	Legal Source[65]	
+74-14	9573-9577	Inc.	*[65]	Legal Source[65]	
+74-15	9578-9579	,	*[65]	Legal Source[65]	
+74-16	9580-9582	51	*[65]	Legal Source[65]	
+74-17	9583-9587	F.2d	*[65]	Legal Source[65]	
+74-18	9588-9591	357	*[65]	Legal Source[65]	
+74-19	9592-9593	,	*[65]	Legal Source[65]	
+74-20	9594-9597	359	*[65]	Legal Source[65]	
+74-21	9598-9599	(	*[65]	Legal Source[65]	
+74-22	9600-9604	W.D.	*[65]	Legal Source[65]	
+74-23	9605-9610	Wash.	*[65]	Legal Source[65]	
+74-24	9611-9615	1931	*[65]	Legal Source[65]	
+74-25	9616-9617	)	*[65]	Legal Source[65]	
+74-26	9618-9619	(	_	_	
+74-27	9620-9630	explaining	_	_	
+74-28	9631-9635	that	_	_	
+74-29	9636-9639	the	_	_	
+74-30	9640-9649	plaintiff	_	_	
+74-31	9650-9651	"	*[66]	Direct Quote[66]	
+74-32	9652-9655	can	*[66]	Direct Quote[66]	
+74-33	9656-9659	not	*[66]	Direct Quote[66]	
+74-34	9660-9667	recover	*[66]	Direct Quote[66]	
+74-35	9668-9677	defendant	*[66]	Direct Quote[66]	
+74-36	9678-9680	's	*[66]	Direct Quote[66]	
+74-37	9681-9688	profits	*[66]	Direct Quote[66]	
+74-38	9689-9695	unless	*[66]	Direct Quote[66]	
+74-39	9696-9698	it	*[66]	Direct Quote[66]	
+74-40	9699-9702	has	*[66]	Direct Quote[66]	
+74-41	9703-9707	been	*[66]	Direct Quote[66]	
+74-42	9708-9713	shown	*[66]	Direct Quote[66]	
+74-43	9714-9720	beyond	*[66]	Direct Quote[66]	
+74-44	9721-9722	a	*[66]	Direct Quote[66]	
+74-45	9723-9733	reasonable	*[66]	Direct Quote[66]	
+74-46	9734-9739	doubt	*[66]	Direct Quote[66]	
+74-47	9740-9744	that	*[66]	Direct Quote[66]	
+74-48	9745-9754	defendant	*[66]	Direct Quote[66]	
+74-49	9755-9758	was	*[66]	Direct Quote[66]	
+74-50	9759-9765	guilty	*[66]	Direct Quote[66]	
+74-51	9766-9768	of	*[66]	Direct Quote[66]	
+74-52	9769-9776	willful	*[66]	Direct Quote[66]	
+74-53	9777-9782	fraud	*[66]	Direct Quote[66]	
+74-54	9783-9785	in	*[66]	Direct Quote[66]	
+74-55	9786-9789	the	*[66]	Direct Quote[66]	
+74-56	9790-9793	use	*[66]	Direct Quote[66]	
+74-57	9794-9796	of	*[66]	Direct Quote[66]	
+74-58	9797-9800	the	*[66]	Direct Quote[66]	
+74-59	9801-9809	enjoined	*[66]	Direct Quote[66]	
+74-60	9810-9815	trade	*[66]	Direct Quote[66]	
+74-61	9816-9817	-	*[66]	Direct Quote[66]	
+74-62	9818-9822	name	*[66]	Direct Quote[66]	
+74-63	9823-9824	"	*[66]	Direct Quote[66]	
+74-64	9825-9826	)	_	_	
+74-65	9827-9828	;	_	_	
+74-66	9829-9832	see	_	_	
+74-67	9833-9837	also	_	_	
+74-68	9838-9847	Saxlehner	*[67]	Legal Source[67]	
+74-69	9848-9850	v.	*[67]	Legal Source[67]	
+74-70	9851-9857	Siegel	*[67]	Legal Source[67]	
+74-71	9858-9859	-	*[67]	Legal Source[67]	
+74-72	9860-9866	Cooper	*[67]	Legal Source[67]	
+74-73	9867-9870	Co.	*[67]	Legal Source[67]	
+74-74	9871-9872	,	*[67]	Legal Source[67]	
+74-75	9873-9876	179	*[67]	Legal Source[67]	
+74-76	9877-9881	U.S.	*[67]	Legal Source[67]	
+74-77	9882-9884	42	*[67]	Legal Source[67]	
+74-78	9885-9886	,	*[67]	Legal Source[67]	
+74-79	9887-9889	42	*[67]	Legal Source[67]	
+74-80	9890-9891	-	*[67]	Legal Source[67]	
+74-81	9892-9894	43	*[67]	Legal Source[67]	
+74-82	9895-9896	,	*[67]	Legal Source[67]	
+74-83	9897-9899	21	*[67]	Legal Source[67]	
+74-84	9900-9904	S.Ct	*[67]	Legal Source[67]	
+74-85	9905-9906	.	*[67]	Legal Source[67]	
+74-86	9907-9909	16	*[67]	Legal Source[67]	
+74-87	9910-9911	,	*[67]	Legal Source[67]	
+74-88	9912-9914	45	*[67]	Legal Source[67]	
+74-89	9915-9919	L.Ed	*[67]	Legal Source[67]	
+74-90	9920-9921	.	*[67]	Legal Source[67]	
+74-91	9922-9924	77	*[67]	Legal Source[67]	
+74-92	9925-9926	(	*[67]	Legal Source[67]	
+74-93	9927-9931	1900	*[67]	Legal Source[67]	
+74-94	9932-9933	)	*[67]	Legal Source[67]	
+74-95	9934-9935	(	_	_	
+74-96	9936-9943	holding	_	_	
+74-97	9944-9948	that	_	_	
+74-98	9949-9952	one	_	_	
+74-99	9953-9962	defendant	_	_	
+74-100	9963-9964	"	*[68]	Direct Quote[68]	
+74-101	9965-9971	should	*[68]	Direct Quote[68]	
+74-102	9972-9975	not	*[68]	Direct Quote[68]	
+74-103	9976-9978	be	*[68]	Direct Quote[68]	
+74-104	9979-9987	required	*[68]	Direct Quote[68]	
+74-105	9988-9990	to	*[68]	Direct Quote[68]	
+74-106	9991-9998	account	*[68]	Direct Quote[68]	
+74-107	9999-10002	for	*[68]	Direct Quote[68]	
+74-108	10003-10008	gains	*[68]	Direct Quote[68]	
+74-109	10009-10012	and	*[68]	Direct Quote[68]	
+74-110	10013-10020	profits	*[68]	Direct Quote[68]	
+74-111	10021-10022	"	*[68]	Direct Quote[68]	
+74-112	10023-10027	when	_	_	
+74-113	10028-10030	it	_	_	
+74-114	10031-10032	"	*[69]	Direct Quote[69]	
+74-115	10033-10042	appear[ed	*[69]	Direct Quote[69]	
+74-116	10043-10044	]	*[69]	Direct Quote[69]	
+74-117	10045-10047	to	*[69]	Direct Quote[69]	
+74-118	10048-10052	have	*[69]	Direct Quote[69]	
+74-119	10053-10058	acted	*[69]	Direct Quote[69]	
+74-120	10059-10061	in	*[69]	Direct Quote[69]	
+74-121	10062-10066	good	*[69]	Direct Quote[69]	
+74-122	10067-10072	faith	*[69]	Direct Quote[69]	
+74-123	10073-10074	"	*[69]	Direct Quote[69]	
+74-124	10075-10076	)	_	_	
+74-125	10077-10078	.	_	_	
+
+#Text=But Romag cites other cases that expressly rejected any such rule .
+75-1	10079-10082	But	_	_	
+75-2	10083-10088	Romag	_	_	
+75-3	10089-10094	cites	_	_	
+75-4	10095-10100	other	_	_	
+75-5	10101-10106	cases	_	_	
+75-6	10107-10111	that	_	_	
+75-7	10112-10121	expressly	_	_	
+75-8	10122-10130	rejected	_	_	
+75-9	10131-10134	any	_	_	
+75-10	10135-10139	such	_	_	
+75-11	10140-10144	rule	_	_	
+75-12	10145-10146	.	_	_	
+
+#Text=See , e.g. , Oakes v. Tonsmierre , 49 F. 447 , 453 ( C.C.S.D. Ala. 1883 ) ; see also Stonebraker v. Stonebraker , 33 Md. 252 , 268 ( 1870 ) ; Lawrence - Williams Co. v. Societe Enfants Gombault et Cie , 52 F.2d 774 , 778 ( C.A.6 1931 ) .
+76-1	10147-10150	See	_	_	
+76-2	10151-10152	,	_	_	
+76-3	10153-10157	e.g.	_	_	
+76-4	10158-10159	,	_	_	
+76-5	10160-10165	Oakes	*[70]	Legal Source[70]	
+76-6	10166-10168	v.	*[70]	Legal Source[70]	
+76-7	10169-10179	Tonsmierre	*[70]	Legal Source[70]	
+76-8	10180-10181	,	*[70]	Legal Source[70]	
+76-9	10182-10184	49	*[70]	Legal Source[70]	
+76-10	10185-10187	F.	*[70]	Legal Source[70]	
+76-11	10188-10191	447	*[70]	Legal Source[70]	
+76-12	10192-10193	,	*[70]	Legal Source[70]	
+76-13	10194-10197	453	*[70]	Legal Source[70]	
+76-14	10198-10199	(	*[70]	Legal Source[70]	
+76-15	10200-10208	C.C.S.D.	*[70]	Legal Source[70]	
+76-16	10209-10213	Ala.	*[70]	Legal Source[70]	
+76-17	10214-10218	1883	*[70]	Legal Source[70]	
+76-18	10219-10220	)	*[70]	Legal Source[70]	
+76-19	10221-10222	;	_	_	
+76-20	10223-10226	see	_	_	
+76-21	10227-10231	also	_	_	
+76-22	10232-10243	Stonebraker	*[71]	Legal Source[71]	
+76-23	10244-10246	v.	*[71]	Legal Source[71]	
+76-24	10247-10258	Stonebraker	*[71]	Legal Source[71]	
+76-25	10259-10260	,	*[71]	Legal Source[71]	
+76-26	10261-10263	33	*[71]	Legal Source[71]	
+76-27	10264-10267	Md.	*[71]	Legal Source[71]	
+76-28	10268-10271	252	*[71]	Legal Source[71]	
+76-29	10272-10273	,	*[71]	Legal Source[71]	
+76-30	10274-10277	268	*[71]	Legal Source[71]	
+76-31	10278-10279	(	*[71]	Legal Source[71]	
+76-32	10280-10284	1870	*[71]	Legal Source[71]	
+76-33	10285-10286	)	*[71]	Legal Source[71]	
+76-34	10287-10288	;	_	_	
+76-35	10289-10297	Lawrence	*[72]	Legal Source[72]	
+76-36	10298-10299	-	*[72]	Legal Source[72]	
+76-37	10300-10308	Williams	*[72]	Legal Source[72]	
+76-38	10309-10312	Co.	*[72]	Legal Source[72]	
+76-39	10313-10315	v.	*[72]	Legal Source[72]	
+76-40	10316-10323	Societe	*[72]	Legal Source[72]	
+76-41	10324-10331	Enfants	*[72]	Legal Source[72]	
+76-42	10332-10340	Gombault	*[72]	Legal Source[72]	
+76-43	10341-10343	et	*[72]	Legal Source[72]	
+76-44	10344-10347	Cie	*[72]	Legal Source[72]	
+76-45	10348-10349	,	*[72]	Legal Source[72]	
+76-46	10350-10352	52	*[72]	Legal Source[72]	
+76-47	10353-10357	F.2d	*[72]	Legal Source[72]	
+76-48	10358-10361	774	*[72]	Legal Source[72]	
+76-49	10362-10363	,	*[72]	Legal Source[72]	
+76-50	10364-10367	778	*[72]	Legal Source[72]	
+76-51	10368-10369	(	*[72]	Legal Source[72]	
+76-52	10370-10375	C.A.6	*[72]	Legal Source[72]	
+76-53	10376-10380	1931	*[72]	Legal Source[72]	
+76-54	10381-10382	)	*[72]	Legal Source[72]	
+76-55	10383-10384	.	_	_	
+
+#Text=The confusion does n't end there .
+77-1	10385-10388	The	_	_	
+77-2	10389-10398	confusion	_	_	
+77-3	10399-10403	does	_	_	
+77-4	10404-10407	n't	_	_	
+77-5	10408-10411	end	_	_	
+77-6	10412-10417	there	_	_	
+77-7	10418-10419	.	_	_	
+
+#Text=Other authorities advanced still different understandings about the relationship between mens rea and profits awards in trademark cases .
+78-1	10420-10425	Other	_	_	
+78-2	10426-10437	authorities	_	_	
+78-3	10438-10446	advanced	_	_	
+78-4	10447-10452	still	_	_	
+78-5	10453-10462	different	_	_	
+78-6	10463-10477	understandings	_	_	
+78-7	10478-10483	about	_	_	
+78-8	10484-10487	the	_	_	
+78-9	10488-10500	relationship	_	_	
+78-10	10501-10508	between	_	_	
+78-11	10509-10513	mens	_	_	
+78-12	10514-10517	rea	_	_	
+78-13	10518-10521	and	_	_	
+78-14	10522-10529	profits	_	_	
+78-15	10530-10536	awards	_	_	
+78-16	10537-10539	in	_	_	
+78-17	10540-10549	trademark	_	_	
+78-18	10550-10555	cases	_	_	
+78-19	10556-10557	.	_	_	
+
+#Text=See , e.g. , H. Nims , Law of Unfair Competition and Trade - Marks § 424 ( 2d ed . 1917 ) ( " An accounting will not be ordered where the infringing party acted innocently and in ignorance of the plaintiff 's rights " ) ; N. Hesseltine , Digest of the Law of Trade - Marks and Unfair Trade 305 ( 1906 ) ( contrasting a case holding " [ n]o account as to profits allowed except as to user after knowledge of plaintiff 's right to trademark " and one permitting profits " although defendant did not know of infringement " ( emphasis added ) ) .
+79-1	10558-10561	See	_	_	
+79-2	10562-10563	,	_	_	
+79-3	10564-10568	e.g.	_	_	
+79-4	10569-10570	,	_	_	
+79-5	10571-10573	H.	*[73]	Legal Source[73]	
+79-6	10574-10578	Nims	*[73]	Legal Source[73]	
+79-7	10579-10580	,	*[73]	Legal Source[73]	
+79-8	10581-10584	Law	*[73]	Legal Source[73]	
+79-9	10585-10587	of	*[73]	Legal Source[73]	
+79-10	10588-10594	Unfair	*[73]	Legal Source[73]	
+79-11	10595-10606	Competition	*[73]	Legal Source[73]	
+79-12	10607-10610	and	*[73]	Legal Source[73]	
+79-13	10611-10616	Trade	*[73]	Legal Source[73]	
+79-14	10617-10618	-	*[73]	Legal Source[73]	
+79-15	10619-10624	Marks	*[73]	Legal Source[73]	
+79-16	10625-10626	§	*[73]	Legal Source[73]	
+79-17	10627-10630	424	*[73]	Legal Source[73]	
+79-18	10631-10632	(	*[73]	Legal Source[73]	
+79-19	10633-10635	2d	*[73]	Legal Source[73]	
+79-20	10636-10638	ed	*[73]	Legal Source[73]	
+79-21	10639-10640	.	*[73]	Legal Source[73]	
+79-22	10641-10645	1917	*[73]	Legal Source[73]	
+79-23	10646-10647	)	*[73]	Legal Source[73]	
+79-24	10648-10649	(	_	_	
+79-25	10650-10651	"	*[74]	Direct Quote[74]	
+79-26	10652-10654	An	*[74]	Direct Quote[74]	
+79-27	10655-10665	accounting	*[74]	Direct Quote[74]	
+79-28	10666-10670	will	*[74]	Direct Quote[74]	
+79-29	10671-10674	not	*[74]	Direct Quote[74]	
+79-30	10675-10677	be	*[74]	Direct Quote[74]	
+79-31	10678-10685	ordered	*[74]	Direct Quote[74]	
+79-32	10686-10691	where	*[74]	Direct Quote[74]	
+79-33	10692-10695	the	*[74]	Direct Quote[74]	
+79-34	10696-10706	infringing	*[74]	Direct Quote[74]	
+79-35	10707-10712	party	*[74]	Direct Quote[74]	
+79-36	10713-10718	acted	*[74]	Direct Quote[74]	
+79-37	10719-10729	innocently	*[74]	Direct Quote[74]	
+79-38	10730-10733	and	*[74]	Direct Quote[74]	
+79-39	10734-10736	in	*[74]	Direct Quote[74]	
+79-40	10737-10746	ignorance	*[74]	Direct Quote[74]	
+79-41	10747-10749	of	*[74]	Direct Quote[74]	
+79-42	10750-10753	the	*[74]	Direct Quote[74]	
+79-43	10754-10763	plaintiff	*[74]	Direct Quote[74]	
+79-44	10764-10766	's	*[74]	Direct Quote[74]	
+79-45	10767-10773	rights	*[74]	Direct Quote[74]	
+79-46	10774-10775	"	*[74]	Direct Quote[74]	
+79-47	10776-10777	)	_	_	
+79-48	10778-10779	;	_	_	
+79-49	10780-10782	N.	*[75]	Legal Source[75]	
+79-50	10783-10793	Hesseltine	*[75]	Legal Source[75]	
+79-51	10794-10795	,	*[75]	Legal Source[75]	
+79-52	10796-10802	Digest	*[75]	Legal Source[75]	
+79-53	10803-10805	of	*[75]	Legal Source[75]	
+79-54	10806-10809	the	*[75]	Legal Source[75]	
+79-55	10810-10813	Law	*[75]	Legal Source[75]	
+79-56	10814-10816	of	*[75]	Legal Source[75]	
+79-57	10817-10822	Trade	*[75]	Legal Source[75]	
+79-58	10823-10824	-	*[75]	Legal Source[75]	
+79-59	10825-10830	Marks	*[75]	Legal Source[75]	
+79-60	10831-10834	and	*[75]	Legal Source[75]	
+79-61	10835-10841	Unfair	*[75]	Legal Source[75]	
+79-62	10842-10847	Trade	*[75]	Legal Source[75]	
+79-63	10848-10851	305	*[75]	Legal Source[75]	
+79-64	10852-10853	(	*[75]	Legal Source[75]	
+79-65	10854-10858	1906	*[75]	Legal Source[75]	
+79-66	10859-10860	)	*[75]	Legal Source[75]	
+79-67	10861-10862	(	_	_	
+79-68	10863-10874	contrasting	_	_	
+79-69	10875-10876	a	_	_	
+79-70	10877-10881	case	_	_	
+79-71	10882-10889	holding	_	_	
+79-72	10890-10891	"	*[76]	Direct Quote[76]	
+79-73	10892-10893	[	*[76]	Direct Quote[76]	
+79-74	10894-10897	n]o	*[76]	Direct Quote[76]	
+79-75	10898-10905	account	*[76]	Direct Quote[76]	
+79-76	10906-10908	as	*[76]	Direct Quote[76]	
+79-77	10909-10911	to	*[76]	Direct Quote[76]	
+79-78	10912-10919	profits	*[76]	Direct Quote[76]	
+79-79	10920-10927	allowed	*[76]	Direct Quote[76]	
+79-80	10928-10934	except	*[76]	Direct Quote[76]	
+79-81	10935-10937	as	*[76]	Direct Quote[76]	
+79-82	10938-10940	to	*[76]	Direct Quote[76]	
+79-83	10941-10945	user	*[76]	Direct Quote[76]	
+79-84	10946-10951	after	*[76]	Direct Quote[76]	
+79-85	10952-10961	knowledge	*[76]	Direct Quote[76]	
+79-86	10962-10964	of	*[76]	Direct Quote[76]	
+79-87	10965-10974	plaintiff	*[76]	Direct Quote[76]	
+79-88	10975-10977	's	*[76]	Direct Quote[76]	
+79-89	10978-10983	right	*[76]	Direct Quote[76]	
+79-90	10984-10986	to	*[76]	Direct Quote[76]	
+79-91	10987-10996	trademark	*[76]	Direct Quote[76]	
+79-92	10997-10998	"	*[76]	Direct Quote[76]	
+79-93	10999-11002	and	_	_	
+79-94	11003-11006	one	_	_	
+79-95	11007-11017	permitting	_	_	
+79-96	11018-11025	profits	_	_	
+79-97	11026-11027	"	*[77]	Direct Quote[77]	
+79-98	11028-11036	although	*[77]	Direct Quote[77]	
+79-99	11037-11046	defendant	*[77]	Direct Quote[77]	
+79-100	11047-11050	did	*[77]	Direct Quote[77]	
+79-101	11051-11054	not	*[77]	Direct Quote[77]	
+79-102	11055-11059	know	*[77]	Direct Quote[77]	
+79-103	11060-11062	of	*[77]	Direct Quote[77]	
+79-104	11063-11075	infringement	*[77]	Direct Quote[77]	
+79-105	11076-11077	"	*[77]	Direct Quote[77]	
+79-106	11078-11079	(	_	_	
+79-107	11080-11088	emphasis	_	_	
+79-108	11089-11094	added	_	_	
+79-109	11095-11096	)	_	_	
+79-110	11097-11098	)	_	_	
+79-111	11099-11100	.	_	_	
+
+#Text=And the vast majority of the cases both Romag and Fossil cite simply failed to speak clearly to the issue one way or another .
+80-1	11101-11104	And	_	_	
+80-2	11105-11108	the	_	_	
+80-3	11109-11113	vast	_	_	
+80-4	11114-11122	majority	_	_	
+80-5	11123-11125	of	_	_	
+80-6	11126-11129	the	_	_	
+80-7	11130-11135	cases	_	_	
+80-8	11136-11140	both	_	_	
+80-9	11141-11146	Romag	_	_	
+80-10	11147-11150	and	_	_	
+80-11	11151-11157	Fossil	_	_	
+80-12	11158-11162	cite	_	_	
+80-13	11163-11169	simply	_	_	
+80-14	11170-11176	failed	_	_	
+80-15	11177-11179	to	_	_	
+80-16	11180-11185	speak	_	_	
+80-17	11186-11193	clearly	_	_	
+80-18	11194-11196	to	_	_	
+80-19	11197-11200	the	_	_	
+80-20	11201-11206	issue	_	_	
+80-21	11207-11210	one	_	_	
+80-22	11211-11214	way	_	_	
+80-23	11215-11217	or	_	_	
+80-24	11218-11225	another	_	_	
+80-25	11226-11227	.	_	_	
+
+#Text=See , e.g. , Hostetter v. Vowinkle , 12 F.Cas .
+81-1	11228-11231	See	_	_	
+81-2	11232-11233	,	_	_	
+81-3	11234-11238	e.g.	_	_	
+81-4	11239-11240	,	_	_	
+81-5	11241-11250	Hostetter	*[78]	Legal Source[78]	
+81-6	11251-11253	v.	*[78]	Legal Source[78]	
+81-7	11254-11262	Vowinkle	*[78]	Legal Source[78]	
+81-8	11263-11264	,	*[78]	Legal Source[78]	
+81-9	11265-11267	12	*[78]	Legal Source[78]	
+81-10	11268-11273	F.Cas	*[78]	Legal Source[78]	
+81-11	11274-11275	.	*[78]	Legal Source[78]	
+
+#Text=546 , 547 ( No . 6,714 ) ( C.C.D. Neb. 1871 ) ; Graham v. Plate , 40 Cal . 593 , 597 - 599 ( 1871 ) ; Hemmeter Cigar Co. v. Congress Cigar Co. , 118 F.2d 64 , 71 - 72 ( C.A.6 1941 ) .
+82-1	11276-11279	546	*[79]	Legal Source[79]	
+82-2	11280-11281	,	*[79]	Legal Source[79]	
+82-3	11282-11285	547	*[79]	Legal Source[79]	
+82-4	11286-11287	(	*[79]	Legal Source[79]	
+82-5	11288-11290	No	*[79]	Legal Source[79]	
+82-6	11291-11292	.	*[79]	Legal Source[79]	
+82-7	11293-11298	6,714	*[79]	Legal Source[79]	
+82-8	11299-11300	)	*[79]	Legal Source[79]	
+82-9	11301-11302	(	*[79]	Legal Source[79]	
+82-10	11303-11309	C.C.D.	*[79]	Legal Source[79]	
+82-11	11310-11314	Neb.	*[79]	Legal Source[79]	
+82-12	11315-11319	1871	*[79]	Legal Source[79]	
+82-13	11320-11321	)	*[79]	Legal Source[79]	
+82-14	11322-11323	;	_	_	
+82-15	11324-11330	Graham	*[80]	Legal Source[80]	
+82-16	11331-11333	v.	*[80]	Legal Source[80]	
+82-17	11334-11339	Plate	*[80]	Legal Source[80]	
+82-18	11340-11341	,	*[80]	Legal Source[80]	
+82-19	11342-11344	40	*[80]	Legal Source[80]	
+82-20	11345-11348	Cal	*[80]	Legal Source[80]	
+82-21	11349-11350	.	*[80]	Legal Source[80]	
+82-22	11351-11354	593	*[80]	Legal Source[80]	
+82-23	11355-11356	,	*[80]	Legal Source[80]	
+82-24	11357-11360	597	*[80]	Legal Source[80]	
+82-25	11361-11362	-	*[80]	Legal Source[80]	
+82-26	11363-11366	599	*[80]	Legal Source[80]	
+82-27	11367-11368	(	*[80]	Legal Source[80]	
+82-28	11369-11373	1871	*[80]	Legal Source[80]	
+82-29	11374-11375	)	*[80]	Legal Source[80]	
+82-30	11376-11377	;	_	_	
+82-31	11378-11386	Hemmeter	*[81]	Legal Source[81]	
+82-32	11387-11392	Cigar	*[81]	Legal Source[81]	
+82-33	11393-11396	Co.	*[81]	Legal Source[81]	
+82-34	11397-11399	v.	*[81]	Legal Source[81]	
+82-35	11400-11408	Congress	*[81]	Legal Source[81]	
+82-36	11409-11414	Cigar	*[81]	Legal Source[81]	
+82-37	11415-11418	Co.	*[81]	Legal Source[81]	
+82-38	11419-11420	,	*[81]	Legal Source[81]	
+82-39	11421-11424	118	*[81]	Legal Source[81]	
+82-40	11425-11429	F.2d	*[81]	Legal Source[81]	
+82-41	11430-11432	64	*[81]	Legal Source[81]	
+82-42	11433-11434	,	*[81]	Legal Source[81]	
+82-43	11435-11437	71	*[81]	Legal Source[81]	
+82-44	11438-11439	-	*[81]	Legal Source[81]	
+82-45	11440-11442	72	*[81]	Legal Source[81]	
+82-46	11443-11444	(	*[81]	Legal Source[81]	
+82-47	11445-11450	C.A.6	*[81]	Legal Source[81]	
+82-48	11451-11455	1941	*[81]	Legal Source[81]	
+82-49	11456-11457	)	*[81]	Legal Source[81]	
+82-50	11458-11459	.	_	_	
+
+#Text=At the end of it all , the most we can say with certainty is this .
+83-1	11460-11462	At	_	_	
+83-2	11463-11466	the	_	_	
+83-3	11467-11470	end	_	_	
+83-4	11471-11473	of	_	_	
+83-5	11474-11476	it	_	_	
+83-6	11477-11480	all	_	_	
+83-7	11481-11482	,	_	_	
+83-8	11483-11486	the	_	_	
+83-9	11487-11491	most	_	_	
+83-10	11492-11494	we	_	_	
+83-11	11495-11498	can	_	_	
+83-12	11499-11502	say	_	_	
+83-13	11503-11507	with	_	_	
+83-14	11508-11517	certainty	_	_	
+83-15	11518-11520	is	_	_	
+83-16	11521-11525	this	_	_	
+83-17	11526-11527	.	_	_	
+
+#Text=Mens rea figured as an important consideration in awarding profits in pre - Lanham Act cases .
+84-1	11530-11534	Mens	_	_	
+84-2	11535-11538	rea	_	_	
+84-3	11539-11546	figured	_	_	
+84-4	11547-11549	as	_	_	
+84-5	11550-11552	an	_	_	
+84-6	11553-11562	important	_	_	
+84-7	11563-11576	consideration	_	_	
+84-8	11577-11579	in	_	_	
+84-9	11580-11588	awarding	_	_	
+84-10	11589-11596	profits	_	_	
+84-11	11597-11599	in	_	_	
+84-12	11600-11603	pre	_	_	
+84-13	11604-11605	-	_	_	
+84-14	11606-11612	Lanham	*[82]	Legal Source[82]	
+84-15	11613-11616	Act	*[82]	Legal Source[82]	
+84-16	11617-11622	cases	_	_	
+84-17	11623-11624	.	_	_	
+
+#Text=This reflects the ordinary , transsubstantive principle that a defendant 's mental state is relevant to assigning an appropriate remedy .
+85-1	11625-11629	This	_	_	
+85-2	11630-11638	reflects	_	_	
+85-3	11639-11642	the	_	_	
+85-4	11643-11651	ordinary	_	_	
+85-5	11652-11653	,	_	_	
+85-6	11654-11670	transsubstantive	_	_	
+85-7	11671-11680	principle	_	_	
+85-8	11681-11685	that	_	_	
+85-9	11686-11687	a	_	_	
+85-10	11688-11697	defendant	_	_	
+85-11	11698-11700	's	_	_	
+85-12	11701-11707	mental	_	_	
+85-13	11708-11713	state	_	_	
+85-14	11714-11716	is	_	_	
+85-15	11717-11725	relevant	_	_	
+85-16	11726-11728	to	_	_	
+85-17	11729-11738	assigning	_	_	
+85-18	11739-11741	an	_	_	
+85-19	11742-11753	appropriate	_	_	
+85-20	11754-11760	remedy	_	_	
+85-21	11761-11762	.	_	_	
+
+#Text=That principle arises not only in equity , but across many legal contexts .
+86-1	11763-11767	That	_	_	
+86-2	11768-11777	principle	_	_	
+86-3	11778-11784	arises	_	_	
+86-4	11785-11788	not	_	_	
+86-5	11789-11793	only	_	_	
+86-6	11794-11796	in	_	_	
+86-7	11797-11803	equity	_	_	
+86-8	11804-11805	,	_	_	
+86-9	11806-11809	but	_	_	
+86-10	11810-11816	across	_	_	
+86-11	11817-11821	many	_	_	
+86-12	11822-11827	legal	_	_	
+86-13	11828-11836	contexts	_	_	
+86-14	11837-11838	.	_	_	
+
+#Text=See , e.g. , Smith v. Wade , 461 U.S. 30 , 38 - 51 , 103 S.Ct . 1625 , 75 L.Ed.2d 632 ( 1983 ) ( 42 U.S.C. § 1983 ) ; Morissette v. United States , 342 U.S. 246 , 250 - 263 , 72 S.Ct . 240 , 96 L.Ed . 288 ( 1952 ) ( criminal law ) ; Wooden - Ware Co. v. United States , 106 U.S. 432 , 434 - 435 , 1 S.Ct . 398 , 27 L.Ed . 230 ( 1882 ) ( common law trespass ) .
+87-1	11839-11842	See	_	_	
+87-2	11843-11844	,	_	_	
+87-3	11845-11849	e.g.	_	_	
+87-4	11850-11851	,	_	_	
+87-5	11852-11857	Smith	*[83]	Legal Source[83]	
+87-6	11858-11860	v.	*[83]	Legal Source[83]	
+87-7	11861-11865	Wade	*[83]	Legal Source[83]	
+87-8	11866-11867	,	*[83]	Legal Source[83]	
+87-9	11868-11871	461	*[83]	Legal Source[83]	
+87-10	11872-11876	U.S.	*[83]	Legal Source[83]	
+87-11	11877-11879	30	*[83]	Legal Source[83]	
+87-12	11880-11881	,	*[83]	Legal Source[83]	
+87-13	11882-11884	38	*[83]	Legal Source[83]	
+87-14	11885-11886	-	*[83]	Legal Source[83]	
+87-15	11887-11889	51	*[83]	Legal Source[83]	
+87-16	11890-11891	,	*[83]	Legal Source[83]	
+87-17	11892-11895	103	*[83]	Legal Source[83]	
+87-18	11896-11900	S.Ct	*[83]	Legal Source[83]	
+87-19	11901-11902	.	*[83]	Legal Source[83]	
+87-20	11903-11907	1625	*[83]	Legal Source[83]	
+87-21	11908-11909	,	*[83]	Legal Source[83]	
+87-22	11910-11912	75	*[83]	Legal Source[83]	
+87-23	11913-11920	L.Ed.2d	*[83]	Legal Source[83]	
+87-24	11921-11924	632	*[83]	Legal Source[83]	
+87-25	11925-11926	(	*[83]	Legal Source[83]	
+87-26	11927-11931	1983	*[83]	Legal Source[83]	
+87-27	11932-11933	)	*[83]	Legal Source[83]	
+87-28	11934-11935	(	*[83]	Legal Source[83]	
+87-29	11936-11938	42	*[83]	Legal Source[83]	
+87-30	11939-11945	U.S.C.	*[83]	Legal Source[83]	
+87-31	11946-11947	§	*[83]	Legal Source[83]	
+87-32	11948-11952	1983	*[83]	Legal Source[83]	
+87-33	11953-11954	)	*[83]	Legal Source[83]	
+87-34	11955-11956	;	_	_	
+87-35	11957-11967	Morissette	*[84]	Legal Source[84]	
+87-36	11968-11970	v.	*[84]	Legal Source[84]	
+87-37	11971-11977	United	*[84]	Legal Source[84]	
+87-38	11978-11984	States	*[84]	Legal Source[84]	
+87-39	11985-11986	,	*[84]	Legal Source[84]	
+87-40	11987-11990	342	*[84]	Legal Source[84]	
+87-41	11991-11995	U.S.	*[84]	Legal Source[84]	
+87-42	11996-11999	246	*[84]	Legal Source[84]	
+87-43	12000-12001	,	*[84]	Legal Source[84]	
+87-44	12002-12005	250	*[84]	Legal Source[84]	
+87-45	12006-12007	-	*[84]	Legal Source[84]	
+87-46	12008-12011	263	*[84]	Legal Source[84]	
+87-47	12012-12013	,	*[84]	Legal Source[84]	
+87-48	12014-12016	72	*[84]	Legal Source[84]	
+87-49	12017-12021	S.Ct	*[84]	Legal Source[84]	
+87-50	12022-12023	.	*[84]	Legal Source[84]	
+87-51	12024-12027	240	*[84]	Legal Source[84]	
+87-52	12028-12029	,	*[84]	Legal Source[84]	
+87-53	12030-12032	96	*[84]	Legal Source[84]	
+87-54	12033-12037	L.Ed	*[84]	Legal Source[84]	
+87-55	12038-12039	.	*[84]	Legal Source[84]	
+87-56	12040-12043	288	*[84]	Legal Source[84]	
+87-57	12044-12045	(	*[84]	Legal Source[84]	
+87-58	12046-12050	1952	*[84]	Legal Source[84]	
+87-59	12051-12052	)	*[84]	Legal Source[84]	
+87-60	12053-12054	(	_	_	
+87-61	12055-12063	criminal	_	_	
+87-62	12064-12067	law	_	_	
+87-63	12068-12069	)	_	_	
+87-64	12070-12071	;	_	_	
+87-65	12072-12078	Wooden	*[85]	Legal Source[85]	
+87-66	12079-12080	-	*[85]	Legal Source[85]	
+87-67	12081-12085	Ware	*[85]	Legal Source[85]	
+87-68	12086-12089	Co.	*[85]	Legal Source[85]	
+87-69	12090-12092	v.	*[85]	Legal Source[85]	
+87-70	12093-12099	United	*[85]	Legal Source[85]	
+87-71	12100-12106	States	*[85]	Legal Source[85]	
+87-72	12107-12108	,	*[85]	Legal Source[85]	
+87-73	12109-12112	106	*[85]	Legal Source[85]	
+87-74	12113-12117	U.S.	*[85]	Legal Source[85]	
+87-75	12118-12121	432	*[85]	Legal Source[85]	
+87-76	12122-12123	,	*[85]	Legal Source[85]	
+87-77	12124-12127	434	*[85]	Legal Source[85]	
+87-78	12128-12129	-	*[85]	Legal Source[85]	
+87-79	12130-12133	435	*[85]	Legal Source[85]	
+87-80	12134-12135	,	*[85]	Legal Source[85]	
+87-81	12136-12137	1	*[85]	Legal Source[85]	
+87-82	12138-12142	S.Ct	*[85]	Legal Source[85]	
+87-83	12143-12144	.	*[85]	Legal Source[85]	
+87-84	12145-12148	398	*[85]	Legal Source[85]	
+87-85	12149-12150	,	*[85]	Legal Source[85]	
+87-86	12151-12153	27	*[85]	Legal Source[85]	
+87-87	12154-12158	L.Ed	*[85]	Legal Source[85]	
+87-88	12159-12160	.	*[85]	Legal Source[85]	
+87-89	12161-12164	230	*[85]	Legal Source[85]	
+87-90	12165-12166	(	*[85]	Legal Source[85]	
+87-91	12167-12171	1882	*[85]	Legal Source[85]	
+87-92	12172-12173	)	*[85]	Legal Source[85]	
+87-93	12174-12175	(	_	_	
+87-94	12176-12182	common	_	_	
+87-95	12183-12186	law	_	_	
+87-96	12187-12195	trespass	_	_	
+87-97	12196-12197	)	_	_	
+87-98	12198-12199	.	_	_	
+
+#Text=It 's a principle reflected in the Lanham Act 's text , too , which permits greater statutory damages for certain willful violations than for other violations .
+88-1	12200-12202	It	_	_	
+88-2	12203-12205	's	_	_	
+88-3	12206-12207	a	_	_	
+88-4	12208-12217	principle	_	_	
+88-5	12218-12227	reflected	_	_	
+88-6	12228-12230	in	_	_	
+88-7	12231-12234	the	_	_	
+88-8	12235-12241	Lanham	*[86]	Legal Source[86]	
+88-9	12242-12245	Act	*[86]	Legal Source[86]	
+88-10	12246-12248	's	_	_	
+88-11	12249-12253	text	*	Metalinguistic Cue	
+88-12	12254-12255	,	_	_	
+88-13	12256-12259	too	_	_	
+88-14	12260-12261	,	_	_	
+88-15	12262-12267	which	_	_	
+88-16	12268-12275	permits	_	_	
+88-17	12276-12283	greater	_	_	
+88-18	12284-12293	statutory	_	_	
+88-19	12294-12301	damages	_	_	
+88-20	12302-12305	for	_	_	
+88-21	12306-12313	certain	_	_	
+88-22	12314-12321	willful	_	_	
+88-23	12322-12332	violations	_	_	
+88-24	12333-12337	than	_	_	
+88-25	12338-12341	for	_	_	
+88-26	12342-12347	other	_	_	
+88-27	12348-12358	violations	_	_	
+88-28	12359-12360	.	_	_	
+
+#Text=15 U.S.C. § 1117 ( c ) .
+89-1	12361-12363	15	*[87]	Legal Source[87]	
+89-2	12364-12370	U.S.C.	*[87]	Legal Source[87]	
+89-3	12371-12372	§	*[87]	Legal Source[87]	
+89-4	12373-12377	1117	*[87]	Legal Source[87]	
+89-5	12378-12379	(	*[87]	Legal Source[87]	
+89-6	12380-12381	c	*[87]	Legal Source[87]	
+89-7	12382-12383	)	*[87]	Legal Source[87]	
+89-8	12384-12385	.	_	_	
+
+#Text=And it is a principle long reflected in equity practice where district courts have often considered a defendant 's mental state , among other factors , when exercising their discretion in choosing a fitting remedy .
+90-1	12386-12389	And	_	_	
+90-2	12390-12392	it	_	_	
+90-3	12393-12395	is	_	_	
+90-4	12396-12397	a	_	_	
+90-5	12398-12407	principle	_	_	
+90-6	12408-12412	long	_	_	
+90-7	12413-12422	reflected	_	_	
+90-8	12423-12425	in	_	_	
+90-9	12426-12432	equity	_	_	
+90-10	12433-12441	practice	_	_	
+90-11	12442-12447	where	_	_	
+90-12	12448-12456	district	_	_	
+90-13	12457-12463	courts	_	_	
+90-14	12464-12468	have	_	_	
+90-15	12469-12474	often	_	_	
+90-16	12475-12485	considered	_	_	
+90-17	12486-12487	a	_	_	
+90-18	12488-12497	defendant	_	_	
+90-19	12498-12500	's	_	_	
+90-20	12501-12507	mental	_	_	
+90-21	12508-12513	state	_	_	
+90-22	12514-12515	,	_	_	
+90-23	12516-12521	among	_	_	
+90-24	12522-12527	other	_	_	
+90-25	12528-12535	factors	_	_	
+90-26	12536-12537	,	_	_	
+90-27	12538-12542	when	_	_	
+90-28	12543-12553	exercising	_	_	
+90-29	12554-12559	their	_	_	
+90-30	12560-12570	discretion	_	_	
+90-31	12571-12573	in	_	_	
+90-32	12574-12582	choosing	_	_	
+90-33	12583-12584	a	_	_	
+90-34	12585-12592	fitting	_	_	
+90-35	12593-12599	remedy	_	_	
+90-36	12600-12601	.	_	_	
+
+#Text=See , e.g. , L. P. Larson , Jr. , Co. v. Wm . Wrigley , Jr. , Co. , 277 U.S. 97 , 99 - 100 , 48 S.Ct . 449 , 72 L.Ed . 800 ( 1928 ) ; Lander v. Lujan , 888 F.2d 153 , 155 - 156 ( C.A.D.C. 1989 ) ; United States v. Klimek , 952 F.Supp . 1100 , 1117 ( E.D. Pa. 1997 ) .
+91-1	12602-12605	See	_	_	
+91-2	12606-12607	,	_	_	
+91-3	12608-12612	e.g.	_	_	
+91-4	12613-12614	,	_	_	
+91-5	12615-12617	L.	*[88]	Legal Source[88]	
+91-6	12618-12620	P.	*[88]	Legal Source[88]	
+91-7	12621-12627	Larson	*[88]	Legal Source[88]	
+91-8	12628-12629	,	*[88]	Legal Source[88]	
+91-9	12630-12633	Jr.	*[88]	Legal Source[88]	
+91-10	12634-12635	,	*[88]	Legal Source[88]	
+91-11	12636-12639	Co.	*[88]	Legal Source[88]	
+91-12	12640-12642	v.	*[88]	Legal Source[88]	
+91-13	12643-12645	Wm	*[88]	Legal Source[88]	
+91-14	12646-12647	.	*[88]	Legal Source[88]	
+91-15	12648-12655	Wrigley	*[88]	Legal Source[88]	
+91-16	12656-12657	,	*[88]	Legal Source[88]	
+91-17	12658-12661	Jr.	*[88]	Legal Source[88]	
+91-18	12662-12663	,	*[88]	Legal Source[88]	
+91-19	12664-12667	Co.	*[88]	Legal Source[88]	
+91-20	12668-12669	,	*[88]	Legal Source[88]	
+91-21	12670-12673	277	*[88]	Legal Source[88]	
+91-22	12674-12678	U.S.	*[88]	Legal Source[88]	
+91-23	12679-12681	97	*[88]	Legal Source[88]	
+91-24	12682-12683	,	*[88]	Legal Source[88]	
+91-25	12684-12686	99	*[88]	Legal Source[88]	
+91-26	12687-12688	-	*[88]	Legal Source[88]	
+91-27	12689-12692	100	*[88]	Legal Source[88]	
+91-28	12693-12694	,	*[88]	Legal Source[88]	
+91-29	12695-12697	48	*[88]	Legal Source[88]	
+91-30	12698-12702	S.Ct	*[88]	Legal Source[88]	
+91-31	12703-12704	.	*[88]	Legal Source[88]	
+91-32	12705-12708	449	*[88]	Legal Source[88]	
+91-33	12709-12710	,	*[88]	Legal Source[88]	
+91-34	12711-12713	72	*[88]	Legal Source[88]	
+91-35	12714-12718	L.Ed	*[88]	Legal Source[88]	
+91-36	12719-12720	.	*[88]	Legal Source[88]	
+91-37	12721-12724	800	*[88]	Legal Source[88]	
+91-38	12725-12726	(	*[88]	Legal Source[88]	
+91-39	12727-12731	1928	*[88]	Legal Source[88]	
+91-40	12732-12733	)	*[88]	Legal Source[88]	
+91-41	12734-12735	;	_	_	
+91-42	12736-12742	Lander	*[89]	Legal Source[89]	
+91-43	12743-12745	v.	*[89]	Legal Source[89]	
+91-44	12746-12751	Lujan	*[89]	Legal Source[89]	
+91-45	12752-12753	,	*[89]	Legal Source[89]	
+91-46	12754-12757	888	*[89]	Legal Source[89]	
+91-47	12758-12762	F.2d	*[89]	Legal Source[89]	
+91-48	12763-12766	153	*[89]	Legal Source[89]	
+91-49	12767-12768	,	*[89]	Legal Source[89]	
+91-50	12769-12772	155	*[89]	Legal Source[89]	
+91-51	12773-12774	-	*[89]	Legal Source[89]	
+91-52	12775-12778	156	*[89]	Legal Source[89]	
+91-53	12779-12780	(	*[89]	Legal Source[89]	
+91-54	12781-12789	C.A.D.C.	*[89]	Legal Source[89]	
+91-55	12790-12794	1989	*[89]	Legal Source[89]	
+91-56	12795-12796	)	*[89]	Legal Source[89]	
+91-57	12797-12798	;	_	_	
+91-58	12799-12805	United	*[90]	Legal Source[90]	
+91-59	12806-12812	States	*[90]	Legal Source[90]	
+91-60	12813-12815	v.	*[90]	Legal Source[90]	
+91-61	12816-12822	Klimek	*[90]	Legal Source[90]	
+91-62	12823-12824	,	*[90]	Legal Source[90]	
+91-63	12825-12828	952	*[90]	Legal Source[90]	
+91-64	12829-12835	F.Supp	*[90]	Legal Source[90]	
+91-65	12836-12837	.	*[90]	Legal Source[90]	
+91-66	12838-12842	1100	*[90]	Legal Source[90]	
+91-67	12843-12844	,	*[90]	Legal Source[90]	
+91-68	12845-12849	1117	*[90]	Legal Source[90]	
+91-69	12850-12851	(	*[90]	Legal Source[90]	
+91-70	12852-12856	E.D.	*[90]	Legal Source[90]	
+91-71	12857-12860	Pa.	*[90]	Legal Source[90]	
+91-72	12861-12865	1997	*[90]	Legal Source[90]	
+91-73	12866-12867	)	*[90]	Legal Source[90]	
+91-74	12868-12869	.	_	_	
+
+#Text=Given these traditional principles , we do not doubt that a trademark defendant 's mental state is a highly important consideration in determining whether an award of profits is appropriate .
+92-1	12870-12875	Given	_	_	
+92-2	12876-12881	these	_	_	
+92-3	12882-12893	traditional	_	_	
+92-4	12894-12904	principles	_	_	
+92-5	12905-12906	,	_	_	
+92-6	12907-12909	we	_	_	
+92-7	12910-12912	do	_	_	
+92-8	12913-12916	not	_	_	
+92-9	12917-12922	doubt	_	_	
+92-10	12923-12927	that	_	_	
+92-11	12928-12929	a	_	_	
+92-12	12930-12939	trademark	_	_	
+92-13	12940-12949	defendant	_	_	
+92-14	12950-12952	's	_	_	
+92-15	12953-12959	mental	_	_	
+92-16	12960-12965	state	_	_	
+92-17	12966-12968	is	_	_	
+92-18	12969-12970	a	_	_	
+92-19	12971-12977	highly	_	_	
+92-20	12978-12987	important	_	_	
+92-21	12988-13001	consideration	_	_	
+92-22	13002-13004	in	_	_	
+92-23	13005-13016	determining	_	_	
+92-24	13017-13024	whether	_	_	
+92-25	13025-13027	an	_	_	
+92-26	13028-13033	award	_	_	
+92-27	13034-13036	of	_	_	
+92-28	13037-13044	profits	_	_	
+92-29	13045-13047	is	_	_	
+92-30	13048-13059	appropriate	_	_	
+92-31	13060-13061	.	_	_	
+
+#Text=But acknowledging that much is a far cry from insisting on the inflexible precondition to recovery Fossil advances .
+93-1	13062-13065	But	_	_	
+93-2	13066-13079	acknowledging	_	_	
+93-3	13080-13084	that	_	_	
+93-4	13085-13089	much	_	_	
+93-5	13090-13092	is	_	_	
+93-6	13093-13094	a	_	_	
+93-7	13095-13098	far	_	_	
+93-8	13099-13102	cry	_	_	
+93-9	13103-13107	from	_	_	
+93-10	13108-13117	insisting	_	_	
+93-11	13118-13120	on	_	_	
+93-12	13121-13124	the	_	_	
+93-13	13125-13135	inflexible	_	_	
+93-14	13136-13148	precondition	_	_	
+93-15	13149-13151	to	_	_	
+93-16	13152-13160	recovery	_	_	
+93-17	13161-13167	Fossil	_	_	
+93-18	13168-13176	advances	_	_	
+93-19	13177-13178	.	_	_	
+
+#Text=With little to work with in the statute 's language , structure , and history , Fossil ultimately rests on an appeal to policy .
+94-1	13179-13183	With	_	_	
+94-2	13184-13190	little	_	_	
+94-3	13191-13193	to	_	_	
+94-4	13194-13198	work	_	_	
+94-5	13199-13203	with	_	_	
+94-6	13204-13206	in	_	_	
+94-7	13207-13210	the	_	_	
+94-8	13211-13218	statute	*[91]	Metalinguistic Cue[91]	
+94-9	13219-13221	's	*[91]	Metalinguistic Cue[91]	
+94-10	13222-13230	language	*[91]	Metalinguistic Cue[91]	
+94-11	13231-13232	,	*[91]	Metalinguistic Cue[91]	
+94-12	13233-13242	structure	*[91]	Metalinguistic Cue[91]	
+94-13	13243-13244	,	*[91]	Metalinguistic Cue[91]	
+94-14	13245-13248	and	*[91]	Metalinguistic Cue[91]	
+94-15	13249-13256	history	*[91]	Metalinguistic Cue[91]	
+94-16	13257-13258	,	_	_	
+94-17	13259-13265	Fossil	_	_	
+94-18	13266-13276	ultimately	_	_	
+94-19	13277-13282	rests	_	_	
+94-20	13283-13285	on	_	_	
+94-21	13286-13288	an	_	_	
+94-22	13289-13295	appeal	_	_	
+94-23	13296-13298	to	_	_	
+94-24	13299-13305	policy	_	_	
+94-25	13306-13307	.	_	_	
+
+#Text=The company tells us that stouter restraints on profits awards are needed to deter " baseless " trademark suits .
+95-1	13308-13311	The	_	_	
+95-2	13312-13319	company	_	_	
+95-3	13320-13325	tells	_	_	
+95-4	13326-13328	us	_	_	
+95-5	13329-13333	that	_	_	
+95-6	13334-13341	stouter	_	_	
+95-7	13342-13352	restraints	_	_	
+95-8	13353-13355	on	_	_	
+95-9	13356-13363	profits	_	_	
+95-10	13364-13370	awards	_	_	
+95-11	13371-13374	are	_	_	
+95-12	13375-13381	needed	_	_	
+95-13	13382-13384	to	_	_	
+95-14	13385-13390	deter	_	_	
+95-15	13391-13392	"	*[92]	Direct Quote[92]	
+95-16	13393-13401	baseless	*[92]	Direct Quote[92]	
+95-17	13402-13403	"	*[92]	Direct Quote[92]	
+95-18	13404-13413	trademark	_	_	
+95-19	13414-13419	suits	_	_	
+95-20	13420-13421	.	_	_	
+
+#Text=Meanwhile , Romag insists that its reading of the statute will promote greater respect for trademarks in the " modern global economy . "
+96-1	13422-13431	Meanwhile	_	_	
+96-2	13432-13433	,	_	_	
+96-3	13434-13439	Romag	_	_	
+96-4	13440-13447	insists	_	_	
+96-5	13448-13452	that	_	_	
+96-6	13453-13456	its	_	_	
+96-7	13457-13464	reading	_	_	
+96-8	13465-13467	of	_	_	
+96-9	13468-13471	the	_	_	
+96-10	13472-13479	statute	_	_	
+96-11	13480-13484	will	_	_	
+96-12	13485-13492	promote	_	_	
+96-13	13493-13500	greater	_	_	
+96-14	13501-13508	respect	_	_	
+96-15	13509-13512	for	_	_	
+96-16	13513-13523	trademarks	_	_	
+96-17	13524-13526	in	_	_	
+96-18	13527-13530	the	_	_	
+96-19	13531-13532	"	*[93]	Direct Quote[93]	
+96-20	13533-13539	modern	*[93]	Direct Quote[93]	
+96-21	13540-13546	global	*[93]	Direct Quote[93]	
+96-22	13547-13554	economy	*[93]	Direct Quote[93]	
+96-23	13555-13556	.	*[93]	Direct Quote[93]	
+96-24	13557-13558	"	*[93]	Direct Quote[93]	
+
+#Text=As these things go , amici amplify both sides ' policy arguments .
+97-1	13559-13561	As	_	_	
+97-2	13562-13567	these	_	_	
+97-3	13568-13574	things	_	_	
+97-4	13575-13577	go	_	_	
+97-5	13578-13579	,	_	_	
+97-6	13580-13585	amici	_	_	
+97-7	13586-13593	amplify	_	_	
+97-8	13594-13598	both	_	_	
+97-9	13599-13604	sides	_	_	
+97-10	13605-13606	'	_	_	
+97-11	13607-13613	policy	_	_	
+97-12	13614-13623	arguments	_	_	
+97-13	13624-13625	.	_	_	
+
+#Text=Maybe , too , each side has a point .
+98-1	13626-13631	Maybe	_	_	
+98-2	13632-13633	,	_	_	
+98-3	13634-13637	too	_	_	
+98-4	13638-13639	,	_	_	
+98-5	13640-13644	each	_	_	
+98-6	13645-13649	side	_	_	
+98-7	13650-13653	has	_	_	
+98-8	13654-13655	a	_	_	
+98-9	13656-13661	point	_	_	
+98-10	13662-13663	.	_	_	
+
+#Text=But the place for reconciling competing and incommensurable policy goals like these is before policymakers .
+99-1	13664-13667	But	_	_	
+99-2	13668-13671	the	_	_	
+99-3	13672-13677	place	_	_	
+99-4	13678-13681	for	_	_	
+99-5	13682-13693	reconciling	_	_	
+99-6	13694-13703	competing	_	_	
+99-7	13704-13707	and	_	_	
+99-8	13708-13723	incommensurable	_	_	
+99-9	13724-13730	policy	_	_	
+99-10	13731-13736	goals	_	_	
+99-11	13737-13741	like	_	_	
+99-12	13742-13747	these	_	_	
+99-13	13748-13750	is	_	_	
+99-14	13751-13757	before	_	_	
+99-15	13758-13770	policymakers	_	_	
+99-16	13771-13772	.	_	_	
+
+#Text=This Court 's limited role is to read and apply the law those policymakers have ordained , and here our task is clear .
+100-1	13773-13777	This	_	_	
+100-2	13778-13783	Court	_	_	
+100-3	13784-13786	's	_	_	
+100-4	13787-13794	limited	_	_	
+100-5	13795-13799	role	_	_	
+100-6	13800-13802	is	_	_	
+100-7	13803-13805	to	_	_	
+100-8	13806-13810	read	_	_	
+100-9	13811-13814	and	_	_	
+100-10	13815-13820	apply	_	_	
+100-11	13821-13824	the	_	_	
+100-12	13825-13828	law	_	_	
+100-13	13829-13834	those	_	_	
+100-14	13835-13847	policymakers	_	_	
+100-15	13848-13852	have	_	_	
+100-16	13853-13861	ordained	_	_	
+100-17	13862-13863	,	_	_	
+100-18	13864-13867	and	_	_	
+100-19	13868-13872	here	_	_	
+100-20	13873-13876	our	_	_	
+100-21	13877-13881	task	_	_	
+100-22	13882-13884	is	_	_	
+100-23	13885-13890	clear	_	_	
+100-24	13891-13892	.	_	_	
+
+#Text=The judgment of the court of appeals is vacated , and the case is remanded for further proceedings consistent with this opinion .
+101-1	13893-13896	The	_	_	
+101-2	13897-13905	judgment	_	_	
+101-3	13906-13908	of	_	_	
+101-4	13909-13912	the	_	_	
+101-5	13913-13918	court	_	_	
+101-6	13919-13921	of	_	_	
+101-7	13922-13929	appeals	_	_	
+101-8	13930-13932	is	_	_	
+101-9	13933-13940	vacated	_	_	
+101-10	13941-13942	,	_	_	
+101-11	13943-13946	and	_	_	
+101-12	13947-13950	the	_	_	
+101-13	13951-13955	case	_	_	
+101-14	13956-13958	is	_	_	
+101-15	13959-13967	remanded	_	_	
+101-16	13968-13971	for	_	_	
+101-17	13972-13979	further	_	_	
+101-18	13980-13991	proceedings	_	_	
+101-19	13992-14002	consistent	_	_	
+101-20	14003-14007	with	_	_	
+101-21	14008-14012	this	_	_	
+101-22	14013-14020	opinion	_	_	
+101-23	14021-14022	.	_	_	
+
+#Text=It is so ordered .
+102-1	14023-14025	It	_	_	
+102-2	14026-14028	is	_	_	
+102-3	14029-14031	so	_	_	
+102-4	14032-14039	ordered	_	_	
+102-5	14040-14041	.	_	_	
