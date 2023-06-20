@@ -1,5 +1,6 @@
 """Functions for processing the TSV-formatted data exported from Inception."""
 
+from pathlib import Path
 from typing import Tuple
 
 
@@ -77,6 +78,9 @@ def process_sentence(tsv_rows: list) -> list[list]:
         empty_label_dict = {"categories": [], "indexes": []}
         if label == "_":  # Token with no annotations
             simplified_tokens.append([sent_num, token, empty_label_dict])
+        elif label == "*":  # Token no category (ignore these, but warn)
+            print(f"Warning: token '{token}' has label * and note: {row[3]}")
+            simplified_tokens.append([sent_num, token, empty_label_dict])
         else:
             categories, annotation_indexes = split_compound_label(label)
             if index_offset is None:
@@ -92,7 +96,7 @@ def process_sentence(tsv_rows: list) -> list[list]:
     return simplified_tokens
 
 
-def process_opinion_file(filepath: str) -> list:
+def process_opinion_file(opinion_path: Path) -> list:
     """Parses a TSV export from Inception.
 
     Returns a list of lists of tokens (i.e. a list of sentences).
@@ -100,7 +104,7 @@ def process_opinion_file(filepath: str) -> list:
     Tokens are represented as simplified TSV rows containing the sentence
     number, the token string, and the token's annotated labels."""
 
-    with open(filepath, "r", encoding="utf-8") as f:
+    with opinion_path.open("r", encoding="utf-8") as f:
         data = f.readlines()
 
     # Make sure sentences start in expected place
@@ -126,7 +130,7 @@ def process_opinion_file(filepath: str) -> list:
     return opinion
 
 
-def get_sentence_annotations(sentence: list, annotation_column: int) -> list[list]:
+def get_sentence_annotations(sentence: list, annotation_column: int = 2) -> list[list]:
     """Gets the annotations in a sentence.
 
     Each annotation is represented as a list:
@@ -150,10 +154,6 @@ def get_sentence_annotations(sentence: list, annotation_column: int) -> list[lis
     indexed_annotations = {}
     for i, token in enumerate(sentence):
         label_dict = token[annotation_column]
-        if "*" in label_dict["categories"]:
-            # These aren't correct; investigate
-            print(token)
-            break
         if len(label_dict["categories"]) == 0:  # No annotation
             continue
         # Single-token annotations
