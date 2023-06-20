@@ -1,0 +1,11 @@
+Alito & 3 & 2 & 3 & 8\\
+Breyer & 1 & 1 & 0 & 2\\
+Ginsburg & 2 & 1 & 1 & 4\\
+Gorsuch & 3 & 1 & 1 & 5\\
+Kagan & 2 & 0 & 0 & 2\\
+Kavanaugh & 2 & 2 & 1 & 5\\
+Roberts & 1 & 0 & 0 & 1\\
+Sotomayor & 2 & 3 & 2 & 7\\
+Thomas & 2 & 1 & 4 & 7\\
+\bottomrule
+& 18 & 11 & 12 & 41\\
