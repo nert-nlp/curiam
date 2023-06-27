@@ -3,7 +3,7 @@
 import os
 import shutil # noqa401
 
-from curiam import cap_parsing
+from curiam.preprocessing import cap_parsing
 
 for filename in os.listdir("data/full_scale/raw/inception_files"):
     if filename.endswith(".txt"):
