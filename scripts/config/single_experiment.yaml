@@ -1,0 +1,12 @@
+experiment:
+  category: Focal Term
+  fold_id: 3
+  model_checkpoint: nlpaueb/legal-bert-base-uncased
+hyperparams:
+  epochs: 20
+  learning_rate: 2e-5
+  batch_size: 16
+
+hydra:
+  run:
+    dir: tmp

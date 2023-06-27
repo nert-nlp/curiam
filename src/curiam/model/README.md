@@ -16,3 +16,7 @@ If you only want to run a single experiment, you can pass in an alternate config
 ```
 $ python scripts/train.py --config-name single_experiment
 ```
+
+## Acknowledgments
+
+Some of the setup for Hydra and for the models was adapted from this [repo](https://github.com/ArjanCodes/2021-config).
