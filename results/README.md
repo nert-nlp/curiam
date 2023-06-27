@@ -1,0 +1,3 @@
+- [runs](./runs/): tensorboard output from training
+- [figures](./figures/): figures for the paper
+- [tables](./tables/): LaTeX-formatted rows of data for the tables in the paper
