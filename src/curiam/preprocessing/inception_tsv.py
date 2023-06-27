@@ -78,8 +78,8 @@ def process_sentence(tsv_rows: list) -> list[list]:
         empty_label_dict = {"categories": [], "indexes": []}
         if label == "_":  # Token with no annotations
             simplified_tokens.append([sent_num, token, empty_label_dict])
-        elif label == "*":  # Token no category (ignore these, but warn)
-            print(f"Warning: token '{token}' has label * and note: {row[3]}")
+        elif "*" in label:  # Token no category (ignore these, but warn)
+            print(f"Warning: token '{token}' has label {label} and note: {row[3]}")
             simplified_tokens.append([sent_num, token, empty_label_dict])
         else:
             categories, annotation_indexes = split_compound_label(label)
