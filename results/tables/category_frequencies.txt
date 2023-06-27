@@ -1,0 +1,11 @@
+Focal Term & 1043 & 2.5{ (1.8)}\\
+Definition & 273 & 12.2{ (9.4)}\\
+Metalinguistic Cue & 1784 & 1.3{ (0.7)}\\
+Direct Quote & 2577 & 10.9{ (10.1)}\\
+Legal Source & 3706 & 8.6{ (8.2)}\\
+Language Source & 74 & 10.0{ (4.3)}\\
+Named Interpretive Rule & 51 & 5.1{ (7.1)}\\
+Example Use & 115 & 23.5{ (12.5)}\\
+Appeal to Meaning & 196 & 27.8{ (13.0)}\\
+\midrule
+Total & 9819 &\\
