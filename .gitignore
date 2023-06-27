@@ -1,5 +1,11 @@
 .vscode
 
+# Hydra logs
+tmp/
+
+# Tensorboard results
+results/runs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
