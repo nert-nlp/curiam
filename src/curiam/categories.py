@@ -34,17 +34,18 @@ ABBREVIATIONS_TO_CATEGORIES = {
     "NIR": "Named Interpretive Rule",
 }
 
-# TODO: confirm category order in sec 3 matches this
-# Categories ordered how they're presented in the paper
-ORDERED_ABBREVIATIONS = ["FT", "D", "MC", "DQ", "LaS", "LeS", "NIR", "EU", "ATM"]
+# Categories ordered according to how they're presented in the paper
+ORDERED_ABBREVIATIONS = ["FT", "D", "MC",
+                         "DQ", "LeS", "LaS",
+                         "NIR", "EU", "ATM"]
 
 ORDERED_CATEGORIES = [
     "Focal Term",
     "Definition",
     "Metalinguistic Cue",
     "Direct Quote",
-    "Language Source",
     "Legal Source",
+    "Language Source",
     "Named Interpretive Rule",
     "Example Use",
     "Appeal to Meaning",
