@@ -1,11 +1,26 @@
 name: curiam
+channels: 
+  - conda-forge
+  - nvidia
+  - pytorch
+  - huggingface
 dependencies:
-- beautifulsoup4
-- jupyterlab
-- matplotlib
-- numpy
-- pip
-- requests
-- scikit-learn
-- pip:
-  - tokenizers
+  - beautifulsoup4
+  - conda-forge::accelerate
+  - conda-forge::tensorboard
+  - conda-forge::tqdm
+  - huggingface::datasets
+  - huggingface::transformers
+  - hydra-core
+  - jupyterlab
+  - matplotlib
+  - numpy <=1.24
+  - pip
+  - pytorch
+  - pytorch-cuda=11.7
+  - requests
+  - scikit-learn
+  - pip:
+    - evaluate
+    - tokenizers
+    - torch-tb-profiler
