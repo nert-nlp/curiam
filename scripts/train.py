@@ -1,3 +1,5 @@
+"""Training script for the models described in the paper."""
+
 from pathlib import Path
 
 from curiam.model import runner
@@ -75,14 +77,12 @@ def train(config: TrainingConfig):
     tensorboard_writer = SummaryWriter(f"results/runs/{config.experiment.category}_" +
                                        f"{short_model_name}_fold_{config.experiment.fold_id}")
 
-    # Create runners
     train_runner = runner.Runner(train_loader, model, accelerator,
                                  optimizer=optimizer, scheduler=lr_scheduler,
                                  writer=tensorboard_writer)
     test_runner = runner.Runner(test_loader, model, accelerator,
                                 writer=tensorboard_writer)
 
-    # Early stopping
     lowest_loss = 1_000_000
     num_insufficiently_improved = 0
 
@@ -97,6 +97,7 @@ def train(config: TrainingConfig):
         test_runner.writer.add_scalar("Test Subset/Recall", r, global_step)
         test_runner.writer.add_scalar("Test Subset/F1", f1, global_step)
 
+        # Early stoppin
         if training_loss > lowest_loss - .001:
             num_insufficiently_improved += 1
         else:
