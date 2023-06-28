@@ -97,7 +97,7 @@ def train(config: TrainingConfig):
         test_runner.writer.add_scalar("Test Subset/Recall", r, global_step)
         test_runner.writer.add_scalar("Test Subset/F1", f1, global_step)
 
-        # Early stoppin
+        # Early stopping
         if training_loss > lowest_loss - .001:
             num_insufficiently_improved += 1
         else:
