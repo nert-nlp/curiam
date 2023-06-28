@@ -18,14 +18,14 @@ from transformers import get_scheduler
 
 cs = ConfigStore.instance()
 cs.store(name="training_config", node=TrainingConfig)
-config_name = "config"
+config_name = "all_experiments"
 
 
 @hydra.main(version_base=None, config_path="config", config_name=config_name)
 def train(config: TrainingConfig):
     print(config)
 
-    opinion_paths = list(Path("data/full_scale/annotated").glob("*.tsv"))
+    opinion_paths = list(Path("data/main/annotated").glob("*.tsv"))
     train_filepaths, test_filepaths = k_fold_files(opinion_paths,
                                                    test_fold_id=config.experiment.fold_id,
                                                    k=4)
