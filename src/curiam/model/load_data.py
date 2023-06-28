@@ -17,7 +17,7 @@ from transformers import DataCollatorForTokenClassification
 
 
 def shuffle_opinions(opinion_filepaths: list[Path]) -> list[Path]:
-    """Shuffle document names deterministically.
+    """Shuffles document names deterministically.
 
     Args:
         opinion_filepaths: A list of opinion filepaths.
@@ -26,8 +26,8 @@ def shuffle_opinions(opinion_filepaths: list[Path]) -> list[Path]:
         A shuffled copy of the input list.
     """
 
-    # For safety, make sure seed is consistent and that we're
-    # not producing side effects.
+    # For safety, make sure seed is consistent and copy so that
+    # we're not producing side effects.
     opinion_filepaths_copy = copy.deepcopy(opinion_filepaths)
     random.seed(42)
     random.shuffle(opinion_filepaths_copy)
@@ -37,15 +37,15 @@ def shuffle_opinions(opinion_filepaths: list[Path]) -> list[Path]:
 def k_fold_files(opinion_paths: list,
                  test_fold_id: int = 0, k: int = 4) -> Tuple[list, list]:
 
-    """Split list of paths and training paths and test paths.
+    """Splits list of paths and returns training paths and test paths.
 
     Reinventing the wheel here because we're trying to do k-fold
     cross-validation at document level instead of sentence level.
 
     Args:
         opinion_paths: Filepaths to be split into test and train groups.
-        test_fold_id: Identifier in [0,k) that specifies
-          which fold to use for eval/test.
+        test_fold_id: Identifier in [0,k) that specifies\
+            which fold to use for eval/test.
         k: Number of folds for cross-validation.
 
     Returns:
@@ -60,9 +60,12 @@ def k_fold_files(opinion_paths: list,
 
 
 def get_masked_wordpiece_labels(labels: list, word_ids: list) -> list:
-    """Return list of masked labels where the first subword of each token
-    retains the original token label and remaining subwords for that token
-    are set to -100.
+    """Returns masked labels for wordpiece tokens.
+
+    The first subword of each token retains the original token label and
+    remaining subwords for that token are set to -100.
+
+    Special tokens like CLS and SEP also get a label of -100.
 
     Subwords with value of -100 will not be included in loss calculation.
     """
@@ -85,8 +88,8 @@ def get_masked_wordpiece_labels(labels: list, word_ids: list) -> list:
     return masked_labels
 
 
-def tokenize_and_mask_labels(examples, tokenizer, eval):
-    """Tokenize examples and mask associated labels to accomodate wordpiece."""
+def tokenize_and_mask_labels(examples, tokenizer: BertTokenizerFast):
+    """Tokenizes examples and mask associated labels to accomodate wordpiece."""
 
     tokenized_inputs = tokenizer(examples["tokens"], truncation=True,
                                  is_split_into_words=True)
@@ -99,16 +102,14 @@ def tokenize_and_mask_labels(examples, tokenizer, eval):
     return tokenized_inputs
 
 
-def dataset_from_files(filepaths: list[Path],
-                       category: str,
+def dataset_from_files(filepaths: list[Path], category: str,
                        tokenizer: BertTokenizerFast,
-                       do_lowercase: bool,
-                       eval):
+                       do_lowercase: bool) -> Dataset:
+    """Reads data from files and featurize into dataset."""
 
     opinions = [inception_tsv.process_opinion_file(filepath)
                 for filepath in filepaths]
     # Get sentences (lists of token) and binary labels for each token for the given category
-    # TODO: These will need to be retokenized with the BERT tokenizer (reuse old code for this)
 
     # The sentences and labels for all of the opinions that will be loaded.
     # Here, sentences are just lists of strings.
@@ -137,7 +138,7 @@ def dataset_from_files(filepaths: list[Path],
 
     tokenized_dataset = dataset.map(tokenize_and_mask_labels, batched=True,
                                     remove_columns=dataset.column_names,
-                                    fn_kwargs={"tokenizer": tokenizer, "eval": eval})
+                                    fn_kwargs={"tokenizer": tokenizer})
 
     return tokenized_dataset
 
@@ -158,10 +159,11 @@ def get_pretty_label_names(category: str) -> list[str]:
 
 def dataloader_from_dataset(dataset: Dataset, tokenizer: BertTokenizerFast,
                             batch_size: int) -> DataLoader:
+    """Returns a dataloader for a preprocessed dataset."""
+
     data_collator = DataCollatorForTokenClassification(tokenizer=tokenizer,
                                                        padding=True)
 
-    """Build a DataLoader from a preprocessed dataset."""
     dataloader = DataLoader(dataset, shuffle=True,
                             collate_fn=data_collator,
                             batch_size=batch_size)
