@@ -1,5 +1,6 @@
 """Definitions for tokens, sentences, and documents."""
 
+from collections import Iterator
 from dataclasses import dataclass, field
 
 
@@ -52,6 +53,12 @@ class Token:
     id: int
     annotations: list[TokenAnnotation] = field(default_factory=list)
 
+    def get_categories(self) -> set[str]:
+        categories = set()
+        for token_annotation in self.annotations:
+            categories.add(token_annotation.category)
+        return categories
+
 
 @dataclass
 class Sentence:
@@ -67,13 +74,13 @@ class Sentence:
     def append(self, token: Token):
         self.tokens.append(token)
 
-    def __iter__(self):
+    def __iter__(self) -> Iterator[Token]:
         return iter(self.tokens)
 
-    def __len__(self):
+    def __len__(self) -> int:
         return len(self.tokens)
-    
-    def __str__(self):
+
+    def __str__(self) -> str:
         return str([tok.text for tok in self.tokens])
 
     def get_annotations(self, annotator: str) -> list[Annotation]:
@@ -120,8 +127,8 @@ class Document:
     def append(self, sentence):
         self.sentences.append(sentence)
 
-    def __iter__(self):
+    def __iter__(self) -> Iterator[Sentence]:
         return iter(self.sentences)
-    
-    def __len__(self):
+
+    def __len__(self) -> int:
         return len(self.sentences)
