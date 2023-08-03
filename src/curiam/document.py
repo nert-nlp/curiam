@@ -122,3 +122,6 @@ class Document:
 
     def __iter__(self):
         return iter(self.sentences)
+    
+    def __len__(self):
+        return len(self.sentences)
