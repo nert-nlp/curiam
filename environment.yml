@@ -15,6 +15,7 @@ dependencies:
   - matplotlib
   - numpy <=1.24
   - pip
+  - python
   - pytorch::pytorch
   - pytorch::pytorch-cuda=11.7
   - requests
