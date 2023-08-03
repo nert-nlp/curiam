@@ -3,11 +3,13 @@
 from pathlib import Path
 from typing import Tuple
 
+from curiam.document import Document, Sentence, Token, TokenAnnotation
 
-def split_compound_label(compound_label: str) -> Tuple[list[str], list[str]]:
-    """Splits a compound token label into categories and token indexes.
 
-    Example: ["Example Use[56]|Direct Quote[58]"] returns
+def split_complex_label(complex_label: str) -> Tuple[list[str], list[str]]:
+    """Splits a complex token label into categories and token indexes.
+
+    Example: "Example Use[56]|Direct Quote[58]" returns
     (["Example Use", "Direct Quote"], [56, 58]).
 
     If an annotation isn't indexed, it only covers a single token and there's
@@ -24,7 +26,7 @@ def split_compound_label(compound_label: str) -> Tuple[list[str], list[str]]:
         A list of categories and a list of corresponding indexes.
     """
 
-    sublabels = compound_label.split("|")
+    sublabels = complex_label.split("|")
     categories = []
     annotation_indexes = []
     for sublabel in sublabels:
@@ -41,68 +43,52 @@ def split_compound_label(compound_label: str) -> Tuple[list[str], list[str]]:
     return categories, annotation_indexes
 
 
-def process_sentence(tsv_rows: list) -> list[list]:
-    """Parses TSV rows for sentence tokens into a simpler format.
-
-    Reindexes annotations from document level to sentence level. Single-token
-    annotations (where that token only has 1 annotation)retain their -1 index.
-
-    Example: "Direct Quote[82]|Direct Quote[83]" is a label for a token that
-    is part of a nested direct quote. Assuming 82 is the first annotation
-    of the sentence, the resulting token label will will be:
-
-    {"categories": ["Direct Quote", "Direct Quote"],
-     "indexes": [1, 2]}
-
-    Each token's labels are represented as a dictionary containing "categories"
-    and "indexes" which identify which categories the token has been annotated
-    with and which annotation it is part of in the sentence.
+def process_sentence(tsv_rows: list, annotator: str) -> Sentence:
+    """Parses TSV rows representing tokens into a `Sentence`.
 
     Args:
         tsv_rows: a list of tab-separated strings read from INCEpTION's TSV
           export format.
 
     Returns:
-        A list of tokens represented as a list:
-          [sentence_number, token, labels]
+        A `Sentence`.
     """
-
-    simplified_tokens = []
-    index_offset = None  # For re-indexing to sentence instead of document
-    for row_string in tsv_rows:
+    sentence = Sentence()
+    index_offset = None
+    for i, row_string in enumerate(tsv_rows):
         row = row_string.split("\t")
-        # 0-th cell has sent num and token num separated by hyphen
-        sent_num = row[0][:row[0].index("-")]
-        token = row[2]  # Column 3 is annotation notes, which we don't need
-        label = row[4]
-        empty_label_dict = {"categories": [], "indexes": []}
-        if label == "_":  # Token with no annotations
-            simplified_tokens.append([sent_num, token, empty_label_dict])
-        elif "*" in label:  # Token no category (ignore these, but warn)
-            print(f"Warning: token '{token}' has label {label} and note: {row[3]}")
-            simplified_tokens.append([sent_num, token, empty_label_dict])
+        sentence.id = row[0][:row[0].index("-")]
+        text = row[2]  # Column 3 is annotation notes, which we don't need
+        complex_label = row[4]
+        if complex_label == "_":  # Token with no annotations
+            sentence.append(Token(text=text, id=i))
+        elif "*" in complex_label:  # Token no category (ignore these, but warn)
+            # I think these are tokens that didn't get annotated with a category, but do have a note
+            print(f"Warning: token '{text}' has label {complex_label} and note: {row[3]}")
+            sentence.append(Token(text=text, id=i))
         else:
-            categories, annotation_indexes = split_compound_label(label)
+            categories, annotation_ids = split_complex_label(complex_label)
             if index_offset is None:
-                index_offset = annotation_indexes[0] - 1
-            label_dict = {"categories": [], "indexes": []}
-            for category, index, in zip(categories, annotation_indexes):
-                label_dict["categories"].append(category)
-                if index == -1:
-                    label_dict["indexes"].append(index)
+                index_offset = annotation_ids[0] - 1
+            for j, annotation_id in enumerate(annotation_ids):
+                if annotation_id == -1:
+                    continue
                 else:
-                    label_dict["indexes"].append(index - index_offset)
-            simplified_tokens.append([sent_num, token, label_dict])
-    return simplified_tokens
+                    annotation_ids[j] = annotation_id - index_offset
+
+            annotations = []
+            for category, annotation_id in zip(categories, annotation_ids):
+                annotations.append(TokenAnnotation(category=category,
+                                                   id=annotation_id,
+                                                   annotator=annotator))
+            sentence.append(Token(text=text,
+                                  id=i,
+                                  annotations=annotations))
+    return sentence
 
 
-def process_opinion_file(opinion_path: Path) -> list:
-    """Parses a TSV export from Inception.
-
-    Returns a list of lists of tokens (i.e. a list of sentences).
-
-    Tokens are represented as simplified TSV rows containing the sentence
-    number, the token string, and the token's annotated labels."""
+def process_opinion_file(opinion_path: Path, annotator: str) -> Document:
+    """Parses a TSV export from INCEpTION and returns a document."""
 
     with opinion_path.open("r", encoding="utf-8") as f:
         data = f.readlines()
@@ -110,18 +96,21 @@ def process_opinion_file(opinion_path: Path) -> list:
     # Make sure sentences start in expected place
     assert data[4].startswith("#Text")
 
-    opinion = []  # This will be a list of sentences, which are lists of tokens
+    opinion = Document()
     sentence_rows = []
+    sentence_id = 0
     for row in data[4:]:
         # This indicates the start of a new sentence,
         # but we don't need to do anything with this line
         if row.startswith("#Text"):
-            sentence_rows = []
+            sentence_rows = []  # Reset sentence rows
 
         # End of sentence reached
         elif row == "\n":
-            simplified_tokens = process_sentence(sentence_rows)
-            opinion.append(simplified_tokens)
+            sentence = process_sentence(sentence_rows, annotator=annotator)
+            sentence.id = sentence_id
+            opinion.append(sentence)
+            sentence_id += 1
 
         # Token row
         else:

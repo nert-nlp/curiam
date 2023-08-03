@@ -1,4 +1,4 @@
-"""Retrieving and parsing data from the Harvard Caselaw Access Project."""
+"""Retrieving and parsing data from the Harvard Caselaw Access Project (CAP)."""
 
 import re
 
