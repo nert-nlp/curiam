@@ -2,7 +2,6 @@ name: curiam
 channels: 
   - conda-forge
   - nvidia
-  - pytorch
   - huggingface
 dependencies:
   - beautifulsoup4
@@ -16,8 +15,8 @@ dependencies:
   - matplotlib
   - numpy <=1.24
   - pip
-  - pytorch
-  - pytorch-cuda=11.7
+  - pytorch::pytorch
+  - pytorch::pytorch-cuda=11.7
   - requests
   - scikit-learn
   - pip:
