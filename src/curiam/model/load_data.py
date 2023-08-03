@@ -107,20 +107,19 @@ def dataset_from_files(filepaths: list[Path], category: str,
                        do_lowercase: bool) -> Dataset:
     """Reads data from files and featurize into dataset."""
 
-    opinions = [inception_tsv.process_opinion_file(filepath)
+    opinions = [inception_tsv.process_opinion_file(filepath, "Michael")
                 for filepath in filepaths]
-    # Get sentences (lists of token) and binary labels for each token for the given category
 
-    # The sentences and labels for all of the opinions that will be loaded.
-    # Here, sentences are just lists of strings.
+    # Get sentences (lists of token strings) and binary labels for each token for the given category
+
     dataset_sentences = []
     dataset_labels = []
 
     for opinion in opinions:
         for sentence in opinion:
-            dataset_sentences.append([token[1].lower() if do_lowercase
-                                      else token[1] for token in sentence])
-            dataset_labels.append([1 if category in token[2]["categories"]
+            dataset_sentences.append([token.text.lower() if do_lowercase
+                                      else token.text for token in sentence])
+            dataset_labels.append([1 if category in token.get_categories()
                                    else 0 for token in sentence])
 
     names = get_pretty_label_names(category)
