@@ -1,4 +1,4 @@
-"""Definitions for tokens, sentences, and documents."""
+"""Lightweight data models for tokens, sentences, annotations, and documents."""
 
 from collections import Iterator
 from dataclasses import dataclass, field
