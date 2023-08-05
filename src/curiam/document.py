@@ -53,9 +53,12 @@ class Token:
 
     def get_categories(self) -> set[str]:
         categories = set()
-        for token_annotation in self.annotations:
-            categories.add(token_annotation.category)
-        return categories
+        if self.annotations is None:
+            return set()
+        else:
+            for token_annotation in self.annotations:
+                categories.add(token_annotation.category)
+            return categories
 
     def to_json(self) -> dict:
         result = dict(id=self.id, text=self.text)
@@ -99,6 +102,8 @@ class Sentence:
         annotations = []
         indexed_annotations = {}
         for token in self.tokens:
+            if token.annotations is None:
+                continue
             for token_annotation in token.annotations:
                 if token_annotation.id == -1:  # Single-token annotation
                     annotations.append(Annotation(category=token_annotation.category,
