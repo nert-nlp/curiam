@@ -43,7 +43,7 @@ def split_complex_label(complex_label: str) -> Tuple[list[str], list[str]]:
     return categories, annotation_indexes
 
 
-def process_sentence(tsv_rows: list, annotator: str) -> Sentence:
+def process_sentence(tsv_rows: list) -> Sentence:
     """Parses TSV rows representing tokens into a `Sentence`.
 
     Args:
@@ -68,8 +68,8 @@ def process_sentence(tsv_rows: list, annotator: str) -> Sentence:
             sentence.append(Token(text=text, id=i))
         else:
             categories, annotation_ids = split_complex_label(complex_label)
-            if index_offset is None:
-                index_offset = annotation_ids[0] - 1
+            if index_offset is None and annotation_ids[0] != -1:
+                index_offset = annotation_ids[0]
             for j, annotation_id in enumerate(annotation_ids):
                 if annotation_id == -1:
                     continue
@@ -79,15 +79,14 @@ def process_sentence(tsv_rows: list, annotator: str) -> Sentence:
             annotations = []
             for category, annotation_id in zip(categories, annotation_ids):
                 annotations.append(TokenAnnotation(category=category,
-                                                   id=annotation_id,
-                                                   annotator=annotator))
+                                                   id=annotation_id))
             sentence.append(Token(text=text,
                                   id=i,
                                   annotations=annotations))
     return sentence
 
 
-def process_opinion_file(opinion_path: Path, annotator: str) -> Document:
+def process_opinion_file(opinion_path: Path, name: int) -> Document:
     """Parses a TSV export from INCEpTION and returns a document."""
 
     with opinion_path.open("r", encoding="utf-8") as f:
@@ -96,7 +95,7 @@ def process_opinion_file(opinion_path: Path, annotator: str) -> Document:
     # Make sure sentences start in expected place
     assert data[4].startswith("#Text")
 
-    opinion = Document()
+    opinion = Document(name=name)
     sentence_rows = []
     sentence_id = 0
     for row in data[4:]:
@@ -107,7 +106,7 @@ def process_opinion_file(opinion_path: Path, annotator: str) -> Document:
 
         # End of sentence reached
         elif row == "\n":
-            sentence = process_sentence(sentence_rows, annotator=annotator)
+            sentence = process_sentence(sentence_rows)
             sentence.id = sentence_id
             opinion.append(sentence)
             sentence_id += 1
