@@ -107,7 +107,7 @@ def dataset_from_files(filepaths: list[Path], category: str,
                        do_lowercase: bool) -> Dataset:
     """Reads data from files and featurize into dataset."""
 
-    opinions = [inception_tsv.process_opinion_file(filepath, "Michael")
+    opinions = [inception_tsv.process_opinion_file(filepath, filepath.name, "Michael")
                 for filepath in filepaths]
 
     # Get sentences (lists of token strings) and binary labels for each token for the given category
