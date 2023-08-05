@@ -90,6 +90,9 @@ class Sentence:
     def __str__(self) -> str:
         return str([tok.text for tok in self.tokens])
 
+    def __getitem__(self, idx):
+        return self.tokens[idx]
+
     def to_json(self) -> dict:
         return dict(id=self.id, tokens=self.tokens)
 
