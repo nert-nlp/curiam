@@ -46,9 +46,7 @@ This repo has been tested in WSL on Windows and on MacOS.
     $ pip install "pygamma-agreement[cbc]"
     ```
 
-    /// For Apple silicon, install CBC with homebrew, then cython from conda-forge, then 
-
-    Install cvxopt with conda, then `pip install pygamma-agreement` without cbc
+    Installing `pygamma-agreement` for Apple silicon is difficult. Intalling `cvxopt` via conda and then `pip install pygamma-agreement` without cbc may work, but I haven't tested it. If it does work, it may be slow.
 
 ## Acknowledgments
 ---
