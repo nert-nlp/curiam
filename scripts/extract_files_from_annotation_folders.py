@@ -11,13 +11,12 @@ Scenario:
 - Upon export (with TSV format), a folder named 'somefile.txt' is created.
 - This folder contains 'bob.tsv' and 'alice.tsv'
 
-In this case, annotations are done under the admin account, so this script 
+In this case, annotations are done under the admin account, so this script
 copies all of the 'admin.tsv' annotation files from each opinion and gives them
 more specific filenames.
 """
 
 import shutil
-
 from pathlib import Path
 
 annotation_export_dir = Path("data/main/annotated/inception_export_06_19_23")

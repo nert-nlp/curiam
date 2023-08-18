@@ -3,7 +3,6 @@
 Usage: `python scripts/save_corpus_to_json.py`
 """
 import json
-
 from pathlib import Path
 
 from curiam.preprocessing import inception_tsv

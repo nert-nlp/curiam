@@ -1,15 +1,13 @@
 import statistics
-
 from typing import Any, Optional
 
 import evaluate
 import torch
-from tqdm import tqdm
-
-from torch.utils.data.dataloader import DataLoader
 from accelerate import Accelerator
-from transformers import BertForTokenClassification
+from torch.utils.data.dataloader import DataLoader
 from torch.utils.tensorboard import SummaryWriter
+from tqdm import tqdm
+from transformers import BertForTokenClassification
 
 
 class Runner:

@@ -1,6 +1,7 @@
 """Retrieves a pretrained model from a checkpoint name."""
 
 from transformers import BertForTokenClassification
+
 from curiam.model.load_data import get_pretty_label_names
 
 

@@ -2,21 +2,19 @@
 
 from pathlib import Path
 
+import hydra
+from accelerate import Accelerator
+from hydra.core.config_store import ConfigStore
+from torch.optim import AdamW
+from torch.utils.tensorboard import SummaryWriter
+from transformers import BertTokenizerFast
+from transformers import get_scheduler
+
 from curiam.model import runner
 from curiam.model.config import TrainingConfig
 from curiam.model.load_data import dataloader_from_dataset, dataset_from_files
 from curiam.model.load_data import k_fold_files
 from curiam.model.model import get_model
-
-import hydra
-
-from hydra.core.config_store import ConfigStore
-
-from accelerate import Accelerator
-from torch.optim import AdamW
-from torch.utils.tensorboard import SummaryWriter
-from transformers import BertTokenizerFast
-from transformers import get_scheduler
 
 cs = ConfigStore.instance()
 cs.store(name="training_config", node=TrainingConfig)

@@ -1,19 +1,16 @@
 import copy
 import random
-
 from pathlib import Path
 from typing import Tuple
 
-from curiam.preprocessing import inception_tsv
-from curiam import categories
-
 import numpy as np
-
-from torch.utils.data import DataLoader
 from datasets import ClassLabel, Dataset, Features, Value, Sequence
-
+from torch.utils.data import DataLoader
 from transformers import BertTokenizerFast
 from transformers import DataCollatorForTokenClassification
+
+from curiam.preprocessing import inception_tsv
+from curiam import categories
 
 
 def shuffle_opinions(opinion_filepaths: list[Path]) -> list[Path]:
