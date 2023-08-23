@@ -11,6 +11,7 @@ dependencies:
   - huggingface::datasets
   - huggingface::transformers
   - hydra-core
+  - jupyter
   - jupyterlab
   - matplotlib
   - numpy <=1.24
