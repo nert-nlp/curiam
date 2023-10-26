@@ -1,0 +1,272 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice SOTOMAYOR , with whom Justice GINSBURG joins , concurring .
+1-1	0-7	Justice	_	_	
+1-2	8-17	SOTOMAYOR	_	_	
+1-3	18-19	,	_	_	
+1-4	20-24	with	_	_	
+1-5	25-29	whom	_	_	
+1-6	30-37	Justice	_	_	
+1-7	38-46	GINSBURG	_	_	
+1-8	47-52	joins	_	_	
+1-9	53-54	,	_	_	
+1-10	55-65	concurring	_	_	
+1-11	66-67	.	_	_	
+
+#Text=I join the majority opinion because I agree that 29 U.S.C. § 633a imposes liability even when age is not a " ' but - for cause ' " of a personnel action .
+2-1	68-69	I	_	_	
+2-2	70-74	join	_	_	
+2-3	75-78	the	_	_	
+2-4	79-87	majority	_	_	
+2-5	88-95	opinion	_	_	
+2-6	96-103	because	_	_	
+2-7	104-105	I	_	_	
+2-8	106-111	agree	_	_	
+2-9	112-116	that	_	_	
+2-10	117-119	29	*[1]	Legal Source[1]	
+2-11	120-126	U.S.C.	*[1]	Legal Source[1]	
+2-12	127-128	§	*[1]	Legal Source[1]	
+2-13	129-133	633a	*[1]	Legal Source[1]	
+2-14	134-141	imposes	_	_	
+2-15	142-151	liability	_	_	
+2-16	152-156	even	_	_	
+2-17	157-161	when	_	_	
+2-18	162-165	age	_	_	
+2-19	166-168	is	_	_	
+2-20	169-172	not	_	_	
+2-21	173-174	a	_	_	
+2-22	175-176	"	*[2]	Direct Quote[2]	
+2-23	177-178	'	*[2]|*[3]	Direct Quote[2]|Direct Quote[3]	
+2-24	179-182	but	*[2]|*[3]	Direct Quote[2]|Direct Quote[3]	
+2-25	183-184	-	*[2]|*[3]	Direct Quote[2]|Direct Quote[3]	
+2-26	185-188	for	*[2]|*[3]	Direct Quote[2]|Direct Quote[3]	
+2-27	189-194	cause	*[2]|*[3]	Direct Quote[2]|Direct Quote[3]	
+2-28	195-196	'	*[2]|*[3]	Direct Quote[2]|Direct Quote[3]	
+2-29	197-198	"	*[2]	Direct Quote[2]	
+2-30	199-201	of	_	_	
+2-31	202-203	a	_	_	
+2-32	204-213	personnel	_	_	
+2-33	214-220	action	_	_	
+2-34	221-222	.	_	_	
+
+#Text=Ante , at 1171 .
+3-1	225-229	Ante	*[4]	Legal Source[4]	
+3-2	230-231	,	*[4]	Legal Source[4]	
+3-3	232-234	at	*[4]	Legal Source[4]	
+3-4	235-239	1171	*[4]	Legal Source[4]	
+3-5	240-241	.	_	_	
+
+#Text=I write separately to make two observations .
+4-1	242-243	I	_	_	
+4-2	244-249	write	_	_	
+4-3	250-260	separately	_	_	
+4-4	261-263	to	_	_	
+4-5	264-268	make	_	_	
+4-6	269-272	two	_	_	
+4-7	273-285	observations	_	_	
+4-8	286-287	.	_	_	
+
+#Text=First , the Court does not foreclose § 633a claims arising from discriminatory processes .
+5-1	288-293	First	_	_	
+5-2	294-295	,	_	_	
+5-3	296-299	the	_	_	
+5-4	300-305	Court	_	_	
+5-5	306-310	does	_	_	
+5-6	311-314	not	_	_	
+5-7	315-324	foreclose	_	_	
+5-8	325-326	§	*[5]	Legal Source[5]	
+5-9	327-331	633a	*[5]	Legal Source[5]	
+5-10	332-338	claims	_	_	
+5-11	339-346	arising	_	_	
+5-12	347-351	from	_	_	
+5-13	352-366	discriminatory	_	_	
+5-14	367-376	processes	_	_	
+5-15	377-378	.	_	_	
+
+#Text=Cf .  Comcast Corp. v.   National Assn . of African American - Owned Media , 140 S.Ct . 1009 ( GINSBURG , J. , concurring in part and concurring in judgment ) .
+6-1	379-381	Cf	_	_	
+6-2	382-383	.	_	_	
+6-3	385-392	Comcast	*[6]	Legal Source[6]	
+6-4	393-398	Corp.	*[6]	Legal Source[6]	
+6-5	399-401	v.	*[6]	Legal Source[6]	
+6-6	404-412	National	*[6]	Legal Source[6]	
+6-7	413-417	Assn	*[6]	Legal Source[6]	
+6-8	418-419	.	*[6]	Legal Source[6]	
+6-9	420-422	of	*[6]	Legal Source[6]	
+6-10	423-430	African	*[6]	Legal Source[6]	
+6-11	431-439	American	*[6]	Legal Source[6]	
+6-12	440-441	-	*[6]	Legal Source[6]	
+6-13	442-447	Owned	*[6]	Legal Source[6]	
+6-14	448-453	Media	*[6]	Legal Source[6]	
+6-15	454-455	,	*[6]	Legal Source[6]	
+6-16	456-459	140	*[6]	Legal Source[6]	
+6-17	460-464	S.Ct	*[6]	Legal Source[6]	
+6-18	465-466	.	*[6]	Legal Source[6]	
+6-19	467-471	1009	*[6]	Legal Source[6]	
+6-20	472-473	(	_	_	
+6-21	474-482	GINSBURG	_	_	
+6-22	483-484	,	_	_	
+6-23	485-487	J.	_	_	
+6-24	488-489	,	_	_	
+6-25	490-500	concurring	_	_	
+6-26	501-503	in	_	_	
+6-27	504-508	part	_	_	
+6-28	509-512	and	_	_	
+6-29	513-523	concurring	_	_	
+6-30	524-526	in	_	_	
+6-31	527-535	judgment	_	_	
+6-32	536-537	)	_	_	
+6-33	538-539	.	_	_	
+
+#Text=If , for example , an employer hires a 50 - year - old person who passed a computer - aptitude test administered only to applicants above 40 , clearly a question could arise as to whether the hiring decision was " made free from " differential treatment .
+7-1	540-542	If	_	_	
+7-2	543-544	,	_	_	
+7-3	545-548	for	_	_	
+7-4	549-556	example	_	_	
+7-5	557-558	,	_	_	
+7-6	559-561	an	_	_	
+7-7	562-570	employer	_	_	
+7-8	571-576	hires	_	_	
+7-9	577-578	a	_	_	
+7-10	579-581	50	_	_	
+7-11	582-583	-	_	_	
+7-12	584-588	year	_	_	
+7-13	589-590	-	_	_	
+7-14	591-594	old	_	_	
+7-15	595-601	person	_	_	
+7-16	602-605	who	_	_	
+7-17	606-612	passed	_	_	
+7-18	613-614	a	_	_	
+7-19	615-623	computer	_	_	
+7-20	624-625	-	_	_	
+7-21	626-634	aptitude	_	_	
+7-22	635-639	test	_	_	
+7-23	640-652	administered	_	_	
+7-24	653-657	only	_	_	
+7-25	658-660	to	_	_	
+7-26	661-671	applicants	_	_	
+7-27	672-677	above	_	_	
+7-28	678-680	40	_	_	
+7-29	681-682	,	_	_	
+7-30	683-690	clearly	_	_	
+7-31	691-692	a	_	_	
+7-32	693-701	question	_	_	
+7-33	702-707	could	_	_	
+7-34	708-713	arise	_	_	
+7-35	714-716	as	_	_	
+7-36	717-719	to	_	_	
+7-37	720-727	whether	_	_	
+7-38	728-731	the	_	_	
+7-39	732-738	hiring	_	_	
+7-40	739-747	decision	_	_	
+7-41	748-751	was	_	_	
+7-42	752-753	"	*[7]	Direct Quote[7]	
+7-43	754-758	made	*[7]	Direct Quote[7]	
+7-44	759-763	free	*[7]	Direct Quote[7]	
+7-45	764-768	from	*[7]	Direct Quote[7]	
+7-46	769-770	"	*[7]	Direct Quote[7]	
+7-47	771-783	differential	_	_	
+7-48	784-793	treatment	_	_	
+7-49	794-795	.	_	_	
+
+#Text=Second , this same example may suggest that § 633a permits damages remedies , even when the Government engages in nondispositive " age discrimination in the ' ma[king ] ' of a personnel decision . "
+8-1	796-802	Second	_	_	
+8-2	803-804	,	_	_	
+8-3	805-809	this	_	_	
+8-4	810-814	same	_	_	
+8-5	815-822	example	_	_	
+8-6	823-826	may	_	_	
+8-7	827-834	suggest	_	_	
+8-8	835-839	that	_	_	
+8-9	840-841	§	*[8]	Legal Source[8]	
+8-10	842-846	633a	*[8]	Legal Source[8]	
+8-11	847-854	permits	_	_	
+8-12	855-862	damages	_	_	
+8-13	863-871	remedies	_	_	
+8-14	872-873	,	_	_	
+8-15	874-878	even	_	_	
+8-16	879-883	when	_	_	
+8-17	884-887	the	_	_	
+8-18	888-898	Government	_	_	
+8-19	899-906	engages	_	_	
+8-20	907-909	in	_	_	
+8-21	910-924	nondispositive	_	_	
+8-22	925-926	"	*[9]	Direct Quote[9]	
+8-23	927-930	age	*[9]	Direct Quote[9]	
+8-24	931-945	discrimination	*[9]	Direct Quote[9]	
+8-25	946-948	in	*[9]	Direct Quote[9]	
+8-26	949-952	the	*[9]	Direct Quote[9]	
+8-27	953-954	'	*[9]	Direct Quote[9]	
+8-28	955-962	ma[king	*[9]	Direct Quote[9]	
+8-29	963-964	]	*[9]	Direct Quote[9]	
+8-30	965-966	'	*[9]	Direct Quote[9]	
+8-31	967-969	of	*[9]	Direct Quote[9]	
+8-32	970-971	a	*[9]	Direct Quote[9]	
+8-33	972-981	personnel	*[9]	Direct Quote[9]	
+8-34	982-990	decision	*[9]	Direct Quote[9]	
+8-35	991-992	.	*[9]	Direct Quote[9]	
+8-36	993-994	"	*[9]	Direct Quote[9]	
+
+#Text=Ante , at 1176 .
+9-1	995-999	Ante	*[10]	Legal Source[10]	
+9-2	1000-1001	,	*[10]	Legal Source[10]	
+9-3	1002-1004	at	*[10]	Legal Source[10]	
+9-4	1005-1009	1176	*[10]	Legal Source[10]	
+9-5	1010-1011	.	_	_	
+
+#Text=If an applicant incurs costs to prepare for the discriminatorily administered aptitude test , a damages award compensating for such out - of - pocket expenses could restore the applicant to the " position tha[t ] he or she would have enjoyed absent discrimination . "
+10-1	1012-1014	If	_	_	
+10-2	1015-1017	an	_	_	
+10-3	1018-1027	applicant	_	_	
+10-4	1028-1034	incurs	_	_	
+10-5	1035-1040	costs	_	_	
+10-6	1041-1043	to	_	_	
+10-7	1044-1051	prepare	_	_	
+10-8	1052-1055	for	_	_	
+10-9	1056-1059	the	_	_	
+10-10	1060-1076	discriminatorily	_	_	
+10-11	1077-1089	administered	_	_	
+10-12	1090-1098	aptitude	_	_	
+10-13	1099-1103	test	_	_	
+10-14	1104-1105	,	_	_	
+10-15	1106-1107	a	_	_	
+10-16	1108-1115	damages	_	_	
+10-17	1116-1121	award	_	_	
+10-18	1122-1134	compensating	_	_	
+10-19	1135-1138	for	_	_	
+10-20	1139-1143	such	_	_	
+10-21	1144-1147	out	_	_	
+10-22	1148-1149	-	_	_	
+10-23	1150-1152	of	_	_	
+10-24	1153-1154	-	_	_	
+10-25	1155-1161	pocket	_	_	
+10-26	1162-1170	expenses	_	_	
+10-27	1171-1176	could	_	_	
+10-28	1177-1184	restore	_	_	
+10-29	1185-1188	the	_	_	
+10-30	1189-1198	applicant	_	_	
+10-31	1199-1201	to	_	_	
+10-32	1202-1205	the	_	_	
+10-33	1206-1207	"	*[11]	Direct Quote[11]	
+10-34	1208-1216	position	*[11]	Direct Quote[11]	
+10-35	1217-1222	tha[t	*[11]	Direct Quote[11]	
+10-36	1223-1224	]	*[11]	Direct Quote[11]	
+10-37	1225-1227	he	*[11]	Direct Quote[11]	
+10-38	1228-1230	or	*[11]	Direct Quote[11]	
+10-39	1231-1234	she	*[11]	Direct Quote[11]	
+10-40	1235-1240	would	*[11]	Direct Quote[11]	
+10-41	1241-1245	have	*[11]	Direct Quote[11]	
+10-42	1246-1253	enjoyed	*[11]	Direct Quote[11]	
+10-43	1254-1260	absent	*[11]	Direct Quote[11]	
+10-44	1261-1275	discrimination	*[11]	Direct Quote[11]	
+10-45	1276-1277	.	*[11]	Direct Quote[11]	
+10-46	1278-1279	"	*[11]	Direct Quote[11]	
+
+#Text=Ante , at 1178 .
+11-1	1280-1284	Ante	*[12]	Legal Source[12]	
+11-2	1285-1286	,	*[12]	Legal Source[12]	
+11-3	1287-1289	at	*[12]	Legal Source[12]	
+11-4	1290-1294	1178	*[12]	Legal Source[12]	
+11-5	1295-1296	.	_	_	

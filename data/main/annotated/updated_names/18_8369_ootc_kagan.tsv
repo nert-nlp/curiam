@@ -1,0 +1,2498 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice KAGAN delivered the opinion of the Court .
+1-1	0-7	Justice	_	_	
+1-2	8-13	KAGAN	_	_	
+1-3	14-23	delivered	_	_	
+1-4	24-27	the	_	_	
+1-5	28-35	opinion	_	_	
+1-6	36-38	of	_	_	
+1-7	39-42	the	_	_	
+1-8	43-48	Court	_	_	
+1-9	49-50	.	_	_	
+
+#Text=To help staunch a " flood of nonmeritorious " prisoner litigation , the Prison Litigation Reform Act of 1995 ( PLRA ) established what has become known as the three - strikes rule .
+2-1	51-53	To	_	_	
+2-2	54-58	help	_	_	
+2-3	59-66	staunch	_	_	
+2-4	67-68	a	_	_	
+2-5	69-70	"	*[1]	Direct Quote[1]	
+2-6	71-76	flood	*[1]	Direct Quote[1]	
+2-7	77-79	of	*[1]	Direct Quote[1]	
+2-8	80-94	nonmeritorious	*[1]	Direct Quote[1]	
+2-9	95-96	"	*[1]	Direct Quote[1]	
+2-10	97-105	prisoner	_	_	
+2-11	106-116	litigation	_	_	
+2-12	117-118	,	_	_	
+2-13	119-122	the	_	_	
+2-14	123-129	Prison	*[2]	Legal Source[2]	
+2-15	130-140	Litigation	*[2]	Legal Source[2]	
+2-16	141-147	Reform	*[2]	Legal Source[2]	
+2-17	148-151	Act	*[2]	Legal Source[2]	
+2-18	152-154	of	*[2]	Legal Source[2]	
+2-19	155-159	1995	*[2]	Legal Source[2]	
+2-20	160-161	(	_	_	
+2-21	162-166	PLRA	_	_	
+2-22	167-168	)	_	_	
+2-23	169-180	established	_	_	
+2-24	181-185	what	_	_	
+2-25	186-189	has	_	_	
+2-26	190-196	become	_	_	
+2-27	197-202	known	_	_	
+2-28	203-205	as	_	_	
+2-29	206-209	the	_	_	
+2-30	210-215	three	_	_	
+2-31	216-217	-	_	_	
+2-32	218-225	strikes	_	_	
+2-33	226-230	rule	_	_	
+2-34	231-232	.	_	_	
+
+#Text=Jones v. Bock , 549 U.S. 199 , 203 , 127 S.Ct . 910 , 166 L.Ed.2d 798 ( 2007 ) .
+3-1	233-238	Jones	*[3]	Legal Source[3]	
+3-2	239-241	v.	*[3]	Legal Source[3]	
+3-3	242-246	Bock	*[3]	Legal Source[3]	
+3-4	247-248	,	*[3]	Legal Source[3]	
+3-5	249-252	549	*[3]	Legal Source[3]	
+3-6	253-257	U.S.	*[3]	Legal Source[3]	
+3-7	258-261	199	*[3]	Legal Source[3]	
+3-8	262-263	,	*[3]	Legal Source[3]	
+3-9	264-267	203	*[3]	Legal Source[3]	
+3-10	268-269	,	*[3]	Legal Source[3]	
+3-11	270-273	127	*[3]	Legal Source[3]	
+3-12	274-278	S.Ct	*[3]	Legal Source[3]	
+3-13	279-280	.	*[3]	Legal Source[3]	
+3-14	281-284	910	*[3]	Legal Source[3]	
+3-15	285-286	,	*[3]	Legal Source[3]	
+3-16	287-290	166	*[3]	Legal Source[3]	
+3-17	291-298	L.Ed.2d	*[3]	Legal Source[3]	
+3-18	299-302	798	*[3]	Legal Source[3]	
+3-19	303-304	(	*[3]	Legal Source[3]	
+3-20	305-309	2007	*[3]	Legal Source[3]	
+3-21	310-311	)	*[3]	Legal Source[3]	
+3-22	312-313	.	_	_	
+
+#Text=That rule generally prevents a prisoner from bringing suit in forma pauperis ( IFP) - that is , without first paying the filing fee - if he has had three or more prior suits " dismissed on the grounds that [ they were ] frivolous , malicious , or fail[ed ] to state a claim upon which relief may be granted . "
+4-1	314-318	That	_	_	
+4-2	319-323	rule	_	_	
+4-3	324-333	generally	_	_	
+4-4	334-342	prevents	_	_	
+4-5	343-344	a	_	_	
+4-6	345-353	prisoner	_	_	
+4-7	354-358	from	_	_	
+4-8	359-367	bringing	_	_	
+4-9	368-372	suit	_	_	
+4-10	373-375	in	*[4]	Focal Term[4]	
+4-11	376-381	forma	*[4]	Focal Term[4]	
+4-12	382-390	pauperis	*[4]	Focal Term[4]	
+4-13	391-392	(	*[4]	Focal Term[4]	
+4-14	393-397	IFP)	*[4]	Focal Term[4]	
+4-15	398-399	-	_	_	
+4-16	400-404	that	*[5]	Definition[5]	
+4-17	405-407	is	*[5]	Definition[5]	
+4-18	408-409	,	*[5]	Definition[5]	
+4-19	410-417	without	*[5]	Definition[5]	
+4-20	418-423	first	*[5]	Definition[5]	
+4-21	424-430	paying	*[5]	Definition[5]	
+4-22	431-434	the	*[5]	Definition[5]	
+4-23	435-441	filing	*[5]	Definition[5]	
+4-24	442-445	fee	*[5]	Definition[5]	
+4-25	446-447	-	_	_	
+4-26	448-450	if	_	_	
+4-27	451-453	he	_	_	
+4-28	454-457	has	_	_	
+4-29	458-461	had	_	_	
+4-30	462-467	three	_	_	
+4-31	468-470	or	_	_	
+4-32	471-475	more	_	_	
+4-33	476-481	prior	_	_	
+4-34	482-487	suits	_	_	
+4-35	488-489	"	*[6]	Direct Quote[6]	
+4-36	490-499	dismissed	*[6]	Direct Quote[6]	
+4-37	500-502	on	*[6]	Direct Quote[6]	
+4-38	503-506	the	*[6]	Direct Quote[6]	
+4-39	507-514	grounds	*[6]	Direct Quote[6]	
+4-40	515-519	that	*[6]	Direct Quote[6]	
+4-41	520-521	[	*[6]	Direct Quote[6]	
+4-42	522-526	they	*[6]	Direct Quote[6]	
+4-43	527-531	were	*[6]	Direct Quote[6]	
+4-44	532-533	]	*[6]	Direct Quote[6]	
+4-45	534-543	frivolous	*[6]	Direct Quote[6]	
+4-46	544-545	,	*[6]	Direct Quote[6]	
+4-47	546-555	malicious	*[6]	Direct Quote[6]	
+4-48	556-557	,	*[6]	Direct Quote[6]	
+4-49	558-560	or	*[6]	Direct Quote[6]	
+4-50	561-568	fail[ed	*[6]	Direct Quote[6]	
+4-51	569-570	]	*[6]	Direct Quote[6]	
+4-52	571-573	to	*[6]	Direct Quote[6]	
+4-53	574-579	state	*[6]	Direct Quote[6]	
+4-54	580-581	a	*[6]	Direct Quote[6]	
+4-55	582-587	claim	*[6]	Direct Quote[6]	
+4-56	588-592	upon	*[6]	Direct Quote[6]	
+4-57	593-598	which	*[6]	Direct Quote[6]	
+4-58	599-605	relief	*[6]	Direct Quote[6]	
+4-59	606-609	may	*[6]	Direct Quote[6]	
+4-60	610-612	be	*[6]	Direct Quote[6]	
+4-61	613-620	granted	*[6]	Direct Quote[6]	
+4-62	621-622	.	*[6]	Direct Quote[6]	
+4-63	623-624	"	*[6]	Direct Quote[6]	
+
+#Text=28 U.S.C. § 1915 ( g ) .
+5-1	625-627	28	*[7]	Legal Source[7]	
+5-2	628-634	U.S.C.	*[7]	Legal Source[7]	
+5-3	635-636	§	*[7]	Legal Source[7]	
+5-4	637-641	1915	*[7]	Legal Source[7]	
+5-5	642-643	(	*[7]	Legal Source[7]	
+5-6	644-645	g	*[7]	Legal Source[7]	
+5-7	646-647	)	*[7]	Legal Source[7]	
+5-8	648-649	.	_	_	
+
+#Text=Today we address whether a suit dismissed for failure to state a claim counts as a strike when the dismissal was without prejudice .
+6-1	650-655	Today	_	_	
+6-2	656-658	we	_	_	
+6-3	659-666	address	_	_	
+6-4	667-674	whether	_	_	
+6-5	675-676	a	_	_	
+6-6	677-681	suit	_	_	
+6-7	682-691	dismissed	_	_	
+6-8	692-695	for	_	_	
+6-9	696-703	failure	_	_	
+6-10	704-706	to	_	_	
+6-11	707-712	state	_	_	
+6-12	713-714	a	_	_	
+6-13	715-720	claim	_	_	
+6-14	721-727	counts	_	_	
+6-15	728-730	as	_	_	
+6-16	731-732	a	_	_	
+6-17	733-739	strike	_	_	
+6-18	740-744	when	_	_	
+6-19	745-748	the	_	_	
+6-20	749-758	dismissal	_	_	
+6-21	759-762	was	_	_	
+6-22	763-770	without	_	_	
+6-23	771-780	prejudice	_	_	
+6-24	781-782	.	_	_	
+
+#Text=We conclude that it does : The text of Section 1915(g ) 's three - strikes provision refers to any dismissal for failure to state a claim , whether with prejudice or without .
+7-1	783-785	We	_	_	
+7-2	786-794	conclude	_	_	
+7-3	795-799	that	_	_	
+7-4	800-802	it	_	_	
+7-5	803-807	does	_	_	
+7-6	808-809	:	_	_	
+7-7	810-813	The	_	_	
+7-8	814-818	text	*	Metalinguistic Cue	
+7-9	819-821	of	_	_	
+7-10	822-829	Section	*[8]	Legal Source[8]	
+7-11	830-836	1915(g	*[8]	Legal Source[8]	
+7-12	837-838	)	*[8]	Legal Source[8]	
+7-13	839-841	's	_	_	
+7-14	842-847	three	_	_	
+7-15	848-849	-	_	_	
+7-16	850-857	strikes	_	_	
+7-17	858-867	provision	_	_	
+7-18	868-874	refers	_	_	
+7-19	875-877	to	_	_	
+7-20	878-881	any	_	_	
+7-21	882-891	dismissal	_	_	
+7-22	892-895	for	_	_	
+7-23	896-903	failure	_	_	
+7-24	904-906	to	_	_	
+7-25	907-912	state	_	_	
+7-26	913-914	a	_	_	
+7-27	915-920	claim	_	_	
+7-28	921-922	,	_	_	
+7-29	923-930	whether	_	_	
+7-30	931-935	with	_	_	
+7-31	936-945	prejudice	_	_	
+7-32	946-948	or	_	_	
+7-33	949-956	without	_	_	
+7-34	957-958	.	_	_	
+
+#Text=I
+8-1	959-960	I	_	_	
+
+#Text=Petitioner Arthur Lomax is an inmate in a Colorado prison .
+9-1	961-971	Petitioner	_	_	
+9-2	972-978	Arthur	_	_	
+9-3	979-984	Lomax	_	_	
+9-4	985-987	is	_	_	
+9-5	988-990	an	_	_	
+9-6	991-997	inmate	_	_	
+9-7	998-1000	in	_	_	
+9-8	1001-1002	a	_	_	
+9-9	1003-1011	Colorado	_	_	
+9-10	1012-1018	prison	_	_	
+9-11	1019-1020	.	_	_	
+
+#Text=He filed this suit against respondent prison officials to challenge his expulsion from the facility 's sex - offender treatment program .
+10-1	1021-1023	He	_	_	
+10-2	1024-1029	filed	_	_	
+10-3	1030-1034	this	_	_	
+10-4	1035-1039	suit	_	_	
+10-5	1040-1047	against	_	_	
+10-6	1048-1058	respondent	_	_	
+10-7	1059-1065	prison	_	_	
+10-8	1066-1075	officials	_	_	
+10-9	1076-1078	to	_	_	
+10-10	1079-1088	challenge	_	_	
+10-11	1089-1092	his	_	_	
+10-12	1093-1102	expulsion	_	_	
+10-13	1103-1107	from	_	_	
+10-14	1108-1111	the	_	_	
+10-15	1112-1120	facility	_	_	
+10-16	1121-1123	's	_	_	
+10-17	1124-1127	sex	_	_	
+10-18	1128-1129	-	_	_	
+10-19	1130-1138	offender	_	_	
+10-20	1139-1148	treatment	_	_	
+10-21	1149-1156	program	_	_	
+10-22	1157-1158	.	_	_	
+
+#Text=As is common in prison litigation , he also moved for IFP status to allow his suit to go forward before he pays the $ 400 filing fee .
+11-1	1159-1161	As	_	_	
+11-2	1162-1164	is	_	_	
+11-3	1165-1171	common	_	_	
+11-4	1172-1174	in	_	_	
+11-5	1175-1181	prison	_	_	
+11-6	1182-1192	litigation	_	_	
+11-7	1193-1194	,	_	_	
+11-8	1195-1197	he	_	_	
+11-9	1198-1202	also	_	_	
+11-10	1203-1208	moved	_	_	
+11-11	1209-1212	for	_	_	
+11-12	1213-1216	IFP	_	_	
+11-13	1217-1223	status	_	_	
+11-14	1224-1226	to	_	_	
+11-15	1227-1232	allow	_	_	
+11-16	1233-1236	his	_	_	
+11-17	1237-1241	suit	_	_	
+11-18	1242-1244	to	_	_	
+11-19	1245-1247	go	_	_	
+11-20	1248-1255	forward	_	_	
+11-21	1256-1262	before	_	_	
+11-22	1263-1265	he	_	_	
+11-23	1266-1270	pays	_	_	
+11-24	1271-1274	the	_	_	
+11-25	1275-1276	$	_	_	
+11-26	1277-1280	400	_	_	
+11-27	1281-1287	filing	_	_	
+11-28	1288-1291	fee	_	_	
+11-29	1292-1293	.	_	_	
+
+#Text=For that motion to succeed , Lomax must avoid Section 1915(g ) .
+12-1	1294-1297	For	_	_	
+12-2	1298-1302	that	_	_	
+12-3	1303-1309	motion	_	_	
+12-4	1310-1312	to	_	_	
+12-5	1313-1320	succeed	_	_	
+12-6	1321-1322	,	_	_	
+12-7	1323-1328	Lomax	_	_	
+12-8	1329-1333	must	_	_	
+12-9	1334-1339	avoid	_	_	
+12-10	1340-1347	Section	*[9]	Legal Source[9]	
+12-11	1348-1354	1915(g	*[9]	Legal Source[9]	
+12-12	1355-1356	)	*[9]	Legal Source[9]	
+12-13	1357-1358	.	_	_	
+
+#Text=That provision bars further IFP litigation once a prisoner has had at least three prior suits dismissed on specified grounds .
+13-1	1359-1363	That	_	_	
+13-2	1364-1373	provision	_	_	
+13-3	1374-1378	bars	_	_	
+13-4	1379-1386	further	_	_	
+13-5	1387-1390	IFP	_	_	
+13-6	1391-1401	litigation	_	_	
+13-7	1402-1406	once	_	_	
+13-8	1407-1408	a	_	_	
+13-9	1409-1417	prisoner	_	_	
+13-10	1418-1421	has	_	_	
+13-11	1422-1425	had	_	_	
+13-12	1426-1428	at	_	_	
+13-13	1429-1434	least	_	_	
+13-14	1435-1440	three	_	_	
+13-15	1441-1446	prior	_	_	
+13-16	1447-1452	suits	_	_	
+13-17	1453-1462	dismissed	_	_	
+13-18	1463-1465	on	_	_	
+13-19	1466-1475	specified	_	_	
+13-20	1476-1483	grounds	_	_	
+13-21	1484-1485	.	_	_	
+
+#Text=And Lomax is no rookie litigant .
+14-1	1486-1489	And	_	_	
+14-2	1490-1495	Lomax	_	_	
+14-3	1496-1498	is	_	_	
+14-4	1499-1501	no	_	_	
+14-5	1502-1508	rookie	_	_	
+14-6	1509-1517	litigant	_	_	
+14-7	1518-1519	.	_	_	
+
+#Text=During his time in prison , he has already brought three unsuccessful legal actions ( against various corrections officers , prosecutors , and judges ) .
+15-1	1520-1526	During	_	_	
+15-2	1527-1530	his	_	_	
+15-3	1531-1535	time	_	_	
+15-4	1536-1538	in	_	_	
+15-5	1539-1545	prison	_	_	
+15-6	1546-1547	,	_	_	
+15-7	1548-1550	he	_	_	
+15-8	1551-1554	has	_	_	
+15-9	1555-1562	already	_	_	
+15-10	1563-1570	brought	_	_	
+15-11	1571-1576	three	_	_	
+15-12	1577-1589	unsuccessful	_	_	
+15-13	1590-1595	legal	_	_	
+15-14	1596-1603	actions	_	_	
+15-15	1604-1605	(	_	_	
+15-16	1606-1613	against	_	_	
+15-17	1614-1621	various	_	_	
+15-18	1622-1633	corrections	_	_	
+15-19	1634-1642	officers	_	_	
+15-20	1643-1644	,	_	_	
+15-21	1645-1656	prosecutors	_	_	
+15-22	1657-1658	,	_	_	
+15-23	1659-1662	and	_	_	
+15-24	1663-1669	judges	_	_	
+15-25	1670-1671	)	_	_	
+15-26	1672-1673	.	_	_	
+
+#Text=If the dispositions of those cases qualify as strikes under Section 1915(g ) , Lomax may not now proceed IFP .
+16-1	1674-1676	If	_	_	
+16-2	1677-1680	the	_	_	
+16-3	1681-1693	dispositions	_	_	
+16-4	1694-1696	of	_	_	
+16-5	1697-1702	those	_	_	
+16-6	1703-1708	cases	_	_	
+16-7	1709-1716	qualify	_	_	
+16-8	1717-1719	as	_	_	
+16-9	1720-1727	strikes	_	_	
+16-10	1728-1733	under	_	_	
+16-11	1734-1741	Section	*[10]	Legal Source[10]	
+16-12	1742-1748	1915(g	*[10]	Legal Source[10]	
+16-13	1749-1750	)	*[10]	Legal Source[10]	
+16-14	1751-1752	,	_	_	
+16-15	1753-1758	Lomax	_	_	
+16-16	1759-1762	may	_	_	
+16-17	1763-1766	not	_	_	
+16-18	1767-1770	now	_	_	
+16-19	1771-1778	proceed	_	_	
+16-20	1779-1782	IFP	_	_	
+16-21	1783-1784	.	_	_	
+
+#Text=The courts below ruled that Lomax had struck out .
+17-1	1785-1788	The	_	_	
+17-2	1789-1795	courts	_	_	
+17-3	1796-1801	below	_	_	
+17-4	1802-1807	ruled	_	_	
+17-5	1808-1812	that	_	_	
+17-6	1813-1818	Lomax	_	_	
+17-7	1819-1822	had	_	_	
+17-8	1823-1829	struck	_	_	
+17-9	1830-1833	out	_	_	
+17-10	1834-1835	.	_	_	
+
+#Text=The District Court denied his motion for IFP status , finding that all three of his prior suits had been dismissed for failure to state a claim - one of the grounds specified in Section 1915(g ) .
+18-1	1836-1839	The	_	_	
+18-2	1840-1848	District	_	_	
+18-3	1849-1854	Court	_	_	
+18-4	1855-1861	denied	_	_	
+18-5	1862-1865	his	_	_	
+18-6	1866-1872	motion	_	_	
+18-7	1873-1876	for	_	_	
+18-8	1877-1880	IFP	_	_	
+18-9	1881-1887	status	_	_	
+18-10	1888-1889	,	_	_	
+18-11	1890-1897	finding	_	_	
+18-12	1898-1902	that	_	_	
+18-13	1903-1906	all	_	_	
+18-14	1907-1912	three	_	_	
+18-15	1913-1915	of	_	_	
+18-16	1916-1919	his	_	_	
+18-17	1920-1925	prior	_	_	
+18-18	1926-1931	suits	_	_	
+18-19	1932-1935	had	_	_	
+18-20	1936-1940	been	_	_	
+18-21	1941-1950	dismissed	_	_	
+18-22	1951-1954	for	_	_	
+18-23	1955-1962	failure	_	_	
+18-24	1963-1965	to	_	_	
+18-25	1966-1971	state	_	_	
+18-26	1972-1973	a	_	_	
+18-27	1974-1979	claim	_	_	
+18-28	1980-1981	-	_	_	
+18-29	1982-1985	one	_	_	
+18-30	1986-1988	of	_	_	
+18-31	1989-1992	the	_	_	
+18-32	1993-2000	grounds	_	_	
+18-33	2001-2010	specified	_	_	
+18-34	2011-2013	in	_	_	
+18-35	2014-2021	Section	*[11]	Legal Source[11]	
+18-36	2022-2028	1915(g	*[11]	Legal Source[11]	
+18-37	2029-2030	)	*[11]	Legal Source[11]	
+18-38	2031-2032	.	_	_	
+
+#Text=See App . 65 - 66 .
+19-1	2033-2036	See	_	_	
+19-2	2037-2040	App	*[12]	Legal Source[12]	
+19-3	2041-2042	.	*[12]	Legal Source[12]	
+19-4	2043-2045	65	*[12]	Legal Source[12]	
+19-5	2046-2047	-	*[12]	Legal Source[12]	
+19-6	2048-2050	66	*[12]	Legal Source[12]	
+19-7	2051-2052	.	_	_	
+
+#Text=On appeal , Lomax argued that two of those dismissals should not count as strikes because they were without prejudice , thus allowing him to file a later suit on the same claim .
+20-1	2053-2055	On	_	_	
+20-2	2056-2062	appeal	_	_	
+20-3	2063-2064	,	_	_	
+20-4	2065-2070	Lomax	_	_	
+20-5	2071-2077	argued	_	_	
+20-6	2078-2082	that	_	_	
+20-7	2083-2086	two	_	_	
+20-8	2087-2089	of	_	_	
+20-9	2090-2095	those	_	_	
+20-10	2096-2106	dismissals	_	_	
+20-11	2107-2113	should	_	_	
+20-12	2114-2117	not	_	_	
+20-13	2118-2123	count	_	_	
+20-14	2124-2126	as	_	_	
+20-15	2127-2134	strikes	_	_	
+20-16	2135-2142	because	_	_	
+20-17	2143-2147	they	_	_	
+20-18	2148-2152	were	_	_	
+20-19	2153-2160	without	_	_	
+20-20	2161-2170	prejudice	_	_	
+20-21	2171-2172	,	_	_	
+20-22	2173-2177	thus	_	_	
+20-23	2178-2186	allowing	_	_	
+20-24	2187-2190	him	_	_	
+20-25	2191-2193	to	_	_	
+20-26	2194-2198	file	_	_	
+20-27	2199-2200	a	_	_	
+20-28	2201-2206	later	_	_	
+20-29	2207-2211	suit	_	_	
+20-30	2212-2214	on	_	_	
+20-31	2215-2218	the	_	_	
+20-32	2219-2223	same	_	_	
+20-33	2224-2229	claim	_	_	
+20-34	2230-2231	.	_	_	
+
+#Text=The Court of Appeals for the Tenth Circuit rejected that argument .
+21-1	2232-2235	The	_	_	
+21-2	2236-2241	Court	_	_	
+21-3	2242-2244	of	_	_	
+21-4	2245-2252	Appeals	_	_	
+21-5	2253-2256	for	_	_	
+21-6	2257-2260	the	_	_	
+21-7	2261-2266	Tenth	_	_	
+21-8	2267-2274	Circuit	_	_	
+21-9	2275-2283	rejected	_	_	
+21-10	2284-2288	that	_	_	
+21-11	2289-2297	argument	_	_	
+21-12	2298-2299	.	_	_	
+
+#Text=Relying on Circuit precedent , the Court held it " immaterial to the strikes analysis " whether a dismissal was with or without prejudice .
+22-1	2300-2307	Relying	_	_	
+22-2	2308-2310	on	_	_	
+22-3	2311-2318	Circuit	_	_	
+22-4	2319-2328	precedent	_	_	
+22-5	2329-2330	,	_	_	
+22-6	2331-2334	the	_	_	
+22-7	2335-2340	Court	_	_	
+22-8	2341-2345	held	_	_	
+22-9	2346-2348	it	_	_	
+22-10	2349-2350	"	*[13]	Direct Quote[13]	
+22-11	2351-2361	immaterial	*[13]	Direct Quote[13]	
+22-12	2362-2364	to	*[13]	Direct Quote[13]	
+22-13	2365-2368	the	*[13]	Direct Quote[13]	
+22-14	2369-2376	strikes	*[13]	Direct Quote[13]	
+22-15	2377-2385	analysis	*[13]	Direct Quote[13]	
+22-16	2386-2387	"	*[13]	Direct Quote[13]	
+22-17	2388-2395	whether	_	_	
+22-18	2396-2397	a	_	_	
+22-19	2398-2407	dismissal	_	_	
+22-20	2408-2411	was	_	_	
+22-21	2412-2416	with	_	_	
+22-22	2417-2419	or	_	_	
+22-23	2420-2427	without	_	_	
+22-24	2428-2437	prejudice	_	_	
+22-25	2438-2439	.	_	_	
+
+#Text=754 Fed . Appx . 756 , 759 ( 2018 ) ( quoting Childs v. Miller , 713 F.3d 1262 , 1266 ( CA10 2013 ) ) .
+23-1	2440-2443	754	*[14]	Legal Source[14]	
+23-2	2444-2447	Fed	*[14]	Legal Source[14]	
+23-3	2448-2449	.	*[14]	Legal Source[14]	
+23-4	2450-2454	Appx	*[14]	Legal Source[14]	
+23-5	2455-2456	.	*[14]	Legal Source[14]	
+23-6	2457-2460	756	*[14]	Legal Source[14]	
+23-7	2461-2462	,	*[14]	Legal Source[14]	
+23-8	2463-2466	759	*[14]	Legal Source[14]	
+23-9	2467-2468	(	*[14]	Legal Source[14]	
+23-10	2469-2473	2018	*[14]	Legal Source[14]	
+23-11	2474-2475	)	*[14]	Legal Source[14]	
+23-12	2476-2477	(	_	_	
+23-13	2478-2485	quoting	_	_	
+23-14	2486-2492	Childs	*[15]	Legal Source[15]	
+23-15	2493-2495	v.	*[15]	Legal Source[15]	
+23-16	2496-2502	Miller	*[15]	Legal Source[15]	
+23-17	2503-2504	,	*[15]	Legal Source[15]	
+23-18	2505-2508	713	*[15]	Legal Source[15]	
+23-19	2509-2513	F.3d	*[15]	Legal Source[15]	
+23-20	2514-2518	1262	*[15]	Legal Source[15]	
+23-21	2519-2520	,	*[15]	Legal Source[15]	
+23-22	2521-2525	1266	*[15]	Legal Source[15]	
+23-23	2526-2527	(	*[15]	Legal Source[15]	
+23-24	2528-2532	CA10	*[15]	Legal Source[15]	
+23-25	2533-2537	2013	*[15]	Legal Source[15]	
+23-26	2538-2539	)	*[15]	Legal Source[15]	
+23-27	2540-2541	)	_	_	
+23-28	2542-2543	.	_	_	
+
+#Text=The Courts of Appeals have long divided over whether a dismissal without prejudice for failure to state a claim qualifies as a strike under Section 1915(g ) .
+24-1	2544-2547	The	_	_	
+24-2	2548-2554	Courts	_	_	
+24-3	2555-2557	of	_	_	
+24-4	2558-2565	Appeals	_	_	
+24-5	2566-2570	have	_	_	
+24-6	2571-2575	long	_	_	
+24-7	2576-2583	divided	_	_	
+24-8	2584-2588	over	_	_	
+24-9	2589-2596	whether	_	_	
+24-10	2597-2598	a	_	_	
+24-11	2599-2608	dismissal	_	_	
+24-12	2609-2616	without	_	_	
+24-13	2617-2626	prejudice	_	_	
+24-14	2627-2630	for	_	_	
+24-15	2631-2638	failure	_	_	
+24-16	2639-2641	to	_	_	
+24-17	2642-2647	state	_	_	
+24-18	2648-2649	a	_	_	
+24-19	2650-2655	claim	_	_	
+24-20	2656-2665	qualifies	_	_	
+24-21	2666-2668	as	_	_	
+24-22	2669-2670	a	_	_	
+24-23	2671-2677	strike	_	_	
+24-24	2678-2683	under	_	_	
+24-25	2684-2691	Section	*[16]	Legal Source[16]	
+24-26	2692-2698	1915(g	*[16]	Legal Source[16]	
+24-27	2699-2700	)	*[16]	Legal Source[16]	
+24-28	2701-2702	.	_	_	
+
+#Text=In line with our duty to call balls and strikes , we granted certiorari to resolve the split , 589 U. S. ---- , 140 S.Ct . 428 , 205 L.Ed.2d 244 ( 2019 ) , and we now affirm .
+25-1	2703-2705	In	_	_	
+25-2	2706-2710	line	_	_	
+25-3	2711-2715	with	_	_	
+25-4	2716-2719	our	_	_	
+25-5	2720-2724	duty	_	_	
+25-6	2725-2727	to	_	_	
+25-7	2728-2732	call	_	_	
+25-8	2733-2738	balls	_	_	
+25-9	2739-2742	and	_	_	
+25-10	2743-2750	strikes	_	_	
+25-11	2751-2752	,	_	_	
+25-12	2753-2755	we	_	_	
+25-13	2756-2763	granted	_	_	
+25-14	2764-2774	certiorari	_	_	
+25-15	2775-2777	to	_	_	
+25-16	2778-2785	resolve	_	_	
+25-17	2786-2789	the	_	_	
+25-18	2790-2795	split	_	_	
+25-19	2796-2797	,	_	_	
+25-20	2798-2801	589	*[17]	Legal Source[17]	
+25-21	2802-2804	U.	*[17]	Legal Source[17]	
+25-22	2805-2807	S.	*[17]	Legal Source[17]	
+25-23	2808-2812	----	*[17]	Legal Source[17]	
+25-24	2813-2814	,	*[17]	Legal Source[17]	
+25-25	2815-2818	140	*[17]	Legal Source[17]	
+25-26	2819-2823	S.Ct	*[17]	Legal Source[17]	
+25-27	2824-2825	.	*[17]	Legal Source[17]	
+25-28	2826-2829	428	*[17]	Legal Source[17]	
+25-29	2830-2831	,	*[17]	Legal Source[17]	
+25-30	2832-2835	205	*[17]	Legal Source[17]	
+25-31	2836-2843	L.Ed.2d	*[17]	Legal Source[17]	
+25-32	2844-2847	244	*[17]	Legal Source[17]	
+25-33	2848-2849	(	*[17]	Legal Source[17]	
+25-34	2850-2854	2019	*[17]	Legal Source[17]	
+25-35	2855-2856	)	*[17]	Legal Source[17]	
+25-36	2857-2858	,	_	_	
+25-37	2859-2862	and	_	_	
+25-38	2863-2865	we	_	_	
+25-39	2866-2869	now	_	_	
+25-40	2870-2876	affirm	_	_	
+25-41	2877-2878	.	_	_	
+
+#Text=II
+26-1	2879-2881	II	_	_	
+
+#Text=This case begins , and pretty much ends , with the text of Section 1915(g ) .
+27-1	2882-2886	This	_	_	
+27-2	2887-2891	case	_	_	
+27-3	2892-2898	begins	_	_	
+27-4	2899-2900	,	_	_	
+27-5	2901-2904	and	_	_	
+27-6	2905-2911	pretty	_	_	
+27-7	2912-2916	much	_	_	
+27-8	2917-2921	ends	_	_	
+27-9	2922-2923	,	_	_	
+27-10	2924-2928	with	_	_	
+27-11	2929-2932	the	_	_	
+27-12	2933-2937	text	*	Metalinguistic Cue	
+27-13	2938-2940	of	_	_	
+27-14	2941-2948	Section	*[18]	Legal Source[18]	
+27-15	2949-2955	1915(g	*[18]	Legal Source[18]	
+27-16	2956-2957	)	*[18]	Legal Source[18]	
+27-17	2958-2959	.	_	_	
+
+#Text=Under that provision , a prisoner accrues a strike for any action " dismissed on the ground [ ] that it ... fails to state a claim upon which relief may be granted . "
+28-1	2960-2965	Under	_	_	
+28-2	2966-2970	that	_	_	
+28-3	2971-2980	provision	_	_	
+28-4	2981-2982	,	_	_	
+28-5	2983-2984	a	_	_	
+28-6	2985-2993	prisoner	_	_	
+28-7	2994-3001	accrues	_	_	
+28-8	3002-3003	a	_	_	
+28-9	3004-3010	strike	_	_	
+28-10	3011-3014	for	_	_	
+28-11	3015-3018	any	_	_	
+28-12	3019-3025	action	_	_	
+28-13	3026-3027	"	*[19]	Direct Quote[19]	
+28-14	3028-3037	dismissed	*[19]	Direct Quote[19]	
+28-15	3038-3040	on	*[19]	Direct Quote[19]	
+28-16	3041-3044	the	*[19]	Direct Quote[19]	
+28-17	3045-3051	ground	*[19]	Direct Quote[19]	
+28-18	3052-3053	[	*[19]	Direct Quote[19]	
+28-19	3054-3055	]	*[19]	Direct Quote[19]	
+28-20	3056-3060	that	*[19]	Direct Quote[19]	
+28-21	3061-3063	it	*[19]	Direct Quote[19]	
+28-22	3064-3067	...	*[19]	Direct Quote[19]	
+28-23	3068-3073	fails	*[19]	Direct Quote[19]	
+28-24	3074-3076	to	*[19]	Direct Quote[19]	
+28-25	3077-3082	state	*[19]	Direct Quote[19]	
+28-26	3083-3084	a	*[19]	Direct Quote[19]	
+28-27	3085-3090	claim	*[19]	Direct Quote[19]	
+28-28	3091-3095	upon	*[19]	Direct Quote[19]	
+28-29	3096-3101	which	*[19]	Direct Quote[19]	
+28-30	3102-3108	relief	*[19]	Direct Quote[19]	
+28-31	3109-3112	may	*[19]	Direct Quote[19]	
+28-32	3113-3115	be	*[19]	Direct Quote[19]	
+28-33	3116-3123	granted	*[19]	Direct Quote[19]	
+28-34	3124-3125	.	*[19]	Direct Quote[19]	
+28-35	3126-3127	"	*[19]	Direct Quote[19]	
+
+#Text=That broad language covers all such dismissals : It applies to those issued both with and without prejudice to a plaintiff 's ability to reassert his claim in a later action .
+29-1	3128-3132	That	_	_	
+29-2	3133-3138	broad	*[20]	Metalinguistic Cue[20]	
+29-3	3139-3147	language	*[20]	Metalinguistic Cue[20]	
+29-4	3148-3154	covers	_	_	
+29-5	3155-3158	all	_	_	
+29-6	3159-3163	such	_	_	
+29-7	3164-3174	dismissals	_	_	
+29-8	3175-3176	:	_	_	
+29-9	3177-3179	It	_	_	
+29-10	3180-3187	applies	_	_	
+29-11	3188-3190	to	_	_	
+29-12	3191-3196	those	_	_	
+29-13	3197-3203	issued	_	_	
+29-14	3204-3208	both	_	_	
+29-15	3209-3213	with	_	_	
+29-16	3214-3217	and	_	_	
+29-17	3218-3225	without	_	_	
+29-18	3226-3235	prejudice	_	_	
+29-19	3236-3238	to	_	_	
+29-20	3239-3240	a	_	_	
+29-21	3241-3250	plaintiff	_	_	
+29-22	3251-3253	's	_	_	
+29-23	3254-3261	ability	_	_	
+29-24	3262-3264	to	_	_	
+29-25	3265-3273	reassert	_	_	
+29-26	3274-3277	his	_	_	
+29-27	3278-3283	claim	_	_	
+29-28	3284-3286	in	_	_	
+29-29	3287-3288	a	_	_	
+29-30	3289-3294	later	_	_	
+29-31	3295-3301	action	_	_	
+29-32	3302-3303	.	_	_	
+
+#Text=A strike - call under Section 1915(g )
+30-1	3304-3305	A	_	_	
+30-2	3306-3312	strike	_	_	
+30-3	3313-3314	-	_	_	
+30-4	3315-3319	call	_	_	
+30-5	3320-3325	under	_	_	
+30-6	3326-3333	Section	*[21]	Legal Source[21]	
+30-7	3334-3340	1915(g	*[21]	Legal Source[21]	
+30-8	3341-3342	)	*[21]	Legal Source[21]	
+
+#Text=thus hinges exclusively on the basis for the dismissal , regardless of the decision 's prejudicial effect .
+31-1	3343-3347	thus	_	_	
+31-2	3348-3354	hinges	_	_	
+31-3	3355-3366	exclusively	_	_	
+31-4	3367-3369	on	_	_	
+31-5	3370-3373	the	_	_	
+31-6	3374-3379	basis	_	_	
+31-7	3380-3383	for	_	_	
+31-8	3384-3387	the	_	_	
+31-9	3388-3397	dismissal	_	_	
+31-10	3398-3399	,	_	_	
+31-11	3400-3410	regardless	_	_	
+31-12	3411-3413	of	_	_	
+31-13	3414-3417	the	_	_	
+31-14	3418-3426	decision	_	_	
+31-15	3427-3429	's	_	_	
+31-16	3430-3441	prejudicial	_	_	
+31-17	3442-3448	effect	_	_	
+31-18	3449-3450	.	_	_	
+
+#Text=To reach the opposite result - counting prejudicial orders alone as strikes - we would have to read the simple word " dismissed " in Section 1915(g ) as " dismissed with prejudice . "
+32-1	3451-3453	To	_	_	
+32-2	3454-3459	reach	_	_	
+32-3	3460-3463	the	_	_	
+32-4	3464-3472	opposite	_	_	
+32-5	3473-3479	result	_	_	
+32-6	3480-3481	-	_	_	
+32-7	3482-3490	counting	_	_	
+32-8	3491-3502	prejudicial	_	_	
+32-9	3503-3509	orders	_	_	
+32-10	3510-3515	alone	_	_	
+32-11	3516-3518	as	_	_	
+32-12	3519-3526	strikes	_	_	
+32-13	3527-3528	-	_	_	
+32-14	3529-3531	we	_	_	
+32-15	3532-3537	would	_	_	
+32-16	3538-3542	have	_	_	
+32-17	3543-3545	to	_	_	
+32-18	3546-3550	read	*	Metalinguistic Cue	
+32-19	3551-3554	the	_	_	
+32-20	3555-3561	simple	_	_	
+32-21	3562-3566	word	*	Metalinguistic Cue	
+32-22	3567-3568	"	*[22]	Direct Quote[22]	
+32-23	3569-3578	dismissed	*[22]|*[23]	Direct Quote[22]|Focal Term[23]	
+32-24	3579-3580	"	*[22]	Direct Quote[22]	
+32-25	3581-3583	in	_	_	
+32-26	3584-3591	Section	*[24]	Legal Source[24]	
+32-27	3592-3598	1915(g	*[24]	Legal Source[24]	
+32-28	3599-3600	)	*[24]	Legal Source[24]	
+32-29	3601-3603	as	_	_	
+32-30	3604-3605	"	*[25]	Direct Quote[25]	
+32-31	3606-3615	dismissed	*[25]	Direct Quote[25]	
+32-32	3616-3620	with	*[25]	Direct Quote[25]	
+32-33	3621-3630	prejudice	*[25]	Direct Quote[25]	
+32-34	3631-3632	.	*[25]	Direct Quote[25]	
+32-35	3633-3634	"	*[25]	Direct Quote[25]	
+
+#Text=But this Court may not narrow a provision 's reach by inserting words Congress chose to omit .
+33-1	3635-3638	But	*[26]	Appeal to Meaning[26]	
+33-2	3639-3643	this	*[26]	Appeal to Meaning[26]	
+33-3	3644-3649	Court	*[26]	Appeal to Meaning[26]	
+33-4	3650-3653	may	*[26]	Appeal to Meaning[26]	
+33-5	3654-3657	not	*[26]	Appeal to Meaning[26]	
+33-6	3658-3664	narrow	*[26]	Appeal to Meaning[26]	
+33-7	3665-3666	a	*[26]	Appeal to Meaning[26]	
+33-8	3667-3676	provision	*[26]	Appeal to Meaning[26]	
+33-9	3677-3679	's	*[26]	Appeal to Meaning[26]	
+33-10	3680-3685	reach	*[26]	Appeal to Meaning[26]	
+33-11	3686-3688	by	*[26]	Appeal to Meaning[26]	
+33-12	3689-3698	inserting	*[26]	Appeal to Meaning[26]	
+33-13	3699-3704	words	*[26]	Appeal to Meaning[26]	
+33-14	3705-3713	Congress	*[26]	Appeal to Meaning[26]	
+33-15	3714-3719	chose	*[26]	Appeal to Meaning[26]	
+33-16	3720-3722	to	*[26]	Appeal to Meaning[26]	
+33-17	3723-3727	omit	*[26]	Appeal to Meaning[26]	
+33-18	3728-3729	.	_	_	
+
+#Text=See , e.g. , Virginia Uranium , Inc. v. Warren , 587 U. S. ---- , ---- , 139 S.Ct . 1894 , 1900 , 204 L.Ed.2d 377 ( 2019 ) ( lead opinion of GORSUCH , J. ) .
+34-1	3730-3733	See	_	_	
+34-2	3734-3735	,	_	_	
+34-3	3736-3740	e.g.	_	_	
+34-4	3741-3742	,	_	_	
+34-5	3743-3751	Virginia	*[27]	Legal Source[27]	
+34-6	3752-3759	Uranium	*[27]	Legal Source[27]	
+34-7	3760-3761	,	*[27]	Legal Source[27]	
+34-8	3762-3766	Inc.	*[27]	Legal Source[27]	
+34-9	3767-3769	v.	*[27]	Legal Source[27]	
+34-10	3770-3776	Warren	*[27]	Legal Source[27]	
+34-11	3777-3778	,	*[27]	Legal Source[27]	
+34-12	3779-3782	587	*[27]	Legal Source[27]	
+34-13	3783-3785	U.	*[27]	Legal Source[27]	
+34-14	3786-3788	S.	*[27]	Legal Source[27]	
+34-15	3789-3793	----	*[27]	Legal Source[27]	
+34-16	3794-3795	,	*[27]	Legal Source[27]	
+34-17	3796-3800	----	*[27]	Legal Source[27]	
+34-18	3801-3802	,	*[27]	Legal Source[27]	
+34-19	3803-3806	139	*[27]	Legal Source[27]	
+34-20	3807-3811	S.Ct	*[27]	Legal Source[27]	
+34-21	3812-3813	.	*[27]	Legal Source[27]	
+34-22	3814-3818	1894	*[27]	Legal Source[27]	
+34-23	3819-3820	,	*[27]	Legal Source[27]	
+34-24	3821-3825	1900	*[27]	Legal Source[27]	
+34-25	3826-3827	,	*[27]	Legal Source[27]	
+34-26	3828-3831	204	*[27]	Legal Source[27]	
+34-27	3832-3839	L.Ed.2d	*[27]	Legal Source[27]	
+34-28	3840-3843	377	*[27]	Legal Source[27]	
+34-29	3844-3845	(	*[27]	Legal Source[27]	
+34-30	3846-3850	2019	*[27]	Legal Source[27]	
+34-31	3851-3852	)	*[27]	Legal Source[27]	
+34-32	3853-3854	(	_	_	
+34-33	3855-3859	lead	_	_	
+34-34	3860-3867	opinion	_	_	
+34-35	3868-3870	of	_	_	
+34-36	3871-3878	GORSUCH	_	_	
+34-37	3879-3880	,	_	_	
+34-38	3881-3883	J.	_	_	
+34-39	3884-3885	)	_	_	
+34-40	3886-3887	.	_	_	
+
+#Text=Indeed , to do so would violate yet another rule of statutory construction : " In all but the most unusual situations , a single use of a statutory phrase must have a fixed meaning " across a statute .
+35-1	3888-3894	Indeed	_	_	
+35-2	3895-3896	,	_	_	
+35-3	3897-3899	to	_	_	
+35-4	3900-3902	do	_	_	
+35-5	3903-3905	so	_	_	
+35-6	3906-3911	would	_	_	
+35-7	3912-3919	violate	_	_	
+35-8	3920-3923	yet	_	_	
+35-9	3924-3931	another	_	_	
+35-10	3932-3936	rule	*[28]	Metalinguistic Cue[28]	
+35-11	3937-3939	of	*[28]	Metalinguistic Cue[28]	
+35-12	3940-3949	statutory	*[28]	Metalinguistic Cue[28]	
+35-13	3950-3962	construction	*[28]	Metalinguistic Cue[28]	
+35-14	3963-3964	:	_	_	
+35-15	3965-3966	"	*[29]	Direct Quote[29]	
+35-16	3967-3969	In	*[29]	Direct Quote[29]	
+35-17	3970-3973	all	*[29]	Direct Quote[29]	
+35-18	3974-3977	but	*[29]	Direct Quote[29]	
+35-19	3978-3981	the	*[29]	Direct Quote[29]	
+35-20	3982-3986	most	*[29]	Direct Quote[29]	
+35-21	3987-3994	unusual	*[29]	Direct Quote[29]	
+35-22	3995-4005	situations	*[29]	Direct Quote[29]	
+35-23	4006-4007	,	*[29]	Direct Quote[29]	
+35-24	4008-4009	a	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-25	4010-4016	single	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-26	4017-4020	use	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-27	4021-4023	of	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-28	4024-4025	a	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-29	4026-4035	statutory	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-30	4036-4042	phrase	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-31	4043-4047	must	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-32	4048-4052	have	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-33	4053-4054	a	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-34	4055-4060	fixed	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-35	4061-4068	meaning	*[29]|Complex[30]	Direct Quote[29]|Named Interpretive Rule[30]	
+35-36	4069-4070	"	*[29]	Direct Quote[29]	
+35-37	4071-4077	across	_	_	
+35-38	4078-4079	a	_	_	
+35-39	4080-4087	statute	_	_	
+35-40	4088-4089	.	_	_	
+
+#Text=Cochise Consultancy , Inc. v. United States ex rel . Hunt , 587 U. S. ---- , ---- , 139 S.Ct . 1507 , 1512 , 203 L.Ed.2d 791 ( 2019 ) .
+36-1	4090-4097	Cochise	*[31]	Legal Source[31]	
+36-2	4098-4109	Consultancy	*[31]	Legal Source[31]	
+36-3	4110-4111	,	*[31]	Legal Source[31]	
+36-4	4112-4116	Inc.	*[31]	Legal Source[31]	
+36-5	4117-4119	v.	*[31]	Legal Source[31]	
+36-6	4120-4126	United	*[31]	Legal Source[31]	
+36-7	4127-4133	States	*[31]	Legal Source[31]	
+36-8	4134-4136	ex	*[31]	Legal Source[31]	
+36-9	4137-4140	rel	*[31]	Legal Source[31]	
+36-10	4141-4142	.	*[31]	Legal Source[31]	
+36-11	4143-4147	Hunt	*[31]	Legal Source[31]	
+36-12	4148-4149	,	*[31]	Legal Source[31]	
+36-13	4150-4153	587	*[31]	Legal Source[31]	
+36-14	4154-4156	U.	*[31]	Legal Source[31]	
+36-15	4157-4159	S.	*[31]	Legal Source[31]	
+36-16	4160-4164	----	*[31]	Legal Source[31]	
+36-17	4165-4166	,	*[31]	Legal Source[31]	
+36-18	4167-4171	----	*[31]	Legal Source[31]	
+36-19	4172-4173	,	*[31]	Legal Source[31]	
+36-20	4174-4177	139	*[31]	Legal Source[31]	
+36-21	4178-4182	S.Ct	*[31]	Legal Source[31]	
+36-22	4183-4184	.	*[31]	Legal Source[31]	
+36-23	4185-4189	1507	*[31]	Legal Source[31]	
+36-24	4190-4191	,	*[31]	Legal Source[31]	
+36-25	4192-4196	1512	*[31]	Legal Source[31]	
+36-26	4197-4198	,	*[31]	Legal Source[31]	
+36-27	4199-4202	203	*[31]	Legal Source[31]	
+36-28	4203-4210	L.Ed.2d	*[31]	Legal Source[31]	
+36-29	4211-4214	791	*[31]	Legal Source[31]	
+36-30	4215-4216	(	*[31]	Legal Source[31]	
+36-31	4217-4221	2019	*[31]	Legal Source[31]	
+36-32	4222-4223	)	*[31]	Legal Source[31]	
+36-33	4224-4225	.	_	_	
+
+#Text=The PLRA includes three other provisions mentioning " dismiss[als ] " for " fail[ure ] to state a claim"-each enabling courts to dismiss sua sponte certain prisoner suits on that ground .
+37-1	4226-4229	The	_	_	
+37-2	4230-4234	PLRA	*	Legal Source	
+37-3	4235-4243	includes	_	_	
+37-4	4244-4249	three	_	_	
+37-5	4250-4255	other	_	_	
+37-6	4256-4266	provisions	_	_	
+37-7	4267-4277	mentioning	_	_	
+37-8	4278-4279	"	*[32]	Direct Quote[32]	
+37-9	4280-4291	dismiss[als	*[32]	Direct Quote[32]	
+37-10	4292-4293	]	*[32]	Direct Quote[32]	
+37-11	4294-4295	"	*[32]	Direct Quote[32]	
+37-12	4296-4299	for	_	_	
+37-13	4300-4301	"	*[33]	Direct Quote[33]	
+37-14	4302-4310	fail[ure	*[33]	Direct Quote[33]	
+37-15	4311-4312	]	*[33]	Direct Quote[33]	
+37-16	4313-4315	to	*[33]	Direct Quote[33]	
+37-17	4316-4321	state	*[33]	Direct Quote[33]	
+37-18	4322-4323	a	*[33]	Direct Quote[33]	
+37-19	4324-4335	claim"-each	*[33]	Direct Quote[33]	
+37-20	4336-4344	enabling	_	_	
+37-21	4345-4351	courts	_	_	
+37-22	4352-4354	to	_	_	
+37-23	4355-4362	dismiss	_	_	
+37-24	4363-4366	sua	_	_	
+37-25	4367-4373	sponte	_	_	
+37-26	4374-4381	certain	_	_	
+37-27	4382-4390	prisoner	_	_	
+37-28	4391-4396	suits	_	_	
+37-29	4397-4399	on	_	_	
+37-30	4400-4404	that	_	_	
+37-31	4405-4411	ground	_	_	
+37-32	4412-4413	.	_	_	
+
+#Text=§ § 1915(e)(2)(B)(ii ) , 1915A(b ) ; 42 U.S.C. § 1997e(c ) .
+38-1	4414-4415	§	*[34]	Legal Source[34]	
+38-2	4416-4417	§	*[34]	Legal Source[34]	
+38-3	4418-4434	1915(e)(2)(B)(ii	*[34]	Legal Source[34]	
+38-4	4435-4436	)	*[34]	Legal Source[34]	
+38-5	4437-4438	,	*[34]	Legal Source[34]	
+38-6	4439-4446	1915A(b	*[34]	Legal Source[34]	
+38-7	4447-4448	)	*[34]	Legal Source[34]	
+38-8	4449-4450	;	_	_	
+38-9	4451-4453	42	*[35]	Legal Source[35]	
+38-10	4454-4460	U.S.C.	*[35]	Legal Source[35]	
+38-11	4461-4462	§	*[35]	Legal Source[35]	
+38-12	4463-4470	1997e(c	*[35]	Legal Source[35]	
+38-13	4471-4472	)	*[35]	Legal Source[35]	
+38-14	4473-4474	.	_	_	
+
+#Text=No one here thinks those provisions deprive courts of the ability to dismiss those suits without prejudice .
+39-1	4475-4477	No	_	_	
+39-2	4478-4481	one	_	_	
+39-3	4482-4486	here	_	_	
+39-4	4487-4493	thinks	_	_	
+39-5	4494-4499	those	_	_	
+39-6	4500-4510	provisions	_	_	
+39-7	4511-4518	deprive	_	_	
+39-8	4519-4525	courts	_	_	
+39-9	4526-4528	of	_	_	
+39-10	4529-4532	the	_	_	
+39-11	4533-4540	ability	_	_	
+39-12	4541-4543	to	_	_	
+39-13	4544-4551	dismiss	_	_	
+39-14	4552-4557	those	_	_	
+39-15	4558-4563	suits	_	_	
+39-16	4564-4571	without	_	_	
+39-17	4572-4581	prejudice	_	_	
+39-18	4582-4583	.	_	_	
+
+#Text=See Reply Brief 15 ; Brief for Respondents 21 - 24 ; Brief for United States as Amicus Curiae 21 - 22 .
+40-1	4584-4587	See	_	_	
+40-2	4588-4593	Reply	*[36]	Legal Source[36]	
+40-3	4594-4599	Brief	*[36]	Legal Source[36]	
+40-4	4600-4602	15	*[36]	Legal Source[36]	
+40-5	4603-4604	;	_	_	
+40-6	4605-4610	Brief	*[37]	Legal Source[37]	
+40-7	4611-4614	for	*[37]	Legal Source[37]	
+40-8	4615-4626	Respondents	*[37]	Legal Source[37]	
+40-9	4627-4629	21	*[37]	Legal Source[37]	
+40-10	4630-4631	-	*[37]	Legal Source[37]	
+40-11	4632-4634	24	*[37]	Legal Source[37]	
+40-12	4635-4636	;	_	_	
+40-13	4637-4642	Brief	*[38]	Legal Source[38]	
+40-14	4643-4646	for	*[38]	Legal Source[38]	
+40-15	4647-4653	United	*[38]	Legal Source[38]	
+40-16	4654-4660	States	*[38]	Legal Source[38]	
+40-17	4661-4663	as	*[38]	Legal Source[38]	
+40-18	4664-4670	Amicus	*[38]	Legal Source[38]	
+40-19	4671-4677	Curiae	*[38]	Legal Source[38]	
+40-20	4678-4680	21	*[38]	Legal Source[38]	
+40-21	4681-4682	-	*[38]	Legal Source[38]	
+40-22	4683-4685	22	*[38]	Legal Source[38]	
+40-23	4686-4687	.	_	_	
+
+#Text=Nor would that be a plausible position .
+41-1	4688-4691	Nor	_	_	
+41-2	4692-4697	would	_	_	
+41-3	4698-4702	that	_	_	
+41-4	4703-4705	be	_	_	
+41-5	4706-4707	a	_	_	
+41-6	4708-4717	plausible	_	_	
+41-7	4718-4726	position	_	_	
+41-8	4727-4728	.	_	_	
+
+#Text=The broad statutory language - on its face covering dismissals both with and without prejudice - tracks courts ' ordinary authority to decide whether a dismissal for failure to state a claim should have preclusive effect .
+42-1	4729-4732	The	*[39]	Appeal to Meaning[39]	
+42-2	4733-4738	broad	*[39]|*[40]	Appeal to Meaning[39]|Metalinguistic Cue[40]	
+42-3	4739-4748	statutory	*[39]|*[40]	Appeal to Meaning[39]|Metalinguistic Cue[40]	
+42-4	4749-4757	language	*[39]|*[40]	Appeal to Meaning[39]|Metalinguistic Cue[40]	
+42-5	4758-4759	-	*[39]	Appeal to Meaning[39]	
+42-6	4760-4762	on	*[39]	Appeal to Meaning[39]	
+42-7	4763-4766	its	*[39]	Appeal to Meaning[39]	
+42-8	4767-4771	face	*[39]	Appeal to Meaning[39]	
+42-9	4772-4780	covering	*[39]	Appeal to Meaning[39]	
+42-10	4781-4791	dismissals	*[39]	Appeal to Meaning[39]	
+42-11	4792-4796	both	*[39]	Appeal to Meaning[39]	
+42-12	4797-4801	with	*[39]	Appeal to Meaning[39]	
+42-13	4802-4805	and	*[39]	Appeal to Meaning[39]	
+42-14	4806-4813	without	*[39]	Appeal to Meaning[39]	
+42-15	4814-4823	prejudice	*[39]	Appeal to Meaning[39]	
+42-16	4824-4825	-	*[39]	Appeal to Meaning[39]	
+42-17	4826-4832	tracks	*[39]	Appeal to Meaning[39]	
+42-18	4833-4839	courts	*[39]	Appeal to Meaning[39]	
+42-19	4840-4841	'	*[39]	Appeal to Meaning[39]	
+42-20	4842-4850	ordinary	*[39]	Appeal to Meaning[39]	
+42-21	4851-4860	authority	*[39]	Appeal to Meaning[39]	
+42-22	4861-4863	to	*[39]	Appeal to Meaning[39]	
+42-23	4864-4870	decide	*[39]	Appeal to Meaning[39]	
+42-24	4871-4878	whether	*[39]	Appeal to Meaning[39]	
+42-25	4879-4880	a	*[39]	Appeal to Meaning[39]	
+42-26	4881-4890	dismissal	*[39]	Appeal to Meaning[39]	
+42-27	4891-4894	for	*[39]	Appeal to Meaning[39]	
+42-28	4895-4902	failure	*[39]	Appeal to Meaning[39]	
+42-29	4903-4905	to	*[39]	Appeal to Meaning[39]	
+42-30	4906-4911	state	*[39]	Appeal to Meaning[39]	
+42-31	4912-4913	a	*[39]	Appeal to Meaning[39]	
+42-32	4914-4919	claim	*[39]	Appeal to Meaning[39]	
+42-33	4920-4926	should	*[39]	Appeal to Meaning[39]	
+42-34	4927-4931	have	*[39]	Appeal to Meaning[39]	
+42-35	4932-4942	preclusive	*[39]	Appeal to Meaning[39]	
+42-36	4943-4949	effect	*[39]	Appeal to Meaning[39]	
+42-37	4950-4951	.	_	_	
+
+#Text=So reading the PLRA 's three - strikes rule to apply only to dismissals with prejudice would introduce inconsistencies into the statute .
+43-1	4952-4954	So	_	_	
+43-2	4955-4962	reading	*	Metalinguistic Cue	
+43-3	4963-4966	the	_	_	
+43-4	4967-4971	PLRA	*	Legal Source	
+43-5	4972-4974	's	_	_	
+43-6	4975-4980	three	_	_	
+43-7	4981-4982	-	_	_	
+43-8	4983-4990	strikes	_	_	
+43-9	4991-4995	rule	_	_	
+43-10	4996-4998	to	_	_	
+43-11	4999-5004	apply	_	_	
+43-12	5005-5009	only	_	_	
+43-13	5010-5012	to	_	_	
+43-14	5013-5023	dismissals	_	_	
+43-15	5024-5028	with	_	_	
+43-16	5029-5038	prejudice	_	_	
+43-17	5039-5044	would	_	_	
+43-18	5045-5054	introduce	_	_	
+43-19	5055-5070	inconsistencies	_	_	
+43-20	5071-5075	into	_	_	
+43-21	5076-5079	the	_	_	
+43-22	5080-5087	statute	_	_	
+43-23	5088-5089	.	_	_	
+
+#Text=The identical phrase would then bear different meanings in provisions almost next - door to each other .
+44-1	5090-5093	The	*[41]	Appeal to Meaning[41]	
+44-2	5094-5103	identical	*[41]|*[42]	Appeal to Meaning[41]|Metalinguistic Cue[42]	
+44-3	5104-5110	phrase	*[41]|*[42]	Appeal to Meaning[41]|Metalinguistic Cue[42]	
+44-4	5111-5116	would	*[41]	Appeal to Meaning[41]	
+44-5	5117-5121	then	*[41]	Appeal to Meaning[41]	
+44-6	5122-5126	bear	*[41]	Appeal to Meaning[41]	
+44-7	5127-5136	different	*[41]|*[43]	Appeal to Meaning[41]|Metalinguistic Cue[43]	
+44-8	5137-5145	meanings	*[41]|*[43]	Appeal to Meaning[41]|Metalinguistic Cue[43]	
+44-9	5146-5148	in	*[41]	Appeal to Meaning[41]	
+44-10	5149-5159	provisions	*[41]	Appeal to Meaning[41]	
+44-11	5160-5166	almost	*[41]	Appeal to Meaning[41]	
+44-12	5167-5171	next	*[41]	Appeal to Meaning[41]	
+44-13	5172-5173	-	*[41]	Appeal to Meaning[41]	
+44-14	5174-5178	door	*[41]	Appeal to Meaning[41]	
+44-15	5179-5181	to	*[41]	Appeal to Meaning[41]	
+44-16	5182-5186	each	*[41]	Appeal to Meaning[41]	
+44-17	5187-5192	other	*[41]	Appeal to Meaning[41]	
+44-18	5193-5194	.	_	_	
+
+#Text=Still , Lomax maintains that the phrase " dismissed [ for ] fail[ure ] to state a claim " in Section 1915(g ) is a " legal term of art " referring only to dismissals with prejudice .
+45-1	5195-5200	Still	_	_	
+45-2	5201-5202	,	_	_	
+45-3	5203-5208	Lomax	_	_	
+45-4	5209-5218	maintains	_	_	
+45-5	5219-5223	that	_	_	
+45-6	5224-5227	the	_	_	
+45-7	5228-5234	phrase	*	Metalinguistic Cue	
+45-8	5235-5236	"	*[44]	Direct Quote[44]	
+45-9	5237-5246	dismissed	*[44]	Direct Quote[44]	
+45-10	5247-5248	[	*[44]	Direct Quote[44]	
+45-11	5249-5252	for	*[44]	Direct Quote[44]	
+45-12	5253-5254	]	*[44]	Direct Quote[44]	
+45-13	5255-5263	fail[ure	*[44]	Direct Quote[44]	
+45-14	5264-5265	]	*[44]	Direct Quote[44]	
+45-15	5266-5268	to	*[44]	Direct Quote[44]	
+45-16	5269-5274	state	*[44]	Direct Quote[44]	
+45-17	5275-5276	a	*[44]	Direct Quote[44]	
+45-18	5277-5282	claim	*[44]	Direct Quote[44]	
+45-19	5283-5284	"	*[44]	Direct Quote[44]	
+45-20	5285-5287	in	_	_	
+45-21	5288-5295	Section	*[45]	Legal Source[45]	
+45-22	5296-5302	1915(g	*[45]	Legal Source[45]	
+45-23	5303-5304	)	*[45]	Legal Source[45]	
+45-24	5305-5307	is	_	_	
+45-25	5308-5309	a	_	_	
+45-26	5310-5311	"	*[46]	Direct Quote[46]	
+45-27	5312-5317	legal	*[46]|*[47]	Direct Quote[46]|Metalinguistic Cue[47]	
+45-28	5318-5322	term	*[46]|*[47]	Direct Quote[46]|Metalinguistic Cue[47]	
+45-29	5323-5325	of	*[46]|*[47]	Direct Quote[46]|Metalinguistic Cue[47]	
+45-30	5326-5329	art	*[46]|*[47]	Direct Quote[46]|Metalinguistic Cue[47]	
+45-31	5330-5331	"	*[46]	Direct Quote[46]	
+45-32	5332-5341	referring	_	_	
+45-33	5342-5346	only	_	_	
+45-34	5347-5349	to	_	_	
+45-35	5350-5360	dismissals	_	_	
+45-36	5361-5365	with	_	_	
+45-37	5366-5375	prejudice	_	_	
+45-38	5376-5377	.	_	_	
+
+#Text=Reply Brief 4 .
+46-1	5378-5383	Reply	*[48]	Legal Source[48]	
+46-2	5384-5389	Brief	*[48]	Legal Source[48]	
+46-3	5390-5391	4	*[48]	Legal Source[48]	
+46-4	5392-5393	.	_	_	
+
+#Text=To support that view , he relies on a procedural rule used to answer a different question .
+47-1	5394-5396	To	_	_	
+47-2	5397-5404	support	_	_	
+47-3	5405-5409	that	_	_	
+47-4	5410-5414	view	_	_	
+47-5	5415-5416	,	_	_	
+47-6	5417-5419	he	_	_	
+47-7	5420-5426	relies	_	_	
+47-8	5427-5429	on	_	_	
+47-9	5430-5431	a	_	_	
+47-10	5432-5442	procedural	_	_	
+47-11	5443-5447	rule	_	_	
+47-12	5448-5452	used	_	_	
+47-13	5453-5455	to	_	_	
+47-14	5456-5462	answer	_	_	
+47-15	5463-5464	a	_	_	
+47-16	5465-5474	different	_	_	
+47-17	5475-5483	question	_	_	
+47-18	5484-5485	.	_	_	
+
+#Text=When a court dismisses a case for failure to state a claim , but neglects to specify whether the order is with or without prejudice , how should a later court determine its preclusive effect ?
+48-1	5486-5490	When	_	_	
+48-2	5491-5492	a	_	_	
+48-3	5493-5498	court	_	_	
+48-4	5499-5508	dismisses	_	_	
+48-5	5509-5510	a	_	_	
+48-6	5511-5515	case	_	_	
+48-7	5516-5519	for	_	_	
+48-8	5520-5527	failure	_	_	
+48-9	5528-5530	to	_	_	
+48-10	5531-5536	state	_	_	
+48-11	5537-5538	a	_	_	
+48-12	5539-5544	claim	_	_	
+48-13	5545-5546	,	_	_	
+48-14	5547-5550	but	_	_	
+48-15	5551-5559	neglects	_	_	
+48-16	5560-5562	to	_	_	
+48-17	5563-5570	specify	_	_	
+48-18	5571-5578	whether	_	_	
+48-19	5579-5582	the	_	_	
+48-20	5583-5588	order	_	_	
+48-21	5589-5591	is	_	_	
+48-22	5592-5596	with	_	_	
+48-23	5597-5599	or	_	_	
+48-24	5600-5607	without	_	_	
+48-25	5608-5617	prejudice	_	_	
+48-26	5618-5619	,	_	_	
+48-27	5620-5623	how	_	_	
+48-28	5624-5630	should	_	_	
+48-29	5631-5632	a	_	_	
+48-30	5633-5638	later	_	_	
+48-31	5639-5644	court	_	_	
+48-32	5645-5654	determine	_	_	
+48-33	5655-5658	its	_	_	
+48-34	5659-5669	preclusive	_	_	
+48-35	5670-5676	effect	_	_	
+48-36	5677-5678	?	_	_	
+
+#Text=Federal Rule of Civil Procedure 41(b ) , codifying an old equitable principle , supplies the answer : It tells courts to treat the dismissal " as an adjudication on the merits"-meaning a dismissal with prejudice .
+49-1	5679-5686	Federal	*[49]	Legal Source[49]	
+49-2	5687-5691	Rule	*[49]	Legal Source[49]	
+49-3	5692-5694	of	*[49]	Legal Source[49]	
+49-4	5695-5700	Civil	*[49]	Legal Source[49]	
+49-5	5701-5710	Procedure	*[49]	Legal Source[49]	
+49-6	5711-5715	41(b	*[49]	Legal Source[49]	
+49-7	5716-5717	)	*[49]	Legal Source[49]	
+49-8	5718-5719	,	_	_	
+49-9	5720-5729	codifying	_	_	
+49-10	5730-5732	an	_	_	
+49-11	5733-5736	old	_	_	
+49-12	5737-5746	equitable	_	_	
+49-13	5747-5756	principle	_	_	
+49-14	5757-5758	,	_	_	
+49-15	5759-5767	supplies	_	_	
+49-16	5768-5771	the	_	_	
+49-17	5772-5778	answer	_	_	
+49-18	5779-5780	:	_	_	
+49-19	5781-5783	It	_	_	
+49-20	5784-5789	tells	_	_	
+49-21	5790-5796	courts	_	_	
+49-22	5797-5799	to	_	_	
+49-23	5800-5805	treat	_	_	
+49-24	5806-5809	the	_	_	
+49-25	5810-5819	dismissal	_	_	
+49-26	5820-5821	"	*[50]	Direct Quote[50]	
+49-27	5822-5824	as	*[50]	Direct Quote[50]	
+49-28	5825-5827	an	*[50]	Direct Quote[50]	
+49-29	5828-5840	adjudication	*[50]	Direct Quote[50]	
+49-30	5841-5843	on	*[50]	Direct Quote[50]	
+49-31	5844-5847	the	*[50]	Direct Quote[50]	
+49-32	5848-5863	merits"-meaning	*[50]	Direct Quote[50]	
+49-33	5864-5865	a	_	_	
+49-34	5866-5875	dismissal	_	_	
+49-35	5876-5880	with	_	_	
+49-36	5881-5890	prejudice	_	_	
+49-37	5891-5892	.	_	_	
+
+#Text=See Durant v. Essex Co. , 7 Wall . 107 , 109 , 19 L.Ed . 154 ( 1869 ) .
+50-1	5893-5896	See	_	_	
+50-2	5897-5903	Durant	*[51]	Legal Source[51]	
+50-3	5904-5906	v.	*[51]	Legal Source[51]	
+50-4	5907-5912	Essex	*[51]	Legal Source[51]	
+50-5	5913-5916	Co.	*[51]	Legal Source[51]	
+50-6	5917-5918	,	*[51]	Legal Source[51]	
+50-7	5919-5920	7	*[51]	Legal Source[51]	
+50-8	5921-5925	Wall	*[51]	Legal Source[51]	
+50-9	5926-5927	.	*[51]	Legal Source[51]	
+50-10	5928-5931	107	*[51]	Legal Source[51]	
+50-11	5932-5933	,	*[51]	Legal Source[51]	
+50-12	5934-5937	109	*[51]	Legal Source[51]	
+50-13	5938-5939	,	*[51]	Legal Source[51]	
+50-14	5940-5942	19	*[51]	Legal Source[51]	
+50-15	5943-5947	L.Ed	*[51]	Legal Source[51]	
+50-16	5948-5949	.	*[51]	Legal Source[51]	
+50-17	5950-5953	154	*[51]	Legal Source[51]	
+50-18	5954-5955	(	*[51]	Legal Source[51]	
+50-19	5956-5960	1869	*[51]	Legal Source[51]	
+50-20	5961-5962	)	*[51]	Legal Source[51]	
+50-21	5963-5964	.	_	_	
+
+#Text=According to Lomax , " Section 1915(g ) should be interpreted in light of this legal backdrop . "
+51-1	5965-5974	According	_	_	
+51-2	5975-5977	to	_	_	
+51-3	5978-5983	Lomax	_	_	
+51-4	5984-5985	,	_	_	
+51-5	5986-5987	"	*[52]	Direct Quote[52]	
+51-6	5988-5995	Section	*[52]|*[53]	Direct Quote[52]|Legal Source[53]	
+51-7	5996-6002	1915(g	*[52]|*[53]	Direct Quote[52]|Legal Source[53]	
+51-8	6003-6004	)	*[52]|*[53]	Direct Quote[52]|Legal Source[53]	
+51-9	6005-6011	should	*[52]	Direct Quote[52]	
+51-10	6012-6014	be	*[52]	Direct Quote[52]	
+51-11	6015-6026	interpreted	*[52]|*[54]	Direct Quote[52]|Metalinguistic Cue[54]	
+51-12	6027-6029	in	*[52]	Direct Quote[52]	
+51-13	6030-6035	light	*[52]	Direct Quote[52]	
+51-14	6036-6038	of	*[52]	Direct Quote[52]	
+51-15	6039-6043	this	*[52]	Direct Quote[52]	
+51-16	6044-6049	legal	*[52]	Direct Quote[52]	
+51-17	6050-6058	backdrop	*[52]	Direct Quote[52]	
+51-18	6059-6060	.	*[52]	Direct Quote[52]	
+51-19	6061-6062	"	*[52]	Direct Quote[52]	
+
+#Text=Brief for Petitioner 17 .
+52-1	6063-6068	Brief	*[55]	Legal Source[55]	
+52-2	6069-6072	for	*[55]	Legal Source[55]	
+52-3	6073-6083	Petitioner	*[55]	Legal Source[55]	
+52-4	6084-6086	17	*[55]	Legal Source[55]	
+52-5	6087-6088	.	_	_	
+
+#Text=He reasons : Because Rule 41(b ) presumes that an order stating only " dismissed for failure to state a claim " is with prejudice , the same language when used in Section 1915(g ) should bear that same meaning .
+53-1	6089-6091	He	_	_	
+53-2	6092-6099	reasons	_	_	
+53-3	6100-6101	:	_	_	
+53-4	6102-6109	Because	*[56]	Appeal to Meaning[56]	
+53-5	6110-6114	Rule	*[56]	Appeal to Meaning[56]	
+53-6	6115-6119	41(b	*[56]	Appeal to Meaning[56]	
+53-7	6120-6121	)	*[56]	Appeal to Meaning[56]	
+53-8	6122-6130	presumes	*[56]	Appeal to Meaning[56]	
+53-9	6131-6135	that	*[56]	Appeal to Meaning[56]	
+53-10	6136-6138	an	*[56]	Appeal to Meaning[56]	
+53-11	6139-6144	order	*[56]	Appeal to Meaning[56]	
+53-12	6145-6152	stating	*[56]	Appeal to Meaning[56]	
+53-13	6153-6157	only	*[56]	Appeal to Meaning[56]	
+53-14	6158-6159	"	*[56]|*[57]	Appeal to Meaning[56]|Direct Quote[57]	
+53-15	6160-6169	dismissed	*[56]|*[57]	Appeal to Meaning[56]|Direct Quote[57]	
+53-16	6170-6173	for	*[56]|*[57]	Appeal to Meaning[56]|Direct Quote[57]	
+53-17	6174-6181	failure	*[56]|*[57]	Appeal to Meaning[56]|Direct Quote[57]	
+53-18	6182-6184	to	*[56]|*[57]	Appeal to Meaning[56]|Direct Quote[57]	
+53-19	6185-6190	state	*[56]|*[57]	Appeal to Meaning[56]|Direct Quote[57]	
+53-20	6191-6192	a	*[56]|*[57]	Appeal to Meaning[56]|Direct Quote[57]	
+53-21	6193-6198	claim	*[56]|*[57]	Appeal to Meaning[56]|Direct Quote[57]	
+53-22	6199-6200	"	*[56]|*[57]	Appeal to Meaning[56]|Direct Quote[57]	
+53-23	6201-6203	is	*[56]	Appeal to Meaning[56]	
+53-24	6204-6208	with	*[56]	Appeal to Meaning[56]	
+53-25	6209-6218	prejudice	*[56]	Appeal to Meaning[56]	
+53-26	6219-6220	,	*[56]	Appeal to Meaning[56]	
+53-27	6221-6224	the	*[56]	Appeal to Meaning[56]	
+53-28	6225-6229	same	*[56]	Appeal to Meaning[56]	
+53-29	6230-6238	language	*[56]|*[58]	Appeal to Meaning[56]|Metalinguistic Cue[58]	
+53-30	6239-6243	when	*[56]	Appeal to Meaning[56]	
+53-31	6244-6248	used	*[56]	Appeal to Meaning[56]	
+53-32	6249-6251	in	*[56]	Appeal to Meaning[56]	
+53-33	6252-6259	Section	*[56]	Appeal to Meaning[56]	
+53-34	6260-6266	1915(g	*[56]	Appeal to Meaning[56]	
+53-35	6267-6268	)	*[56]	Appeal to Meaning[56]	
+53-36	6269-6275	should	*[56]	Appeal to Meaning[56]	
+53-37	6276-6280	bear	*[56]	Appeal to Meaning[56]	
+53-38	6281-6285	that	*[56]	Appeal to Meaning[56]	
+53-39	6286-6290	same	*[56]	Appeal to Meaning[56]	
+53-40	6291-6298	meaning	*[56]|*[59]	Appeal to Meaning[56]|Metalinguistic Cue[59]	
+53-41	6299-6300	.	_	_	
+
+#Text=And if so , the provision would assign a strike to only with - prejudice dismissals for failure to state a claim .
+54-1	6301-6304	And	_	_	
+54-2	6305-6307	if	_	_	
+54-3	6308-6310	so	_	_	
+54-4	6311-6312	,	_	_	
+54-5	6313-6316	the	_	_	
+54-6	6317-6326	provision	_	_	
+54-7	6327-6332	would	_	_	
+54-8	6333-6339	assign	_	_	
+54-9	6340-6341	a	_	_	
+54-10	6342-6348	strike	_	_	
+54-11	6349-6351	to	_	_	
+54-12	6352-6356	only	_	_	
+54-13	6357-6361	with	_	_	
+54-14	6362-6363	-	_	_	
+54-15	6364-6373	prejudice	_	_	
+54-16	6374-6384	dismissals	_	_	
+54-17	6385-6388	for	_	_	
+54-18	6389-6396	failure	_	_	
+54-19	6397-6399	to	_	_	
+54-20	6400-6405	state	_	_	
+54-21	6406-6407	a	_	_	
+54-22	6408-6413	claim	_	_	
+54-23	6414-6415	.	_	_	
+
+#Text=But that argument gets things backwards .
+55-1	6416-6419	But	_	_	
+55-2	6420-6424	that	_	_	
+55-3	6425-6433	argument	_	_	
+55-4	6434-6438	gets	_	_	
+55-5	6439-6445	things	_	_	
+55-6	6446-6455	backwards	_	_	
+55-7	6456-6457	.	_	_	
+
+#Text=The Rule 41(b ) presumption ( like its older equitable counterpart ) does not convert the phrase " dismissed for failure to state a claim " into a legal term of art meaning " dismissed with prejudice " on that ground .
+56-1	6458-6461	The	_	_	
+56-2	6462-6466	Rule	_	_	
+56-3	6467-6471	41(b	_	_	
+56-4	6472-6473	)	_	_	
+56-5	6474-6485	presumption	_	_	
+56-6	6486-6487	(	_	_	
+56-7	6488-6492	like	_	_	
+56-8	6493-6496	its	_	_	
+56-9	6497-6502	older	_	_	
+56-10	6503-6512	equitable	_	_	
+56-11	6513-6524	counterpart	_	_	
+56-12	6525-6526	)	_	_	
+56-13	6527-6531	does	_	_	
+56-14	6532-6535	not	_	_	
+56-15	6536-6543	convert	_	_	
+56-16	6544-6547	the	_	_	
+56-17	6548-6554	phrase	_	_	
+56-18	6555-6556	"	*[60]	Direct Quote[60]	
+56-19	6557-6566	dismissed	*[60]	Direct Quote[60]	
+56-20	6567-6570	for	*[60]	Direct Quote[60]	
+56-21	6571-6578	failure	*[60]	Direct Quote[60]	
+56-22	6579-6581	to	*[60]	Direct Quote[60]	
+56-23	6582-6587	state	*[60]	Direct Quote[60]	
+56-24	6588-6589	a	*[60]	Direct Quote[60]	
+56-25	6590-6595	claim	*[60]	Direct Quote[60]	
+56-26	6596-6597	"	*[60]	Direct Quote[60]	
+56-27	6598-6602	into	_	_	
+56-28	6603-6604	a	_	_	
+56-29	6605-6610	legal	*[61]	Metalinguistic Cue[61]	
+56-30	6611-6615	term	*[61]	Metalinguistic Cue[61]	
+56-31	6616-6618	of	*[61]	Metalinguistic Cue[61]	
+56-32	6619-6622	art	*[61]	Metalinguistic Cue[61]	
+56-33	6623-6630	meaning	*	Metalinguistic Cue	
+56-34	6631-6632	"	*[62]	Direct Quote[62]	
+56-35	6633-6642	dismissed	*[62]	Direct Quote[62]	
+56-36	6643-6647	with	*[62]	Direct Quote[62]	
+56-37	6648-6657	prejudice	*[62]	Direct Quote[62]	
+56-38	6658-6659	"	*[62]	Direct Quote[62]	
+56-39	6660-6662	on	_	_	
+56-40	6663-6667	that	_	_	
+56-41	6668-6674	ground	_	_	
+56-42	6675-6676	.	_	_	
+
+#Text=To the contrary , Rule 41(b ) is necessary because that phrase means only what it says : " dismissed for failure to state a claim"-whether or not with prejudice .
+57-1	6677-6679	To	*[63]	Appeal to Meaning[63]	
+57-2	6680-6683	the	*[63]	Appeal to Meaning[63]	
+57-3	6684-6692	contrary	*[63]	Appeal to Meaning[63]	
+57-4	6693-6694	,	*[63]	Appeal to Meaning[63]	
+57-5	6695-6699	Rule	*[63]	Appeal to Meaning[63]	
+57-6	6700-6704	41(b	*[63]	Appeal to Meaning[63]	
+57-7	6705-6706	)	*[63]	Appeal to Meaning[63]	
+57-8	6707-6709	is	*[63]	Appeal to Meaning[63]	
+57-9	6710-6719	necessary	*[63]	Appeal to Meaning[63]	
+57-10	6720-6727	because	*[63]	Appeal to Meaning[63]	
+57-11	6728-6732	that	*[63]	Appeal to Meaning[63]	
+57-12	6733-6739	phrase	*[63]	Appeal to Meaning[63]	
+57-13	6740-6745	means	*[63]	Appeal to Meaning[63]	
+57-14	6746-6750	only	*[63]	Appeal to Meaning[63]	
+57-15	6751-6755	what	*[63]	Appeal to Meaning[63]	
+57-16	6756-6758	it	*[63]	Appeal to Meaning[63]	
+57-17	6759-6763	says	*[63]	Appeal to Meaning[63]	
+57-18	6764-6765	:	*[63]	Appeal to Meaning[63]	
+57-19	6766-6767	"	*[63]|*[64]	Appeal to Meaning[63]|Direct Quote[64]	
+57-20	6768-6777	dismissed	*[63]|*[64]	Appeal to Meaning[63]|Direct Quote[64]	
+57-21	6778-6781	for	*[63]|*[64]	Appeal to Meaning[63]|Direct Quote[64]	
+57-22	6782-6789	failure	*[63]|*[64]	Appeal to Meaning[63]|Direct Quote[64]	
+57-23	6790-6792	to	*[63]|*[64]	Appeal to Meaning[63]|Direct Quote[64]	
+57-24	6793-6798	state	*[63]|*[64]	Appeal to Meaning[63]|Direct Quote[64]	
+57-25	6799-6800	a	*[63]|*[64]	Appeal to Meaning[63]|Direct Quote[64]	
+57-26	6801-6815	claim"-whether	*[63]|*[64]	Appeal to Meaning[63]|Direct Quote[64]	
+57-27	6816-6818	or	*[63]	Appeal to Meaning[63]	
+57-28	6819-6822	not	*[63]	Appeal to Meaning[63]	
+57-29	6823-6827	with	*[63]	Appeal to Meaning[63]	
+57-30	6828-6837	prejudice	*[63]	Appeal to Meaning[63]	
+57-31	6838-6839	.	*[63]	Appeal to Meaning[63]	
+
+#Text=In other words , the phrase 's indifference to prejudicial effect is what creates the need for a default rule to determine the import of a dismissal when a court fails to make that clear .
+58-1	6840-6842	In	_	_	
+58-2	6843-6848	other	_	_	
+58-3	6849-6854	words	_	_	
+58-4	6855-6856	,	_	_	
+58-5	6857-6860	the	_	_	
+58-6	6861-6867	phrase	_	_	
+58-7	6868-6870	's	_	_	
+58-8	6871-6883	indifference	_	_	
+58-9	6884-6886	to	_	_	
+58-10	6887-6898	prejudicial	_	_	
+58-11	6899-6905	effect	_	_	
+58-12	6906-6908	is	_	_	
+58-13	6909-6913	what	_	_	
+58-14	6914-6921	creates	_	_	
+58-15	6922-6925	the	_	_	
+58-16	6926-6930	need	_	_	
+58-17	6931-6934	for	_	_	
+58-18	6935-6936	a	_	_	
+58-19	6937-6944	default	_	_	
+58-20	6945-6949	rule	_	_	
+58-21	6950-6952	to	_	_	
+58-22	6953-6962	determine	_	_	
+58-23	6963-6966	the	_	_	
+58-24	6967-6973	import	_	_	
+58-25	6974-6976	of	_	_	
+58-26	6977-6978	a	_	_	
+58-27	6979-6988	dismissal	_	_	
+58-28	6989-6993	when	_	_	
+58-29	6994-6995	a	_	_	
+58-30	6996-7001	court	_	_	
+58-31	7002-7007	fails	_	_	
+58-32	7008-7010	to	_	_	
+58-33	7011-7015	make	_	_	
+58-34	7016-7020	that	_	_	
+58-35	7021-7026	clear	_	_	
+58-36	7027-7028	.	_	_	
+
+#Text=Rule 41(b ) , then , actually undercuts Lomax 's position : Its very existence is a form of proof that the language used in Section 1915(g ) covers dismissals both with and without prejudice .
+59-1	7029-7033	Rule	_	_	
+59-2	7034-7038	41(b	_	_	
+59-3	7039-7040	)	_	_	
+59-4	7041-7042	,	_	_	
+59-5	7043-7047	then	_	_	
+59-6	7048-7049	,	_	_	
+59-7	7050-7058	actually	_	_	
+59-8	7059-7068	undercuts	_	_	
+59-9	7069-7074	Lomax	_	_	
+59-10	7075-7077	's	_	_	
+59-11	7078-7086	position	_	_	
+59-12	7087-7088	:	_	_	
+59-13	7089-7092	Its	_	_	
+59-14	7093-7097	very	_	_	
+59-15	7098-7107	existence	_	_	
+59-16	7108-7110	is	_	_	
+59-17	7111-7112	a	_	_	
+59-18	7113-7117	form	_	_	
+59-19	7118-7120	of	_	_	
+59-20	7121-7126	proof	_	_	
+59-21	7127-7131	that	_	_	
+59-22	7132-7135	the	_	_	
+59-23	7136-7144	language	*	Metalinguistic Cue	
+59-24	7145-7149	used	_	_	
+59-25	7150-7152	in	_	_	
+59-26	7153-7160	Section	*[65]	Legal Source[65]	
+59-27	7161-7167	1915(g	*[65]	Legal Source[65]	
+59-28	7168-7169	)	*[65]	Legal Source[65]	
+59-29	7170-7176	covers	_	_	
+59-30	7177-7187	dismissals	_	_	
+59-31	7188-7192	both	_	_	
+59-32	7193-7197	with	_	_	
+59-33	7198-7201	and	_	_	
+59-34	7202-7209	without	_	_	
+59-35	7210-7219	prejudice	_	_	
+59-36	7220-7221	.	_	_	
+
+#Text=And here too , confirmation of the point comes from the PLRA 's other provisions referring to " dismiss[als ] " for " fail[ure ] to state a claim . "
+60-1	7222-7225	And	_	_	
+60-2	7226-7230	here	_	_	
+60-3	7231-7234	too	_	_	
+60-4	7235-7236	,	_	_	
+60-5	7237-7249	confirmation	_	_	
+60-6	7250-7252	of	_	_	
+60-7	7253-7256	the	_	_	
+60-8	7257-7262	point	_	_	
+60-9	7263-7268	comes	_	_	
+60-10	7269-7273	from	_	_	
+60-11	7274-7277	the	_	_	
+60-12	7278-7282	PLRA	*	Legal Source	
+60-13	7283-7285	's	_	_	
+60-14	7286-7291	other	_	_	
+60-15	7292-7302	provisions	_	_	
+60-16	7303-7312	referring	_	_	
+60-17	7313-7315	to	_	_	
+60-18	7316-7317	"	*[66]	Direct Quote[66]	
+60-19	7318-7329	dismiss[als	*[66]	Direct Quote[66]	
+60-20	7330-7331	]	*[66]	Direct Quote[66]	
+60-21	7332-7333	"	*[66]	Direct Quote[66]	
+60-22	7334-7337	for	_	_	
+60-23	7338-7339	"	*[67]	Direct Quote[67]	
+60-24	7340-7348	fail[ure	*[67]	Direct Quote[67]	
+60-25	7349-7350	]	*[67]	Direct Quote[67]	
+60-26	7351-7353	to	*[67]	Direct Quote[67]	
+60-27	7354-7359	state	*[67]	Direct Quote[67]	
+60-28	7360-7361	a	*[67]	Direct Quote[67]	
+60-29	7362-7367	claim	*[67]	Direct Quote[67]	
+60-30	7368-7369	.	*[67]	Direct Quote[67]	
+60-31	7370-7371	"	*[67]	Direct Quote[67]	
+
+#Text=See supra , at 1725 .
+61-1	7372-7375	See	_	_	
+61-2	7376-7381	supra	*[68]	Legal Source[68]	
+61-3	7382-7383	,	*[68]	Legal Source[68]	
+61-4	7384-7386	at	*[68]	Legal Source[68]	
+61-5	7387-7391	1725	*[68]	Legal Source[68]	
+61-6	7392-7393	.	_	_	
+
+#Text=If that phrase had really become a legal term of art implying " with prejudice , " then those provisions would prevent courts from dismissing prisoner suits without prejudice for failure to state a claim .
+62-1	7394-7396	If	_	_	
+62-2	7397-7401	that	_	_	
+62-3	7402-7408	phrase	_	_	
+62-4	7409-7412	had	_	_	
+62-5	7413-7419	really	_	_	
+62-6	7420-7426	become	_	_	
+62-7	7427-7428	a	_	_	
+62-8	7429-7434	legal	*[69]	Metalinguistic Cue[69]	
+62-9	7435-7439	term	*[69]	Metalinguistic Cue[69]	
+62-10	7440-7442	of	*[69]	Metalinguistic Cue[69]	
+62-11	7443-7446	art	*[69]	Metalinguistic Cue[69]	
+62-12	7447-7455	implying	_	_	
+62-13	7456-7457	"	*[70]	Direct Quote[70]	
+62-14	7458-7462	with	*[70]	Direct Quote[70]	
+62-15	7463-7472	prejudice	*[70]	Direct Quote[70]	
+62-16	7473-7474	,	*[70]	Direct Quote[70]	
+62-17	7475-7476	"	*[70]	Direct Quote[70]	
+62-18	7477-7481	then	_	_	
+62-19	7482-7487	those	_	_	
+62-20	7488-7498	provisions	_	_	
+62-21	7499-7504	would	_	_	
+62-22	7505-7512	prevent	_	_	
+62-23	7513-7519	courts	_	_	
+62-24	7520-7524	from	_	_	
+62-25	7525-7535	dismissing	_	_	
+62-26	7536-7544	prisoner	_	_	
+62-27	7545-7550	suits	_	_	
+62-28	7551-7558	without	_	_	
+62-29	7559-7568	prejudice	_	_	
+62-30	7569-7572	for	_	_	
+62-31	7573-7580	failure	_	_	
+62-32	7581-7583	to	_	_	
+62-33	7584-7589	state	_	_	
+62-34	7590-7591	a	_	_	
+62-35	7592-7597	claim	_	_	
+62-36	7598-7599	.	_	_	
+
+#Text=But Lomax himself does not accept that improbable reading .
+63-1	7600-7603	But	_	_	
+63-2	7604-7609	Lomax	_	_	
+63-3	7610-7617	himself	_	_	
+63-4	7618-7622	does	_	_	
+63-5	7623-7626	not	_	_	
+63-6	7627-7633	accept	_	_	
+63-7	7634-7638	that	_	_	
+63-8	7639-7649	improbable	_	_	
+63-9	7650-7657	reading	_	_	
+63-10	7658-7659	.	_	_	
+
+#Text=See ibid .
+64-1	7660-7663	See	_	_	
+64-2	7664-7668	ibid	*	Legal Source	
+64-3	7669-7670	.	_	_	
+
+#Text=His supposed " term of art " is strangely free - floating , transforming ordinary meaning in one place while leaving it alone in all others .
+65-1	7671-7674	His	_	_	
+65-2	7675-7683	supposed	_	_	
+65-3	7684-7685	"	*[71]	Direct Quote[71]	
+65-4	7686-7690	term	*[71]|*[72]	Direct Quote[71]|Metalinguistic Cue[72]	
+65-5	7691-7693	of	*[71]|*[72]	Direct Quote[71]|Metalinguistic Cue[72]	
+65-6	7694-7697	art	*[71]|*[72]	Direct Quote[71]|Metalinguistic Cue[72]	
+65-7	7698-7699	"	*[71]	Direct Quote[71]	
+65-8	7700-7702	is	_	_	
+65-9	7703-7712	strangely	_	_	
+65-10	7713-7717	free	_	_	
+65-11	7718-7719	-	_	_	
+65-12	7720-7728	floating	_	_	
+65-13	7729-7730	,	_	_	
+65-14	7731-7743	transforming	_	_	
+65-15	7744-7752	ordinary	*[73]|*[74]	Appeal to Meaning[73]|Metalinguistic Cue[74]	
+65-16	7753-7760	meaning	*[73]|*[74]	Appeal to Meaning[73]|Metalinguistic Cue[74]	
+65-17	7761-7763	in	_	_	
+65-18	7764-7767	one	_	_	
+65-19	7768-7773	place	_	_	
+65-20	7774-7779	while	_	_	
+65-21	7780-7787	leaving	_	_	
+65-22	7788-7790	it	_	_	
+65-23	7791-7796	alone	_	_	
+65-24	7797-7799	in	_	_	
+65-25	7800-7803	all	_	_	
+65-26	7804-7810	others	_	_	
+65-27	7811-7812	.	_	_	
+
+#Text=Lomax also makes an argument based on the two other grounds for dismissal listed in Section 1915(g ) .
+66-1	7813-7818	Lomax	_	_	
+66-2	7819-7823	also	_	_	
+66-3	7824-7829	makes	_	_	
+66-4	7830-7832	an	_	_	
+66-5	7833-7841	argument	_	_	
+66-6	7842-7847	based	_	_	
+66-7	7848-7850	on	_	_	
+66-8	7851-7854	the	_	_	
+66-9	7855-7858	two	_	_	
+66-10	7859-7864	other	_	_	
+66-11	7865-7872	grounds	_	_	
+66-12	7873-7876	for	_	_	
+66-13	7877-7886	dismissal	_	_	
+66-14	7887-7893	listed	_	_	
+66-15	7894-7896	in	_	_	
+66-16	7897-7904	Section	*[75]	Legal Source[75]	
+66-17	7905-7911	1915(g	*[75]	Legal Source[75]	
+66-18	7912-7913	)	*[75]	Legal Source[75]	
+66-19	7914-7915	.	_	_	
+
+#Text=Recall that the provision counts as strikes dismissals of actions that are " frivolous " or " malicious , " along with those that fail to state a claim .
+67-1	7916-7922	Recall	_	_	
+67-2	7923-7927	that	_	_	
+67-3	7928-7931	the	_	_	
+67-4	7932-7941	provision	_	_	
+67-5	7942-7948	counts	_	_	
+67-6	7949-7951	as	_	_	
+67-7	7952-7959	strikes	_	_	
+67-8	7960-7970	dismissals	_	_	
+67-9	7971-7973	of	_	_	
+67-10	7974-7981	actions	_	_	
+67-11	7982-7986	that	_	_	
+67-12	7987-7990	are	_	_	
+67-13	7991-7992	"	*[76]	Direct Quote[76]	
+67-14	7993-8002	frivolous	*[76]	Direct Quote[76]	
+67-15	8003-8004	"	*[76]	Direct Quote[76]	
+67-16	8005-8007	or	_	_	
+67-17	8008-8009	"	*[77]	Direct Quote[77]	
+67-18	8010-8019	malicious	*[77]	Direct Quote[77]	
+67-19	8020-8021	,	*[77]	Direct Quote[77]	
+67-20	8022-8023	"	*[77]	Direct Quote[77]	
+67-21	8024-8029	along	_	_	
+67-22	8030-8034	with	_	_	
+67-23	8035-8040	those	_	_	
+67-24	8041-8045	that	_	_	
+67-25	8046-8050	fail	_	_	
+67-26	8051-8053	to	_	_	
+67-27	8054-8059	state	_	_	
+67-28	8060-8061	a	_	_	
+67-29	8062-8067	claim	_	_	
+67-30	8068-8069	.	_	_	
+
+#Text=See supra , at 1723 , 1724 , n. 1 .
+68-1	8070-8073	See	_	_	
+68-2	8074-8079	supra	*[78]	Legal Source[78]	
+68-3	8080-8081	,	*[78]	Legal Source[78]	
+68-4	8082-8084	at	*[78]	Legal Source[78]	
+68-5	8085-8089	1723	*[78]	Legal Source[78]	
+68-6	8090-8091	,	*[78]	Legal Source[78]	
+68-7	8092-8096	1724	*[78]	Legal Source[78]	
+68-8	8097-8098	,	*[78]	Legal Source[78]	
+68-9	8099-8101	n.	*[78]	Legal Source[78]	
+68-10	8102-8103	1	*[78]	Legal Source[78]	
+68-11	8104-8105	.	_	_	
+
+#Text=In Lomax 's view , the first two kinds of dismissals " reflect a judicial determination that a claim is irremediably defective"-that it " can not succeed and should not return to court . "
+69-1	8106-8108	In	_	_	
+69-2	8109-8114	Lomax	_	_	
+69-3	8115-8117	's	_	_	
+69-4	8118-8122	view	_	_	
+69-5	8123-8124	,	_	_	
+69-6	8125-8128	the	_	_	
+69-7	8129-8134	first	_	_	
+69-8	8135-8138	two	_	_	
+69-9	8139-8144	kinds	_	_	
+69-10	8145-8147	of	_	_	
+69-11	8148-8158	dismissals	_	_	
+69-12	8159-8160	"	*[79]	Direct Quote[79]	
+69-13	8161-8168	reflect	*[79]	Direct Quote[79]	
+69-14	8169-8170	a	*[79]	Direct Quote[79]	
+69-15	8171-8179	judicial	*[79]	Direct Quote[79]	
+69-16	8180-8193	determination	*[79]	Direct Quote[79]	
+69-17	8194-8198	that	*[79]	Direct Quote[79]	
+69-18	8199-8200	a	*[79]	Direct Quote[79]	
+69-19	8201-8206	claim	*[79]	Direct Quote[79]	
+69-20	8207-8209	is	*[79]	Direct Quote[79]	
+69-21	8210-8222	irremediably	*[79]	Direct Quote[79]	
+69-22	8223-8238	defective"-that	*[79]	Direct Quote[79]	
+69-23	8239-8241	it	_	_	
+69-24	8242-8243	"	*[80]	Direct Quote[80]	
+69-25	8244-8247	can	*[80]	Direct Quote[80]	
+69-26	8248-8251	not	*[80]	Direct Quote[80]	
+69-27	8252-8259	succeed	*[80]	Direct Quote[80]	
+69-28	8260-8263	and	*[80]	Direct Quote[80]	
+69-29	8264-8270	should	*[80]	Direct Quote[80]	
+69-30	8271-8274	not	*[80]	Direct Quote[80]	
+69-31	8275-8281	return	*[80]	Direct Quote[80]	
+69-32	8282-8284	to	*[80]	Direct Quote[80]	
+69-33	8285-8290	court	*[80]	Direct Quote[80]	
+69-34	8291-8292	.	*[80]	Direct Quote[80]	
+69-35	8293-8294	"	*[80]	Direct Quote[80]	
+
+#Text=Brief for Petitioner 11 , 22 ( internal quotation marks omitted ) .
+70-1	8295-8300	Brief	*[81]	Legal Source[81]	
+70-2	8301-8304	for	*[81]	Legal Source[81]	
+70-3	8305-8315	Petitioner	*[81]	Legal Source[81]	
+70-4	8316-8318	11	*[81]	Legal Source[81]	
+70-5	8319-8320	,	*[81]	Legal Source[81]	
+70-6	8321-8323	22	*[81]	Legal Source[81]	
+70-7	8324-8325	(	_	_	
+70-8	8326-8334	internal	_	_	
+70-9	8335-8344	quotation	_	_	
+70-10	8345-8350	marks	_	_	
+70-11	8351-8358	omitted	_	_	
+70-12	8359-8360	)	_	_	
+70-13	8361-8362	.	_	_	
+
+#Text=To " harmonize [ all ] three grounds for strikes , " he continues , the same must be true of dismissals for failure to state a claim .
+71-1	8363-8365	To	_	_	
+71-2	8366-8367	"	*[82]	Direct Quote[82]	
+71-3	8368-8377	harmonize	*[82]	Direct Quote[82]	
+71-4	8378-8379	[	*[82]	Direct Quote[82]	
+71-5	8380-8383	all	*[82]	Direct Quote[82]	
+71-6	8384-8385	]	*[82]	Direct Quote[82]	
+71-7	8386-8391	three	*[82]	Direct Quote[82]	
+71-8	8392-8399	grounds	*[82]	Direct Quote[82]	
+71-9	8400-8403	for	*[82]	Direct Quote[82]	
+71-10	8404-8411	strikes	*[82]	Direct Quote[82]	
+71-11	8412-8413	,	*[82]	Direct Quote[82]	
+71-12	8414-8415	"	*[82]	Direct Quote[82]	
+71-13	8416-8418	he	_	_	
+71-14	8419-8428	continues	_	_	
+71-15	8429-8430	,	_	_	
+71-16	8431-8434	the	_	_	
+71-17	8435-8439	same	_	_	
+71-18	8440-8444	must	_	_	
+71-19	8445-8447	be	_	_	
+71-20	8448-8452	true	_	_	
+71-21	8453-8455	of	_	_	
+71-22	8456-8466	dismissals	_	_	
+71-23	8467-8470	for	_	_	
+71-24	8471-8478	failure	_	_	
+71-25	8479-8481	to	_	_	
+71-26	8482-8487	state	_	_	
+71-27	8488-8489	a	_	_	
+71-28	8490-8495	claim	_	_	
+71-29	8496-8497	.	_	_	
+
+#Text=Id. , at 23 ; see i d. , at 21 ( invoking the " interpretive canon noscitur a sociis , a word is known by the company it keeps " ( internal quotation marks omitted ) ) .
+72-1	8498-8501	Id.	*[83]	Legal Source[83]	
+72-2	8502-8503	,	*[83]	Legal Source[83]	
+72-3	8504-8506	at	*[83]	Legal Source[83]	
+72-4	8507-8509	23	*[83]	Legal Source[83]	
+72-5	8510-8511	;	_	_	
+72-6	8512-8515	see	_	_	
+72-7	8516-8517	i	*[84]	Legal Source[84]	
+72-8	8518-8520	d.	*[84]	Legal Source[84]	
+72-9	8521-8522	,	*[84]	Legal Source[84]	
+72-10	8523-8525	at	*[84]	Legal Source[84]	
+72-11	8526-8528	21	*[84]	Legal Source[84]	
+72-12	8529-8530	(	_	_	
+72-13	8531-8539	invoking	_	_	
+72-14	8540-8543	the	_	_	
+72-15	8544-8545	"	*[85]	Direct Quote[85]	
+72-16	8546-8558	interpretive	*[85]|*[86]	Direct Quote[85]|Metalinguistic Cue[86]	
+72-17	8559-8564	canon	*[85]|*[86]	Direct Quote[85]|Metalinguistic Cue[86]	
+72-18	8565-8573	noscitur	*[85]|*[87]	Direct Quote[85]|Named Interpretive Rule[87]	
+72-19	8574-8575	a	*[85]|*[87]	Direct Quote[85]|Named Interpretive Rule[87]	
+72-20	8576-8582	sociis	*[85]|*[87]	Direct Quote[85]|Named Interpretive Rule[87]	
+72-21	8583-8584	,	*[85]	Direct Quote[85]	
+72-22	8585-8586	a	*[85]|*[88]	Direct Quote[85]|Definition[88]	
+72-23	8587-8591	word	*[85]|*[88]	Direct Quote[85]|Definition[88]	
+72-24	8592-8594	is	*[85]|*[88]	Direct Quote[85]|Definition[88]	
+72-25	8595-8600	known	*[85]|*[88]	Direct Quote[85]|Definition[88]	
+72-26	8601-8603	by	*[85]|*[88]	Direct Quote[85]|Definition[88]	
+72-27	8604-8607	the	*[85]|*[88]	Direct Quote[85]|Definition[88]	
+72-28	8608-8615	company	*[85]|*[88]	Direct Quote[85]|Definition[88]	
+72-29	8616-8618	it	*[85]|*[88]	Direct Quote[85]|Definition[88]	
+72-30	8619-8624	keeps	*[85]|*[88]	Direct Quote[85]|Definition[88]	
+72-31	8625-8626	"	*[85]	Direct Quote[85]	
+72-32	8627-8628	(	_	_	
+72-33	8629-8637	internal	_	_	
+72-34	8638-8647	quotation	_	_	
+72-35	8648-8653	marks	_	_	
+72-36	8654-8661	omitted	_	_	
+72-37	8662-8663	)	_	_	
+72-38	8664-8665	)	_	_	
+72-39	8666-8667	.	_	_	
+
+#Text=So Section 1915(g ) , Lomax concludes , must capture only the subset of those dismissals that are issued with prejudice - the ones disposing of " irredeemable " suits .
+73-1	8668-8670	So	_	_	
+73-2	8671-8678	Section	*[89]	Legal Source[89]	
+73-3	8679-8685	1915(g	*[89]	Legal Source[89]	
+73-4	8686-8687	)	*[89]	Legal Source[89]	
+73-5	8688-8689	,	_	_	
+73-6	8690-8695	Lomax	_	_	
+73-7	8696-8705	concludes	_	_	
+73-8	8706-8707	,	_	_	
+73-9	8708-8712	must	_	_	
+73-10	8713-8720	capture	_	_	
+73-11	8721-8725	only	_	_	
+73-12	8726-8729	the	_	_	
+73-13	8730-8736	subset	_	_	
+73-14	8737-8739	of	_	_	
+73-15	8740-8745	those	_	_	
+73-16	8746-8756	dismissals	_	_	
+73-17	8757-8761	that	_	_	
+73-18	8762-8765	are	_	_	
+73-19	8766-8772	issued	_	_	
+73-20	8773-8777	with	_	_	
+73-21	8778-8787	prejudice	_	_	
+73-22	8788-8789	-	_	_	
+73-23	8790-8793	the	_	_	
+73-24	8794-8798	ones	_	_	
+73-25	8799-8808	disposing	_	_	
+73-26	8809-8811	of	_	_	
+73-27	8812-8813	"	*[90]	Direct Quote[90]	
+73-28	8814-8826	irredeemable	*[90]	Direct Quote[90]	
+73-29	8827-8828	"	*[90]	Direct Quote[90]	
+73-30	8829-8834	suits	_	_	
+73-31	8835-8836	.	_	_	
+
+#Text=Id. , at 21 .
+74-1	8837-8840	Id.	*[91]	Legal Source[91]	
+74-2	8841-8842	,	*[91]	Legal Source[91]	
+74-3	8843-8845	at	*[91]	Legal Source[91]	
+74-4	8846-8848	21	*[91]	Legal Source[91]	
+74-5	8849-8850	.	_	_	
+
+#Text=As an initial matter , the very premise of that argument is mistaken .
+75-1	8851-8853	As	_	_	
+75-2	8854-8856	an	_	_	
+75-3	8857-8864	initial	_	_	
+75-4	8865-8871	matter	_	_	
+75-5	8872-8873	,	_	_	
+75-6	8874-8877	the	_	_	
+75-7	8878-8882	very	_	_	
+75-8	8883-8890	premise	_	_	
+75-9	8891-8893	of	_	_	
+75-10	8894-8898	that	_	_	
+75-11	8899-8907	argument	_	_	
+75-12	8908-8910	is	_	_	
+75-13	8911-8919	mistaken	_	_	
+75-14	8920-8921	.	_	_	
+
+#Text=Contra Lomax 's view , courts can and sometimes do conclude that frivolous actions are not " irremediably defective , " and thus dismiss them without prejudice .
+76-1	8922-8928	Contra	_	_	
+76-2	8929-8934	Lomax	_	_	
+76-3	8935-8937	's	_	_	
+76-4	8938-8942	view	_	_	
+76-5	8943-8944	,	_	_	
+76-6	8945-8951	courts	_	_	
+76-7	8952-8955	can	_	_	
+76-8	8956-8959	and	_	_	
+76-9	8960-8969	sometimes	_	_	
+76-10	8970-8972	do	_	_	
+76-11	8973-8981	conclude	_	_	
+76-12	8982-8986	that	_	_	
+76-13	8987-8996	frivolous	_	_	
+76-14	8997-9004	actions	_	_	
+76-15	9005-9008	are	_	_	
+76-16	9009-9012	not	_	_	
+76-17	9013-9014	"	*[92]	Direct Quote[92]	
+76-18	9015-9027	irremediably	*[92]|*[93]	Direct Quote[92]|Focal Term[93]	
+76-19	9028-9037	defective	*[92]|*[93]	Direct Quote[92]|Focal Term[93]	
+76-20	9038-9039	,	*[92]	Direct Quote[92]	
+76-21	9040-9041	"	*[92]	Direct Quote[92]	
+76-22	9042-9045	and	_	_	
+76-23	9046-9050	thus	_	_	
+76-24	9051-9058	dismiss	_	_	
+76-25	9059-9063	them	_	_	
+76-26	9064-9071	without	_	_	
+76-27	9072-9081	prejudice	_	_	
+76-28	9082-9083	.	_	_	
+
+#Text=See , e.g. , Marts v. Hines , 117 F.3d 1504 , 1505 ( CA5 1997 ) ; see also Jackson v. Florida Dept . of Financial Servs . , 479 Fed . Appx . 289 , 292 ( CA11 2012 ) ( similarly if less commonly , dismissing a malicious action without prejudice ) .
+77-1	9084-9087	See	_	_	
+77-2	9088-9089	,	_	_	
+77-3	9090-9094	e.g.	_	_	
+77-4	9095-9096	,	_	_	
+77-5	9097-9102	Marts	*[94]	Legal Source[94]	
+77-6	9103-9105	v.	*[94]	Legal Source[94]	
+77-7	9106-9111	Hines	*[94]	Legal Source[94]	
+77-8	9112-9113	,	*[94]	Legal Source[94]	
+77-9	9114-9117	117	*[94]	Legal Source[94]	
+77-10	9118-9122	F.3d	*[94]	Legal Source[94]	
+77-11	9123-9127	1504	*[94]	Legal Source[94]	
+77-12	9128-9129	,	*[94]	Legal Source[94]	
+77-13	9130-9134	1505	*[94]	Legal Source[94]	
+77-14	9135-9136	(	*[94]	Legal Source[94]	
+77-15	9137-9140	CA5	*[94]	Legal Source[94]	
+77-16	9141-9145	1997	*[94]	Legal Source[94]	
+77-17	9146-9147	)	*[94]	Legal Source[94]	
+77-18	9148-9149	;	_	_	
+77-19	9150-9153	see	_	_	
+77-20	9154-9158	also	_	_	
+77-21	9159-9166	Jackson	*[95]	Legal Source[95]	
+77-22	9167-9169	v.	*[95]	Legal Source[95]	
+77-23	9170-9177	Florida	*[95]	Legal Source[95]	
+77-24	9178-9182	Dept	*[95]	Legal Source[95]	
+77-25	9183-9184	.	*[95]	Legal Source[95]	
+77-26	9185-9187	of	*[95]	Legal Source[95]	
+77-27	9188-9197	Financial	*[95]	Legal Source[95]	
+77-28	9198-9203	Servs	*[95]	Legal Source[95]	
+77-29	9204-9205	.	*[95]	Legal Source[95]	
+77-30	9206-9207	,	*[95]	Legal Source[95]	
+77-31	9208-9211	479	*[95]	Legal Source[95]	
+77-32	9212-9215	Fed	*[95]	Legal Source[95]	
+77-33	9216-9217	.	*[95]	Legal Source[95]	
+77-34	9218-9222	Appx	*[95]	Legal Source[95]	
+77-35	9223-9224	.	*[95]	Legal Source[95]	
+77-36	9225-9228	289	*[95]	Legal Source[95]	
+77-37	9229-9230	,	*[95]	Legal Source[95]	
+77-38	9231-9234	292	*[95]	Legal Source[95]	
+77-39	9235-9236	(	*[95]	Legal Source[95]	
+77-40	9237-9241	CA11	*[95]	Legal Source[95]	
+77-41	9242-9246	2012	*[95]	Legal Source[95]	
+77-42	9247-9248	)	*[95]	Legal Source[95]	
+77-43	9249-9250	(	_	_	
+77-44	9251-9260	similarly	_	_	
+77-45	9261-9263	if	_	_	
+77-46	9264-9268	less	_	_	
+77-47	9269-9277	commonly	_	_	
+77-48	9278-9279	,	_	_	
+77-49	9280-9290	dismissing	_	_	
+77-50	9291-9292	a	_	_	
+77-51	9293-9302	malicious	_	_	
+77-52	9303-9309	action	_	_	
+77-53	9310-9317	without	_	_	
+77-54	9318-9327	prejudice	_	_	
+77-55	9328-9329	)	_	_	
+77-56	9330-9331	.	_	_	
+
+#Text=Indeed , this Court has suggested that a trial court might abuse its discretion by dismissing an IFP suit with prejudice if " frivolous factual allegations [ can ] be remedied through more specific pleading . "
+78-1	9332-9338	Indeed	_	_	
+78-2	9339-9340	,	_	_	
+78-3	9341-9345	this	_	_	
+78-4	9346-9351	Court	_	_	
+78-5	9352-9355	has	_	_	
+78-6	9356-9365	suggested	_	_	
+78-7	9366-9370	that	_	_	
+78-8	9371-9372	a	_	_	
+78-9	9373-9378	trial	_	_	
+78-10	9379-9384	court	_	_	
+78-11	9385-9390	might	_	_	
+78-12	9391-9396	abuse	_	_	
+78-13	9397-9400	its	_	_	
+78-14	9401-9411	discretion	_	_	
+78-15	9412-9414	by	_	_	
+78-16	9415-9425	dismissing	_	_	
+78-17	9426-9428	an	_	_	
+78-18	9429-9432	IFP	_	_	
+78-19	9433-9437	suit	_	_	
+78-20	9438-9442	with	_	_	
+78-21	9443-9452	prejudice	_	_	
+78-22	9453-9455	if	_	_	
+78-23	9456-9457	"	*[96]	Direct Quote[96]	
+78-24	9458-9467	frivolous	*[96]	Direct Quote[96]	
+78-25	9468-9475	factual	*[96]	Direct Quote[96]	
+78-26	9476-9487	allegations	*[96]	Direct Quote[96]	
+78-27	9488-9489	[	*[96]	Direct Quote[96]	
+78-28	9490-9493	can	*[96]	Direct Quote[96]	
+78-29	9494-9495	]	*[96]	Direct Quote[96]	
+78-30	9496-9498	be	*[96]	Direct Quote[96]	
+78-31	9499-9507	remedied	*[96]	Direct Quote[96]	
+78-32	9508-9515	through	*[96]	Direct Quote[96]	
+78-33	9516-9520	more	*[96]	Direct Quote[96]	
+78-34	9521-9529	specific	*[96]	Direct Quote[96]	
+78-35	9530-9538	pleading	*[96]	Direct Quote[96]	
+78-36	9539-9540	.	*[96]	Direct Quote[96]	
+78-37	9541-9542	"	*[96]	Direct Quote[96]	
+
+#Text=Denton v. Hernandez , 504 U.S. 25 , 34 , 112 S.Ct . 1728 , 118 L.Ed.2d 340 ( 1992 ) .
+79-1	9543-9549	Denton	*[97]	Legal Source[97]	
+79-2	9550-9552	v.	*[97]	Legal Source[97]	
+79-3	9553-9562	Hernandez	*[97]	Legal Source[97]	
+79-4	9563-9564	,	*[97]	Legal Source[97]	
+79-5	9565-9568	504	*[97]	Legal Source[97]	
+79-6	9569-9573	U.S.	*[97]	Legal Source[97]	
+79-7	9574-9576	25	*[97]	Legal Source[97]	
+79-8	9577-9578	,	*[97]	Legal Source[97]	
+79-9	9579-9581	34	*[97]	Legal Source[97]	
+79-10	9582-9583	,	*[97]	Legal Source[97]	
+79-11	9584-9587	112	*[97]	Legal Source[97]	
+79-12	9588-9592	S.Ct	*[97]	Legal Source[97]	
+79-13	9593-9594	.	*[97]	Legal Source[97]	
+79-14	9595-9599	1728	*[97]	Legal Source[97]	
+79-15	9600-9601	,	*[97]	Legal Source[97]	
+79-16	9602-9605	118	*[97]	Legal Source[97]	
+79-17	9606-9613	L.Ed.2d	*[97]	Legal Source[97]	
+79-18	9614-9617	340	*[97]	Legal Source[97]	
+79-19	9618-9619	(	*[97]	Legal Source[97]	
+79-20	9620-9624	1992	*[97]	Legal Source[97]	
+79-21	9625-9626	)	*[97]	Legal Source[97]	
+79-22	9627-9628	.	_	_	
+
+#Text=So on Lomax 's own metric - whether down the road the plaintiff 's claim might return - the dismissals he claims would be outliers in Section 1915(g ) in fact would have company .
+80-1	9629-9631	So	_	_	
+80-2	9632-9634	on	_	_	
+80-3	9635-9640	Lomax	_	_	
+80-4	9641-9643	's	_	_	
+80-5	9644-9647	own	_	_	
+80-6	9648-9654	metric	_	_	
+80-7	9655-9656	-	_	_	
+80-8	9657-9664	whether	_	_	
+80-9	9665-9669	down	_	_	
+80-10	9670-9673	the	_	_	
+80-11	9674-9678	road	_	_	
+80-12	9679-9682	the	_	_	
+80-13	9683-9692	plaintiff	_	_	
+80-14	9693-9695	's	_	_	
+80-15	9696-9701	claim	_	_	
+80-16	9702-9707	might	_	_	
+80-17	9708-9714	return	_	_	
+80-18	9715-9716	-	_	_	
+80-19	9717-9720	the	_	_	
+80-20	9721-9731	dismissals	_	_	
+80-21	9732-9734	he	_	_	
+80-22	9735-9741	claims	_	_	
+80-23	9742-9747	would	_	_	
+80-24	9748-9750	be	_	_	
+80-25	9751-9759	outliers	_	_	
+80-26	9760-9762	in	_	_	
+80-27	9763-9770	Section	*[98]	Legal Source[98]	
+80-28	9771-9777	1915(g	*[98]	Legal Source[98]	
+80-29	9778-9779	)	*[98]	Legal Source[98]	
+80-30	9780-9782	in	_	_	
+80-31	9783-9787	fact	_	_	
+80-32	9788-9793	would	_	_	
+80-33	9794-9798	have	_	_	
+80-34	9799-9806	company	_	_	
+80-35	9807-9808	.	_	_	
+
+#Text=And because that is true , his reason for excluding those decisions from the provision collapses .
+81-1	9809-9812	And	_	_	
+81-2	9813-9820	because	_	_	
+81-3	9821-9825	that	_	_	
+81-4	9826-9828	is	_	_	
+81-5	9829-9833	true	_	_	
+81-6	9834-9835	,	_	_	
+81-7	9836-9839	his	_	_	
+81-8	9840-9846	reason	_	_	
+81-9	9847-9850	for	_	_	
+81-10	9851-9860	excluding	_	_	
+81-11	9861-9866	those	_	_	
+81-12	9867-9876	decisions	_	_	
+81-13	9877-9881	from	_	_	
+81-14	9882-9885	the	_	_	
+81-15	9886-9895	provision	_	_	
+81-16	9896-9905	collapses	_	_	
+81-17	9906-9907	.	_	_	
+
+#Text=If dismissals without prejudice for frivolousness count as a strike under Section 1915(g ) , then why not for failure to state a claim too ?
+82-1	9908-9910	If	_	_	
+82-2	9911-9921	dismissals	_	_	
+82-3	9922-9929	without	_	_	
+82-4	9930-9939	prejudice	_	_	
+82-5	9940-9943	for	_	_	
+82-6	9944-9957	frivolousness	_	_	
+82-7	9958-9963	count	_	_	
+82-8	9964-9966	as	_	_	
+82-9	9967-9968	a	_	_	
+82-10	9969-9975	strike	_	_	
+82-11	9976-9981	under	_	_	
+82-12	9982-9989	Section	*[99]	Legal Source[99]	
+82-13	9990-9996	1915(g	*[99]	Legal Source[99]	
+82-14	9997-9998	)	*[99]	Legal Source[99]	
+82-15	9999-10000	,	_	_	
+82-16	10001-10005	then	_	_	
+82-17	10006-10009	why	_	_	
+82-18	10010-10013	not	_	_	
+82-19	10014-10017	for	_	_	
+82-20	10018-10025	failure	_	_	
+82-21	10026-10028	to	_	_	
+82-22	10029-10034	state	_	_	
+82-23	10035-10036	a	_	_	
+82-24	10037-10042	claim	_	_	
+82-25	10043-10046	too	_	_	
+82-26	10047-10048	?	_	_	
+
+#Text=Still more fundamentally , Lomax is wrong to suggest that every dismissed action encompassed in Section 1915(g ) must closely resemble frivolous or malicious ones .
+83-1	10049-10054	Still	_	_	
+83-2	10055-10059	more	_	_	
+83-3	10060-10073	fundamentally	_	_	
+83-4	10074-10075	,	_	_	
+83-5	10076-10081	Lomax	_	_	
+83-6	10082-10084	is	_	_	
+83-7	10085-10090	wrong	_	_	
+83-8	10091-10093	to	_	_	
+83-9	10094-10101	suggest	_	_	
+83-10	10102-10106	that	_	_	
+83-11	10107-10112	every	_	_	
+83-12	10113-10122	dismissed	_	_	
+83-13	10123-10129	action	_	_	
+83-14	10130-10141	encompassed	_	_	
+83-15	10142-10144	in	_	_	
+83-16	10145-10152	Section	*[100]	Legal Source[100]	
+83-17	10153-10159	1915(g	*[100]	Legal Source[100]	
+83-18	10160-10161	)	*[100]	Legal Source[100]	
+83-19	10162-10166	must	_	_	
+83-20	10167-10174	closely	_	_	
+83-21	10175-10183	resemble	_	_	
+83-22	10184-10193	frivolous	_	_	
+83-23	10194-10196	or	_	_	
+83-24	10197-10206	malicious	_	_	
+83-25	10207-10211	ones	_	_	
+83-26	10212-10213	.	_	_	
+
+#Text=The point of the PLRA , as its terms show , was to cabin not only abusive but also simply meritless prisoner suits .
+84-1	10214-10217	The	_	_	
+84-2	10218-10223	point	_	_	
+84-3	10224-10226	of	_	_	
+84-4	10227-10230	the	_	_	
+84-5	10231-10235	PLRA	*	Legal Source	
+84-6	10236-10237	,	_	_	
+84-7	10238-10240	as	_	_	
+84-8	10241-10244	its	_	_	
+84-9	10245-10250	terms	*	Metalinguistic Cue	
+84-10	10251-10255	show	_	_	
+84-11	10256-10257	,	_	_	
+84-12	10258-10261	was	_	_	
+84-13	10262-10264	to	_	_	
+84-14	10265-10270	cabin	_	_	
+84-15	10271-10274	not	_	_	
+84-16	10275-10279	only	_	_	
+84-17	10280-10287	abusive	_	_	
+84-18	10288-10291	but	_	_	
+84-19	10292-10296	also	_	_	
+84-20	10297-10303	simply	_	_	
+84-21	10304-10313	meritless	_	_	
+84-22	10314-10322	prisoner	_	_	
+84-23	10323-10328	suits	_	_	
+84-24	10329-10330	.	_	_	
+
+#Text=Before the PLRA , the statute governing IFP claims targeted frivolous and malicious actions , but no others .
+85-1	10331-10337	Before	_	_	
+85-2	10338-10341	the	_	_	
+85-3	10342-10346	PLRA	*	Legal Source	
+85-4	10347-10348	,	_	_	
+85-5	10349-10352	the	_	_	
+85-6	10353-10360	statute	_	_	
+85-7	10361-10370	governing	_	_	
+85-8	10371-10374	IFP	_	_	
+85-9	10375-10381	claims	_	_	
+85-10	10382-10390	targeted	_	_	
+85-11	10391-10400	frivolous	_	_	
+85-12	10401-10404	and	_	_	
+85-13	10405-10414	malicious	_	_	
+85-14	10415-10422	actions	_	_	
+85-15	10423-10424	,	_	_	
+85-16	10425-10428	but	_	_	
+85-17	10429-10431	no	_	_	
+85-18	10432-10438	others	_	_	
+85-19	10439-10440	.	_	_	
+
+#Text=See Neitzke v. Williams , 490 U.S. 319 , 328 , 109 S.Ct . 1827 , 104 L.Ed.2d 338 ( 1989 ) .
+86-1	10441-10444	See	_	_	
+86-2	10445-10452	Neitzke	*[101]	Legal Source[101]	
+86-3	10453-10455	v.	*[101]	Legal Source[101]	
+86-4	10456-10464	Williams	*[101]	Legal Source[101]	
+86-5	10465-10466	,	*[101]	Legal Source[101]	
+86-6	10467-10470	490	*[101]	Legal Source[101]	
+86-7	10471-10475	U.S.	*[101]	Legal Source[101]	
+86-8	10476-10479	319	*[101]	Legal Source[101]	
+86-9	10480-10481	,	*[101]	Legal Source[101]	
+86-10	10482-10485	328	*[101]	Legal Source[101]	
+86-11	10486-10487	,	*[101]	Legal Source[101]	
+86-12	10488-10491	109	*[101]	Legal Source[101]	
+86-13	10492-10496	S.Ct	*[101]	Legal Source[101]	
+86-14	10497-10498	.	*[101]	Legal Source[101]	
+86-15	10499-10503	1827	*[101]	Legal Source[101]	
+86-16	10504-10505	,	*[101]	Legal Source[101]	
+86-17	10506-10509	104	*[101]	Legal Source[101]	
+86-18	10510-10517	L.Ed.2d	*[101]	Legal Source[101]	
+86-19	10518-10521	338	*[101]	Legal Source[101]	
+86-20	10522-10523	(	*[101]	Legal Source[101]	
+86-21	10524-10528	1989	*[101]	Legal Source[101]	
+86-22	10529-10530	)	*[101]	Legal Source[101]	
+86-23	10531-10532	.	_	_	
+
+#Text=In the PLRA , Congress chose to go further - precisely by aiming as well at actions that failed to state a claim .
+87-1	10533-10535	In	_	_	
+87-2	10536-10539	the	_	_	
+87-3	10540-10544	PLRA	*	Legal Source	
+87-4	10545-10546	,	_	_	
+87-5	10547-10555	Congress	_	_	
+87-6	10556-10561	chose	_	_	
+87-7	10562-10564	to	_	_	
+87-8	10565-10567	go	_	_	
+87-9	10568-10575	further	_	_	
+87-10	10576-10577	-	_	_	
+87-11	10578-10587	precisely	_	_	
+87-12	10588-10590	by	_	_	
+87-13	10591-10597	aiming	_	_	
+87-14	10598-10600	as	_	_	
+87-15	10601-10605	well	_	_	
+87-16	10606-10608	at	_	_	
+87-17	10609-10616	actions	_	_	
+87-18	10617-10621	that	_	_	
+87-19	10622-10628	failed	_	_	
+87-20	10629-10631	to	_	_	
+87-21	10632-10637	state	_	_	
+87-22	10638-10639	a	_	_	
+87-23	10640-10645	claim	_	_	
+87-24	10646-10647	.	_	_	
+
+#Text=The theory was that a " flood of nonmeritorious claims , " even if not in any way abusive , was " effectively preclud[ing ] consideration of " suits more likely to succeed .
+88-1	10648-10651	The	_	_	
+88-2	10652-10658	theory	_	_	
+88-3	10659-10662	was	_	_	
+88-4	10663-10667	that	_	_	
+88-5	10668-10669	a	_	_	
+88-6	10670-10671	"	*[102]	Direct Quote[102]	
+88-7	10672-10677	flood	*[102]	Direct Quote[102]	
+88-8	10678-10680	of	*[102]	Direct Quote[102]	
+88-9	10681-10695	nonmeritorious	*[102]	Direct Quote[102]	
+88-10	10696-10702	claims	*[102]	Direct Quote[102]	
+88-11	10703-10704	,	*[102]	Direct Quote[102]	
+88-12	10705-10706	"	*[102]	Direct Quote[102]	
+88-13	10707-10711	even	_	_	
+88-14	10712-10714	if	_	_	
+88-15	10715-10718	not	_	_	
+88-16	10719-10721	in	_	_	
+88-17	10722-10725	any	_	_	
+88-18	10726-10729	way	_	_	
+88-19	10730-10737	abusive	_	_	
+88-20	10738-10739	,	_	_	
+88-21	10740-10743	was	_	_	
+88-22	10744-10745	"	*[103]	Direct Quote[103]	
+88-23	10746-10757	effectively	*[103]	Direct Quote[103]	
+88-24	10758-10769	preclud[ing	*[103]	Direct Quote[103]	
+88-25	10770-10771	]	*[103]	Direct Quote[103]	
+88-26	10772-10785	consideration	*[103]	Direct Quote[103]	
+88-27	10786-10788	of	*[103]	Direct Quote[103]	
+88-28	10789-10790	"	*[103]	Direct Quote[103]	
+88-29	10791-10796	suits	_	_	
+88-30	10797-10801	more	_	_	
+88-31	10802-10808	likely	_	_	
+88-32	10809-10811	to	_	_	
+88-33	10812-10819	succeed	_	_	
+88-34	10820-10821	.	_	_	
+
+#Text=Jones , 549 U.S. at 203 , 127 S.Ct . 910 .
+89-1	10822-10827	Jones	*[104]	Legal Source[104]	
+89-2	10828-10829	,	*[104]	Legal Source[104]	
+89-3	10830-10833	549	*[104]	Legal Source[104]	
+89-4	10834-10838	U.S.	*[104]	Legal Source[104]	
+89-5	10839-10841	at	*[104]	Legal Source[104]	
+89-6	10842-10845	203	*[104]	Legal Source[104]	
+89-7	10846-10847	,	*[104]	Legal Source[104]	
+89-8	10848-10851	127	*[104]	Legal Source[104]	
+89-9	10852-10856	S.Ct	*[104]	Legal Source[104]	
+89-10	10857-10858	.	*[104]	Legal Source[104]	
+89-11	10859-10862	910	*[104]	Legal Source[104]	
+89-12	10863-10864	.	_	_	
+
+#Text=So we can not , in the interest of " harmonization , " interpret the phrase " failure to state a claim " based on the pre - existing terms " frivolous " and " malicious . "
+90-1	10865-10867	So	_	_	
+90-2	10868-10870	we	_	_	
+90-3	10871-10874	can	_	_	
+90-4	10875-10878	not	_	_	
+90-5	10879-10880	,	_	_	
+90-6	10881-10883	in	_	_	
+90-7	10884-10887	the	_	_	
+90-8	10888-10896	interest	_	_	
+90-9	10897-10899	of	_	_	
+90-10	10900-10901	"	*[105]	Direct Quote[105]	
+90-11	10902-10915	harmonization	*[105]	Direct Quote[105]	
+90-12	10916-10917	,	*[105]	Direct Quote[105]	
+90-13	10918-10919	"	*[105]	Direct Quote[105]	
+90-14	10920-10929	interpret	*	Metalinguistic Cue	
+90-15	10930-10933	the	_	_	
+90-16	10934-10940	phrase	*	Metalinguistic Cue	
+90-17	10941-10942	"	*[106]	Direct Quote[106]	
+90-18	10943-10950	failure	*[106]	Direct Quote[106]	
+90-19	10951-10953	to	*[106]	Direct Quote[106]	
+90-20	10954-10959	state	*[106]	Direct Quote[106]	
+90-21	10960-10961	a	*[106]	Direct Quote[106]	
+90-22	10962-10967	claim	*[106]	Direct Quote[106]	
+90-23	10968-10969	"	*[106]	Direct Quote[106]	
+90-24	10970-10975	based	_	_	
+90-25	10976-10978	on	_	_	
+90-26	10979-10982	the	_	_	
+90-27	10983-10986	pre	_	_	
+90-28	10987-10988	-	_	_	
+90-29	10989-10997	existing	_	_	
+90-30	10998-11003	terms	*	Metalinguistic Cue	
+90-31	11004-11005	"	*[107]	Direct Quote[107]	
+90-32	11006-11015	frivolous	*[107]|*[108]	Direct Quote[107]|Focal Term[108]	
+90-33	11016-11017	"	*[107]	Direct Quote[107]	
+90-34	11018-11021	and	_	_	
+90-35	11022-11023	"	*[109]	Direct Quote[109]	
+90-36	11024-11033	malicious	*[109]|*[110]	Direct Quote[109]|Focal Term[110]	
+90-37	11034-11035	.	*[109]	Direct Quote[109]	
+90-38	11036-11037	"	*[109]	Direct Quote[109]	
+
+#Text=Cf . Babbitt v. Sweet Home Chapter , Communities for Great Ore. , 515 U.S. 687 , 702 , 705 , 115 S.Ct . 2407 , 132 L.Ed.2d 597 ( 1995 ) ( rejecting use of the noscitur canon when " the Senate went out of its way to add " a " broad word " to a statute ) .
+91-1	11038-11040	Cf	_	_	
+91-2	11041-11042	.	_	_	
+91-3	11043-11050	Babbitt	*[111]	Legal Source[111]	
+91-4	11051-11053	v.	*[111]	Legal Source[111]	
+91-5	11054-11059	Sweet	*[111]	Legal Source[111]	
+91-6	11060-11064	Home	*[111]	Legal Source[111]	
+91-7	11065-11072	Chapter	*[111]	Legal Source[111]	
+91-8	11073-11074	,	*[111]	Legal Source[111]	
+91-9	11075-11086	Communities	*[111]	Legal Source[111]	
+91-10	11087-11090	for	*[111]	Legal Source[111]	
+91-11	11091-11096	Great	*[111]	Legal Source[111]	
+91-12	11097-11101	Ore.	*[111]	Legal Source[111]	
+91-13	11102-11103	,	*[111]	Legal Source[111]	
+91-14	11104-11107	515	*[111]	Legal Source[111]	
+91-15	11108-11112	U.S.	*[111]	Legal Source[111]	
+91-16	11113-11116	687	*[111]	Legal Source[111]	
+91-17	11117-11118	,	*[111]	Legal Source[111]	
+91-18	11119-11122	702	*[111]	Legal Source[111]	
+91-19	11123-11124	,	*[111]	Legal Source[111]	
+91-20	11125-11128	705	*[111]	Legal Source[111]	
+91-21	11129-11130	,	*[111]	Legal Source[111]	
+91-22	11131-11134	115	*[111]	Legal Source[111]	
+91-23	11135-11139	S.Ct	*[111]	Legal Source[111]	
+91-24	11140-11141	.	*[111]	Legal Source[111]	
+91-25	11142-11146	2407	*[111]	Legal Source[111]	
+91-26	11147-11148	,	*[111]	Legal Source[111]	
+91-27	11149-11152	132	*[111]	Legal Source[111]	
+91-28	11153-11160	L.Ed.2d	*[111]	Legal Source[111]	
+91-29	11161-11164	597	*[111]	Legal Source[111]	
+91-30	11165-11166	(	*[111]	Legal Source[111]	
+91-31	11167-11171	1995	*[111]	Legal Source[111]	
+91-32	11172-11173	)	*[111]	Legal Source[111]	
+91-33	11174-11175	(	_	_	
+91-34	11176-11185	rejecting	_	_	
+91-35	11186-11189	use	_	_	
+91-36	11190-11192	of	_	_	
+91-37	11193-11196	the	_	_	
+91-38	11197-11205	noscitur	*[112]	Named Interpretive Rule[112]	
+91-39	11206-11211	canon	*[112]	Named Interpretive Rule[112]	
+91-40	11212-11216	when	_	_	
+91-41	11217-11218	"	*[113]	Direct Quote[113]	
+91-42	11219-11222	the	*[113]	Direct Quote[113]	
+91-43	11223-11229	Senate	*[113]	Direct Quote[113]	
+91-44	11230-11234	went	*[113]	Direct Quote[113]	
+91-45	11235-11238	out	*[113]	Direct Quote[113]	
+91-46	11239-11241	of	*[113]	Direct Quote[113]	
+91-47	11242-11245	its	*[113]	Direct Quote[113]	
+91-48	11246-11249	way	*[113]	Direct Quote[113]	
+91-49	11250-11252	to	*[113]	Direct Quote[113]	
+91-50	11253-11256	add	*[113]	Direct Quote[113]	
+91-51	11257-11258	"	*[113]	Direct Quote[113]	
+91-52	11259-11260	a	_	_	
+91-53	11261-11262	"	*[114]	Direct Quote[114]	
+91-54	11263-11268	broad	*[114]|*[115]	Direct Quote[114]|Metalinguistic Cue[115]	
+91-55	11269-11273	word	*[114]|*[115]	Direct Quote[114]|Metalinguistic Cue[115]	
+91-56	11274-11275	"	*[114]	Direct Quote[114]	
+91-57	11276-11278	to	_	_	
+91-58	11279-11280	a	_	_	
+91-59	11281-11288	statute	_	_	
+91-60	11289-11290	)	_	_	
+91-61	11291-11292	.	_	_	
+
+#Text=That would defeat the PLRA 's expansion of the statute beyond what was already there .
+92-1	11293-11297	That	_	_	
+92-2	11298-11303	would	_	_	
+92-3	11304-11310	defeat	_	_	
+92-4	11311-11314	the	_	_	
+92-5	11315-11319	PLRA	*	Legal Source	
+92-6	11320-11322	's	_	_	
+92-7	11323-11332	expansion	_	_	
+92-8	11333-11335	of	_	_	
+92-9	11336-11339	the	_	_	
+92-10	11340-11347	statute	_	_	
+92-11	11348-11354	beyond	_	_	
+92-12	11355-11359	what	_	_	
+92-13	11360-11363	was	_	_	
+92-14	11364-11371	already	_	_	
+92-15	11372-11377	there	_	_	
+92-16	11378-11379	.	_	_	
+
+#Text=III
+93-1	11380-11383	III	_	_	
+
+#Text=The text of the PLRA 's three - strikes provision makes this case an easy call .
+94-1	11384-11387	The	_	_	
+94-2	11388-11392	text	*	Metalinguistic Cue	
+94-3	11393-11395	of	_	_	
+94-4	11396-11399	the	_	_	
+94-5	11400-11404	PLRA	*	Legal Source	
+94-6	11405-11407	's	_	_	
+94-7	11408-11413	three	_	_	
+94-8	11414-11415	-	_	_	
+94-9	11416-11423	strikes	_	_	
+94-10	11424-11433	provision	_	_	
+94-11	11434-11439	makes	_	_	
+94-12	11440-11444	this	_	_	
+94-13	11445-11449	case	_	_	
+94-14	11450-11452	an	_	_	
+94-15	11453-11457	easy	_	_	
+94-16	11458-11462	call	_	_	
+94-17	11463-11464	.	_	_	
+
+#Text=A dismissal of a suit for failure to state a claim counts as a strike , whether or not with prejudice .
+95-1	11465-11466	A	_	_	
+95-2	11467-11476	dismissal	_	_	
+95-3	11477-11479	of	_	_	
+95-4	11480-11481	a	_	_	
+95-5	11482-11486	suit	_	_	
+95-6	11487-11490	for	_	_	
+95-7	11491-11498	failure	_	_	
+95-8	11499-11501	to	_	_	
+95-9	11502-11507	state	_	_	
+95-10	11508-11509	a	_	_	
+95-11	11510-11515	claim	_	_	
+95-12	11516-11522	counts	_	_	
+95-13	11523-11525	as	_	_	
+95-14	11526-11527	a	_	_	
+95-15	11528-11534	strike	_	_	
+95-16	11535-11536	,	_	_	
+95-17	11537-11544	whether	_	_	
+95-18	11545-11547	or	_	_	
+95-19	11548-11551	not	_	_	
+95-20	11552-11556	with	_	_	
+95-21	11557-11566	prejudice	_	_	
+95-22	11567-11568	.	_	_	
+
+#Text=We therefore affirm the judgment below .
+96-1	11569-11571	We	_	_	
+96-2	11572-11581	therefore	_	_	
+96-3	11582-11588	affirm	_	_	
+96-4	11589-11592	the	_	_	
+96-5	11593-11601	judgment	_	_	
+96-6	11602-11607	below	_	_	
+96-7	11608-11609	.	_	_	
+
+#Text=It is so ordered .
+97-1	11610-11612	It	_	_	
+97-2	11613-11615	is	_	_	
+97-3	11616-11618	so	_	_	
+97-4	11619-11626	ordered	_	_	
+97-5	11627-11628	.	_	_	

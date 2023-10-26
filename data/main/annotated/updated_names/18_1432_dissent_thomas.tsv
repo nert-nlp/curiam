@@ -1,0 +1,2721 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice THOMAS , with whom Justice ALITO joins , dissenting .
+1-1	0-7	Justice	_	_	
+1-2	8-14	THOMAS	_	_	
+1-3	15-16	,	_	_	
+1-4	17-21	with	_	_	
+1-5	22-26	whom	_	_	
+1-6	27-34	Justice	_	_	
+1-7	35-40	ALITO	_	_	
+1-8	41-46	joins	_	_	
+1-9	47-48	,	_	_	
+1-10	49-59	dissenting	_	_	
+1-11	60-61	.	_	_	
+
+#Text=The majority holds that the federal courts of appeals have jurisdiction to review factual challenges to orders resolving claims brought under the Convention Against Torture and Other Cruel , Inhuman or Degrading Treatment or Punishment .
+2-1	63-66	The	_	_	
+2-2	67-75	majority	_	_	
+2-3	76-81	holds	_	_	
+2-4	82-86	that	_	_	
+2-5	87-90	the	_	_	
+2-6	91-98	federal	_	_	
+2-7	99-105	courts	_	_	
+2-8	106-108	of	_	_	
+2-9	109-116	appeals	_	_	
+2-10	117-121	have	_	_	
+2-11	122-134	jurisdiction	_	_	
+2-12	135-137	to	_	_	
+2-13	138-144	review	_	_	
+2-14	145-152	factual	_	_	
+2-15	153-163	challenges	_	_	
+2-16	164-166	to	_	_	
+2-17	167-173	orders	_	_	
+2-18	174-183	resolving	_	_	
+2-19	184-190	claims	_	_	
+2-20	191-198	brought	_	_	
+2-21	199-204	under	_	_	
+2-22	205-208	the	_	_	
+2-23	209-219	Convention	*[1]	Legal Source[1]	
+2-24	220-227	Against	*[1]	Legal Source[1]	
+2-25	228-235	Torture	*[1]	Legal Source[1]	
+2-26	236-239	and	*[1]	Legal Source[1]	
+2-27	240-245	Other	*[1]	Legal Source[1]	
+2-28	246-251	Cruel	*[1]	Legal Source[1]	
+2-29	252-253	,	*[1]	Legal Source[1]	
+2-30	254-261	Inhuman	*[1]	Legal Source[1]	
+2-31	262-264	or	*[1]	Legal Source[1]	
+2-32	265-274	Degrading	*[1]	Legal Source[1]	
+2-33	275-284	Treatment	*[1]	Legal Source[1]	
+2-34	285-287	or	*[1]	Legal Source[1]	
+2-35	288-298	Punishment	*[1]	Legal Source[1]	
+2-36	299-300	.	_	_	
+
+#Text=Because I disagree with this interpretation of the relevant immigration laws , I respectfully dissent .
+3-1	302-309	Because	_	_	
+3-2	310-311	I	_	_	
+3-3	312-320	disagree	_	_	
+3-4	321-325	with	_	_	
+3-5	326-330	this	_	_	
+3-6	331-345	interpretation	_	_	
+3-7	346-348	of	_	_	
+3-8	349-352	the	_	_	
+3-9	353-361	relevant	_	_	
+3-10	362-373	immigration	_	_	
+3-11	374-378	laws	_	_	
+3-12	379-380	,	_	_	
+3-13	381-382	I	_	_	
+3-14	383-395	respectfully	_	_	
+3-15	396-403	dissent	_	_	
+3-16	404-405	.	_	_	
+
+#Text=I
+4-1	407-408	I	_	_	
+
+#Text=The Convention Against Torture and Other Cruel , Inhuman or Degrading Treatment or Punishment ( CAT or Convention ) is an international human rights treaty that , as its name implies , obligates signatories to work to eradicate torture .
+5-1	410-413	The	_	_	
+5-2	414-424	Convention	*[2]	Legal Source[2]	
+5-3	425-432	Against	*[2]	Legal Source[2]	
+5-4	433-440	Torture	*[2]	Legal Source[2]	
+5-5	441-444	and	*[2]	Legal Source[2]	
+5-6	445-450	Other	*[2]	Legal Source[2]	
+5-7	451-456	Cruel	*[2]	Legal Source[2]	
+5-8	457-458	,	*[2]	Legal Source[2]	
+5-9	459-466	Inhuman	*[2]	Legal Source[2]	
+5-10	467-469	or	*[2]	Legal Source[2]	
+5-11	470-479	Degrading	*[2]	Legal Source[2]	
+5-12	480-489	Treatment	*[2]	Legal Source[2]	
+5-13	490-492	or	*[2]	Legal Source[2]	
+5-14	493-503	Punishment	*[2]	Legal Source[2]	
+5-15	504-505	(	_	_	
+5-16	506-509	CAT	_	_	
+5-17	510-512	or	_	_	
+5-18	513-523	Convention	_	_	
+5-19	524-525	)	_	_	
+5-20	526-528	is	_	_	
+5-21	529-531	an	_	_	
+5-22	532-545	international	_	_	
+5-23	546-551	human	_	_	
+5-24	552-558	rights	_	_	
+5-25	559-565	treaty	_	_	
+5-26	566-570	that	_	_	
+5-27	571-572	,	_	_	
+5-28	573-575	as	_	_	
+5-29	576-579	its	_	_	
+5-30	580-584	name	_	_	
+5-31	585-592	implies	_	_	
+5-32	593-594	,	_	_	
+5-33	595-604	obligates	_	_	
+5-34	605-616	signatories	_	_	
+5-35	617-619	to	_	_	
+5-36	620-624	work	_	_	
+5-37	625-627	to	_	_	
+5-38	628-637	eradicate	_	_	
+5-39	638-645	torture	_	_	
+5-40	646-647	.	_	_	
+
+#Text=The Convention was sent to the Senate for its advice and consent in 1990 .
+6-1	649-652	The	_	_	
+6-2	653-663	Convention	*	Legal Source	
+6-3	664-667	was	_	_	
+6-4	668-672	sent	_	_	
+6-5	673-675	to	_	_	
+6-6	676-679	the	_	_	
+6-7	680-686	Senate	_	_	
+6-8	687-690	for	_	_	
+6-9	691-694	its	_	_	
+6-10	695-701	advice	_	_	
+6-11	702-705	and	_	_	
+6-12	706-713	consent	_	_	
+6-13	714-716	in	_	_	
+6-14	717-721	1990	_	_	
+6-15	722-723	.	_	_	
+
+#Text=Although the Senate ultimately ratified the treaty , it also determined that the first 16 articles of the Convention were not self - executing .
+7-1	725-733	Although	_	_	
+7-2	734-737	the	_	_	
+7-3	738-744	Senate	_	_	
+7-4	745-755	ultimately	_	_	
+7-5	756-764	ratified	_	_	
+7-6	765-768	the	_	_	
+7-7	769-775	treaty	_	_	
+7-8	776-777	,	_	_	
+7-9	778-780	it	_	_	
+7-10	781-785	also	_	_	
+7-11	786-796	determined	_	_	
+7-12	797-801	that	_	_	
+7-13	802-805	the	_	_	
+7-14	806-811	first	_	_	
+7-15	812-814	16	_	_	
+7-16	815-823	articles	_	_	
+7-17	824-826	of	_	_	
+7-18	827-830	the	_	_	
+7-19	831-841	Convention	_	_	
+7-20	842-846	were	_	_	
+7-21	847-850	not	_	_	
+7-22	851-855	self	_	_	
+7-23	856-857	-	_	_	
+7-24	858-867	executing	_	_	
+7-25	868-869	.	_	_	
+
+#Text=See S. Exec . Rep. No . 101 - 30 , p. 31 ( 1990 ) .
+8-1	871-874	See	_	_	
+8-2	875-877	S.	*[3]	Legal Source[3]	
+8-3	878-882	Exec	*[3]	Legal Source[3]	
+8-4	883-884	.	*[3]	Legal Source[3]	
+8-5	885-889	Rep.	*[3]	Legal Source[3]	
+8-6	890-892	No	*[3]	Legal Source[3]	
+8-7	893-894	.	*[3]	Legal Source[3]	
+8-8	895-898	101	*[3]	Legal Source[3]	
+8-9	899-900	-	*[3]	Legal Source[3]	
+8-10	901-903	30	*[3]	Legal Source[3]	
+8-11	904-905	,	*[3]	Legal Source[3]	
+8-12	906-908	p.	*[3]	Legal Source[3]	
+8-13	909-911	31	*[3]	Legal Source[3]	
+8-14	912-913	(	*[3]	Legal Source[3]	
+8-15	914-918	1990	*[3]	Legal Source[3]	
+8-16	919-920	)	*[3]	Legal Source[3]	
+8-17	921-922	.	_	_	
+
+#Text=As such , those articles required implementing legislation before their obligations could become effective as domestic law .
+9-1	924-926	As	_	_	
+9-2	927-931	such	_	_	
+9-3	932-933	,	_	_	
+9-4	934-939	those	_	_	
+9-5	940-948	articles	_	_	
+9-6	949-957	required	_	_	
+9-7	958-970	implementing	_	_	
+9-8	971-982	legislation	_	_	
+9-9	983-989	before	_	_	
+9-10	990-995	their	_	_	
+9-11	996-1007	obligations	_	_	
+9-12	1008-1013	could	_	_	
+9-13	1014-1020	become	_	_	
+9-14	1021-1030	effective	_	_	
+9-15	1031-1033	as	_	_	
+9-16	1034-1042	domestic	_	_	
+9-17	1043-1046	law	_	_	
+9-18	1047-1048	.	_	_	
+
+#Text=See Medellín v. Texas , 552 U.S. 491 , 505 , n. 2 , 128 S.Ct . 1346 , 170 L.Ed.2d 190 ( 2008 ) .
+10-1	1050-1053	See	_	_	
+10-2	1054-1062	Medellín	*[4]	Legal Source[4]	
+10-3	1063-1065	v.	*[4]	Legal Source[4]	
+10-4	1066-1071	Texas	*[4]	Legal Source[4]	
+10-5	1072-1073	,	*[4]	Legal Source[4]	
+10-6	1074-1077	552	*[4]	Legal Source[4]	
+10-7	1078-1082	U.S.	*[4]	Legal Source[4]	
+10-8	1083-1086	491	*[4]	Legal Source[4]	
+10-9	1087-1088	,	*[4]	Legal Source[4]	
+10-10	1089-1092	505	*[4]	Legal Source[4]	
+10-11	1093-1094	,	*[4]	Legal Source[4]	
+10-12	1095-1097	n.	*[4]	Legal Source[4]	
+10-13	1098-1099	2	*[4]	Legal Source[4]	
+10-14	1100-1101	,	*[4]	Legal Source[4]	
+10-15	1102-1105	128	*[4]	Legal Source[4]	
+10-16	1106-1110	S.Ct	*[4]	Legal Source[4]	
+10-17	1111-1112	.	*[4]	Legal Source[4]	
+10-18	1113-1117	1346	*[4]	Legal Source[4]	
+10-19	1118-1119	,	*[4]	Legal Source[4]	
+10-20	1120-1123	170	*[4]	Legal Source[4]	
+10-21	1124-1131	L.Ed.2d	*[4]	Legal Source[4]	
+10-22	1132-1135	190	*[4]	Legal Source[4]	
+10-23	1136-1137	(	*[4]	Legal Source[4]	
+10-24	1138-1142	2008	*[4]	Legal Source[4]	
+10-25	1143-1144	)	*[4]	Legal Source[4]	
+10-26	1145-1146	.	_	_	
+
+#Text=After the treaty was ratified , Congress enacted legislation implementing Article III of the Convention by means of the Foreign Affairs Reform and Restructuring Act of 1998 ( FARRA ) .
+11-1	1148-1153	After	_	_	
+11-2	1154-1157	the	_	_	
+11-3	1158-1164	treaty	_	_	
+11-4	1165-1168	was	_	_	
+11-5	1169-1177	ratified	_	_	
+11-6	1178-1179	,	_	_	
+11-7	1180-1188	Congress	_	_	
+11-8	1189-1196	enacted	_	_	
+11-9	1197-1208	legislation	_	_	
+11-10	1209-1221	implementing	_	_	
+11-11	1222-1229	Article	*[5]	Legal Source[5]	
+11-12	1230-1233	III	*[5]	Legal Source[5]	
+11-13	1234-1236	of	*[5]	Legal Source[5]	
+11-14	1237-1240	the	*[5]	Legal Source[5]	
+11-15	1241-1251	Convention	*[5]	Legal Source[5]	
+11-16	1252-1254	by	_	_	
+11-17	1255-1260	means	_	_	
+11-18	1261-1263	of	_	_	
+11-19	1264-1267	the	_	_	
+11-20	1268-1275	Foreign	*[6]	Legal Source[6]	
+11-21	1276-1283	Affairs	*[6]	Legal Source[6]	
+11-22	1284-1290	Reform	*[6]	Legal Source[6]	
+11-23	1291-1294	and	*[6]	Legal Source[6]	
+11-24	1295-1308	Restructuring	*[6]	Legal Source[6]	
+11-25	1309-1312	Act	*[6]	Legal Source[6]	
+11-26	1313-1315	of	*[6]	Legal Source[6]	
+11-27	1316-1320	1998	*[6]	Legal Source[6]	
+11-28	1321-1322	(	*[6]	Legal Source[6]	
+11-29	1323-1328	FARRA	*[6]	Legal Source[6]	
+11-30	1329-1330	)	*[6]	Legal Source[6]	
+11-31	1331-1332	.	_	_	
+
+#Text=See § 2242 , 112 Stat . 2681 -822 , note following 8 U.S.C. § 1231 .
+12-1	1334-1337	See	_	_	
+12-2	1338-1339	§	*[7]	Legal Source[7]	
+12-3	1340-1344	2242	*[7]	Legal Source[7]	
+12-4	1345-1346	,	*[7]	Legal Source[7]	
+12-5	1347-1350	112	*[7]	Legal Source[7]	
+12-6	1351-1355	Stat	*[7]	Legal Source[7]	
+12-7	1356-1357	.	*[7]	Legal Source[7]	
+12-8	1358-1362	2681	*[7]	Legal Source[7]	
+12-9	1363-1367	-822	*[7]	Legal Source[7]	
+12-10	1368-1369	,	*[7]	Legal Source[7]	
+12-11	1370-1374	note	*[7]	Legal Source[7]	
+12-12	1375-1384	following	*[7]	Legal Source[7]	
+12-13	1385-1386	8	*[7]	Legal Source[7]	
+12-14	1387-1393	U.S.C.	*[7]	Legal Source[7]	
+12-15	1394-1395	§	*[7]	Legal Source[7]	
+12-16	1396-1400	1231	*[7]	Legal Source[7]	
+12-17	1401-1402	.	_	_	
+
+#Text=Article III of the Convention prohibits its signatories from " expel[ling ] , return[ing ] or extradit[ing ] a person to another State where there are substantial grounds for believing that he would be in danger of being subjected to torture . "
+13-1	1404-1411	Article	*[8]	Legal Source[8]	
+13-2	1412-1415	III	*[8]	Legal Source[8]	
+13-3	1416-1418	of	*[8]	Legal Source[8]	
+13-4	1419-1422	the	*[8]	Legal Source[8]	
+13-5	1423-1433	Convention	*[8]	Legal Source[8]	
+13-6	1434-1443	prohibits	_	_	
+13-7	1444-1447	its	_	_	
+13-8	1448-1459	signatories	_	_	
+13-9	1460-1464	from	_	_	
+13-10	1465-1466	"	*[9]	Direct Quote[9]	
+13-11	1467-1477	expel[ling	*[9]	Direct Quote[9]	
+13-12	1478-1479	]	*[9]	Direct Quote[9]	
+13-13	1480-1481	,	*[9]	Direct Quote[9]	
+13-14	1482-1492	return[ing	*[9]	Direct Quote[9]	
+13-15	1493-1494	]	*[9]	Direct Quote[9]	
+13-16	1495-1497	or	*[9]	Direct Quote[9]	
+13-17	1498-1510	extradit[ing	*[9]	Direct Quote[9]	
+13-18	1511-1512	]	*[9]	Direct Quote[9]	
+13-19	1513-1514	a	*[9]	Direct Quote[9]	
+13-20	1515-1521	person	*[9]	Direct Quote[9]	
+13-21	1522-1524	to	*[9]	Direct Quote[9]	
+13-22	1525-1532	another	*[9]	Direct Quote[9]	
+13-23	1533-1538	State	*[9]	Direct Quote[9]	
+13-24	1539-1544	where	*[9]	Direct Quote[9]	
+13-25	1545-1550	there	*[9]	Direct Quote[9]	
+13-26	1551-1554	are	*[9]	Direct Quote[9]	
+13-27	1555-1566	substantial	*[9]	Direct Quote[9]	
+13-28	1567-1574	grounds	*[9]	Direct Quote[9]	
+13-29	1575-1578	for	*[9]	Direct Quote[9]	
+13-30	1579-1588	believing	*[9]	Direct Quote[9]	
+13-31	1589-1593	that	*[9]	Direct Quote[9]	
+13-32	1594-1596	he	*[9]	Direct Quote[9]	
+13-33	1597-1602	would	*[9]	Direct Quote[9]	
+13-34	1603-1605	be	*[9]	Direct Quote[9]	
+13-35	1606-1608	in	*[9]	Direct Quote[9]	
+13-36	1609-1615	danger	*[9]	Direct Quote[9]	
+13-37	1616-1618	of	*[9]	Direct Quote[9]	
+13-38	1619-1624	being	*[9]	Direct Quote[9]	
+13-39	1625-1634	subjected	*[9]	Direct Quote[9]	
+13-40	1635-1637	to	*[9]	Direct Quote[9]	
+13-41	1638-1645	torture	*[9]	Direct Quote[9]	
+13-42	1646-1647	.	*[9]	Direct Quote[9]	
+13-43	1648-1649	"	*[9]	Direct Quote[9]	
+
+#Text=S.
+14-1	1651-1653	S.	*	Legal Source	
+
+#Text=Treaty Doc . No . 100 - 20 , p. 20 , 1465 U. N. T. S. 114 .
+15-1	1655-1661	Treaty	*[10]	Legal Source[10]	
+15-2	1662-1665	Doc	*[10]	Legal Source[10]	
+15-3	1666-1667	.	*[10]	Legal Source[10]	
+15-4	1668-1670	No	*[10]	Legal Source[10]	
+15-5	1671-1672	.	*[10]	Legal Source[10]	
+15-6	1673-1676	100	*[10]	Legal Source[10]	
+15-7	1677-1678	-	*[10]	Legal Source[10]	
+15-8	1679-1681	20	*[10]	Legal Source[10]	
+15-9	1682-1683	,	*[10]	Legal Source[10]	
+15-10	1684-1686	p.	*[10]	Legal Source[10]	
+15-11	1687-1689	20	*[10]	Legal Source[10]	
+15-12	1690-1691	,	*[10]	Legal Source[10]	
+15-13	1692-1696	1465	*[10]	Legal Source[10]	
+15-14	1697-1699	U.	*[10]	Legal Source[10]	
+15-15	1700-1702	N.	*[10]	Legal Source[10]	
+15-16	1703-1705	T.	*[10]	Legal Source[10]	
+15-17	1706-1708	S.	*[10]	Legal Source[10]	
+15-18	1709-1712	114	*[10]	Legal Source[10]	
+15-19	1713-1714	.	_	_	
+
+#Text=Rather than providing detailed guidance on the United States ' Article III obligations , FARRA merely restated the treaty 's language and perfunctorily declared that " the heads of the appropriate agencies shall prescribe regulations to implement the obligations of the United States under Article 3 . "
+16-1	1716-1722	Rather	_	_	
+16-2	1723-1727	than	_	_	
+16-3	1728-1737	providing	_	_	
+16-4	1738-1746	detailed	_	_	
+16-5	1747-1755	guidance	_	_	
+16-6	1756-1758	on	_	_	
+16-7	1759-1762	the	_	_	
+16-8	1763-1769	United	_	_	
+16-9	1770-1776	States	_	_	
+16-10	1777-1778	'	_	_	
+16-11	1779-1786	Article	_	_	
+16-12	1787-1790	III	_	_	
+16-13	1791-1802	obligations	_	_	
+16-14	1803-1804	,	_	_	
+16-15	1805-1810	FARRA	_	_	
+16-16	1811-1817	merely	_	_	
+16-17	1818-1826	restated	_	_	
+16-18	1827-1830	the	_	_	
+16-19	1831-1837	treaty	_	_	
+16-20	1838-1840	's	_	_	
+16-21	1841-1849	language	*	Metalinguistic Cue	
+16-22	1850-1853	and	_	_	
+16-23	1854-1867	perfunctorily	_	_	
+16-24	1868-1876	declared	_	_	
+16-25	1877-1881	that	_	_	
+16-26	1882-1883	"	*[11]	Direct Quote[11]	
+16-27	1884-1887	the	*[11]	Direct Quote[11]	
+16-28	1888-1893	heads	*[11]	Direct Quote[11]	
+16-29	1894-1896	of	*[11]	Direct Quote[11]	
+16-30	1897-1900	the	*[11]	Direct Quote[11]	
+16-31	1901-1912	appropriate	*[11]	Direct Quote[11]	
+16-32	1913-1921	agencies	*[11]	Direct Quote[11]	
+16-33	1922-1927	shall	*[11]	Direct Quote[11]	
+16-34	1928-1937	prescribe	*[11]	Direct Quote[11]	
+16-35	1938-1949	regulations	*[11]	Direct Quote[11]	
+16-36	1950-1952	to	*[11]	Direct Quote[11]	
+16-37	1953-1962	implement	*[11]	Direct Quote[11]	
+16-38	1963-1966	the	*[11]	Direct Quote[11]	
+16-39	1967-1978	obligations	*[11]	Direct Quote[11]	
+16-40	1979-1981	of	*[11]	Direct Quote[11]	
+16-41	1982-1985	the	*[11]	Direct Quote[11]	
+16-42	1986-1992	United	*[11]	Direct Quote[11]	
+16-43	1993-1999	States	*[11]	Direct Quote[11]	
+16-44	2000-2005	under	*[11]	Direct Quote[11]	
+16-45	2006-2013	Article	*[11]|*[12]	Direct Quote[11]|Legal Source[12]	
+16-46	2014-2015	3	*[11]|*[12]	Direct Quote[11]|Legal Source[12]	
+16-47	2016-2017	.	*[11]	Direct Quote[11]	
+16-48	2018-2019	"	*[11]	Direct Quote[11]	
+
+#Text=§ 2242(b ) .
+17-1	2021-2022	§	*[13]	Legal Source[13]	
+17-2	2023-2029	2242(b	*[13]	Legal Source[13]	
+17-3	2030-2031	)	*[13]	Legal Source[13]	
+17-4	2032-2033	.	_	_	
+
+#Text=Congress also provided that no court would have " jurisdiction to consider or review claims raised under the Convention ... except as part of the review of a final order of removal pursuant to ... ( 8 U.S.C. § 1252 ) . "
+18-1	2035-2043	Congress	_	_	
+18-2	2044-2048	also	_	_	
+18-3	2049-2057	provided	_	_	
+18-4	2058-2062	that	_	_	
+18-5	2063-2065	no	_	_	
+18-6	2066-2071	court	_	_	
+18-7	2072-2077	would	_	_	
+18-8	2078-2082	have	_	_	
+18-9	2083-2084	"	*[14]	Direct Quote[14]	
+18-10	2085-2097	jurisdiction	*[14]	Direct Quote[14]	
+18-11	2098-2100	to	*[14]	Direct Quote[14]	
+18-12	2101-2109	consider	*[14]	Direct Quote[14]	
+18-13	2110-2112	or	*[14]	Direct Quote[14]	
+18-14	2113-2119	review	*[14]	Direct Quote[14]	
+18-15	2120-2126	claims	*[14]	Direct Quote[14]	
+18-16	2127-2133	raised	*[14]	Direct Quote[14]	
+18-17	2134-2139	under	*[14]	Direct Quote[14]	
+18-18	2140-2143	the	*[14]	Direct Quote[14]	
+18-19	2144-2154	Convention	*[14]	Direct Quote[14]	
+18-20	2155-2158	...	*[14]	Direct Quote[14]	
+18-21	2159-2165	except	*[14]	Direct Quote[14]	
+18-22	2166-2168	as	*[14]	Direct Quote[14]	
+18-23	2169-2173	part	*[14]	Direct Quote[14]	
+18-24	2174-2176	of	*[14]	Direct Quote[14]	
+18-25	2177-2180	the	*[14]	Direct Quote[14]	
+18-26	2181-2187	review	*[14]	Direct Quote[14]	
+18-27	2188-2190	of	*[14]	Direct Quote[14]	
+18-28	2191-2192	a	*[14]	Direct Quote[14]	
+18-29	2193-2198	final	*[14]	Direct Quote[14]	
+18-30	2199-2204	order	*[14]	Direct Quote[14]	
+18-31	2205-2207	of	*[14]	Direct Quote[14]	
+18-32	2208-2215	removal	*[14]	Direct Quote[14]	
+18-33	2216-2224	pursuant	*[14]	Direct Quote[14]	
+18-34	2225-2227	to	*[14]	Direct Quote[14]	
+18-35	2228-2231	...	*[14]	Direct Quote[14]	
+18-36	2232-2233	(	*[14]	Direct Quote[14]	
+18-37	2234-2235	8	*[14]	Direct Quote[14]	
+18-38	2236-2242	U.S.C.	*[14]	Direct Quote[14]	
+18-39	2243-2244	§	*[14]	Direct Quote[14]	
+18-40	2245-2249	1252	*[14]	Direct Quote[14]	
+18-41	2250-2251	)	*[14]	Direct Quote[14]	
+18-42	2252-2253	.	*[14]	Direct Quote[14]	
+18-43	2254-2255	"	*[14]	Direct Quote[14]	
+
+#Text=§ 2242(d ) .
+19-1	2257-2258	§	*[15]	Legal Source[15]	
+19-2	2259-2265	2242(d	*[15]	Legal Source[15]	
+19-3	2266-2267	)	*[15]	Legal Source[15]	
+19-4	2268-2269	.	_	_	
+
+#Text=Section 1252 , in turn , grants federal courts of appeals jurisdiction to review final orders of removal .
+20-1	2271-2278	Section	_	_	
+20-2	2279-2283	1252	_	_	
+20-3	2284-2285	,	_	_	
+20-4	2286-2288	in	_	_	
+20-5	2289-2293	turn	_	_	
+20-6	2294-2295	,	_	_	
+20-7	2296-2302	grants	_	_	
+20-8	2303-2310	federal	_	_	
+20-9	2311-2317	courts	_	_	
+20-10	2318-2320	of	_	_	
+20-11	2321-2328	appeals	_	_	
+20-12	2329-2341	jurisdiction	_	_	
+20-13	2342-2344	to	_	_	
+20-14	2345-2351	review	_	_	
+20-15	2352-2357	final	_	_	
+20-16	2358-2364	orders	_	_	
+20-17	2365-2367	of	_	_	
+20-18	2368-2375	removal	_	_	
+20-19	2376-2377	.	_	_	
+
+#Text=8 U.S.C. § 1252 ( a)(1 ) .
+21-1	2379-2380	8	*[16]	Legal Source[16]	
+21-2	2381-2387	U.S.C.	*[16]	Legal Source[16]	
+21-3	2388-2389	§	*[16]	Legal Source[16]	
+21-4	2390-2394	1252	*[16]	Legal Source[16]	
+21-5	2395-2396	(	*[16]	Legal Source[16]	
+21-6	2397-2401	a)(1	*[16]	Legal Source[16]	
+21-7	2402-2403	)	*[16]	Legal Source[16]	
+21-8	2404-2405	.	_	_	
+
+#Text=It also specifies that " the sole and exclusive means for judicial review of an order of removal " is through " a petition for review filed ... in accordance with this section . "
+22-1	2407-2409	It	_	_	
+22-2	2410-2414	also	_	_	
+22-3	2415-2424	specifies	_	_	
+22-4	2425-2429	that	_	_	
+22-5	2430-2431	"	*[17]	Direct Quote[17]	
+22-6	2432-2435	the	*[17]	Direct Quote[17]	
+22-7	2436-2440	sole	*[17]	Direct Quote[17]	
+22-8	2441-2444	and	*[17]	Direct Quote[17]	
+22-9	2445-2454	exclusive	*[17]	Direct Quote[17]	
+22-10	2455-2460	means	*[17]	Direct Quote[17]	
+22-11	2461-2464	for	*[17]	Direct Quote[17]	
+22-12	2465-2473	judicial	*[17]	Direct Quote[17]	
+22-13	2474-2480	review	*[17]	Direct Quote[17]	
+22-14	2481-2483	of	*[17]	Direct Quote[17]	
+22-15	2484-2486	an	*[17]	Direct Quote[17]	
+22-16	2487-2492	order	*[17]	Direct Quote[17]	
+22-17	2493-2495	of	*[17]	Direct Quote[17]	
+22-18	2496-2503	removal	*[17]	Direct Quote[17]	
+22-19	2504-2505	"	*[17]	Direct Quote[17]	
+22-20	2506-2508	is	_	_	
+22-21	2509-2516	through	_	_	
+22-22	2517-2518	"	*[18]	Direct Quote[18]	
+22-23	2519-2520	a	*[18]	Direct Quote[18]	
+22-24	2521-2529	petition	*[18]	Direct Quote[18]	
+22-25	2530-2533	for	*[18]	Direct Quote[18]	
+22-26	2534-2540	review	*[18]	Direct Quote[18]	
+22-27	2541-2546	filed	*[18]	Direct Quote[18]	
+22-28	2547-2550	...	*[18]	Direct Quote[18]	
+22-29	2551-2553	in	*[18]	Direct Quote[18]	
+22-30	2554-2564	accordance	*[18]	Direct Quote[18]	
+22-31	2565-2569	with	*[18]	Direct Quote[18]	
+22-32	2570-2574	this	*[18]	Direct Quote[18]	
+22-33	2575-2582	section	*[18]	Direct Quote[18]	
+22-34	2583-2584	.	*[18]	Direct Quote[18]	
+22-35	2585-2586	"	*[18]	Direct Quote[18]	
+
+#Text=§ 1252(a)(5 ) .
+23-1	2588-2589	§	*[19]	Legal Source[19]	
+23-2	2590-2599	1252(a)(5	*[19]	Legal Source[19]	
+23-3	2600-2601	)	*[19]	Legal Source[19]	
+23-4	2602-2603	.	_	_	
+
+#Text=Section 1252 also contains a " zipper clause , " which states that " all questions of law or fact ... arising from any action taken or proceeding brought to remove an alien " shall be consolidated and " available only in judicial review of a final order under this section . "
+24-1	2605-2612	Section	*[20]	Legal Source[20]	
+24-2	2613-2617	1252	*[20]	Legal Source[20]	
+24-3	2618-2622	also	_	_	
+24-4	2623-2631	contains	_	_	
+24-5	2632-2633	a	_	_	
+24-6	2634-2635	"	*[21]	Direct Quote[21]	
+24-7	2636-2642	zipper	*[21]	Direct Quote[21]	
+24-8	2643-2649	clause	*[21]	Direct Quote[21]	
+24-9	2650-2651	,	*[21]	Direct Quote[21]	
+24-10	2652-2653	"	*[21]	Direct Quote[21]	
+24-11	2654-2659	which	_	_	
+24-12	2660-2666	states	_	_	
+24-13	2667-2671	that	_	_	
+24-14	2672-2673	"	*[22]	Direct Quote[22]	
+24-15	2674-2677	all	*[22]	Direct Quote[22]	
+24-16	2678-2687	questions	*[22]	Direct Quote[22]	
+24-17	2688-2690	of	*[22]	Direct Quote[22]	
+24-18	2691-2694	law	*[22]	Direct Quote[22]	
+24-19	2695-2697	or	*[22]	Direct Quote[22]	
+24-20	2698-2702	fact	*[22]	Direct Quote[22]	
+24-21	2703-2706	...	*[22]	Direct Quote[22]	
+24-22	2707-2714	arising	*[22]	Direct Quote[22]	
+24-23	2715-2719	from	*[22]	Direct Quote[22]	
+24-24	2720-2723	any	*[22]	Direct Quote[22]	
+24-25	2724-2730	action	*[22]	Direct Quote[22]	
+24-26	2731-2736	taken	*[22]	Direct Quote[22]	
+24-27	2737-2739	or	*[22]	Direct Quote[22]	
+24-28	2740-2750	proceeding	*[22]	Direct Quote[22]	
+24-29	2751-2758	brought	*[22]	Direct Quote[22]	
+24-30	2759-2761	to	*[22]	Direct Quote[22]	
+24-31	2762-2768	remove	*[22]	Direct Quote[22]	
+24-32	2769-2771	an	*[22]	Direct Quote[22]	
+24-33	2772-2777	alien	*[22]	Direct Quote[22]	
+24-34	2778-2779	"	*[22]	Direct Quote[22]	
+24-35	2780-2785	shall	_	_	
+24-36	2786-2788	be	_	_	
+24-37	2789-2801	consolidated	_	_	
+24-38	2802-2805	and	_	_	
+24-39	2806-2807	"	*[23]	Direct Quote[23]	
+24-40	2808-2817	available	*[23]	Direct Quote[23]	
+24-41	2818-2822	only	*[23]	Direct Quote[23]	
+24-42	2823-2825	in	*[23]	Direct Quote[23]	
+24-43	2826-2834	judicial	*[23]	Direct Quote[23]	
+24-44	2835-2841	review	*[23]	Direct Quote[23]	
+24-45	2842-2844	of	*[23]	Direct Quote[23]	
+24-46	2845-2846	a	*[23]	Direct Quote[23]	
+24-47	2847-2852	final	*[23]	Direct Quote[23]	
+24-48	2853-2858	order	*[23]	Direct Quote[23]	
+24-49	2859-2864	under	*[23]	Direct Quote[23]	
+24-50	2865-2869	this	*[23]	Direct Quote[23]	
+24-51	2870-2877	section	*[23]	Direct Quote[23]	
+24-52	2878-2879	.	*[23]	Direct Quote[23]	
+24-53	2880-2881	"	*[23]	Direct Quote[23]	
+
+#Text=§ 1252(b)(9 ) .
+25-1	2883-2884	§	*[24]	Legal Source[24]	
+25-2	2885-2894	1252(b)(9	*[24]	Legal Source[24]	
+25-3	2895-2896	)	*[24]	Legal Source[24]	
+25-4	2897-2898	.	_	_	
+
+#Text=At the same time , petitions for review are subject to a number of limitations , one of which is in § 1252(a)(2)(C ) .
+26-1	2900-2902	At	_	_	
+26-2	2903-2906	the	_	_	
+26-3	2907-2911	same	_	_	
+26-4	2912-2916	time	_	_	
+26-5	2917-2918	,	_	_	
+26-6	2919-2928	petitions	_	_	
+26-7	2929-2932	for	_	_	
+26-8	2933-2939	review	_	_	
+26-9	2940-2943	are	_	_	
+26-10	2944-2951	subject	_	_	
+26-11	2952-2954	to	_	_	
+26-12	2955-2956	a	_	_	
+26-13	2957-2963	number	_	_	
+26-14	2964-2966	of	_	_	
+26-15	2967-2978	limitations	_	_	
+26-16	2979-2980	,	_	_	
+26-17	2981-2984	one	_	_	
+26-18	2985-2987	of	_	_	
+26-19	2988-2993	which	_	_	
+26-20	2994-2996	is	_	_	
+26-21	2997-2999	in	_	_	
+26-22	3000-3001	§	*[25]	Legal Source[25]	
+26-23	3002-3014	1252(a)(2)(C	*[25]	Legal Source[25]	
+26-24	3015-3016	)	*[25]	Legal Source[25]	
+26-25	3017-3018	.	_	_	
+
+#Text=That provision - often referred to as the " criminal - alien bar"-states that " no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed " certain criminal offenses .
+27-1	3020-3024	That	_	_	
+27-2	3025-3034	provision	_	_	
+27-3	3035-3036	-	_	_	
+27-4	3037-3042	often	_	_	
+27-5	3043-3051	referred	_	_	
+27-6	3052-3054	to	_	_	
+27-7	3055-3057	as	_	_	
+27-8	3058-3061	the	_	_	
+27-9	3062-3063	"	*[26]	Direct Quote[26]	
+27-10	3064-3072	criminal	*[26]	Direct Quote[26]	
+27-11	3073-3074	-	*[26]	Direct Quote[26]	
+27-12	3075-3080	alien	*[26]	Direct Quote[26]	
+27-13	3081-3092	bar"-states	*[26]	Direct Quote[26]	
+27-14	3093-3097	that	_	_	
+27-15	3098-3099	"	*[27]	Direct Quote[27]	
+27-16	3100-3102	no	*[27]	Direct Quote[27]	
+27-17	3103-3108	court	*[27]	Direct Quote[27]	
+27-18	3109-3114	shall	*[27]	Direct Quote[27]	
+27-19	3115-3119	have	*[27]	Direct Quote[27]	
+27-20	3120-3132	jurisdiction	*[27]	Direct Quote[27]	
+27-21	3133-3135	to	*[27]	Direct Quote[27]	
+27-22	3136-3142	review	*[27]	Direct Quote[27]	
+27-23	3143-3146	any	*[27]	Direct Quote[27]	
+27-24	3147-3152	final	*[27]	Direct Quote[27]	
+27-25	3153-3158	order	*[27]	Direct Quote[27]	
+27-26	3159-3161	of	*[27]	Direct Quote[27]	
+27-27	3162-3169	removal	*[27]	Direct Quote[27]	
+27-28	3170-3177	against	*[27]	Direct Quote[27]	
+27-29	3178-3180	an	*[27]	Direct Quote[27]	
+27-30	3181-3186	alien	*[27]	Direct Quote[27]	
+27-31	3187-3190	who	*[27]	Direct Quote[27]	
+27-32	3191-3193	is	*[27]	Direct Quote[27]	
+27-33	3194-3203	removable	*[27]	Direct Quote[27]	
+27-34	3204-3206	by	*[27]	Direct Quote[27]	
+27-35	3207-3213	reason	*[27]	Direct Quote[27]	
+27-36	3214-3216	of	*[27]	Direct Quote[27]	
+27-37	3217-3223	having	*[27]	Direct Quote[27]	
+27-38	3224-3233	committed	*[27]	Direct Quote[27]	
+27-39	3234-3235	"	*[27]	Direct Quote[27]	
+27-40	3236-3243	certain	_	_	
+27-41	3244-3252	criminal	_	_	
+27-42	3253-3261	offenses	_	_	
+27-43	3262-3263	.	_	_	
+
+#Text=II
+28-1	3265-3267	II	_	_	
+
+#Text=A
+29-1	3269-3270	A	_	_	
+
+#Text=This case concerns whether CAT claims brought during a criminal alien 's removal proceeding are covered by the criminal - alien bar in § 1252(a)(2)(C ) .
+30-1	3272-3276	This	_	_	
+30-2	3277-3281	case	_	_	
+30-3	3282-3290	concerns	_	_	
+30-4	3291-3298	whether	_	_	
+30-5	3299-3302	CAT	_	_	
+30-6	3303-3309	claims	_	_	
+30-7	3310-3317	brought	_	_	
+30-8	3318-3324	during	_	_	
+30-9	3325-3326	a	_	_	
+30-10	3327-3335	criminal	_	_	
+30-11	3336-3341	alien	_	_	
+30-12	3342-3344	's	_	_	
+30-13	3345-3352	removal	_	_	
+30-14	3353-3363	proceeding	_	_	
+30-15	3364-3367	are	_	_	
+30-16	3368-3375	covered	_	_	
+30-17	3376-3378	by	_	_	
+30-18	3379-3382	the	_	_	
+30-19	3383-3391	criminal	_	_	
+30-20	3392-3393	-	_	_	
+30-21	3394-3399	alien	_	_	
+30-22	3400-3403	bar	_	_	
+30-23	3404-3406	in	_	_	
+30-24	3407-3408	§	*[28]	Legal Source[28]	
+30-25	3409-3421	1252(a)(2)(C	*[28]	Legal Source[28]	
+30-26	3422-3423	)	*[28]	Legal Source[28]	
+30-27	3424-3425	.	_	_	
+
+#Text=The most important provision for determining whether these CAT orders are subject to § 1252(a)(2)(C ) is the zipper clause .
+31-1	3427-3430	The	_	_	
+31-2	3431-3435	most	_	_	
+31-3	3436-3445	important	_	_	
+31-4	3446-3455	provision	_	_	
+31-5	3456-3459	for	_	_	
+31-6	3460-3471	determining	_	_	
+31-7	3472-3479	whether	_	_	
+31-8	3480-3485	these	_	_	
+31-9	3486-3489	CAT	_	_	
+31-10	3490-3496	orders	_	_	
+31-11	3497-3500	are	_	_	
+31-12	3501-3508	subject	_	_	
+31-13	3509-3511	to	_	_	
+31-14	3512-3513	§	*[29]	Legal Source[29]	
+31-15	3514-3526	1252(a)(2)(C	*[29]	Legal Source[29]	
+31-16	3527-3528	)	*[29]	Legal Source[29]	
+31-17	3529-3531	is	_	_	
+31-18	3532-3535	the	_	_	
+31-19	3536-3542	zipper	_	_	
+31-20	3543-3549	clause	_	_	
+31-21	3550-3551	.	_	_	
+
+#Text=If orders deeming a criminal alien ineligible for CAT relief fall within that clause , then the bar in § 1252(a)(2)(C ) prevents review ; if they do not , then the courts have jurisdiction to review factual challenges related to these orders .
+32-1	3553-3555	If	_	_	
+32-2	3556-3562	orders	_	_	
+32-3	3563-3570	deeming	_	_	
+32-4	3571-3572	a	_	_	
+32-5	3573-3581	criminal	_	_	
+32-6	3582-3587	alien	_	_	
+32-7	3588-3598	ineligible	_	_	
+32-8	3599-3602	for	_	_	
+32-9	3603-3606	CAT	_	_	
+32-10	3607-3613	relief	_	_	
+32-11	3614-3618	fall	_	_	
+32-12	3619-3625	within	_	_	
+32-13	3626-3630	that	_	_	
+32-14	3631-3637	clause	_	_	
+32-15	3638-3639	,	_	_	
+32-16	3640-3644	then	_	_	
+32-17	3645-3648	the	_	_	
+32-18	3649-3652	bar	_	_	
+32-19	3653-3655	in	_	_	
+32-20	3656-3657	§	*[30]	Legal Source[30]	
+32-21	3658-3670	1252(a)(2)(C	*[30]	Legal Source[30]	
+32-22	3671-3672	)	*[30]	Legal Source[30]	
+32-23	3673-3681	prevents	_	_	
+32-24	3682-3688	review	_	_	
+32-25	3689-3690	;	_	_	
+32-26	3691-3693	if	_	_	
+32-27	3694-3698	they	_	_	
+32-28	3699-3701	do	_	_	
+32-29	3702-3705	not	_	_	
+32-30	3706-3707	,	_	_	
+32-31	3708-3712	then	_	_	
+32-32	3713-3716	the	_	_	
+32-33	3717-3723	courts	_	_	
+32-34	3724-3728	have	_	_	
+32-35	3729-3741	jurisdiction	_	_	
+32-36	3742-3744	to	_	_	
+32-37	3745-3751	review	_	_	
+32-38	3752-3759	factual	_	_	
+32-39	3760-3770	challenges	_	_	
+32-40	3771-3778	related	_	_	
+32-41	3779-3781	to	_	_	
+32-42	3782-3787	these	_	_	
+32-43	3788-3794	orders	_	_	
+32-44	3795-3796	.	_	_	
+
+#Text=I would conclude that CAT orders fall within the zipper clause .
+33-1	3798-3799	I	_	_	
+33-2	3800-3805	would	_	_	
+33-3	3806-3814	conclude	_	_	
+33-4	3815-3819	that	_	_	
+33-5	3820-3823	CAT	_	_	
+33-6	3824-3830	orders	_	_	
+33-7	3831-3835	fall	_	_	
+33-8	3836-3842	within	_	_	
+33-9	3843-3846	the	_	_	
+33-10	3847-3853	zipper	_	_	
+33-11	3854-3860	clause	_	_	
+33-12	3861-3862	.	_	_	
+
+#Text=The zipper clause states that " all questions of law and fact ... arising from any action taken or proceeding brought to remove an alien ... shall be available only in judicial review of a final order under this section . "
+34-1	3864-3867	The	_	_	
+34-2	3868-3874	zipper	_	_	
+34-3	3875-3881	clause	_	_	
+34-4	3882-3888	states	_	_	
+34-5	3889-3893	that	_	_	
+34-6	3894-3895	"	*[31]	Direct Quote[31]	
+34-7	3896-3899	all	*[31]	Direct Quote[31]	
+34-8	3900-3909	questions	*[31]	Direct Quote[31]	
+34-9	3910-3912	of	*[31]	Direct Quote[31]	
+34-10	3913-3916	law	*[31]	Direct Quote[31]	
+34-11	3917-3920	and	*[31]	Direct Quote[31]	
+34-12	3921-3925	fact	*[31]	Direct Quote[31]	
+34-13	3926-3929	...	*[31]	Direct Quote[31]	
+34-14	3930-3937	arising	*[31]	Direct Quote[31]	
+34-15	3938-3942	from	*[31]	Direct Quote[31]	
+34-16	3943-3946	any	*[31]	Direct Quote[31]	
+34-17	3947-3953	action	*[31]	Direct Quote[31]	
+34-18	3954-3959	taken	*[31]	Direct Quote[31]	
+34-19	3960-3962	or	*[31]	Direct Quote[31]	
+34-20	3963-3973	proceeding	*[31]	Direct Quote[31]	
+34-21	3974-3981	brought	*[31]	Direct Quote[31]	
+34-22	3982-3984	to	*[31]	Direct Quote[31]	
+34-23	3985-3991	remove	*[31]	Direct Quote[31]	
+34-24	3992-3994	an	*[31]	Direct Quote[31]	
+34-25	3995-4000	alien	*[31]	Direct Quote[31]	
+34-26	4001-4004	...	*[31]	Direct Quote[31]	
+34-27	4005-4010	shall	*[31]	Direct Quote[31]	
+34-28	4011-4013	be	*[31]	Direct Quote[31]	
+34-29	4014-4023	available	*[31]	Direct Quote[31]	
+34-30	4024-4028	only	*[31]	Direct Quote[31]	
+34-31	4029-4031	in	*[31]	Direct Quote[31]	
+34-32	4032-4040	judicial	*[31]	Direct Quote[31]	
+34-33	4041-4047	review	*[31]	Direct Quote[31]	
+34-34	4048-4050	of	*[31]	Direct Quote[31]	
+34-35	4051-4052	a	*[31]	Direct Quote[31]	
+34-36	4053-4058	final	*[31]	Direct Quote[31]	
+34-37	4059-4064	order	*[31]	Direct Quote[31]	
+34-38	4065-4070	under	*[31]	Direct Quote[31]	
+34-39	4071-4075	this	*[31]	Direct Quote[31]	
+34-40	4076-4083	section	*[31]	Direct Quote[31]	
+34-41	4084-4085	.	*[31]	Direct Quote[31]	
+34-42	4086-4087	"	*[31]	Direct Quote[31]	
+
+#Text=§ 1252(b)(9 ) ( emphasis added ) .
+35-1	4089-4090	§	*[32]	Legal Source[32]	
+35-2	4091-4100	1252(b)(9	*[32]	Legal Source[32]	
+35-3	4101-4102	)	*[32]	Legal Source[32]	
+35-4	4103-4104	(	_	_	
+35-5	4105-4113	emphasis	_	_	
+35-6	4114-4119	added	_	_	
+35-7	4120-4121	)	_	_	
+35-8	4122-4123	.	_	_	
+
+#Text=To " arise " means " to originate from a specified source " or " to come into being . "
+36-1	4125-4127	To	_	_	
+36-2	4128-4129	"	*[33]	Direct Quote[33]	
+36-3	4130-4135	arise	*[33]|*[34]	Direct Quote[33]|Focal Term[34]	
+36-4	4136-4137	"	*[33]	Direct Quote[33]	
+36-5	4138-4143	means	*	Metalinguistic Cue	
+36-6	4144-4145	"	*[35]	Direct Quote[35]	
+36-7	4146-4148	to	*[35]|*[36]	Direct Quote[35]|Definition[36]	
+36-8	4149-4158	originate	*[35]|*[36]	Direct Quote[35]|Definition[36]	
+36-9	4159-4163	from	*[35]|*[36]	Direct Quote[35]|Definition[36]	
+36-10	4164-4165	a	*[35]|*[36]	Direct Quote[35]|Definition[36]	
+36-11	4166-4175	specified	*[35]|*[36]	Direct Quote[35]|Definition[36]	
+36-12	4176-4182	source	*[35]|*[36]	Direct Quote[35]|Definition[36]	
+36-13	4183-4184	"	*[35]	Direct Quote[35]	
+36-14	4185-4187	or	_	_	
+36-15	4188-4189	"	*[37]	Direct Quote[37]	
+36-16	4190-4192	to	*[37]|*[38]	Direct Quote[37]|Definition[38]	
+36-17	4193-4197	come	*[37]|*[38]	Direct Quote[37]|Definition[38]	
+36-18	4198-4202	into	*[37]|*[38]	Direct Quote[37]|Definition[38]	
+36-19	4203-4208	being	*[37]|*[38]	Direct Quote[37]|Definition[38]	
+36-20	4209-4210	.	*[37]	Direct Quote[37]	
+36-21	4211-4212	"	*[37]	Direct Quote[37]	
+
+#Text=Webster 's Third New International Dictionary 117 ( 1976 ) .
+37-1	4214-4221	Webster	*[39]	Language Source[39]	
+37-2	4222-4224	's	*[39]	Language Source[39]	
+37-3	4225-4230	Third	*[39]	Language Source[39]	
+37-4	4231-4234	New	*[39]	Language Source[39]	
+37-5	4235-4248	International	*[39]	Language Source[39]	
+37-6	4249-4259	Dictionary	*[39]	Language Source[39]	
+37-7	4260-4263	117	*[39]	Language Source[39]	
+37-8	4264-4265	(	*[39]	Language Source[39]	
+37-9	4266-4270	1976	*[39]	Language Source[39]	
+37-10	4271-4272	)	*[39]	Language Source[39]	
+37-11	4273-4274	.	_	_	
+
+#Text=And " from " most naturally refers here to the " ground , reason , or basis " for something .
+38-1	4276-4279	And	_	_	
+38-2	4280-4281	"	*[40]	Direct Quote[40]	
+38-3	4282-4286	from	*[40]|*[41]	Direct Quote[40]|Focal Term[41]	
+38-4	4287-4288	"	*[40]	Direct Quote[40]	
+38-5	4289-4293	most	_	_	
+38-6	4294-4303	naturally	_	_	
+38-7	4304-4310	refers	_	_	
+38-8	4311-4315	here	_	_	
+38-9	4316-4318	to	_	_	
+38-10	4319-4322	the	*[42]	Definition[42]	
+38-11	4323-4324	"	*[42]|*[43]	Definition[42]|Direct Quote[43]	
+38-12	4325-4331	ground	*[42]|*[43]	Definition[42]|Direct Quote[43]	
+38-13	4332-4333	,	*[42]|*[43]	Definition[42]|Direct Quote[43]	
+38-14	4334-4340	reason	*[42]|*[43]	Definition[42]|Direct Quote[43]	
+38-15	4341-4342	,	*[42]|*[43]	Definition[42]|Direct Quote[43]	
+38-16	4343-4345	or	*[42]|*[43]	Definition[42]|Direct Quote[43]	
+38-17	4346-4351	basis	*[42]|*[43]	Definition[42]|Direct Quote[43]	
+38-18	4352-4353	"	*[42]|*[43]	Definition[42]|Direct Quote[43]	
+38-19	4354-4357	for	*[42]	Definition[42]	
+38-20	4358-4367	something	*[42]	Definition[42]	
+38-21	4368-4369	.	_	_	
+
+#Text=Id. , at 913 .
+39-1	4371-4374	Id.	*[44]	Language Source[44]	
+39-2	4375-4376	,	*[44]	Language Source[44]	
+39-3	4377-4379	at	*[44]	Language Source[44]	
+39-4	4380-4383	913	*[44]	Language Source[44]	
+39-5	4384-4385	.	_	_	
+
+#Text=Thus , § 1252(b)(9 ) covers all " questions of law and fact " that an immigration judge must decide as a result of the Government 's decision to initiate removal proceedings against an alien .
+40-1	4387-4391	Thus	_	_	
+40-2	4392-4393	,	_	_	
+40-3	4394-4395	§	*[45]	Legal Source[45]	
+40-4	4396-4405	1252(b)(9	*[45]	Legal Source[45]	
+40-5	4406-4407	)	*[45]	Legal Source[45]	
+40-6	4408-4414	covers	_	_	
+40-7	4415-4418	all	_	_	
+40-8	4419-4420	"	*[46]	Direct Quote[46]	
+40-9	4421-4430	questions	*[46]	Direct Quote[46]	
+40-10	4431-4433	of	*[46]	Direct Quote[46]	
+40-11	4434-4437	law	*[46]	Direct Quote[46]	
+40-12	4438-4441	and	*[46]	Direct Quote[46]	
+40-13	4442-4446	fact	*[46]	Direct Quote[46]	
+40-14	4447-4448	"	*[46]	Direct Quote[46]	
+40-15	4449-4453	that	_	_	
+40-16	4454-4456	an	_	_	
+40-17	4457-4468	immigration	_	_	
+40-18	4469-4474	judge	_	_	
+40-19	4475-4479	must	_	_	
+40-20	4480-4486	decide	_	_	
+40-21	4487-4489	as	_	_	
+40-22	4490-4491	a	_	_	
+40-23	4492-4498	result	_	_	
+40-24	4499-4501	of	_	_	
+40-25	4502-4505	the	_	_	
+40-26	4506-4516	Government	_	_	
+40-27	4517-4519	's	_	_	
+40-28	4520-4528	decision	_	_	
+40-29	4529-4531	to	_	_	
+40-30	4532-4540	initiate	_	_	
+40-31	4541-4548	removal	_	_	
+40-32	4549-4560	proceedings	_	_	
+40-33	4561-4568	against	_	_	
+40-34	4569-4571	an	_	_	
+40-35	4572-4577	alien	_	_	
+40-36	4578-4579	.	_	_	
+
+#Text=See also Reno v. American - Arab Anti - Discrimination Comm . , 525 U.S. 471 , 482 , 119 S.Ct . 936 , 142 L.Ed.2d 940 ( 1999 ) ( stating that the zipper clause applies to the " many ... decisions or actions that may be part of the [ removal ] process " ) .
+41-1	4581-4584	See	_	_	
+41-2	4585-4589	also	_	_	
+41-3	4590-4594	Reno	*[47]	Legal Source[47]	
+41-4	4595-4597	v.	*[47]	Legal Source[47]	
+41-5	4598-4606	American	*[47]	Legal Source[47]	
+41-6	4607-4608	-	*[47]	Legal Source[47]	
+41-7	4609-4613	Arab	*[47]	Legal Source[47]	
+41-8	4614-4618	Anti	*[47]	Legal Source[47]	
+41-9	4619-4620	-	*[47]	Legal Source[47]	
+41-10	4621-4635	Discrimination	*[47]	Legal Source[47]	
+41-11	4636-4640	Comm	*[47]	Legal Source[47]	
+41-12	4641-4642	.	*[47]	Legal Source[47]	
+41-13	4643-4644	,	*[47]	Legal Source[47]	
+41-14	4645-4648	525	*[47]	Legal Source[47]	
+41-15	4649-4653	U.S.	*[47]	Legal Source[47]	
+41-16	4654-4657	471	*[47]	Legal Source[47]	
+41-17	4658-4659	,	*[47]	Legal Source[47]	
+41-18	4660-4663	482	*[47]	Legal Source[47]	
+41-19	4664-4665	,	*[47]	Legal Source[47]	
+41-20	4666-4669	119	*[47]	Legal Source[47]	
+41-21	4670-4674	S.Ct	*[47]	Legal Source[47]	
+41-22	4675-4676	.	*[47]	Legal Source[47]	
+41-23	4677-4680	936	*[47]	Legal Source[47]	
+41-24	4681-4682	,	*[47]	Legal Source[47]	
+41-25	4683-4686	142	*[47]	Legal Source[47]	
+41-26	4687-4694	L.Ed.2d	*[47]	Legal Source[47]	
+41-27	4695-4698	940	*[47]	Legal Source[47]	
+41-28	4699-4700	(	*[47]	Legal Source[47]	
+41-29	4701-4705	1999	*[47]	Legal Source[47]	
+41-30	4706-4707	)	*[47]	Legal Source[47]	
+41-31	4708-4709	(	_	_	
+41-32	4710-4717	stating	_	_	
+41-33	4718-4722	that	_	_	
+41-34	4723-4726	the	_	_	
+41-35	4727-4733	zipper	_	_	
+41-36	4734-4740	clause	_	_	
+41-37	4741-4748	applies	_	_	
+41-38	4749-4751	to	_	_	
+41-39	4752-4755	the	_	_	
+41-40	4756-4757	"	*[48]	Direct Quote[48]	
+41-41	4758-4762	many	*[48]	Direct Quote[48]	
+41-42	4763-4766	...	*[48]	Direct Quote[48]	
+41-43	4767-4776	decisions	*[48]	Direct Quote[48]	
+41-44	4777-4779	or	*[48]	Direct Quote[48]	
+41-45	4780-4787	actions	*[48]	Direct Quote[48]	
+41-46	4788-4792	that	*[48]	Direct Quote[48]	
+41-47	4793-4796	may	*[48]	Direct Quote[48]	
+41-48	4797-4799	be	*[48]	Direct Quote[48]	
+41-49	4800-4804	part	*[48]	Direct Quote[48]	
+41-50	4805-4807	of	*[48]	Direct Quote[48]	
+41-51	4808-4811	the	*[48]	Direct Quote[48]	
+41-52	4812-4813	[	*[48]	Direct Quote[48]	
+41-53	4814-4821	removal	*[48]	Direct Quote[48]	
+41-54	4822-4823	]	*[48]	Direct Quote[48]	
+41-55	4824-4831	process	*[48]	Direct Quote[48]	
+41-56	4832-4833	"	*[48]	Direct Quote[48]	
+41-57	4834-4835	)	_	_	
+41-58	4836-4837	.	_	_	
+
+#Text=The plain text clearly covers CAT claims such as the one petitioner raised .
+42-1	4839-4842	The	*[49]	Appeal to Meaning[49]	
+42-2	4843-4848	plain	*[49]|*[50]	Appeal to Meaning[49]|Metalinguistic Cue[50]	
+42-3	4849-4853	text	*[49]|*[50]	Appeal to Meaning[49]|Metalinguistic Cue[50]	
+42-4	4854-4861	clearly	*[49]	Appeal to Meaning[49]	
+42-5	4862-4868	covers	*[49]	Appeal to Meaning[49]	
+42-6	4869-4872	CAT	*[49]	Appeal to Meaning[49]	
+42-7	4873-4879	claims	*[49]	Appeal to Meaning[49]	
+42-8	4880-4884	such	*[49]	Appeal to Meaning[49]	
+42-9	4885-4887	as	*[49]	Appeal to Meaning[49]	
+42-10	4888-4891	the	*[49]	Appeal to Meaning[49]	
+42-11	4892-4895	one	*[49]	Appeal to Meaning[49]	
+42-12	4896-4906	petitioner	*[49]	Appeal to Meaning[49]	
+42-13	4907-4913	raised	*[49]	Appeal to Meaning[49]	
+42-14	4914-4915	.	_	_	
+
+#Text=The Government initiated removal proceedings , alleging that petitioner had been convicted of a " crime involving moral turpitude . "
+43-1	4917-4920	The	_	_	
+43-2	4921-4931	Government	_	_	
+43-3	4932-4941	initiated	_	_	
+43-4	4942-4949	removal	_	_	
+43-5	4950-4961	proceedings	_	_	
+43-6	4962-4963	,	_	_	
+43-7	4964-4972	alleging	_	_	
+43-8	4973-4977	that	_	_	
+43-9	4978-4988	petitioner	_	_	
+43-10	4989-4992	had	_	_	
+43-11	4993-4997	been	_	_	
+43-12	4998-5007	convicted	_	_	
+43-13	5008-5010	of	_	_	
+43-14	5011-5012	a	_	_	
+43-15	5013-5014	"	*[51]	Direct Quote[51]	
+43-16	5015-5020	crime	*[51]	Direct Quote[51]	
+43-17	5021-5030	involving	*[51]	Direct Quote[51]	
+43-18	5031-5036	moral	*[51]	Direct Quote[51]	
+43-19	5037-5046	turpitude	*[51]	Direct Quote[51]	
+43-20	5047-5048	.	*[51]	Direct Quote[51]	
+43-21	5049-5050	"	*[51]	Direct Quote[51]	
+
+#Text=See § 1227(a)(2)(A)(i ) .
+44-1	5052-5055	See	_	_	
+44-2	5056-5057	§	*[52]	Legal Source[52]	
+44-3	5058-5073	1227(a)(2)(A)(i	*[52]	Legal Source[52]	
+44-4	5074-5075	)	*[52]	Legal Source[52]	
+44-5	5076-5077	.	_	_	
+
+#Text=As a direct result , petitioner applied for CAT relief to prevent his removal .
+45-1	5079-5081	As	_	_	
+45-2	5082-5083	a	_	_	
+45-3	5084-5090	direct	_	_	
+45-4	5091-5097	result	_	_	
+45-5	5098-5099	,	_	_	
+45-6	5100-5110	petitioner	_	_	
+45-7	5111-5118	applied	_	_	
+45-8	5119-5122	for	_	_	
+45-9	5123-5126	CAT	_	_	
+45-10	5127-5133	relief	_	_	
+45-11	5134-5136	to	_	_	
+45-12	5137-5144	prevent	_	_	
+45-13	5145-5148	his	_	_	
+45-14	5149-5156	removal	_	_	
+45-15	5157-5158	.	_	_	
+
+#Text=He was denied CAT withholding because the Immigration Judge , during the removal proceeding , determined that petitioner had been convicted of a " particularly serious crime . "
+46-1	5160-5162	He	_	_	
+46-2	5163-5166	was	_	_	
+46-3	5167-5173	denied	_	_	
+46-4	5174-5177	CAT	_	_	
+46-5	5178-5189	withholding	_	_	
+46-6	5190-5197	because	_	_	
+46-7	5198-5201	the	_	_	
+46-8	5202-5213	Immigration	_	_	
+46-9	5214-5219	Judge	_	_	
+46-10	5220-5221	,	_	_	
+46-11	5222-5228	during	_	_	
+46-12	5229-5232	the	_	_	
+46-13	5233-5240	removal	_	_	
+46-14	5241-5251	proceeding	_	_	
+46-15	5252-5253	,	_	_	
+46-16	5254-5264	determined	_	_	
+46-17	5265-5269	that	_	_	
+46-18	5270-5280	petitioner	_	_	
+46-19	5281-5284	had	_	_	
+46-20	5285-5289	been	_	_	
+46-21	5290-5299	convicted	_	_	
+46-22	5300-5302	of	_	_	
+46-23	5303-5304	a	_	_	
+46-24	5305-5306	"	*[53]	Direct Quote[53]	
+46-25	5307-5319	particularly	*[53]	Direct Quote[53]	
+46-26	5320-5327	serious	*[53]	Direct Quote[53]	
+46-27	5328-5333	crime	*[53]	Direct Quote[53]	
+46-28	5334-5335	.	*[53]	Direct Quote[53]	
+46-29	5336-5337	"	*[53]	Direct Quote[53]	
+
+#Text=§ 1158(b)(2)(A)(ii ) .
+47-1	5339-5340	§	*[54]	Legal Source[54]	
+47-2	5341-5357	1158(b)(2)(A)(ii	*[54]	Legal Source[54]	
+47-3	5358-5359	)	*[54]	Legal Source[54]	
+47-4	5360-5361	.	_	_	
+
+#Text=On appeal , the Board of Immigration Appeals likewise denied CAT deferral in that selfsame removal proceeding .
+48-1	5363-5365	On	_	_	
+48-2	5366-5372	appeal	_	_	
+48-3	5373-5374	,	_	_	
+48-4	5375-5378	the	_	_	
+48-5	5379-5384	Board	_	_	
+48-6	5385-5387	of	_	_	
+48-7	5388-5399	Immigration	_	_	
+48-8	5400-5407	Appeals	_	_	
+48-9	5408-5416	likewise	_	_	
+48-10	5417-5423	denied	_	_	
+48-11	5424-5427	CAT	_	_	
+48-12	5428-5436	deferral	_	_	
+48-13	5437-5439	in	_	_	
+48-14	5440-5444	that	_	_	
+48-15	5445-5453	selfsame	_	_	
+48-16	5454-5461	removal	_	_	
+48-17	5462-5472	proceeding	_	_	
+48-18	5473-5474	.	_	_	
+
+#Text=It is beyond dispute that petitioner 's eligibility for CAT relief involved " questions of law and fact " that directly " ar[ose ] from " the Government 's initiation of removal proceedings against him .
+49-1	5476-5478	It	_	_	
+49-2	5479-5481	is	_	_	
+49-3	5482-5488	beyond	_	_	
+49-4	5489-5496	dispute	_	_	
+49-5	5497-5501	that	_	_	
+49-6	5502-5512	petitioner	_	_	
+49-7	5513-5515	's	_	_	
+49-8	5516-5527	eligibility	_	_	
+49-9	5528-5531	for	_	_	
+49-10	5532-5535	CAT	_	_	
+49-11	5536-5542	relief	_	_	
+49-12	5543-5551	involved	_	_	
+49-13	5552-5553	"	*[55]	Direct Quote[55]	
+49-14	5554-5563	questions	*[55]	Direct Quote[55]	
+49-15	5564-5566	of	*[55]	Direct Quote[55]	
+49-16	5567-5570	law	*[55]	Direct Quote[55]	
+49-17	5571-5574	and	*[55]	Direct Quote[55]	
+49-18	5575-5579	fact	*[55]	Direct Quote[55]	
+49-19	5580-5581	"	*[55]	Direct Quote[55]	
+49-20	5582-5586	that	_	_	
+49-21	5587-5595	directly	_	_	
+49-22	5596-5597	"	*[56]	Direct Quote[56]	
+49-23	5598-5604	ar[ose	*[56]	Direct Quote[56]	
+49-24	5605-5606	]	*[56]	Direct Quote[56]	
+49-25	5607-5611	from	*[56]	Direct Quote[56]	
+49-26	5612-5613	"	*[56]	Direct Quote[56]	
+49-27	5614-5617	the	_	_	
+49-28	5618-5628	Government	_	_	
+49-29	5629-5631	's	_	_	
+49-30	5632-5642	initiation	_	_	
+49-31	5643-5645	of	_	_	
+49-32	5646-5653	removal	_	_	
+49-33	5654-5665	proceedings	_	_	
+49-34	5666-5673	against	_	_	
+49-35	5674-5677	him	_	_	
+49-36	5678-5679	.	_	_	
+
+#Text=§ 1252(b)(9 ) .
+50-1	5681-5682	§	*[57]	Legal Source[57]	
+50-2	5683-5692	1252(b)(9	*[57]	Legal Source[57]	
+50-3	5693-5694	)	*[57]	Legal Source[57]	
+50-4	5695-5696	.	_	_	
+
+#Text=The very forms of relief for which petitioner applied - withholding of removal and deferral of removal - confirm that this relief arose directly from the Government - initiated removal proceeding .
+51-1	5698-5701	The	_	_	
+51-2	5702-5706	very	_	_	
+51-3	5707-5712	forms	_	_	
+51-4	5713-5715	of	_	_	
+51-5	5716-5722	relief	_	_	
+51-6	5723-5726	for	_	_	
+51-7	5727-5732	which	_	_	
+51-8	5733-5743	petitioner	_	_	
+51-9	5744-5751	applied	_	_	
+51-10	5752-5753	-	_	_	
+51-11	5754-5765	withholding	_	_	
+51-12	5766-5768	of	_	_	
+51-13	5769-5776	removal	_	_	
+51-14	5777-5780	and	_	_	
+51-15	5781-5789	deferral	_	_	
+51-16	5790-5792	of	_	_	
+51-17	5793-5800	removal	_	_	
+51-18	5801-5802	-	_	_	
+51-19	5803-5810	confirm	_	_	
+51-20	5811-5815	that	_	_	
+51-21	5816-5820	this	_	_	
+51-22	5821-5827	relief	_	_	
+51-23	5828-5833	arose	_	_	
+51-24	5834-5842	directly	_	_	
+51-25	5843-5847	from	_	_	
+51-26	5848-5851	the	_	_	
+51-27	5852-5862	Government	_	_	
+51-28	5863-5864	-	_	_	
+51-29	5865-5874	initiated	_	_	
+51-30	5875-5882	removal	_	_	
+51-31	5883-5893	proceeding	_	_	
+51-32	5894-5895	.	_	_	
+
+#Text=Because the CAT claim falls within the zipper clause , all of § 1252 's other limitations and procedural requirements imposed on final orders of removal , including § 1252(a)(2)(C ) 's criminal - alien bar , also apply .
+52-1	5897-5904	Because	_	_	
+52-2	5905-5908	the	_	_	
+52-3	5909-5912	CAT	_	_	
+52-4	5913-5918	claim	_	_	
+52-5	5919-5924	falls	_	_	
+52-6	5925-5931	within	_	_	
+52-7	5932-5935	the	_	_	
+52-8	5936-5942	zipper	_	_	
+52-9	5943-5949	clause	_	_	
+52-10	5950-5951	,	_	_	
+52-11	5952-5955	all	_	_	
+52-12	5956-5958	of	_	_	
+52-13	5959-5960	§	*[58]	Legal Source[58]	
+52-14	5961-5965	1252	*[58]	Legal Source[58]	
+52-15	5966-5968	's	_	_	
+52-16	5969-5974	other	_	_	
+52-17	5975-5986	limitations	_	_	
+52-18	5987-5990	and	_	_	
+52-19	5991-6001	procedural	_	_	
+52-20	6002-6014	requirements	_	_	
+52-21	6015-6022	imposed	_	_	
+52-22	6023-6025	on	_	_	
+52-23	6026-6031	final	_	_	
+52-24	6032-6038	orders	_	_	
+52-25	6039-6041	of	_	_	
+52-26	6042-6049	removal	_	_	
+52-27	6050-6051	,	_	_	
+52-28	6052-6061	including	_	_	
+52-29	6062-6063	§	*[59]	Legal Source[59]	
+52-30	6064-6076	1252(a)(2)(C	*[59]	Legal Source[59]	
+52-31	6077-6078	)	*[59]	Legal Source[59]	
+52-32	6079-6081	's	_	_	
+52-33	6082-6090	criminal	_	_	
+52-34	6091-6092	-	_	_	
+52-35	6093-6098	alien	_	_	
+52-36	6099-6102	bar	_	_	
+52-37	6103-6104	,	_	_	
+52-38	6105-6109	also	_	_	
+52-39	6110-6115	apply	_	_	
+52-40	6116-6117	.	_	_	
+
+#Text=Accordingly , courts have no jurisdiction to review factual challenges to CAT claims brought in the course of a criminal alien 's removal proceeding .
+53-1	6119-6130	Accordingly	_	_	
+53-2	6131-6132	,	_	_	
+53-3	6133-6139	courts	_	_	
+53-4	6140-6144	have	_	_	
+53-5	6145-6147	no	_	_	
+53-6	6148-6160	jurisdiction	_	_	
+53-7	6161-6163	to	_	_	
+53-8	6164-6170	review	_	_	
+53-9	6171-6178	factual	_	_	
+53-10	6179-6189	challenges	_	_	
+53-11	6190-6192	to	_	_	
+53-12	6193-6196	CAT	_	_	
+53-13	6197-6203	claims	_	_	
+53-14	6204-6211	brought	_	_	
+53-15	6212-6214	in	_	_	
+53-16	6215-6218	the	_	_	
+53-17	6219-6225	course	_	_	
+53-18	6226-6228	of	_	_	
+53-19	6229-6230	a	_	_	
+53-20	6231-6239	criminal	_	_	
+53-21	6240-6245	alien	_	_	
+53-22	6246-6248	's	_	_	
+53-23	6249-6256	removal	_	_	
+53-24	6257-6267	proceeding	_	_	
+53-25	6268-6269	.	_	_	
+
+#Text=B
+54-1	6271-6272	B	_	_	
+
+#Text=My analysis would begin and end with the plain meaning of the zipper clause .
+55-1	6274-6276	My	_	_	
+55-2	6277-6285	analysis	_	_	
+55-3	6286-6291	would	_	_	
+55-4	6292-6297	begin	_	_	
+55-5	6298-6301	and	_	_	
+55-6	6302-6305	end	_	_	
+55-7	6306-6310	with	_	_	
+55-8	6311-6314	the	_	_	
+55-9	6315-6320	plain	_	_	
+55-10	6321-6328	meaning	_	_	
+55-11	6329-6331	of	_	_	
+55-12	6332-6335	the	_	_	
+55-13	6336-6342	zipper	_	_	
+55-14	6343-6349	clause	_	_	
+55-15	6350-6351	.	_	_	
+
+#Text=Rather than focusing on that clause , however , the majority bases its textual analysis almost exclusively on the fact that Congress has defined an " ' order of [ removal ] ' " as an order " concluding that the alien is deportable or ordering deportation . "
+56-1	6353-6359	Rather	_	_	
+56-2	6360-6364	than	_	_	
+56-3	6365-6373	focusing	_	_	
+56-4	6374-6376	on	_	_	
+56-5	6377-6381	that	_	_	
+56-6	6382-6388	clause	_	_	
+56-7	6389-6390	,	_	_	
+56-8	6391-6398	however	_	_	
+56-9	6399-6400	,	_	_	
+56-10	6401-6404	the	_	_	
+56-11	6405-6413	majority	_	_	
+56-12	6414-6419	bases	_	_	
+56-13	6420-6423	its	_	_	
+56-14	6424-6431	textual	_	_	
+56-15	6432-6440	analysis	_	_	
+56-16	6441-6447	almost	_	_	
+56-17	6448-6459	exclusively	_	_	
+56-18	6460-6462	on	_	_	
+56-19	6463-6466	the	_	_	
+56-20	6467-6471	fact	_	_	
+56-21	6472-6476	that	_	_	
+56-22	6477-6485	Congress	_	_	
+56-23	6486-6489	has	_	_	
+56-24	6490-6497	defined	*	Metalinguistic Cue	
+56-25	6498-6500	an	_	_	
+56-26	6501-6502	"	*[60]	Direct Quote[60]	
+56-27	6503-6504	'	*[60]|*[61]	Direct Quote[60]|Direct Quote[61]	
+56-28	6505-6510	order	*[60]|*[61]|*[62]	Direct Quote[60]|Direct Quote[61]|Focal Term[62]	
+56-29	6511-6513	of	*[60]|*[61]|*[62]	Direct Quote[60]|Direct Quote[61]|Focal Term[62]	
+56-30	6514-6515	[	*[60]|*[61]|*[62]	Direct Quote[60]|Direct Quote[61]|Focal Term[62]	
+56-31	6516-6523	removal	*[60]|*[61]|*[62]	Direct Quote[60]|Direct Quote[61]|Focal Term[62]	
+56-32	6524-6525	]	*[60]|*[61]|*[62]	Direct Quote[60]|Direct Quote[61]|Focal Term[62]	
+56-33	6526-6527	'	*[60]|*[61]	Direct Quote[60]|Direct Quote[61]	
+56-34	6528-6529	"	*[60]	Direct Quote[60]	
+56-35	6530-6532	as	_	_	
+56-36	6533-6535	an	*[63]	Definition[63]	
+56-37	6536-6541	order	*[63]	Definition[63]	
+56-38	6542-6543	"	*[63]|*[64]	Definition[63]|Direct Quote[64]	
+56-39	6544-6554	concluding	*[63]|*[64]	Definition[63]|Direct Quote[64]	
+56-40	6555-6559	that	*[63]|*[64]	Definition[63]|Direct Quote[64]	
+56-41	6560-6563	the	*[63]|*[64]	Definition[63]|Direct Quote[64]	
+56-42	6564-6569	alien	*[63]|*[64]	Definition[63]|Direct Quote[64]	
+56-43	6570-6572	is	*[63]|*[64]	Definition[63]|Direct Quote[64]	
+56-44	6573-6583	deportable	*[63]|*[64]	Definition[63]|Direct Quote[64]	
+56-45	6584-6586	or	*[63]|*[64]	Definition[63]|Direct Quote[64]	
+56-46	6587-6595	ordering	*[63]|*[64]	Definition[63]|Direct Quote[64]	
+56-47	6596-6607	deportation	*[63]|*[64]	Definition[63]|Direct Quote[64]	
+56-48	6608-6609	.	*[64]	Direct Quote[64]	
+56-49	6610-6611	"	*[64]	Direct Quote[64]	
+
+#Text=§ 1101(47)(A ) .
+57-1	6613-6614	§	*[65]	Legal Source[65]	
+57-2	6615-6625	1101(47)(A	*[65]	Legal Source[65]	
+57-3	6626-6627	)	*[65]	Legal Source[65]	
+57-4	6628-6629	.	_	_	
+
+#Text=The majority correctly notes that a CAT order does not fall within this definition .
+58-1	6631-6634	The	_	_	
+58-2	6635-6643	majority	_	_	
+58-3	6644-6653	correctly	_	_	
+58-4	6654-6659	notes	_	_	
+58-5	6660-6664	that	_	_	
+58-6	6665-6666	a	_	_	
+58-7	6667-6670	CAT	_	_	
+58-8	6671-6676	order	_	_	
+58-9	6677-6681	does	_	_	
+58-10	6682-6685	not	_	_	
+58-11	6686-6690	fall	_	_	
+58-12	6691-6697	within	_	_	
+58-13	6698-6702	this	_	_	
+58-14	6703-6713	definition	*	Metalinguistic Cue	
+58-15	6714-6715	.	_	_	
+
+#Text=See ante , at 1690 - 1691 .
+59-1	6717-6720	See	_	_	
+59-2	6721-6725	ante	*[66]	Legal Source[66]	
+59-3	6726-6727	,	*[66]	Legal Source[66]	
+59-4	6728-6730	at	*[66]	Legal Source[66]	
+59-5	6731-6735	1690	*[66]	Legal Source[66]	
+59-6	6736-6737	-	*[66]	Legal Source[66]	
+59-7	6738-6742	1691	*[66]	Legal Source[66]	
+59-8	6743-6744	.	_	_	
+
+#Text=But it uses that definition to alter the scope of the zipper clause , asserting that the provision only consolidates " [ t]he rulings that affect the validity of the final order of removal . "
+60-1	6746-6749	But	_	_	
+60-2	6750-6752	it	_	_	
+60-3	6753-6757	uses	_	_	
+60-4	6758-6762	that	_	_	
+60-5	6763-6773	definition	*	Metalinguistic Cue	
+60-6	6774-6776	to	_	_	
+60-7	6777-6782	alter	_	_	
+60-8	6783-6786	the	_	_	
+60-9	6787-6792	scope	*	Metalinguistic Cue	
+60-10	6793-6795	of	_	_	
+60-11	6796-6799	the	_	_	
+60-12	6800-6806	zipper	_	_	
+60-13	6807-6813	clause	_	_	
+60-14	6814-6815	,	_	_	
+60-15	6816-6825	asserting	_	_	
+60-16	6826-6830	that	_	_	
+60-17	6831-6834	the	_	_	
+60-18	6835-6844	provision	_	_	
+60-19	6845-6849	only	_	_	
+60-20	6850-6862	consolidates	_	_	
+60-21	6863-6864	"	*[67]	Direct Quote[67]	
+60-22	6865-6866	[	*[67]	Direct Quote[67]	
+60-23	6867-6871	t]he	*[67]	Direct Quote[67]	
+60-24	6872-6879	rulings	*[67]	Direct Quote[67]	
+60-25	6880-6884	that	*[67]	Direct Quote[67]	
+60-26	6885-6891	affect	*[67]	Direct Quote[67]	
+60-27	6892-6895	the	*[67]	Direct Quote[67]	
+60-28	6896-6904	validity	*[67]	Direct Quote[67]	
+60-29	6905-6907	of	*[67]	Direct Quote[67]	
+60-30	6908-6911	the	*[67]	Direct Quote[67]	
+60-31	6912-6917	final	*[67]	Direct Quote[67]	
+60-32	6918-6923	order	*[67]	Direct Quote[67]	
+60-33	6924-6926	of	*[67]	Direct Quote[67]	
+60-34	6927-6934	removal	*[67]	Direct Quote[67]	
+60-35	6935-6936	.	*[67]	Direct Quote[67]	
+60-36	6937-6938	"	*[67]	Direct Quote[67]	
+
+#Text=Ante , at 1691 .
+61-1	6940-6944	Ante	*[68]	Legal Source[68]	
+61-2	6945-6946	,	*[68]	Legal Source[68]	
+61-3	6947-6949	at	*[68]	Legal Source[68]	
+61-4	6950-6954	1691	*[68]	Legal Source[68]	
+61-5	6955-6956	.	_	_	
+
+#Text=As just explained , this conclusion contradicts the statute 's plain text .
+62-1	6958-6960	As	*[69]	Appeal to Meaning[69]	
+62-2	6961-6965	just	*[69]	Appeal to Meaning[69]	
+62-3	6966-6975	explained	*[69]	Appeal to Meaning[69]	
+62-4	6976-6977	,	*[69]	Appeal to Meaning[69]	
+62-5	6978-6982	this	*[69]	Appeal to Meaning[69]	
+62-6	6983-6993	conclusion	*[69]	Appeal to Meaning[69]	
+62-7	6994-7005	contradicts	*[69]	Appeal to Meaning[69]	
+62-8	7006-7009	the	*[69]	Appeal to Meaning[69]	
+62-9	7010-7017	statute	*[69]|*[70]	Appeal to Meaning[69]|Metalinguistic Cue[70]	
+62-10	7018-7020	's	*[69]|*[70]	Appeal to Meaning[69]|Metalinguistic Cue[70]	
+62-11	7021-7026	plain	*[69]|*[70]	Appeal to Meaning[69]|Metalinguistic Cue[70]	
+62-12	7027-7031	text	*[69]|*[70]	Appeal to Meaning[69]|Metalinguistic Cue[70]	
+62-13	7032-7033	.	_	_	
+
+#Text=The zipper clause does not consolidate all questions of law and fact that " affect the validity of the final order of removal . "
+63-1	7035-7038	The	_	_	
+63-2	7039-7045	zipper	_	_	
+63-3	7046-7052	clause	_	_	
+63-4	7053-7057	does	_	_	
+63-5	7058-7061	not	_	_	
+63-6	7062-7073	consolidate	_	_	
+63-7	7074-7077	all	_	_	
+63-8	7078-7087	questions	_	_	
+63-9	7088-7090	of	_	_	
+63-10	7091-7094	law	_	_	
+63-11	7095-7098	and	_	_	
+63-12	7099-7103	fact	_	_	
+63-13	7104-7108	that	_	_	
+63-14	7109-7110	"	*[71]	Direct Quote[71]	
+63-15	7111-7117	affect	*[71]	Direct Quote[71]	
+63-16	7118-7121	the	*[71]	Direct Quote[71]	
+63-17	7122-7130	validity	*[71]	Direct Quote[71]	
+63-18	7131-7133	of	*[71]	Direct Quote[71]	
+63-19	7134-7137	the	*[71]	Direct Quote[71]	
+63-20	7138-7143	final	*[71]	Direct Quote[71]	
+63-21	7144-7149	order	*[71]	Direct Quote[71]	
+63-22	7150-7152	of	*[71]	Direct Quote[71]	
+63-23	7153-7160	removal	*[71]	Direct Quote[71]	
+63-24	7161-7162	.	*[71]	Direct Quote[71]	
+63-25	7163-7164	"	*[71]	Direct Quote[71]	
+
+#Text=Ibid .
+64-1	7166-7170	Ibid	*[72]	Legal Source[72]	
+64-2	7171-7172	.	*[72]	Legal Source[72]	
+
+#Text=It instead consolidates " all questions of law and fact ... arising from any action taken or proceeding brought to remove an alien . "
+65-1	7174-7176	It	_	_	
+65-2	7177-7184	instead	_	_	
+65-3	7185-7197	consolidates	_	_	
+65-4	7198-7199	"	*[73]	Direct Quote[73]	
+65-5	7200-7203	all	*[73]	Direct Quote[73]	
+65-6	7204-7213	questions	*[73]	Direct Quote[73]	
+65-7	7214-7216	of	*[73]	Direct Quote[73]	
+65-8	7217-7220	law	*[73]	Direct Quote[73]	
+65-9	7221-7224	and	*[73]	Direct Quote[73]	
+65-10	7225-7229	fact	*[73]	Direct Quote[73]	
+65-11	7230-7233	...	*[73]	Direct Quote[73]	
+65-12	7234-7241	arising	*[73]	Direct Quote[73]	
+65-13	7242-7246	from	*[73]	Direct Quote[73]	
+65-14	7247-7250	any	*[73]	Direct Quote[73]	
+65-15	7251-7257	action	*[73]	Direct Quote[73]	
+65-16	7258-7263	taken	*[73]	Direct Quote[73]	
+65-17	7264-7266	or	*[73]	Direct Quote[73]	
+65-18	7267-7277	proceeding	*[73]	Direct Quote[73]	
+65-19	7278-7285	brought	*[73]	Direct Quote[73]	
+65-20	7286-7288	to	*[73]	Direct Quote[73]	
+65-21	7289-7295	remove	*[73]	Direct Quote[73]	
+65-22	7296-7298	an	*[73]	Direct Quote[73]	
+65-23	7299-7304	alien	*[73]	Direct Quote[73]	
+65-24	7305-7306	.	*[73]	Direct Quote[73]	
+65-25	7307-7308	"	*[73]	Direct Quote[73]	
+
+#Text=§ 1252(b)(9 ) ( emphasis added ) .
+66-1	7310-7311	§	*[74]	Legal Source[74]	
+66-2	7312-7321	1252(b)(9	*[74]	Legal Source[74]	
+66-3	7322-7323	)	*[74]	Legal Source[74]	
+66-4	7324-7325	(	_	_	
+66-5	7326-7334	emphasis	_	_	
+66-6	7335-7340	added	_	_	
+66-7	7341-7342	)	_	_	
+66-8	7343-7344	.	_	_	
+
+#Text=" Arising from " covers a broader category of claims than those that simply impact the validity of the order , including petitioner 's claim .
+67-1	7346-7347	"	*[75]	Direct Quote[75]	
+67-2	7348-7355	Arising	*[75]|*[76]	Direct Quote[75]|Focal Term[76]	
+67-3	7356-7360	from	*[75]|*[76]	Direct Quote[75]|Focal Term[76]	
+67-4	7361-7362	"	*[75]	Direct Quote[75]	
+67-5	7363-7369	covers	_	_	
+67-6	7370-7371	a	_	_	
+67-7	7372-7379	broader	_	_	
+67-8	7380-7388	category	_	_	
+67-9	7389-7391	of	_	_	
+67-10	7392-7398	claims	_	_	
+67-11	7399-7403	than	_	_	
+67-12	7404-7409	those	_	_	
+67-13	7410-7414	that	_	_	
+67-14	7415-7421	simply	_	_	
+67-15	7422-7428	impact	_	_	
+67-16	7429-7432	the	_	_	
+67-17	7433-7441	validity	_	_	
+67-18	7442-7444	of	_	_	
+67-19	7445-7448	the	_	_	
+67-20	7449-7454	order	_	_	
+67-21	7455-7456	,	_	_	
+67-22	7457-7466	including	_	_	
+67-23	7467-7477	petitioner	_	_	
+67-24	7478-7480	's	_	_	
+67-25	7481-7486	claim	_	_	
+67-26	7487-7488	.	_	_	
+
+#Text=Thus , the majority 's overreliance on the definition of final order of removal is misplaced .
+68-1	7490-7494	Thus	_	_	
+68-2	7495-7496	,	_	_	
+68-3	7497-7500	the	_	_	
+68-4	7501-7509	majority	_	_	
+68-5	7510-7512	's	_	_	
+68-6	7513-7525	overreliance	_	_	
+68-7	7526-7528	on	_	_	
+68-8	7529-7532	the	_	_	
+68-9	7533-7543	definition	_	_	
+68-10	7544-7546	of	_	_	
+68-11	7547-7552	final	_	_	
+68-12	7553-7558	order	_	_	
+68-13	7559-7561	of	_	_	
+68-14	7562-7569	removal	_	_	
+68-15	7570-7572	is	_	_	
+68-16	7573-7582	misplaced	_	_	
+68-17	7583-7584	.	_	_	
+
+#Text=The majority nevertheless contends that its reading is supported by § 1252(a)(4 ) .
+69-1	7586-7589	The	_	_	
+69-2	7590-7598	majority	_	_	
+69-3	7599-7611	nevertheless	_	_	
+69-4	7612-7620	contends	_	_	
+69-5	7621-7625	that	_	_	
+69-6	7626-7629	its	_	_	
+69-7	7630-7637	reading	_	_	
+69-8	7638-7640	is	_	_	
+69-9	7641-7650	supported	_	_	
+69-10	7651-7653	by	_	_	
+69-11	7654-7655	§	*[77]	Legal Source[77]	
+69-12	7656-7665	1252(a)(4	*[77]	Legal Source[77]	
+69-13	7666-7667	)	*[77]	Legal Source[77]	
+69-14	7668-7669	.	_	_	
+
+#Text=That provision states that CAT claims may be reviewed through a petition for review .
+70-1	7671-7675	That	_	_	
+70-2	7676-7685	provision	_	_	
+70-3	7686-7692	states	_	_	
+70-4	7693-7697	that	_	_	
+70-5	7698-7701	CAT	_	_	
+70-6	7702-7708	claims	_	_	
+70-7	7709-7712	may	_	_	
+70-8	7713-7715	be	_	_	
+70-9	7716-7724	reviewed	_	_	
+70-10	7725-7732	through	_	_	
+70-11	7733-7734	a	_	_	
+70-12	7735-7743	petition	_	_	
+70-13	7744-7747	for	_	_	
+70-14	7748-7754	review	_	_	
+70-15	7755-7756	.	_	_	
+
+#Text=According to the majority , this paragraph " provides for direct review of CAT orders in the courts of appeals . "
+71-1	7758-7767	According	_	_	
+71-2	7768-7770	to	_	_	
+71-3	7771-7774	the	_	_	
+71-4	7775-7783	majority	_	_	
+71-5	7784-7785	,	_	_	
+71-6	7786-7790	this	_	_	
+71-7	7791-7800	paragraph	_	_	
+71-8	7801-7802	"	*[78]	Direct Quote[78]	
+71-9	7803-7811	provides	*[78]	Direct Quote[78]	
+71-10	7812-7815	for	*[78]	Direct Quote[78]	
+71-11	7816-7822	direct	*[78]	Direct Quote[78]	
+71-12	7823-7829	review	*[78]	Direct Quote[78]	
+71-13	7830-7832	of	*[78]	Direct Quote[78]	
+71-14	7833-7836	CAT	*[78]	Direct Quote[78]	
+71-15	7837-7843	orders	*[78]	Direct Quote[78]	
+71-16	7844-7846	in	*[78]	Direct Quote[78]	
+71-17	7847-7850	the	*[78]	Direct Quote[78]	
+71-18	7851-7857	courts	*[78]	Direct Quote[78]	
+71-19	7858-7860	of	*[78]	Direct Quote[78]	
+71-20	7861-7868	appeals	*[78]	Direct Quote[78]	
+71-21	7869-7870	.	*[78]	Direct Quote[78]	
+71-22	7871-7872	"	*[78]	Direct Quote[78]	
+
+#Text=Ante , at 1693 .
+72-1	7874-7878	Ante	*[79]	Legal Source[79]	
+72-2	7879-7880	,	*[79]	Legal Source[79]	
+72-3	7881-7883	at	*[79]	Legal Source[79]	
+72-4	7884-7888	1693	*[79]	Legal Source[79]	
+72-5	7889-7890	.	_	_	
+
+#Text=That is , the majority views § 1252(a)(4 ) as a specific grant of jurisdiction over CAT claims .
+73-1	7892-7896	That	_	_	
+73-2	7897-7899	is	_	_	
+73-3	7900-7901	,	_	_	
+73-4	7902-7905	the	_	_	
+73-5	7906-7914	majority	_	_	
+73-6	7915-7920	views	_	_	
+73-7	7921-7922	§	*[80]	Legal Source[80]	
+73-8	7923-7932	1252(a)(4	*[80]	Legal Source[80]	
+73-9	7933-7934	)	*[80]	Legal Source[80]	
+73-10	7935-7937	as	_	_	
+73-11	7938-7939	a	_	_	
+73-12	7940-7948	specific	_	_	
+73-13	7949-7954	grant	_	_	
+73-14	7955-7957	of	_	_	
+73-15	7958-7970	jurisdiction	_	_	
+73-16	7971-7975	over	_	_	
+73-17	7976-7979	CAT	_	_	
+73-18	7980-7986	claims	_	_	
+73-19	7987-7988	.	_	_	
+
+#Text=Working from that interpretation , the majority contends that the zipper clause and FARRA merely confirm that CAT orders " may be reviewed together with the final order of removal . "
+74-1	7990-7997	Working	_	_	
+74-2	7998-8002	from	_	_	
+74-3	8003-8007	that	_	_	
+74-4	8008-8022	interpretation	*	Metalinguistic Cue	
+74-5	8023-8024	,	_	_	
+74-6	8025-8028	the	_	_	
+74-7	8029-8037	majority	_	_	
+74-8	8038-8046	contends	_	_	
+74-9	8047-8051	that	_	_	
+74-10	8052-8055	the	_	_	
+74-11	8056-8062	zipper	_	_	
+74-12	8063-8069	clause	_	_	
+74-13	8070-8073	and	_	_	
+74-14	8074-8079	FARRA	_	_	
+74-15	8080-8086	merely	_	_	
+74-16	8087-8094	confirm	_	_	
+74-17	8095-8099	that	_	_	
+74-18	8100-8103	CAT	_	_	
+74-19	8104-8110	orders	_	_	
+74-20	8111-8112	"	*[81]	Direct Quote[81]	
+74-21	8113-8116	may	*[81]	Direct Quote[81]	
+74-22	8117-8119	be	*[81]	Direct Quote[81]	
+74-23	8120-8128	reviewed	*[81]	Direct Quote[81]	
+74-24	8129-8137	together	*[81]	Direct Quote[81]	
+74-25	8138-8142	with	*[81]	Direct Quote[81]	
+74-26	8143-8146	the	*[81]	Direct Quote[81]	
+74-27	8147-8152	final	*[81]	Direct Quote[81]	
+74-28	8153-8158	order	*[81]	Direct Quote[81]	
+74-29	8159-8161	of	*[81]	Direct Quote[81]	
+74-30	8162-8169	removal	*[81]	Direct Quote[81]	
+74-31	8170-8171	.	*[81]	Direct Quote[81]	
+74-32	8172-8173	"	*[81]	Direct Quote[81]	
+
+#Text=Ante , at 1691 .
+75-1	8175-8179	Ante	*[82]	Legal Source[82]	
+75-2	8180-8181	,	*[82]	Legal Source[82]	
+75-3	8182-8184	at	*[82]	Legal Source[82]	
+75-4	8185-8189	1691	*[82]	Legal Source[82]	
+75-5	8190-8191	.	_	_	
+
+#Text=This is incorrect .
+76-1	8193-8197	This	_	_	
+76-2	8198-8200	is	_	_	
+76-3	8201-8210	incorrect	_	_	
+76-4	8211-8212	.	_	_	
+
+#Text=Jurisdiction over CAT claims comes from FARRA § 2242(d ) , which states that courts can not review CAT claims " except as part of the review of a final order of removal pursuant to ... ( 8 U.S.C. § 1252 ) . "
+77-1	8214-8226	Jurisdiction	_	_	
+77-2	8227-8231	over	_	_	
+77-3	8232-8235	CAT	_	_	
+77-4	8236-8242	claims	_	_	
+77-5	8243-8248	comes	_	_	
+77-6	8249-8253	from	_	_	
+77-7	8254-8259	FARRA	*[83]	Legal Source[83]	
+77-8	8260-8261	§	*[83]	Legal Source[83]	
+77-9	8262-8268	2242(d	*[83]	Legal Source[83]	
+77-10	8269-8270	)	*[83]	Legal Source[83]	
+77-11	8271-8272	,	_	_	
+77-12	8273-8278	which	_	_	
+77-13	8279-8285	states	_	_	
+77-14	8286-8290	that	_	_	
+77-15	8291-8297	courts	_	_	
+77-16	8298-8301	can	_	_	
+77-17	8302-8305	not	_	_	
+77-18	8306-8312	review	_	_	
+77-19	8313-8316	CAT	_	_	
+77-20	8317-8323	claims	_	_	
+77-21	8324-8325	"	*[84]	Direct Quote[84]	
+77-22	8326-8332	except	*[84]	Direct Quote[84]	
+77-23	8333-8335	as	*[84]	Direct Quote[84]	
+77-24	8336-8340	part	*[84]	Direct Quote[84]	
+77-25	8341-8343	of	*[84]	Direct Quote[84]	
+77-26	8344-8347	the	*[84]	Direct Quote[84]	
+77-27	8348-8354	review	*[84]	Direct Quote[84]	
+77-28	8355-8357	of	*[84]	Direct Quote[84]	
+77-29	8358-8359	a	*[84]	Direct Quote[84]	
+77-30	8360-8365	final	*[84]	Direct Quote[84]	
+77-31	8366-8371	order	*[84]	Direct Quote[84]	
+77-32	8372-8374	of	*[84]	Direct Quote[84]	
+77-33	8375-8382	removal	*[84]	Direct Quote[84]	
+77-34	8383-8391	pursuant	*[84]	Direct Quote[84]	
+77-35	8392-8394	to	*[84]	Direct Quote[84]	
+77-36	8395-8398	...	*[84]	Direct Quote[84]	
+77-37	8399-8400	(	*[84]	Direct Quote[84]	
+77-38	8401-8402	8	*[84]	Direct Quote[84]	
+77-39	8403-8409	U.S.C.	*[84]	Direct Quote[84]	
+77-40	8410-8411	§	*[84]	Direct Quote[84]	
+77-41	8412-8416	1252	*[84]	Direct Quote[84]	
+77-42	8417-8418	)	*[84]	Direct Quote[84]	
+77-43	8419-8420	.	*[84]	Direct Quote[84]	
+77-44	8421-8422	"	*[84]	Direct Quote[84]	
+
+#Text=In other words , a final order of removal is required if a court is to review a CAT order at all .
+78-1	8424-8426	In	_	_	
+78-2	8427-8432	other	_	_	
+78-3	8433-8438	words	_	_	
+78-4	8439-8440	,	_	_	
+78-5	8441-8442	a	_	_	
+78-6	8443-8448	final	_	_	
+78-7	8449-8454	order	_	_	
+78-8	8455-8457	of	_	_	
+78-9	8458-8465	removal	_	_	
+78-10	8466-8468	is	_	_	
+78-11	8469-8477	required	_	_	
+78-12	8478-8480	if	_	_	
+78-13	8481-8482	a	_	_	
+78-14	8483-8488	court	_	_	
+78-15	8489-8491	is	_	_	
+78-16	8492-8494	to	_	_	
+78-17	8495-8501	review	_	_	
+78-18	8502-8503	a	_	_	
+78-19	8504-8507	CAT	_	_	
+78-20	8508-8513	order	_	_	
+78-21	8514-8516	at	_	_	
+78-22	8517-8520	all	_	_	
+78-23	8521-8522	.	_	_	
+
+#Text=The CAT order then becomes reviewable " as part of " that final order of removal through the zipper clause .
+79-1	8524-8527	The	_	_	
+79-2	8528-8531	CAT	_	_	
+79-3	8532-8537	order	_	_	
+79-4	8538-8542	then	_	_	
+79-5	8543-8550	becomes	_	_	
+79-6	8551-8561	reviewable	_	_	
+79-7	8562-8563	"	*[85]	Direct Quote[85]	
+79-8	8564-8566	as	*[85]	Direct Quote[85]	
+79-9	8567-8571	part	*[85]	Direct Quote[85]	
+79-10	8572-8574	of	*[85]	Direct Quote[85]	
+79-11	8575-8576	"	*[85]	Direct Quote[85]	
+79-12	8577-8581	that	_	_	
+79-13	8582-8587	final	_	_	
+79-14	8588-8593	order	_	_	
+79-15	8594-8596	of	_	_	
+79-16	8597-8604	removal	_	_	
+79-17	8605-8612	through	_	_	
+79-18	8613-8616	the	_	_	
+79-19	8617-8623	zipper	_	_	
+79-20	8624-8630	clause	_	_	
+79-21	8631-8632	.	_	_	
+
+#Text=And , because FARRA funnels exclusive review of CAT orders through § 1252 , all of that section 's limitations on final orders of removal apply equally to CAT orders , including § 1252(a)(2)(C ) .
+80-1	8634-8637	And	_	_	
+80-2	8638-8639	,	_	_	
+80-3	8640-8647	because	_	_	
+80-4	8648-8653	FARRA	*	Legal Source	
+80-5	8654-8661	funnels	_	_	
+80-6	8662-8671	exclusive	_	_	
+80-7	8672-8678	review	_	_	
+80-8	8679-8681	of	_	_	
+80-9	8682-8685	CAT	_	_	
+80-10	8686-8692	orders	_	_	
+80-11	8693-8700	through	_	_	
+80-12	8701-8702	§	*[86]	Legal Source[86]	
+80-13	8703-8707	1252	*[86]	Legal Source[86]	
+80-14	8708-8709	,	_	_	
+80-15	8710-8713	all	_	_	
+80-16	8714-8716	of	_	_	
+80-17	8717-8721	that	_	_	
+80-18	8722-8729	section	_	_	
+80-19	8730-8732	's	_	_	
+80-20	8733-8744	limitations	_	_	
+80-21	8745-8747	on	_	_	
+80-22	8748-8753	final	_	_	
+80-23	8754-8760	orders	_	_	
+80-24	8761-8763	of	_	_	
+80-25	8764-8771	removal	_	_	
+80-26	8772-8777	apply	_	_	
+80-27	8778-8785	equally	_	_	
+80-28	8786-8788	to	_	_	
+80-29	8789-8792	CAT	_	_	
+80-30	8793-8799	orders	_	_	
+80-31	8800-8801	,	_	_	
+80-32	8802-8811	including	_	_	
+80-33	8812-8813	§	*[87]	Legal Source[87]	
+80-34	8814-8826	1252(a)(2)(C	*[87]	Legal Source[87]	
+80-35	8827-8828	)	*[87]	Legal Source[87]	
+80-36	8829-8830	.	_	_	
+
+#Text=Section 1252(a)(2)(4 ) , on the other hand , serves a far simpler function .
+81-1	8832-8839	Section	*[88]	Legal Source[88]	
+81-2	8840-8852	1252(a)(2)(4	*[88]	Legal Source[88]	
+81-3	8853-8854	)	*[88]	Legal Source[88]	
+81-4	8855-8856	,	_	_	
+81-5	8857-8859	on	_	_	
+81-6	8860-8863	the	_	_	
+81-7	8864-8869	other	_	_	
+81-8	8870-8874	hand	_	_	
+81-9	8875-8876	,	_	_	
+81-10	8877-8883	serves	_	_	
+81-11	8884-8885	a	_	_	
+81-12	8886-8889	far	_	_	
+81-13	8890-8897	simpler	_	_	
+81-14	8898-8906	function	_	_	
+81-15	8907-8908	.	_	_	
+
+#Text=That provision simply confirms that , because CAT claims can be reviewed only as part of a final order of removal , and final orders of removal can be reviewed only if a petitioner files a petition for review , a CAT claim likewise can be reviewed only if petitioner files a petition for review .
+82-1	8910-8914	That	_	_	
+82-2	8915-8924	provision	_	_	
+82-3	8925-8931	simply	_	_	
+82-4	8932-8940	confirms	_	_	
+82-5	8941-8945	that	_	_	
+82-6	8946-8947	,	_	_	
+82-7	8948-8955	because	_	_	
+82-8	8956-8959	CAT	_	_	
+82-9	8960-8966	claims	_	_	
+82-10	8967-8970	can	_	_	
+82-11	8971-8973	be	_	_	
+82-12	8974-8982	reviewed	_	_	
+82-13	8983-8987	only	_	_	
+82-14	8988-8990	as	_	_	
+82-15	8991-8995	part	_	_	
+82-16	8996-8998	of	_	_	
+82-17	8999-9000	a	_	_	
+82-18	9001-9006	final	_	_	
+82-19	9007-9012	order	_	_	
+82-20	9013-9015	of	_	_	
+82-21	9016-9023	removal	_	_	
+82-22	9024-9025	,	_	_	
+82-23	9026-9029	and	_	_	
+82-24	9030-9035	final	_	_	
+82-25	9036-9042	orders	_	_	
+82-26	9043-9045	of	_	_	
+82-27	9046-9053	removal	_	_	
+82-28	9054-9057	can	_	_	
+82-29	9058-9060	be	_	_	
+82-30	9061-9069	reviewed	_	_	
+82-31	9070-9074	only	_	_	
+82-32	9075-9077	if	_	_	
+82-33	9078-9079	a	_	_	
+82-34	9080-9090	petitioner	_	_	
+82-35	9091-9096	files	_	_	
+82-36	9097-9098	a	_	_	
+82-37	9099-9107	petition	_	_	
+82-38	9108-9111	for	_	_	
+82-39	9112-9118	review	_	_	
+82-40	9119-9120	,	_	_	
+82-41	9121-9122	a	_	_	
+82-42	9123-9126	CAT	_	_	
+82-43	9127-9132	claim	_	_	
+82-44	9133-9141	likewise	_	_	
+82-45	9142-9145	can	_	_	
+82-46	9146-9148	be	_	_	
+82-47	9149-9157	reviewed	_	_	
+82-48	9158-9162	only	_	_	
+82-49	9163-9165	if	_	_	
+82-50	9166-9176	petitioner	_	_	
+82-51	9177-9182	files	_	_	
+82-52	9183-9184	a	_	_	
+82-53	9185-9193	petition	_	_	
+82-54	9194-9197	for	_	_	
+82-55	9198-9204	review	_	_	
+82-56	9205-9206	.	_	_	
+
+#Text=See Ortiz - Franco v. Holder , 782 F.3d 81 , 88 - 89 ( CA2 2015 ) ; Lovan v. Holder , 574 F.3d 990 , 998 ( CA8 2009 ) .
+83-1	9208-9211	See	_	_	
+83-2	9212-9217	Ortiz	*[89]	Legal Source[89]	
+83-3	9218-9219	-	*[89]	Legal Source[89]	
+83-4	9220-9226	Franco	*[89]	Legal Source[89]	
+83-5	9227-9229	v.	*[89]	Legal Source[89]	
+83-6	9230-9236	Holder	*[89]	Legal Source[89]	
+83-7	9237-9238	,	*[89]	Legal Source[89]	
+83-8	9239-9242	782	*[89]	Legal Source[89]	
+83-9	9243-9247	F.3d	*[89]	Legal Source[89]	
+83-10	9248-9250	81	*[89]	Legal Source[89]	
+83-11	9251-9252	,	*[89]	Legal Source[89]	
+83-12	9253-9255	88	*[89]	Legal Source[89]	
+83-13	9256-9257	-	*[89]	Legal Source[89]	
+83-14	9258-9260	89	*[89]	Legal Source[89]	
+83-15	9261-9262	(	*[89]	Legal Source[89]	
+83-16	9263-9266	CA2	*[89]	Legal Source[89]	
+83-17	9267-9271	2015	*[89]	Legal Source[89]	
+83-18	9272-9273	)	*[89]	Legal Source[89]	
+83-19	9274-9275	;	_	_	
+83-20	9276-9281	Lovan	*[90]	Legal Source[90]	
+83-21	9282-9284	v.	*[90]	Legal Source[90]	
+83-22	9285-9291	Holder	*[90]	Legal Source[90]	
+83-23	9292-9293	,	*[90]	Legal Source[90]	
+83-24	9294-9297	574	*[90]	Legal Source[90]	
+83-25	9298-9302	F.3d	*[90]	Legal Source[90]	
+83-26	9303-9306	990	*[90]	Legal Source[90]	
+83-27	9307-9308	,	*[90]	Legal Source[90]	
+83-28	9309-9312	998	*[90]	Legal Source[90]	
+83-29	9313-9314	(	*[90]	Legal Source[90]	
+83-30	9315-9318	CA8	*[90]	Legal Source[90]	
+83-31	9319-9323	2009	*[90]	Legal Source[90]	
+83-32	9324-9325	)	*[90]	Legal Source[90]	
+83-33	9326-9327	.	_	_	
+
+#Text=My reading of the statute makes sense of § 1252(a)(4 ) , while still giving the zipper clause its ordinary meaning .
+84-1	9329-9331	My	*[91]	Appeal to Meaning[91]	
+84-2	9332-9339	reading	*[91]|*[92]	Appeal to Meaning[91]|Metalinguistic Cue[92]	
+84-3	9340-9342	of	*[91]	Appeal to Meaning[91]	
+84-4	9343-9346	the	*[91]	Appeal to Meaning[91]	
+84-5	9347-9354	statute	*[91]	Appeal to Meaning[91]	
+84-6	9355-9360	makes	*[91]	Appeal to Meaning[91]	
+84-7	9361-9366	sense	*[91]|*[93]	Appeal to Meaning[91]|Metalinguistic Cue[93]	
+84-8	9367-9369	of	*[91]	Appeal to Meaning[91]	
+84-9	9370-9371	§	*[91]|*[94]	Appeal to Meaning[91]|Legal Source[94]	
+84-10	9372-9381	1252(a)(4	*[91]|*[94]	Appeal to Meaning[91]|Legal Source[94]	
+84-11	9382-9383	)	*[91]|*[94]	Appeal to Meaning[91]|Legal Source[94]	
+84-12	9384-9385	,	*[91]	Appeal to Meaning[91]	
+84-13	9386-9391	while	*[91]	Appeal to Meaning[91]	
+84-14	9392-9397	still	*[91]	Appeal to Meaning[91]	
+84-15	9398-9404	giving	*[91]	Appeal to Meaning[91]	
+84-16	9405-9408	the	*[91]	Appeal to Meaning[91]	
+84-17	9409-9415	zipper	*[91]	Appeal to Meaning[91]	
+84-18	9416-9422	clause	*[91]	Appeal to Meaning[91]	
+84-19	9423-9426	its	*[91]	Appeal to Meaning[91]	
+84-20	9427-9435	ordinary	*[91]|*[95]	Appeal to Meaning[91]|Metalinguistic Cue[95]	
+84-21	9436-9443	meaning	*[91]|*[95]	Appeal to Meaning[91]|Metalinguistic Cue[95]	
+84-22	9444-9445	.	_	_	
+
+#Text=C
+85-1	9447-9448	C	_	_	
+
+#Text=The majority 's interpretation will bring about a sea change in immigration law .
+86-1	9450-9453	The	_	_	
+86-2	9454-9462	majority	_	_	
+86-3	9463-9465	's	_	_	
+86-4	9466-9480	interpretation	*	Metalinguistic Cue	
+86-5	9481-9485	will	_	_	
+86-6	9486-9491	bring	_	_	
+86-7	9492-9497	about	_	_	
+86-8	9498-9499	a	_	_	
+86-9	9500-9503	sea	_	_	
+86-10	9504-9510	change	_	_	
+86-11	9511-9513	in	_	_	
+86-12	9514-9525	immigration	_	_	
+86-13	9526-9529	law	_	_	
+86-14	9530-9531	.	_	_	
+
+#Text=Though today 's case involves CAT claims , there is good reason to think that the majority 's rule will apply equally to statutory withholding of removal .
+87-1	9533-9539	Though	_	_	
+87-2	9540-9545	today	_	_	
+87-3	9546-9548	's	_	_	
+87-4	9549-9553	case	_	_	
+87-5	9554-9562	involves	_	_	
+87-6	9563-9566	CAT	_	_	
+87-7	9567-9573	claims	_	_	
+87-8	9574-9575	,	_	_	
+87-9	9576-9581	there	_	_	
+87-10	9582-9584	is	_	_	
+87-11	9585-9589	good	_	_	
+87-12	9590-9596	reason	_	_	
+87-13	9597-9599	to	_	_	
+87-14	9600-9605	think	_	_	
+87-15	9606-9610	that	_	_	
+87-16	9611-9614	the	_	_	
+87-17	9615-9623	majority	_	_	
+87-18	9624-9626	's	_	_	
+87-19	9627-9631	rule	_	_	
+87-20	9632-9636	will	_	_	
+87-21	9637-9642	apply	_	_	
+87-22	9643-9650	equally	_	_	
+87-23	9651-9653	to	_	_	
+87-24	9654-9663	statutory	_	_	
+87-25	9664-9675	withholding	_	_	
+87-26	9676-9678	of	_	_	
+87-27	9679-9686	removal	_	_	
+87-28	9687-9688	.	_	_	
+
+#Text=Statutory withholding , a frequently sought form of relief , is available if " the alien 's life or freedom would be threatened ... because of the alien 's race , religion , nationality , membership in a particular social group , or political opinion . "
+88-1	9690-9699	Statutory	_	_	
+88-2	9700-9711	withholding	_	_	
+88-3	9712-9713	,	_	_	
+88-4	9714-9715	a	_	_	
+88-5	9716-9726	frequently	_	_	
+88-6	9727-9733	sought	_	_	
+88-7	9734-9738	form	_	_	
+88-8	9739-9741	of	_	_	
+88-9	9742-9748	relief	_	_	
+88-10	9749-9750	,	_	_	
+88-11	9751-9753	is	_	_	
+88-12	9754-9763	available	_	_	
+88-13	9764-9766	if	_	_	
+88-14	9767-9768	"	*[96]	Direct Quote[96]	
+88-15	9769-9772	the	*[96]	Direct Quote[96]	
+88-16	9773-9778	alien	*[96]	Direct Quote[96]	
+88-17	9779-9781	's	*[96]	Direct Quote[96]	
+88-18	9782-9786	life	*[96]	Direct Quote[96]	
+88-19	9787-9789	or	*[96]	Direct Quote[96]	
+88-20	9790-9797	freedom	*[96]	Direct Quote[96]	
+88-21	9798-9803	would	*[96]	Direct Quote[96]	
+88-22	9804-9806	be	*[96]	Direct Quote[96]	
+88-23	9807-9817	threatened	*[96]	Direct Quote[96]	
+88-24	9818-9821	...	*[96]	Direct Quote[96]	
+88-25	9822-9829	because	*[96]	Direct Quote[96]	
+88-26	9830-9832	of	*[96]	Direct Quote[96]	
+88-27	9833-9836	the	*[96]	Direct Quote[96]	
+88-28	9837-9842	alien	*[96]	Direct Quote[96]	
+88-29	9843-9845	's	*[96]	Direct Quote[96]	
+88-30	9846-9850	race	*[96]	Direct Quote[96]	
+88-31	9851-9852	,	*[96]	Direct Quote[96]	
+88-32	9853-9861	religion	*[96]	Direct Quote[96]	
+88-33	9862-9863	,	*[96]	Direct Quote[96]	
+88-34	9864-9875	nationality	*[96]	Direct Quote[96]	
+88-35	9876-9877	,	*[96]	Direct Quote[96]	
+88-36	9878-9888	membership	*[96]	Direct Quote[96]	
+88-37	9889-9891	in	*[96]	Direct Quote[96]	
+88-38	9892-9893	a	*[96]	Direct Quote[96]	
+88-39	9894-9904	particular	*[96]	Direct Quote[96]	
+88-40	9905-9911	social	*[96]	Direct Quote[96]	
+88-41	9912-9917	group	*[96]	Direct Quote[96]	
+88-42	9918-9919	,	*[96]	Direct Quote[96]	
+88-43	9920-9922	or	*[96]	Direct Quote[96]	
+88-44	9923-9932	political	*[96]	Direct Quote[96]	
+88-45	9933-9940	opinion	*[96]	Direct Quote[96]	
+88-46	9941-9942	.	*[96]	Direct Quote[96]	
+88-47	9943-9944	"	*[96]	Direct Quote[96]	
+
+#Text=§ 1231(b)(3)(A ) ; see also 8 C.F.R. § 208.16 ( b ) ( 2020 ) .
+89-1	9946-9947	§	*[97]	Legal Source[97]	
+89-2	9948-9960	1231(b)(3)(A	*[97]	Legal Source[97]	
+89-3	9961-9962	)	*[97]	Legal Source[97]	
+89-4	9963-9964	;	*[97]	Legal Source[97]	
+89-5	9965-9968	see	*[97]	Legal Source[97]	
+89-6	9969-9973	also	*[97]	Legal Source[97]	
+89-7	9974-9975	8	*[97]	Legal Source[97]	
+89-8	9976-9982	C.F.R.	*[97]	Legal Source[97]	
+89-9	9983-9984	§	*[97]	Legal Source[97]	
+89-10	9985-9991	208.16	*[97]	Legal Source[97]	
+89-11	9992-9993	(	*[97]	Legal Source[97]	
+89-12	9994-9995	b	*[97]	Legal Source[97]	
+89-13	9996-9997	)	*[97]	Legal Source[97]	
+89-14	9998-9999	(	*[97]	Legal Source[97]	
+89-15	10000-10004	2020	*[97]	Legal Source[97]	
+89-16	10005-10006	)	*[97]	Legal Source[97]	
+89-17	10007-10008	.	_	_	
+
+#Text=Like CAT withholding , statutory withholding is unavailable to aliens who have committed certain crimes .
+90-1	10010-10014	Like	_	_	
+90-2	10015-10018	CAT	_	_	
+90-3	10019-10030	withholding	_	_	
+90-4	10031-10032	,	_	_	
+90-5	10033-10042	statutory	_	_	
+90-6	10043-10054	withholding	_	_	
+90-7	10055-10057	is	_	_	
+90-8	10058-10069	unavailable	_	_	
+90-9	10070-10072	to	_	_	
+90-10	10073-10079	aliens	_	_	
+90-11	10080-10083	who	_	_	
+90-12	10084-10088	have	_	_	
+90-13	10089-10098	committed	_	_	
+90-14	10099-10106	certain	_	_	
+90-15	10107-10113	crimes	_	_	
+90-16	10114-10115	.	_	_	
+
+#Text=§ 1231(b)(3)(B)(ii ) .
+91-1	10117-10118	§	*[98]	Legal Source[98]	
+91-2	10119-10135	1231(b)(3)(B)(ii	*[98]	Legal Source[98]	
+91-3	10136-10137	)	*[98]	Legal Source[98]	
+91-4	10138-10139	.	_	_	
+
+#Text=And like CAT relief , statutory withholding seeks to prevent removability and is considered after the alien has been deemed removable .
+92-1	10141-10144	And	_	_	
+92-2	10145-10149	like	_	_	
+92-3	10150-10153	CAT	_	_	
+92-4	10154-10160	relief	_	_	
+92-5	10161-10162	,	_	_	
+92-6	10163-10172	statutory	_	_	
+92-7	10173-10184	withholding	_	_	
+92-8	10185-10190	seeks	_	_	
+92-9	10191-10193	to	_	_	
+92-10	10194-10201	prevent	_	_	
+92-11	10202-10214	removability	_	_	
+92-12	10215-10218	and	_	_	
+92-13	10219-10221	is	_	_	
+92-14	10222-10232	considered	_	_	
+92-15	10233-10238	after	_	_	
+92-16	10239-10242	the	_	_	
+92-17	10243-10248	alien	_	_	
+92-18	10249-10252	has	_	_	
+92-19	10253-10257	been	_	_	
+92-20	10258-10264	deemed	_	_	
+92-21	10265-10274	removable	_	_	
+92-22	10275-10276	.	_	_	
+
+#Text=See , e.g. , Kouambo v. Barr , 943 F.3d 205 , 210 ( CA4 2019 ) .
+93-1	10278-10281	See	_	_	
+93-2	10282-10283	,	_	_	
+93-3	10284-10288	e.g.	_	_	
+93-4	10289-10290	,	_	_	
+93-5	10291-10298	Kouambo	*[99]	Legal Source[99]	
+93-6	10299-10301	v.	*[99]	Legal Source[99]	
+93-7	10302-10306	Barr	*[99]	Legal Source[99]	
+93-8	10307-10308	,	*[99]	Legal Source[99]	
+93-9	10309-10312	943	*[99]	Legal Source[99]	
+93-10	10313-10317	F.3d	*[99]	Legal Source[99]	
+93-11	10318-10321	205	*[99]	Legal Source[99]	
+93-12	10322-10323	,	*[99]	Legal Source[99]	
+93-13	10324-10327	210	*[99]	Legal Source[99]	
+93-14	10328-10329	(	*[99]	Legal Source[99]	
+93-15	10330-10333	CA4	*[99]	Legal Source[99]	
+93-16	10334-10338	2019	*[99]	Legal Source[99]	
+93-17	10339-10340	)	*[99]	Legal Source[99]	
+93-18	10341-10342	.	_	_	
+
+#Text=Thus , statutory withholding claims also do not affect the validity of the underlying removal order and , in the majority 's view , would not be subject to § 1252(a)(2)(C ) .
+94-1	10344-10348	Thus	_	_	
+94-2	10349-10350	,	_	_	
+94-3	10351-10360	statutory	_	_	
+94-4	10361-10372	withholding	_	_	
+94-5	10373-10379	claims	_	_	
+94-6	10380-10384	also	_	_	
+94-7	10385-10387	do	_	_	
+94-8	10388-10391	not	_	_	
+94-9	10392-10398	affect	_	_	
+94-10	10399-10402	the	_	_	
+94-11	10403-10411	validity	_	_	
+94-12	10412-10414	of	_	_	
+94-13	10415-10418	the	_	_	
+94-14	10419-10429	underlying	_	_	
+94-15	10430-10437	removal	_	_	
+94-16	10438-10443	order	_	_	
+94-17	10444-10447	and	_	_	
+94-18	10448-10449	,	_	_	
+94-19	10450-10452	in	_	_	
+94-20	10453-10456	the	_	_	
+94-21	10457-10465	majority	_	_	
+94-22	10466-10468	's	_	_	
+94-23	10469-10473	view	_	_	
+94-24	10474-10475	,	_	_	
+94-25	10476-10481	would	_	_	
+94-26	10482-10485	not	_	_	
+94-27	10486-10488	be	_	_	
+94-28	10489-10496	subject	_	_	
+94-29	10497-10499	to	_	_	
+94-30	10500-10501	§	*[100]	Legal Source[100]	
+94-31	10502-10514	1252(a)(2)(C	*[100]	Legal Source[100]	
+94-32	10515-10516	)	*[100]	Legal Source[100]	
+94-33	10517-10518	.	_	_	
+
+#Text=The Government persuasively argues that adopting petitioner 's rule will disturb the courts of appeals ' longstanding practice of subjecting criminal aliens ' statutory withholding claims to § 1252(a)(2)(C ) .
+95-1	10520-10523	The	_	_	
+95-2	10524-10534	Government	_	_	
+95-3	10535-10547	persuasively	_	_	
+95-4	10548-10554	argues	_	_	
+95-5	10555-10559	that	_	_	
+95-6	10560-10568	adopting	_	_	
+95-7	10569-10579	petitioner	_	_	
+95-8	10580-10582	's	_	_	
+95-9	10583-10587	rule	_	_	
+95-10	10588-10592	will	_	_	
+95-11	10593-10600	disturb	_	_	
+95-12	10601-10604	the	_	_	
+95-13	10605-10611	courts	_	_	
+95-14	10612-10614	of	_	_	
+95-15	10615-10622	appeals	_	_	
+95-16	10623-10624	'	_	_	
+95-17	10625-10637	longstanding	_	_	
+95-18	10638-10646	practice	_	_	
+95-19	10647-10649	of	_	_	
+95-20	10650-10660	subjecting	_	_	
+95-21	10661-10669	criminal	_	_	
+95-22	10670-10676	aliens	_	_	
+95-23	10677-10678	'	_	_	
+95-24	10679-10688	statutory	_	_	
+95-25	10689-10700	withholding	_	_	
+95-26	10701-10707	claims	_	_	
+95-27	10708-10710	to	_	_	
+95-28	10711-10712	§	*[101]	Legal Source[101]	
+95-29	10713-10725	1252(a)(2)(C	*[101]	Legal Source[101]	
+95-30	10726-10727	)	*[101]	Legal Source[101]	
+95-31	10728-10729	.	_	_	
+
+#Text=See , e.g. , Rendon v. Barr , 952 F.3d 963 , 970 ( CA8 2020 ) ; Pierre - Paul v. Barr , 930 F.3d 684 , 693 - 694 ( CA5 2019 ) ; Gutierrez v. Lynch , 834 F.3d 800 , 804 ( CA7 2016 ) ; Jeune v. United States Atty . Gen. , 810 F.3d 792 , 806 , nn . 3 , 12 ( CA11 2016 ) ; Pechenkov v. Holder , 705 F.3d 444 , 448 ( CA9 2012 ) .
+96-1	10731-10734	See	_	_	
+96-2	10735-10736	,	_	_	
+96-3	10737-10741	e.g.	_	_	
+96-4	10742-10743	,	_	_	
+96-5	10744-10750	Rendon	*[102]	Legal Source[102]	
+96-6	10751-10753	v.	*[102]	Legal Source[102]	
+96-7	10754-10758	Barr	*[102]	Legal Source[102]	
+96-8	10759-10760	,	*[102]	Legal Source[102]	
+96-9	10761-10764	952	*[102]	Legal Source[102]	
+96-10	10765-10769	F.3d	*[102]	Legal Source[102]	
+96-11	10770-10773	963	*[102]	Legal Source[102]	
+96-12	10774-10775	,	*[102]	Legal Source[102]	
+96-13	10776-10779	970	*[102]	Legal Source[102]	
+96-14	10780-10781	(	*[102]	Legal Source[102]	
+96-15	10782-10785	CA8	*[102]	Legal Source[102]	
+96-16	10786-10790	2020	*[102]	Legal Source[102]	
+96-17	10791-10792	)	*[102]	Legal Source[102]	
+96-18	10793-10794	;	_	_	
+96-19	10795-10801	Pierre	*[103]	Legal Source[103]	
+96-20	10802-10803	-	*[103]	Legal Source[103]	
+96-21	10804-10808	Paul	*[103]	Legal Source[103]	
+96-22	10809-10811	v.	*[103]	Legal Source[103]	
+96-23	10812-10816	Barr	*[103]	Legal Source[103]	
+96-24	10817-10818	,	*[103]	Legal Source[103]	
+96-25	10819-10822	930	*[103]	Legal Source[103]	
+96-26	10823-10827	F.3d	*[103]	Legal Source[103]	
+96-27	10828-10831	684	*[103]	Legal Source[103]	
+96-28	10832-10833	,	*[103]	Legal Source[103]	
+96-29	10834-10837	693	*[103]	Legal Source[103]	
+96-30	10838-10839	-	*[103]	Legal Source[103]	
+96-31	10840-10843	694	*[103]	Legal Source[103]	
+96-32	10844-10845	(	*[103]	Legal Source[103]	
+96-33	10846-10849	CA5	*[103]	Legal Source[103]	
+96-34	10850-10854	2019	*[103]	Legal Source[103]	
+96-35	10855-10856	)	*[103]	Legal Source[103]	
+96-36	10857-10858	;	_	_	
+96-37	10859-10868	Gutierrez	*[104]	Legal Source[104]	
+96-38	10869-10871	v.	*[104]	Legal Source[104]	
+96-39	10872-10877	Lynch	*[104]	Legal Source[104]	
+96-40	10878-10879	,	*[104]	Legal Source[104]	
+96-41	10880-10883	834	*[104]	Legal Source[104]	
+96-42	10884-10888	F.3d	*[104]	Legal Source[104]	
+96-43	10889-10892	800	*[104]	Legal Source[104]	
+96-44	10893-10894	,	*[104]	Legal Source[104]	
+96-45	10895-10898	804	*[104]	Legal Source[104]	
+96-46	10899-10900	(	*[104]	Legal Source[104]	
+96-47	10901-10904	CA7	*[104]	Legal Source[104]	
+96-48	10905-10909	2016	*[104]	Legal Source[104]	
+96-49	10910-10911	)	*[104]	Legal Source[104]	
+96-50	10912-10913	;	_	_	
+96-51	10914-10919	Jeune	*[105]	Legal Source[105]	
+96-52	10920-10922	v.	*[105]	Legal Source[105]	
+96-53	10923-10929	United	*[105]	Legal Source[105]	
+96-54	10930-10936	States	*[105]	Legal Source[105]	
+96-55	10937-10941	Atty	*[105]	Legal Source[105]	
+96-56	10942-10943	.	*[105]	Legal Source[105]	
+96-57	10944-10948	Gen.	*[105]	Legal Source[105]	
+96-58	10949-10950	,	*[105]	Legal Source[105]	
+96-59	10951-10954	810	*[105]	Legal Source[105]	
+96-60	10955-10959	F.3d	*[105]	Legal Source[105]	
+96-61	10960-10963	792	*[105]	Legal Source[105]	
+96-62	10964-10965	,	*[105]	Legal Source[105]	
+96-63	10966-10969	806	*[105]	Legal Source[105]	
+96-64	10970-10971	,	*[105]	Legal Source[105]	
+96-65	10972-10974	nn	*[105]	Legal Source[105]	
+96-66	10975-10976	.	*[105]	Legal Source[105]	
+96-67	10977-10978	3	*[105]	Legal Source[105]	
+96-68	10979-10980	,	*[105]	Legal Source[105]	
+96-69	10981-10983	12	*[105]	Legal Source[105]	
+96-70	10984-10985	(	*[105]	Legal Source[105]	
+96-71	10986-10990	CA11	*[105]	Legal Source[105]	
+96-72	10991-10995	2016	*[105]	Legal Source[105]	
+96-73	10996-10997	)	*[105]	Legal Source[105]	
+96-74	10998-10999	;	_	_	
+96-75	11000-11009	Pechenkov	*[106]	Legal Source[106]	
+96-76	11010-11012	v.	*[106]	Legal Source[106]	
+96-77	11013-11019	Holder	*[106]	Legal Source[106]	
+96-78	11020-11021	,	*[106]	Legal Source[106]	
+96-79	11022-11025	705	*[106]	Legal Source[106]	
+96-80	11026-11030	F.3d	*[106]	Legal Source[106]	
+96-81	11031-11034	444	*[106]	Legal Source[106]	
+96-82	11035-11036	,	*[106]	Legal Source[106]	
+96-83	11037-11040	448	*[106]	Legal Source[106]	
+96-84	11041-11042	(	*[106]	Legal Source[106]	
+96-85	11043-11046	CA9	*[106]	Legal Source[106]	
+96-86	11047-11051	2012	*[106]	Legal Source[106]	
+96-87	11052-11053	)	*[106]	Legal Source[106]	
+96-88	11054-11055	.	_	_	
+
+#Text=And at oral argument , petitioner all but conceded that the Government is correct on that score .
+97-1	11057-11060	And	_	_	
+97-2	11061-11063	at	_	_	
+97-3	11064-11068	oral	_	_	
+97-4	11069-11077	argument	_	_	
+97-5	11078-11079	,	_	_	
+97-6	11080-11090	petitioner	_	_	
+97-7	11091-11094	all	_	_	
+97-8	11095-11098	but	_	_	
+97-9	11099-11107	conceded	_	_	
+97-10	11108-11112	that	_	_	
+97-11	11113-11116	the	_	_	
+97-12	11117-11127	Government	_	_	
+97-13	11128-11130	is	_	_	
+97-14	11131-11138	correct	_	_	
+97-15	11139-11141	on	_	_	
+97-16	11142-11146	that	_	_	
+97-17	11147-11152	score	_	_	
+97-18	11153-11154	.	_	_	
+
+#Text=See Tr . of Oral Arg . 20 - 21 .
+98-1	11156-11159	See	_	_	
+98-2	11160-11162	Tr	*[107]	Legal Source[107]	
+98-3	11163-11164	.	*[107]	Legal Source[107]	
+98-4	11165-11167	of	*[107]	Legal Source[107]	
+98-5	11168-11172	Oral	*[107]	Legal Source[107]	
+98-6	11173-11176	Arg	*[107]	Legal Source[107]	
+98-7	11177-11178	.	*[107]	Legal Source[107]	
+98-8	11179-11181	20	*[107]	Legal Source[107]	
+98-9	11182-11183	-	*[107]	Legal Source[107]	
+98-10	11184-11186	21	*[107]	Legal Source[107]	
+98-11	11187-11188	.	_	_	
+
+#Text=Whistling past the graveyard , the majority attempts to avoid confronting this result by simply stating that the question is not currently before us .
+99-1	11190-11199	Whistling	_	_	
+99-2	11200-11204	past	_	_	
+99-3	11205-11208	the	_	_	
+99-4	11209-11218	graveyard	_	_	
+99-5	11219-11220	,	_	_	
+99-6	11221-11224	the	_	_	
+99-7	11225-11233	majority	_	_	
+99-8	11234-11242	attempts	_	_	
+99-9	11243-11245	to	_	_	
+99-10	11246-11251	avoid	_	_	
+99-11	11252-11263	confronting	_	_	
+99-12	11264-11268	this	_	_	
+99-13	11269-11275	result	_	_	
+99-14	11276-11278	by	_	_	
+99-15	11279-11285	simply	_	_	
+99-16	11286-11293	stating	_	_	
+99-17	11294-11298	that	_	_	
+99-18	11299-11302	the	_	_	
+99-19	11303-11311	question	_	_	
+99-20	11312-11314	is	_	_	
+99-21	11315-11318	not	_	_	
+99-22	11319-11328	currently	_	_	
+99-23	11329-11335	before	_	_	
+99-24	11336-11338	us	_	_	
+99-25	11339-11340	.	_	_	
+
+#Text=Ante , at 1694 .
+100-1	11342-11346	Ante	*[108]	Legal Source[108]	
+100-2	11347-11348	,	*[108]	Legal Source[108]	
+100-3	11349-11351	at	*[108]	Legal Source[108]	
+100-4	11352-11356	1694	*[108]	Legal Source[108]	
+100-5	11357-11358	.	_	_	
+
+#Text=But the Court can not evade the implications of its decision so easily .
+101-1	11360-11363	But	_	_	
+101-2	11364-11367	the	_	_	
+101-3	11368-11373	Court	_	_	
+101-4	11374-11377	can	_	_	
+101-5	11378-11381	not	_	_	
+101-6	11382-11387	evade	_	_	
+101-7	11388-11391	the	_	_	
+101-8	11392-11404	implications	_	_	
+101-9	11405-11407	of	_	_	
+101-10	11408-11411	its	_	_	
+101-11	11412-11420	decision	_	_	
+101-12	11421-11423	so	_	_	
+101-13	11424-11430	easily	_	_	
+101-14	11431-11432	.	_	_	
+
+#Text=We have been presented with two competing statutory interpretations - one of which makes sense of all relevant provisions without upending settled practice , and one of which significantly undermines § 1252(a)(2)(C ) by removing a vast swath of claims from its reach .
+102-1	11434-11436	We	_	_	
+102-2	11437-11441	have	_	_	
+102-3	11442-11446	been	_	_	
+102-4	11447-11456	presented	_	_	
+102-5	11457-11461	with	_	_	
+102-6	11462-11465	two	_	_	
+102-7	11466-11475	competing	_	_	
+102-8	11476-11485	statutory	*[109]	Metalinguistic Cue[109]	
+102-9	11486-11501	interpretations	*[109]	Metalinguistic Cue[109]	
+102-10	11502-11503	-	_	_	
+102-11	11504-11507	one	_	_	
+102-12	11508-11510	of	_	_	
+102-13	11511-11516	which	_	_	
+102-14	11517-11522	makes	_	_	
+102-15	11523-11528	sense	_	_	
+102-16	11529-11531	of	_	_	
+102-17	11532-11535	all	_	_	
+102-18	11536-11544	relevant	_	_	
+102-19	11545-11555	provisions	_	_	
+102-20	11556-11563	without	_	_	
+102-21	11564-11572	upending	_	_	
+102-22	11573-11580	settled	_	_	
+102-23	11581-11589	practice	_	_	
+102-24	11590-11591	,	_	_	
+102-25	11592-11595	and	_	_	
+102-26	11596-11599	one	_	_	
+102-27	11600-11602	of	_	_	
+102-28	11603-11608	which	_	_	
+102-29	11609-11622	significantly	_	_	
+102-30	11623-11633	undermines	_	_	
+102-31	11634-11635	§	*[110]	Legal Source[110]	
+102-32	11636-11648	1252(a)(2)(C	*[110]	Legal Source[110]	
+102-33	11649-11650	)	*[110]	Legal Source[110]	
+102-34	11651-11653	by	_	_	
+102-35	11654-11662	removing	_	_	
+102-36	11663-11664	a	_	_	
+102-37	11665-11669	vast	_	_	
+102-38	11670-11675	swath	_	_	
+102-39	11676-11678	of	_	_	
+102-40	11679-11685	claims	_	_	
+102-41	11686-11690	from	_	_	
+102-42	11691-11694	its	_	_	
+102-43	11695-11700	reach	_	_	
+102-44	11701-11702	.	_	_	
+
+#Text=If the majority insists on choosing the latter interpretation , it should justify that choice and candidly confront its implications .
+103-1	11704-11706	If	_	_	
+103-2	11707-11710	the	_	_	
+103-3	11711-11719	majority	_	_	
+103-4	11720-11727	insists	_	_	
+103-5	11728-11730	on	_	_	
+103-6	11731-11739	choosing	_	_	
+103-7	11740-11743	the	_	_	
+103-8	11744-11750	latter	_	_	
+103-9	11751-11765	interpretation	*	Metalinguistic Cue	
+103-10	11766-11767	,	_	_	
+103-11	11768-11770	it	_	_	
+103-12	11771-11777	should	_	_	
+103-13	11778-11785	justify	_	_	
+103-14	11786-11790	that	_	_	
+103-15	11791-11797	choice	_	_	
+103-16	11798-11801	and	_	_	
+103-17	11802-11810	candidly	_	_	
+103-18	11811-11819	confront	_	_	
+103-19	11820-11823	its	_	_	
+103-20	11824-11836	implications	_	_	
+103-21	11837-11838	.	_	_	
+
+#Text=III
+104-1	11840-11843	III	_	_	
+
+#Text=At bottom , petitioner 's argument is largely driven by policy considerations .
+105-1	11845-11847	At	_	_	
+105-2	11848-11854	bottom	_	_	
+105-3	11855-11856	,	_	_	
+105-4	11857-11867	petitioner	_	_	
+105-5	11868-11870	's	_	_	
+105-6	11871-11879	argument	_	_	
+105-7	11880-11882	is	_	_	
+105-8	11883-11890	largely	_	_	
+105-9	11891-11897	driven	_	_	
+105-10	11898-11900	by	_	_	
+105-11	11901-11907	policy	_	_	
+105-12	11908-11922	considerations	_	_	
+105-13	11923-11924	.	_	_	
+
+#Text=He contends that the United States has obligated itself not to return any alien , even a criminal alien , to a country where he may be tortured or killed .
+106-1	11926-11928	He	_	_	
+106-2	11929-11937	contends	_	_	
+106-3	11938-11942	that	_	_	
+106-4	11943-11946	the	_	_	
+106-5	11947-11953	United	_	_	
+106-6	11954-11960	States	_	_	
+106-7	11961-11964	has	_	_	
+106-8	11965-11974	obligated	_	_	
+106-9	11975-11981	itself	_	_	
+106-10	11982-11985	not	_	_	
+106-11	11986-11988	to	_	_	
+106-12	11989-11995	return	_	_	
+106-13	11996-11999	any	_	_	
+106-14	12000-12005	alien	_	_	
+106-15	12006-12007	,	_	_	
+106-16	12008-12012	even	_	_	
+106-17	12013-12014	a	_	_	
+106-18	12015-12023	criminal	_	_	
+106-19	12024-12029	alien	_	_	
+106-20	12030-12031	,	_	_	
+106-21	12032-12034	to	_	_	
+106-22	12035-12036	a	_	_	
+106-23	12037-12044	country	_	_	
+106-24	12045-12050	where	_	_	
+106-25	12051-12053	he	_	_	
+106-26	12054-12057	may	_	_	
+106-27	12058-12060	be	_	_	
+106-28	12061-12069	tortured	_	_	
+106-29	12070-12072	or	_	_	
+106-30	12073-12079	killed	_	_	
+106-31	12080-12081	.	_	_	
+
+#Text=According to petitioner , if CAT claims can not be reviewed by courts of appeals , then a vital check on erroneous refoulement will be lost .
+107-1	12083-12092	According	_	_	
+107-2	12093-12095	to	_	_	
+107-3	12096-12106	petitioner	_	_	
+107-4	12107-12108	,	_	_	
+107-5	12109-12111	if	_	_	
+107-6	12112-12115	CAT	_	_	
+107-7	12116-12122	claims	_	_	
+107-8	12123-12126	can	_	_	
+107-9	12127-12130	not	_	_	
+107-10	12131-12133	be	_	_	
+107-11	12134-12142	reviewed	_	_	
+107-12	12143-12145	by	_	_	
+107-13	12146-12152	courts	_	_	
+107-14	12153-12155	of	_	_	
+107-15	12156-12163	appeals	_	_	
+107-16	12164-12165	,	_	_	
+107-17	12166-12170	then	_	_	
+107-18	12171-12172	a	_	_	
+107-19	12173-12178	vital	_	_	
+107-20	12179-12184	check	_	_	
+107-21	12185-12187	on	_	_	
+107-22	12188-12197	erroneous	_	_	
+107-23	12198-12209	refoulement	_	_	
+107-24	12210-12214	will	_	_	
+107-25	12215-12217	be	_	_	
+107-26	12218-12222	lost	_	_	
+107-27	12223-12224	.	_	_	
+
+#Text=Petitioner 's arguments are not without rhetorical and emotional force .
+108-1	12226-12236	Petitioner	_	_	
+108-2	12237-12239	's	_	_	
+108-3	12240-12249	arguments	_	_	
+108-4	12250-12253	are	_	_	
+108-5	12254-12257	not	_	_	
+108-6	12258-12265	without	_	_	
+108-7	12266-12276	rhetorical	_	_	
+108-8	12277-12280	and	_	_	
+108-9	12281-12290	emotional	_	_	
+108-10	12291-12296	force	_	_	
+108-11	12297-12298	.	_	_	
+
+#Text=But , like so many other questions related to CAT obligations , Congress chose not to address them through the legislation involved here .
+109-1	12300-12303	But	_	_	
+109-2	12304-12305	,	_	_	
+109-3	12306-12310	like	_	_	
+109-4	12311-12313	so	_	_	
+109-5	12314-12318	many	_	_	
+109-6	12319-12324	other	_	_	
+109-7	12325-12334	questions	_	_	
+109-8	12335-12342	related	_	_	
+109-9	12343-12345	to	_	_	
+109-10	12346-12349	CAT	_	_	
+109-11	12350-12361	obligations	_	_	
+109-12	12362-12363	,	_	_	
+109-13	12364-12372	Congress	_	_	
+109-14	12373-12378	chose	_	_	
+109-15	12379-12382	not	_	_	
+109-16	12383-12385	to	_	_	
+109-17	12386-12393	address	_	_	
+109-18	12394-12398	them	_	_	
+109-19	12399-12406	through	_	_	
+109-20	12407-12410	the	_	_	
+109-21	12411-12422	legislation	_	_	
+109-22	12423-12431	involved	_	_	
+109-23	12432-12436	here	_	_	
+109-24	12437-12438	.	_	_	
+
+#Text=What Congress has done is enact § 1252(a)(2)(C ) , which strips jurisdiction over certain claims of criminal aliens .
+110-1	12440-12444	What	_	_	
+110-2	12445-12453	Congress	_	_	
+110-3	12454-12457	has	_	_	
+110-4	12458-12462	done	_	_	
+110-5	12463-12465	is	_	_	
+110-6	12466-12471	enact	_	_	
+110-7	12472-12473	§	*[111]	Legal Source[111]	
+110-8	12474-12486	1252(a)(2)(C	*[111]	Legal Source[111]	
+110-9	12487-12488	)	*[111]	Legal Source[111]	
+110-10	12489-12490	,	_	_	
+110-11	12491-12496	which	_	_	
+110-12	12497-12503	strips	_	_	
+110-13	12504-12516	jurisdiction	_	_	
+110-14	12517-12521	over	_	_	
+110-15	12522-12529	certain	_	_	
+110-16	12530-12536	claims	_	_	
+110-17	12537-12539	of	_	_	
+110-18	12540-12548	criminal	_	_	
+110-19	12549-12555	aliens	_	_	
+110-20	12556-12557	.	_	_	
+
+#Text=That is what is before us , not the broader policy considerations .
+111-1	12559-12563	That	_	_	
+111-2	12564-12566	is	_	_	
+111-3	12567-12571	what	_	_	
+111-4	12572-12574	is	_	_	
+111-5	12575-12581	before	_	_	
+111-6	12582-12584	us	_	_	
+111-7	12585-12586	,	_	_	
+111-8	12587-12590	not	_	_	
+111-9	12591-12594	the	_	_	
+111-10	12595-12602	broader	_	_	
+111-11	12603-12609	policy	_	_	
+111-12	12610-12624	considerations	_	_	
+111-13	12625-12626	.	_	_	
+
+#Text=As has been the case for decades now , the decisions of this Court continue to systematically chip away at this statute and other jurisdictional limitations on immigration claims , thus thwarting Congress ' intent .
+112-1	12628-12630	As	_	_	
+112-2	12631-12634	has	_	_	
+112-3	12635-12639	been	_	_	
+112-4	12640-12643	the	_	_	
+112-5	12644-12648	case	_	_	
+112-6	12649-12652	for	_	_	
+112-7	12653-12660	decades	_	_	
+112-8	12661-12664	now	_	_	
+112-9	12665-12666	,	_	_	
+112-10	12667-12670	the	_	_	
+112-11	12671-12680	decisions	_	_	
+112-12	12681-12683	of	_	_	
+112-13	12684-12688	this	_	_	
+112-14	12689-12694	Court	_	_	
+112-15	12695-12703	continue	_	_	
+112-16	12704-12706	to	_	_	
+112-17	12707-12721	systematically	_	_	
+112-18	12722-12726	chip	_	_	
+112-19	12727-12731	away	_	_	
+112-20	12732-12734	at	_	_	
+112-21	12735-12739	this	_	_	
+112-22	12740-12747	statute	_	_	
+112-23	12748-12751	and	_	_	
+112-24	12752-12757	other	_	_	
+112-25	12758-12772	jurisdictional	_	_	
+112-26	12773-12784	limitations	_	_	
+112-27	12785-12787	on	_	_	
+112-28	12788-12799	immigration	_	_	
+112-29	12800-12806	claims	_	_	
+112-30	12807-12808	,	_	_	
+112-31	12809-12813	thus	_	_	
+112-32	12814-12823	thwarting	_	_	
+112-33	12824-12832	Congress	*[112]	Metalinguistic Cue[112]	
+112-34	12833-12834	'	*[112]	Metalinguistic Cue[112]	
+112-35	12835-12841	intent	*[112]	Metalinguistic Cue[112]	
+112-36	12842-12843	.	_	_	
+
+#Text=See Guerrero - Lasprilla v. Barr , 589 U. S. ---- , ---- , 140 S.Ct . 1062 , 1073 - 1074 , 206 L.Ed.2d 271 ( 2020 ) ( THOMAS , J. , dissenting ) ; INS v. St. Cyr , 533 U.S. 289 , 328 - 330 , 121 S.Ct . 2271 , 150 L.Ed.2d 347 ( 2001 ) ( Scalia , J. , dissenting ) .
+113-1	12845-12848	See	_	_	
+113-2	12849-12857	Guerrero	*[113]	Legal Source[113]	
+113-3	12858-12859	-	*[113]	Legal Source[113]	
+113-4	12860-12869	Lasprilla	*[113]	Legal Source[113]	
+113-5	12870-12872	v.	*[113]	Legal Source[113]	
+113-6	12873-12877	Barr	*[113]	Legal Source[113]	
+113-7	12878-12879	,	*[113]	Legal Source[113]	
+113-8	12880-12883	589	*[113]	Legal Source[113]	
+113-9	12884-12886	U.	*[113]	Legal Source[113]	
+113-10	12887-12889	S.	*[113]	Legal Source[113]	
+113-11	12890-12894	----	*[113]	Legal Source[113]	
+113-12	12895-12896	,	*[113]	Legal Source[113]	
+113-13	12897-12901	----	*[113]	Legal Source[113]	
+113-14	12902-12903	,	*[113]	Legal Source[113]	
+113-15	12904-12907	140	*[113]	Legal Source[113]	
+113-16	12908-12912	S.Ct	*[113]	Legal Source[113]	
+113-17	12913-12914	.	*[113]	Legal Source[113]	
+113-18	12915-12919	1062	*[113]	Legal Source[113]	
+113-19	12920-12921	,	*[113]	Legal Source[113]	
+113-20	12922-12926	1073	*[113]	Legal Source[113]	
+113-21	12927-12928	-	*[113]	Legal Source[113]	
+113-22	12929-12933	1074	*[113]	Legal Source[113]	
+113-23	12934-12935	,	*[113]	Legal Source[113]	
+113-24	12936-12939	206	*[113]	Legal Source[113]	
+113-25	12940-12947	L.Ed.2d	*[113]	Legal Source[113]	
+113-26	12948-12951	271	*[113]	Legal Source[113]	
+113-27	12952-12953	(	*[113]	Legal Source[113]	
+113-28	12954-12958	2020	*[113]	Legal Source[113]	
+113-29	12959-12960	)	*[113]	Legal Source[113]	
+113-30	12961-12962	(	*[113]	Legal Source[113]	
+113-31	12963-12969	THOMAS	*[113]	Legal Source[113]	
+113-32	12970-12971	,	*[113]	Legal Source[113]	
+113-33	12972-12974	J.	*[113]	Legal Source[113]	
+113-34	12975-12976	,	*[113]	Legal Source[113]	
+113-35	12977-12987	dissenting	*[113]	Legal Source[113]	
+113-36	12988-12989	)	*[113]	Legal Source[113]	
+113-37	12990-12991	;	_	_	
+113-38	12992-12995	INS	*[114]	Legal Source[114]	
+113-39	12996-12998	v.	*[114]	Legal Source[114]	
+113-40	12999-13002	St.	*[114]	Legal Source[114]	
+113-41	13003-13006	Cyr	*[114]	Legal Source[114]	
+113-42	13007-13008	,	*[114]	Legal Source[114]	
+113-43	13009-13012	533	*[114]	Legal Source[114]	
+113-44	13013-13017	U.S.	*[114]	Legal Source[114]	
+113-45	13018-13021	289	*[114]	Legal Source[114]	
+113-46	13022-13023	,	*[114]	Legal Source[114]	
+113-47	13024-13027	328	*[114]	Legal Source[114]	
+113-48	13028-13029	-	*[114]	Legal Source[114]	
+113-49	13030-13033	330	*[114]	Legal Source[114]	
+113-50	13034-13035	,	*[114]	Legal Source[114]	
+113-51	13036-13039	121	*[114]	Legal Source[114]	
+113-52	13040-13044	S.Ct	*[114]	Legal Source[114]	
+113-53	13045-13046	.	*[114]	Legal Source[114]	
+113-54	13047-13051	2271	*[114]	Legal Source[114]	
+113-55	13052-13053	,	*[114]	Legal Source[114]	
+113-56	13054-13057	150	*[114]	Legal Source[114]	
+113-57	13058-13065	L.Ed.2d	*[114]	Legal Source[114]	
+113-58	13066-13069	347	*[114]	Legal Source[114]	
+113-59	13070-13071	(	*[114]	Legal Source[114]	
+113-60	13072-13076	2001	*[114]	Legal Source[114]	
+113-61	13077-13078	)	*[114]	Legal Source[114]	
+113-62	13079-13080	(	*[114]	Legal Source[114]	
+113-63	13081-13087	Scalia	*[114]	Legal Source[114]	
+113-64	13088-13089	,	*[114]	Legal Source[114]	
+113-65	13090-13092	J.	*[114]	Legal Source[114]	
+113-66	13093-13094	,	*[114]	Legal Source[114]	
+113-67	13095-13105	dissenting	*[114]	Legal Source[114]	
+113-68	13106-13107	)	*[114]	Legal Source[114]	
+113-69	13108-13109	.	_	_	
+
+#Text=Because today 's erroneous result further weakens a duly enacted statute , I respectfully dissent .
+114-1	13111-13118	Because	_	_	
+114-2	13119-13124	today	_	_	
+114-3	13125-13127	's	_	_	
+114-4	13128-13137	erroneous	_	_	
+114-5	13138-13144	result	_	_	
+114-6	13145-13152	further	_	_	
+114-7	13153-13160	weakens	_	_	
+114-8	13161-13162	a	_	_	
+114-9	13163-13167	duly	_	_	
+114-10	13168-13175	enacted	_	_	
+114-11	13176-13183	statute	_	_	
+114-12	13184-13185	,	_	_	
+114-13	13186-13187	I	_	_	
+114-14	13188-13200	respectfully	_	_	
+114-15	13201-13208	dissent	_	_	
+114-16	13209-13210	.	_	_	

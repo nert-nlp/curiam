@@ -1,0 +1,587 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice SOTOMAYOR , concurring in the judgment .
+1-1	0-7	Justice	_	_	
+1-2	8-17	SOTOMAYOR	_	_	
+1-3	18-19	,	_	_	
+1-4	20-30	concurring	_	_	
+1-5	31-33	in	_	_	
+1-6	34-37	the	_	_	
+1-7	38-46	judgment	_	_	
+1-8	47-48	.	_	_	
+
+#Text=I agree that 15 U.S.C. § 1117 ( a ) does not impose a " willfulness " prerequisite for awarding profits in trademark infringement actions .
+2-1	49-50	I	_	_	
+2-2	51-56	agree	_	_	
+2-3	57-61	that	_	_	
+2-4	62-64	15	*[1]	Legal Source[1]	
+2-5	65-71	U.S.C.	*[1]	Legal Source[1]	
+2-6	72-73	§	*[1]	Legal Source[1]	
+2-7	74-78	1117	*[1]	Legal Source[1]	
+2-8	79-80	(	*[1]	Legal Source[1]	
+2-9	81-82	a	*[1]	Legal Source[1]	
+2-10	83-84	)	*[1]	Legal Source[1]	
+2-11	85-89	does	_	_	
+2-12	90-93	not	_	_	
+2-13	94-100	impose	_	_	
+2-14	101-102	a	_	_	
+2-15	103-104	"	*[2]	Direct Quote[2]	
+2-16	105-116	willfulness	*[2]	Direct Quote[2]	
+2-17	117-118	"	*[2]	Direct Quote[2]	
+2-18	119-131	prerequisite	_	_	
+2-19	132-135	for	_	_	
+2-20	136-144	awarding	_	_	
+2-21	145-152	profits	_	_	
+2-22	153-155	in	_	_	
+2-23	156-165	trademark	_	_	
+2-24	166-178	infringement	_	_	
+2-25	179-186	actions	_	_	
+2-26	187-188	.	_	_	
+
+#Text=Courts of equity , however , defined " willfulness " to encompass a range of culpable mental states - including the equivalent of recklessness , but excluding " good faith " or negligence .
+3-1	189-195	Courts	_	_	
+3-2	196-198	of	_	_	
+3-3	199-205	equity	_	_	
+3-4	206-207	,	_	_	
+3-5	208-215	however	_	_	
+3-6	216-217	,	_	_	
+3-7	218-225	defined	*	Metalinguistic Cue	
+3-8	226-227	"	*[3]	Direct Quote[3]	
+3-9	228-239	willfulness	*[3]|*[4]	Direct Quote[3]|Focal Term[4]	
+3-10	240-241	"	*[3]	Direct Quote[3]	
+3-11	242-244	to	*[5]	Definition[5]	
+3-12	245-254	encompass	*[5]	Definition[5]	
+3-13	255-256	a	*[5]	Definition[5]	
+3-14	257-262	range	*[5]	Definition[5]	
+3-15	263-265	of	*[5]	Definition[5]	
+3-16	266-274	culpable	*[5]	Definition[5]	
+3-17	275-281	mental	*[5]	Definition[5]	
+3-18	282-288	states	*[5]	Definition[5]	
+3-19	289-290	-	*[5]	Definition[5]	
+3-20	291-300	including	*[5]	Definition[5]	
+3-21	301-304	the	*[5]	Definition[5]	
+3-22	305-315	equivalent	*[5]	Definition[5]	
+3-23	316-318	of	*[5]	Definition[5]	
+3-24	319-331	recklessness	*[5]	Definition[5]	
+3-25	332-333	,	*[5]	Definition[5]	
+3-26	334-337	but	*[5]	Definition[5]	
+3-27	338-347	excluding	*[5]	Definition[5]	
+3-28	348-349	"	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-29	350-354	good	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-30	355-360	faith	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-31	361-362	"	*[5]|*[6]	Definition[5]|Direct Quote[6]	
+3-32	363-365	or	*[5]	Definition[5]	
+3-33	366-376	negligence	*[5]	Definition[5]	
+3-34	377-378	.	_	_	
+
+#Text=See 5 McCarthy on Trademarks and Unfair Competition § 30:62 ( 5th ed . 2019 ) ( explaining that " willfulness " ranged from fraudulent and knowing to reckless and indifferent behavior ) ; see also , e.g. , Lawrence - Williams Co. v. Societe Enfants Gombault et Cie , 52 F.2d 774 , 778 ( C.A.6 1931 ) ; Regis v. Jaynes , 191 Mass. 245 , 248 - 249 , 77 N.E. 774 , 776 ( 1906 ) .
+4-1	379-382	See	_	_	
+4-2	383-384	5	*[7]	Legal Source[7]	
+4-3	385-393	McCarthy	*[7]	Legal Source[7]	
+4-4	394-396	on	*[7]	Legal Source[7]	
+4-5	397-407	Trademarks	*[7]	Legal Source[7]	
+4-6	408-411	and	*[7]	Legal Source[7]	
+4-7	412-418	Unfair	*[7]	Legal Source[7]	
+4-8	419-430	Competition	*[7]	Legal Source[7]	
+4-9	431-432	§	*[7]	Legal Source[7]	
+4-10	433-438	30:62	*[7]	Legal Source[7]	
+4-11	439-440	(	*[7]	Legal Source[7]	
+4-12	441-444	5th	*[7]	Legal Source[7]	
+4-13	445-447	ed	*[7]	Legal Source[7]	
+4-14	448-449	.	*[7]	Legal Source[7]	
+4-15	450-454	2019	*[7]	Legal Source[7]	
+4-16	455-456	)	*[7]	Legal Source[7]	
+4-17	457-458	(	_	_	
+4-18	459-469	explaining	_	_	
+4-19	470-474	that	_	_	
+4-20	475-476	"	*[8]	Direct Quote[8]	
+4-21	477-488	willfulness	*[8]|*[9]	Direct Quote[8]|Focal Term[9]	
+4-22	489-490	"	*[8]	Direct Quote[8]	
+4-23	491-497	ranged	*[10]	Definition[10]	
+4-24	498-502	from	*[10]	Definition[10]	
+4-25	503-513	fraudulent	*[10]	Definition[10]	
+4-26	514-517	and	*[10]	Definition[10]	
+4-27	518-525	knowing	*[10]	Definition[10]	
+4-28	526-528	to	*[10]	Definition[10]	
+4-29	529-537	reckless	*[10]	Definition[10]	
+4-30	538-541	and	*[10]	Definition[10]	
+4-31	542-553	indifferent	*[10]	Definition[10]	
+4-32	554-562	behavior	*[10]	Definition[10]	
+4-33	563-564	)	_	_	
+4-34	565-566	;	_	_	
+4-35	567-570	see	_	_	
+4-36	571-575	also	_	_	
+4-37	576-577	,	_	_	
+4-38	578-582	e.g.	_	_	
+4-39	583-584	,	_	_	
+4-40	585-593	Lawrence	*[11]	Legal Source[11]	
+4-41	594-595	-	*[11]	Legal Source[11]	
+4-42	596-604	Williams	*[11]	Legal Source[11]	
+4-43	605-608	Co.	*[11]	Legal Source[11]	
+4-44	609-611	v.	*[11]	Legal Source[11]	
+4-45	612-619	Societe	*[11]	Legal Source[11]	
+4-46	620-627	Enfants	*[11]	Legal Source[11]	
+4-47	628-636	Gombault	*[11]	Legal Source[11]	
+4-48	637-639	et	*[11]	Legal Source[11]	
+4-49	640-643	Cie	*[11]	Legal Source[11]	
+4-50	644-645	,	*[11]	Legal Source[11]	
+4-51	646-648	52	*[11]	Legal Source[11]	
+4-52	649-653	F.2d	*[11]	Legal Source[11]	
+4-53	654-657	774	*[11]	Legal Source[11]	
+4-54	658-659	,	*[11]	Legal Source[11]	
+4-55	660-663	778	*[11]	Legal Source[11]	
+4-56	664-665	(	*[11]	Legal Source[11]	
+4-57	666-671	C.A.6	*[11]	Legal Source[11]	
+4-58	672-676	1931	*[11]	Legal Source[11]	
+4-59	677-678	)	*[11]	Legal Source[11]	
+4-60	679-680	;	_	_	
+4-61	681-686	Regis	*[12]	Legal Source[12]	
+4-62	687-689	v.	*[12]	Legal Source[12]	
+4-63	690-696	Jaynes	*[12]	Legal Source[12]	
+4-64	697-698	,	*[12]	Legal Source[12]	
+4-65	699-702	191	*[12]	Legal Source[12]	
+4-66	703-708	Mass.	*[12]	Legal Source[12]	
+4-67	709-712	245	*[12]	Legal Source[12]	
+4-68	713-714	,	*[12]	Legal Source[12]	
+4-69	715-718	248	*[12]	Legal Source[12]	
+4-70	719-720	-	*[12]	Legal Source[12]	
+4-71	721-724	249	*[12]	Legal Source[12]	
+4-72	725-726	,	*[12]	Legal Source[12]	
+4-73	727-729	77	*[12]	Legal Source[12]	
+4-74	730-734	N.E.	*[12]	Legal Source[12]	
+4-75	735-738	774	*[12]	Legal Source[12]	
+4-76	739-740	,	*[12]	Legal Source[12]	
+4-77	741-744	776	*[12]	Legal Source[12]	
+4-78	745-746	(	*[12]	Legal Source[12]	
+4-79	747-751	1906	*[12]	Legal Source[12]	
+4-80	752-753	)	*[12]	Legal Source[12]	
+4-81	754-755	.	_	_	
+
+#Text=The majority suggests that courts of equity were just as likely to award profits for such " willful " infringement as they were for " innocent " infringement .
+5-1	756-759	The	_	_	
+5-2	760-768	majority	_	_	
+5-3	769-777	suggests	_	_	
+5-4	778-782	that	_	_	
+5-5	783-789	courts	_	_	
+5-6	790-792	of	_	_	
+5-7	793-799	equity	_	_	
+5-8	800-804	were	_	_	
+5-9	805-809	just	_	_	
+5-10	810-812	as	_	_	
+5-11	813-819	likely	_	_	
+5-12	820-822	to	_	_	
+5-13	823-828	award	_	_	
+5-14	829-836	profits	_	_	
+5-15	837-840	for	_	_	
+5-16	841-845	such	_	_	
+5-17	846-847	"	*[13]	Direct Quote[13]	
+5-18	848-855	willful	*[13]	Direct Quote[13]	
+5-19	856-857	"	*[13]	Direct Quote[13]	
+5-20	858-870	infringement	_	_	
+5-21	871-873	as	_	_	
+5-22	874-878	they	_	_	
+5-23	879-883	were	_	_	
+5-24	884-887	for	_	_	
+5-25	888-889	"	*[14]	Direct Quote[14]	
+5-26	890-898	innocent	*[14]	Direct Quote[14]	
+5-27	899-900	"	*[14]	Direct Quote[14]	
+5-28	901-913	infringement	_	_	
+5-29	914-915	.	_	_	
+
+#Text=Ante , at 1496 - 1497 .
+6-1	916-920	Ante	*[15]	Legal Source[15]	
+6-2	921-922	,	*[15]	Legal Source[15]	
+6-3	923-925	at	*[15]	Legal Source[15]	
+6-4	926-930	1496	*[15]	Legal Source[15]	
+6-5	931-932	-	*[15]	Legal Source[15]	
+6-6	933-937	1497	*[15]	Legal Source[15]	
+6-7	938-939	.	_	_	
+
+#Text=But that does not reflect the weight of authority , which indicates that profits were hardly , if ever , awarded for innocent infringement .
+7-1	940-943	But	_	_	
+7-2	944-948	that	_	_	
+7-3	949-953	does	_	_	
+7-4	954-957	not	_	_	
+7-5	958-965	reflect	_	_	
+7-6	966-969	the	_	_	
+7-7	970-976	weight	_	_	
+7-8	977-979	of	_	_	
+7-9	980-989	authority	_	_	
+7-10	990-991	,	_	_	
+7-11	992-997	which	_	_	
+7-12	998-1007	indicates	_	_	
+7-13	1008-1012	that	_	_	
+7-14	1013-1020	profits	_	_	
+7-15	1021-1025	were	_	_	
+7-16	1026-1032	hardly	_	_	
+7-17	1033-1034	,	_	_	
+7-18	1035-1037	if	_	_	
+7-19	1038-1042	ever	_	_	
+7-20	1043-1044	,	_	_	
+7-21	1045-1052	awarded	_	_	
+7-22	1053-1056	for	_	_	
+7-23	1057-1065	innocent	_	_	
+7-24	1066-1078	infringement	_	_	
+7-25	1079-1080	.	_	_	
+
+#Text=See , e.g. , Wood v. Peffer , 55 Cal . App.2d 116 , 125 , 130 P.2d 220 ( 1942 ) ( explaining that " equity constantly refuses , for want of fraudulent intent , the prayer for an accounting of profits " ) ; Globe - Wernicke Co. v. Safe - Cabinet Co. , 110 Ohio St. 609 , 617 , 144 N.E. 711 , 713 ( 1924 ) ( " By the great weight of authority , particularly where the infringement ... was deliberate and willful , it is held that the wrongdoer is required to account for all profits realized by him as a result of his wrongful acts " ) ; Dickey v. Mutual Film Corp. , 186 A.D. 701 , 702 , 174 N.Y.S. 784 ( 1919 ) ( declining to award profits because there was " no proof of any fraudulent intent upon the part of the defendant " ) ; Standard Cigar Co. v. Goldsmith , 58 Pa. Super . 33 , 37 ( 1914 ) ( reasoning that a defendant " should be compelled to account for ... profits " where " the infringement complained of was not the result of mistake or ignorance of the plaintiff 's right " ) .
+8-1	1081-1084	See	_	_	
+8-2	1085-1086	,	_	_	
+8-3	1087-1091	e.g.	_	_	
+8-4	1092-1093	,	_	_	
+8-5	1094-1098	Wood	*[16]	Legal Source[16]	
+8-6	1099-1101	v.	*[16]	Legal Source[16]	
+8-7	1102-1108	Peffer	*[16]	Legal Source[16]	
+8-8	1109-1110	,	*[16]	Legal Source[16]	
+8-9	1111-1113	55	*[16]	Legal Source[16]	
+8-10	1114-1117	Cal	*[16]	Legal Source[16]	
+8-11	1118-1119	.	*[16]	Legal Source[16]	
+8-12	1120-1126	App.2d	*[16]	Legal Source[16]	
+8-13	1127-1130	116	*[16]	Legal Source[16]	
+8-14	1131-1132	,	*[16]	Legal Source[16]	
+8-15	1133-1136	125	*[16]	Legal Source[16]	
+8-16	1137-1138	,	*[16]	Legal Source[16]	
+8-17	1139-1142	130	*[16]	Legal Source[16]	
+8-18	1143-1147	P.2d	*[16]	Legal Source[16]	
+8-19	1148-1151	220	*[16]	Legal Source[16]	
+8-20	1152-1153	(	*[16]	Legal Source[16]	
+8-21	1154-1158	1942	*[16]	Legal Source[16]	
+8-22	1159-1160	)	*[16]	Legal Source[16]	
+8-23	1161-1162	(	_	_	
+8-24	1163-1173	explaining	_	_	
+8-25	1174-1178	that	_	_	
+8-26	1179-1180	"	*[17]	Direct Quote[17]	
+8-27	1181-1187	equity	*[17]	Direct Quote[17]	
+8-28	1188-1198	constantly	*[17]	Direct Quote[17]	
+8-29	1199-1206	refuses	*[17]	Direct Quote[17]	
+8-30	1207-1208	,	*[17]	Direct Quote[17]	
+8-31	1209-1212	for	*[17]	Direct Quote[17]	
+8-32	1213-1217	want	*[17]	Direct Quote[17]	
+8-33	1218-1220	of	*[17]	Direct Quote[17]	
+8-34	1221-1231	fraudulent	*[17]	Direct Quote[17]	
+8-35	1232-1238	intent	*[17]	Direct Quote[17]	
+8-36	1239-1240	,	*[17]	Direct Quote[17]	
+8-37	1241-1244	the	*[17]	Direct Quote[17]	
+8-38	1245-1251	prayer	*[17]	Direct Quote[17]	
+8-39	1252-1255	for	*[17]	Direct Quote[17]	
+8-40	1256-1258	an	*[17]	Direct Quote[17]	
+8-41	1259-1269	accounting	*[17]	Direct Quote[17]	
+8-42	1270-1272	of	*[17]	Direct Quote[17]	
+8-43	1273-1280	profits	*[17]	Direct Quote[17]	
+8-44	1281-1282	"	*[17]	Direct Quote[17]	
+8-45	1283-1284	)	_	_	
+8-46	1285-1286	;	_	_	
+8-47	1287-1292	Globe	*[18]	Legal Source[18]	
+8-48	1293-1294	-	*[18]	Legal Source[18]	
+8-49	1295-1303	Wernicke	*[18]	Legal Source[18]	
+8-50	1304-1307	Co.	*[18]	Legal Source[18]	
+8-51	1308-1310	v.	*[18]	Legal Source[18]	
+8-52	1311-1315	Safe	*[18]	Legal Source[18]	
+8-53	1316-1317	-	*[18]	Legal Source[18]	
+8-54	1318-1325	Cabinet	*[18]	Legal Source[18]	
+8-55	1326-1329	Co.	*[18]	Legal Source[18]	
+8-56	1330-1331	,	*[18]	Legal Source[18]	
+8-57	1332-1335	110	*[18]	Legal Source[18]	
+8-58	1336-1340	Ohio	*[18]	Legal Source[18]	
+8-59	1341-1344	St.	*[18]	Legal Source[18]	
+8-60	1345-1348	609	*[18]	Legal Source[18]	
+8-61	1349-1350	,	*[18]	Legal Source[18]	
+8-62	1351-1354	617	*[18]	Legal Source[18]	
+8-63	1355-1356	,	*[18]	Legal Source[18]	
+8-64	1357-1360	144	*[18]	Legal Source[18]	
+8-65	1361-1365	N.E.	*[18]	Legal Source[18]	
+8-66	1366-1369	711	*[18]	Legal Source[18]	
+8-67	1370-1371	,	*[18]	Legal Source[18]	
+8-68	1372-1375	713	*[18]	Legal Source[18]	
+8-69	1376-1377	(	*[18]	Legal Source[18]	
+8-70	1378-1382	1924	*[18]	Legal Source[18]	
+8-71	1383-1384	)	*[18]	Legal Source[18]	
+8-72	1385-1386	(	_	_	
+8-73	1387-1388	"	*[19]	Direct Quote[19]	
+8-74	1389-1391	By	*[19]	Direct Quote[19]	
+8-75	1392-1395	the	*[19]	Direct Quote[19]	
+8-76	1396-1401	great	*[19]	Direct Quote[19]	
+8-77	1402-1408	weight	*[19]	Direct Quote[19]	
+8-78	1409-1411	of	*[19]	Direct Quote[19]	
+8-79	1412-1421	authority	*[19]	Direct Quote[19]	
+8-80	1422-1423	,	*[19]	Direct Quote[19]	
+8-81	1424-1436	particularly	*[19]	Direct Quote[19]	
+8-82	1437-1442	where	*[19]	Direct Quote[19]	
+8-83	1443-1446	the	*[19]	Direct Quote[19]	
+8-84	1447-1459	infringement	*[19]	Direct Quote[19]	
+8-85	1460-1463	...	*[19]	Direct Quote[19]	
+8-86	1464-1467	was	*[19]	Direct Quote[19]	
+8-87	1468-1478	deliberate	*[19]	Direct Quote[19]	
+8-88	1479-1482	and	*[19]	Direct Quote[19]	
+8-89	1483-1490	willful	*[19]	Direct Quote[19]	
+8-90	1491-1492	,	*[19]	Direct Quote[19]	
+8-91	1493-1495	it	*[19]	Direct Quote[19]	
+8-92	1496-1498	is	*[19]	Direct Quote[19]	
+8-93	1499-1503	held	*[19]	Direct Quote[19]	
+8-94	1504-1508	that	*[19]	Direct Quote[19]	
+8-95	1509-1512	the	*[19]	Direct Quote[19]	
+8-96	1513-1522	wrongdoer	*[19]	Direct Quote[19]	
+8-97	1523-1525	is	*[19]	Direct Quote[19]	
+8-98	1526-1534	required	*[19]	Direct Quote[19]	
+8-99	1535-1537	to	*[19]	Direct Quote[19]	
+8-100	1538-1545	account	*[19]	Direct Quote[19]	
+8-101	1546-1549	for	*[19]	Direct Quote[19]	
+8-102	1550-1553	all	*[19]	Direct Quote[19]	
+8-103	1554-1561	profits	*[19]	Direct Quote[19]	
+8-104	1562-1570	realized	*[19]	Direct Quote[19]	
+8-105	1571-1573	by	*[19]	Direct Quote[19]	
+8-106	1574-1577	him	*[19]	Direct Quote[19]	
+8-107	1578-1580	as	*[19]	Direct Quote[19]	
+8-108	1581-1582	a	*[19]	Direct Quote[19]	
+8-109	1583-1589	result	*[19]	Direct Quote[19]	
+8-110	1590-1592	of	*[19]	Direct Quote[19]	
+8-111	1593-1596	his	*[19]	Direct Quote[19]	
+8-112	1597-1605	wrongful	*[19]	Direct Quote[19]	
+8-113	1606-1610	acts	*[19]	Direct Quote[19]	
+8-114	1611-1612	"	*[19]	Direct Quote[19]	
+8-115	1613-1614	)	_	_	
+8-116	1615-1616	;	_	_	
+8-117	1617-1623	Dickey	*[20]	Legal Source[20]	
+8-118	1624-1626	v.	*[20]	Legal Source[20]	
+8-119	1627-1633	Mutual	*[20]	Legal Source[20]	
+8-120	1634-1638	Film	*[20]	Legal Source[20]	
+8-121	1639-1644	Corp.	*[20]	Legal Source[20]	
+8-122	1645-1646	,	*[20]	Legal Source[20]	
+8-123	1647-1650	186	*[20]	Legal Source[20]	
+8-124	1651-1655	A.D.	*[20]	Legal Source[20]	
+8-125	1656-1659	701	*[20]	Legal Source[20]	
+8-126	1660-1661	,	*[20]	Legal Source[20]	
+8-127	1662-1665	702	*[20]	Legal Source[20]	
+8-128	1666-1667	,	*[20]	Legal Source[20]	
+8-129	1668-1671	174	*[20]	Legal Source[20]	
+8-130	1672-1678	N.Y.S.	*[20]	Legal Source[20]	
+8-131	1679-1682	784	*[20]	Legal Source[20]	
+8-132	1683-1684	(	*[20]	Legal Source[20]	
+8-133	1685-1689	1919	*[20]	Legal Source[20]	
+8-134	1690-1691	)	*[20]	Legal Source[20]	
+8-135	1692-1693	(	_	_	
+8-136	1694-1703	declining	_	_	
+8-137	1704-1706	to	_	_	
+8-138	1707-1712	award	_	_	
+8-139	1713-1720	profits	_	_	
+8-140	1721-1728	because	_	_	
+8-141	1729-1734	there	_	_	
+8-142	1735-1738	was	_	_	
+8-143	1739-1740	"	*[21]	Direct Quote[21]	
+8-144	1741-1743	no	*[21]	Direct Quote[21]	
+8-145	1744-1749	proof	*[21]	Direct Quote[21]	
+8-146	1750-1752	of	*[21]	Direct Quote[21]	
+8-147	1753-1756	any	*[21]	Direct Quote[21]	
+8-148	1757-1767	fraudulent	*[21]	Direct Quote[21]	
+8-149	1768-1774	intent	*[21]	Direct Quote[21]	
+8-150	1775-1779	upon	*[21]	Direct Quote[21]	
+8-151	1780-1783	the	*[21]	Direct Quote[21]	
+8-152	1784-1788	part	*[21]	Direct Quote[21]	
+8-153	1789-1791	of	*[21]	Direct Quote[21]	
+8-154	1792-1795	the	*[21]	Direct Quote[21]	
+8-155	1796-1805	defendant	*[21]	Direct Quote[21]	
+8-156	1806-1807	"	*[21]	Direct Quote[21]	
+8-157	1808-1809	)	_	_	
+8-158	1810-1811	;	_	_	
+8-159	1812-1820	Standard	*[22]	Legal Source[22]	
+8-160	1821-1826	Cigar	*[22]	Legal Source[22]	
+8-161	1827-1830	Co.	*[22]	Legal Source[22]	
+8-162	1831-1833	v.	*[22]	Legal Source[22]	
+8-163	1834-1843	Goldsmith	*[22]	Legal Source[22]	
+8-164	1844-1845	,	*[22]	Legal Source[22]	
+8-165	1846-1848	58	*[22]	Legal Source[22]	
+8-166	1849-1852	Pa.	*[22]	Legal Source[22]	
+8-167	1853-1858	Super	*[22]	Legal Source[22]	
+8-168	1859-1860	.	*[22]	Legal Source[22]	
+8-169	1861-1863	33	*[22]	Legal Source[22]	
+8-170	1864-1865	,	*[22]	Legal Source[22]	
+8-171	1866-1868	37	*[22]	Legal Source[22]	
+8-172	1869-1870	(	*[22]	Legal Source[22]	
+8-173	1871-1875	1914	*[22]	Legal Source[22]	
+8-174	1876-1877	)	*[22]	Legal Source[22]	
+8-175	1878-1879	(	_	_	
+8-176	1880-1889	reasoning	_	_	
+8-177	1890-1894	that	_	_	
+8-178	1895-1896	a	_	_	
+8-179	1897-1906	defendant	_	_	
+8-180	1907-1908	"	*[23]	Direct Quote[23]	
+8-181	1909-1915	should	*[23]	Direct Quote[23]	
+8-182	1916-1918	be	*[23]	Direct Quote[23]	
+8-183	1919-1928	compelled	*[23]	Direct Quote[23]	
+8-184	1929-1931	to	*[23]	Direct Quote[23]	
+8-185	1932-1939	account	*[23]	Direct Quote[23]	
+8-186	1940-1943	for	*[23]	Direct Quote[23]	
+8-187	1944-1947	...	*[23]	Direct Quote[23]	
+8-188	1948-1955	profits	*[23]	Direct Quote[23]	
+8-189	1956-1957	"	*[23]	Direct Quote[23]	
+8-190	1958-1963	where	_	_	
+8-191	1964-1965	"	*[24]	Direct Quote[24]	
+8-192	1966-1969	the	*[24]	Direct Quote[24]	
+8-193	1970-1982	infringement	*[24]	Direct Quote[24]	
+8-194	1983-1993	complained	*[24]	Direct Quote[24]	
+8-195	1994-1996	of	*[24]	Direct Quote[24]	
+8-196	1997-2000	was	*[24]	Direct Quote[24]	
+8-197	2001-2004	not	*[24]	Direct Quote[24]	
+8-198	2005-2008	the	*[24]	Direct Quote[24]	
+8-199	2009-2015	result	*[24]	Direct Quote[24]	
+8-200	2016-2018	of	*[24]	Direct Quote[24]	
+8-201	2019-2026	mistake	*[24]	Direct Quote[24]	
+8-202	2027-2029	or	*[24]	Direct Quote[24]	
+8-203	2030-2039	ignorance	*[24]	Direct Quote[24]	
+8-204	2040-2042	of	*[24]	Direct Quote[24]	
+8-205	2043-2046	the	*[24]	Direct Quote[24]	
+8-206	2047-2056	plaintiff	*[24]	Direct Quote[24]	
+8-207	2057-2059	's	*[24]	Direct Quote[24]	
+8-208	2060-2065	right	*[24]	Direct Quote[24]	
+8-209	2066-2067	"	*[24]	Direct Quote[24]	
+8-210	2068-2069	)	_	_	
+8-211	2070-2071	.	_	_	
+
+#Text=Nor would doing so seem to be consistent with longstanding equitable principles which , after all , seek to deprive only wrongdoers of their gains from misconduct .
+9-1	2072-2075	Nor	_	_	
+9-2	2076-2081	would	_	_	
+9-3	2082-2087	doing	_	_	
+9-4	2088-2090	so	_	_	
+9-5	2091-2095	seem	_	_	
+9-6	2096-2098	to	_	_	
+9-7	2099-2101	be	_	_	
+9-8	2102-2112	consistent	_	_	
+9-9	2113-2117	with	_	_	
+9-10	2118-2130	longstanding	_	_	
+9-11	2131-2140	equitable	_	_	
+9-12	2141-2151	principles	_	_	
+9-13	2152-2157	which	_	_	
+9-14	2158-2159	,	_	_	
+9-15	2160-2165	after	_	_	
+9-16	2166-2169	all	_	_	
+9-17	2170-2171	,	_	_	
+9-18	2172-2176	seek	_	_	
+9-19	2177-2179	to	_	_	
+9-20	2180-2187	deprive	_	_	
+9-21	2188-2192	only	_	_	
+9-22	2193-2203	wrongdoers	_	_	
+9-23	2204-2206	of	_	_	
+9-24	2207-2212	their	_	_	
+9-25	2213-2218	gains	_	_	
+9-26	2219-2223	from	_	_	
+9-27	2224-2234	misconduct	_	_	
+9-28	2235-2236	.	_	_	
+
+#Text=Cf . Duplate Corp. v. Triplex Safety Glass Co. , 298 U.S. 448 , 456 - 457 , 56 S.Ct . 792 , 80 L.Ed . 1274 ( 1936 ) .
+10-1	2237-2239	Cf	_	_	
+10-2	2240-2241	.	_	_	
+10-3	2242-2249	Duplate	*[25]	Legal Source[25]	
+10-4	2250-2255	Corp.	*[25]	Legal Source[25]	
+10-5	2256-2258	v.	*[25]	Legal Source[25]	
+10-6	2259-2266	Triplex	*[25]	Legal Source[25]	
+10-7	2267-2273	Safety	*[25]	Legal Source[25]	
+10-8	2274-2279	Glass	*[25]	Legal Source[25]	
+10-9	2280-2283	Co.	*[25]	Legal Source[25]	
+10-10	2284-2285	,	*[25]	Legal Source[25]	
+10-11	2286-2289	298	*[25]	Legal Source[25]	
+10-12	2290-2294	U.S.	*[25]	Legal Source[25]	
+10-13	2295-2298	448	*[25]	Legal Source[25]	
+10-14	2299-2300	,	*[25]	Legal Source[25]	
+10-15	2301-2304	456	*[25]	Legal Source[25]	
+10-16	2305-2306	-	*[25]	Legal Source[25]	
+10-17	2307-2310	457	*[25]	Legal Source[25]	
+10-18	2311-2312	,	*[25]	Legal Source[25]	
+10-19	2313-2315	56	*[25]	Legal Source[25]	
+10-20	2316-2320	S.Ct	*[25]	Legal Source[25]	
+10-21	2321-2322	.	*[25]	Legal Source[25]	
+10-22	2323-2326	792	*[25]	Legal Source[25]	
+10-23	2327-2328	,	*[25]	Legal Source[25]	
+10-24	2329-2331	80	*[25]	Legal Source[25]	
+10-25	2332-2336	L.Ed	*[25]	Legal Source[25]	
+10-26	2337-2338	.	*[25]	Legal Source[25]	
+10-27	2339-2343	1274	*[25]	Legal Source[25]	
+10-28	2344-2345	(	*[25]	Legal Source[25]	
+10-29	2346-2350	1936	*[25]	Legal Source[25]	
+10-30	2351-2352	)	*[25]	Legal Source[25]	
+10-31	2353-2354	.	_	_	
+
+#Text=Thus , a district court 's award of profits for innocent or good - faith trademark infringement would not be consonant with the " principles of equity " referenced in § 1117(a ) and reflected in the cases the majority cites .
+11-1	2355-2359	Thus	_	_	
+11-2	2360-2361	,	_	_	
+11-3	2362-2363	a	_	_	
+11-4	2364-2372	district	_	_	
+11-5	2373-2378	court	_	_	
+11-6	2379-2381	's	_	_	
+11-7	2382-2387	award	_	_	
+11-8	2388-2390	of	_	_	
+11-9	2391-2398	profits	_	_	
+11-10	2399-2402	for	_	_	
+11-11	2403-2411	innocent	_	_	
+11-12	2412-2414	or	_	_	
+11-13	2415-2419	good	_	_	
+11-14	2420-2421	-	_	_	
+11-15	2422-2427	faith	_	_	
+11-16	2428-2437	trademark	_	_	
+11-17	2438-2450	infringement	_	_	
+11-18	2451-2456	would	_	_	
+11-19	2457-2460	not	_	_	
+11-20	2461-2463	be	_	_	
+11-21	2464-2473	consonant	_	_	
+11-22	2474-2478	with	_	_	
+11-23	2479-2482	the	_	_	
+11-24	2483-2484	"	*[26]	Direct Quote[26]	
+11-25	2485-2495	principles	*[26]	Direct Quote[26]	
+11-26	2496-2498	of	*[26]	Direct Quote[26]	
+11-27	2499-2505	equity	*[26]	Direct Quote[26]	
+11-28	2506-2507	"	*[26]	Direct Quote[26]	
+11-29	2508-2518	referenced	_	_	
+11-30	2519-2521	in	_	_	
+11-31	2522-2523	§	*[27]	Legal Source[27]	
+11-32	2524-2530	1117(a	*[27]	Legal Source[27]	
+11-33	2531-2532	)	*[27]	Legal Source[27]	
+11-34	2533-2536	and	_	_	
+11-35	2537-2546	reflected	_	_	
+11-36	2547-2549	in	_	_	
+11-37	2550-2553	the	_	_	
+11-38	2554-2559	cases	_	_	
+11-39	2560-2563	the	_	_	
+11-40	2564-2572	majority	_	_	
+11-41	2573-2578	cites	_	_	
+11-42	2579-2580	.	_	_	
+
+#Text=Ante at 1496 - 1497 .
+12-1	2581-2585	Ante	*[28]	Legal Source[28]	
+12-2	2586-2588	at	*[28]	Legal Source[28]	
+12-3	2589-2593	1496	*[28]	Legal Source[28]	
+12-4	2594-2595	-	*[28]	Legal Source[28]	
+12-5	2596-2600	1497	*[28]	Legal Source[28]	
+12-6	2601-2602	.	_	_	
+
+#Text=Because the majority is agnostic about awarding profits for both " willful " and innocent infringement as those terms have been understood , I concur in the judgment only .
+13-1	2603-2610	Because	_	_	
+13-2	2611-2614	the	_	_	
+13-3	2615-2623	majority	_	_	
+13-4	2624-2626	is	_	_	
+13-5	2627-2635	agnostic	_	_	
+13-6	2636-2641	about	_	_	
+13-7	2642-2650	awarding	_	_	
+13-8	2651-2658	profits	_	_	
+13-9	2659-2662	for	_	_	
+13-10	2663-2667	both	_	_	
+13-11	2668-2669	"	*[29]	Direct Quote[29]	
+13-12	2670-2677	willful	*[29]|*[30]	Direct Quote[29]|Focal Term[30]	
+13-13	2678-2679	"	*[29]	Direct Quote[29]	
+13-14	2680-2683	and	_	_	
+13-15	2684-2692	innocent	*	Focal Term	
+13-16	2693-2705	infringement	_	_	
+13-17	2706-2708	as	_	_	
+13-18	2709-2714	those	_	_	
+13-19	2715-2720	terms	*	Metalinguistic Cue	
+13-20	2721-2725	have	_	_	
+13-21	2726-2730	been	_	_	
+13-22	2731-2741	understood	_	_	
+13-23	2742-2743	,	_	_	
+13-24	2744-2745	I	_	_	
+13-25	2746-2752	concur	_	_	
+13-26	2753-2755	in	_	_	
+13-27	2756-2759	the	_	_	
+13-28	2760-2768	judgment	_	_	
+13-29	2769-2773	only	_	_	
+13-30	2774-2775	.	_	_	

@@ -1,0 +1,4369 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice GORSUCH , with whom Justice THOMAS joins , concurring in part and dissenting in part .
+1-1	0-7	Justice	_	_	
+1-2	8-15	GORSUCH	_	_	
+1-3	16-17	,	_	_	
+1-4	18-22	with	_	_	
+1-5	23-27	whom	_	_	
+1-6	28-35	Justice	_	_	
+1-7	36-42	THOMAS	_	_	
+1-8	43-48	joins	_	_	
+1-9	49-50	,	_	_	
+1-10	51-61	concurring	_	_	
+1-11	62-64	in	_	_	
+1-12	65-69	part	_	_	
+1-13	70-73	and	_	_	
+1-14	74-84	dissenting	_	_	
+1-15	85-87	in	_	_	
+1-16	88-92	part	_	_	
+1-17	93-94	.	_	_	
+
+#Text=For nearly a century , Atlantic Richfield 's predecessor operated a smelter near the town of Opportunity , Montana .
+2-1	96-99	For	_	_	
+2-2	100-106	nearly	_	_	
+2-3	107-108	a	_	_	
+2-4	109-116	century	_	_	
+2-5	117-118	,	_	_	
+2-6	119-127	Atlantic	_	_	
+2-7	128-137	Richfield	_	_	
+2-8	138-140	's	_	_	
+2-9	141-152	predecessor	_	_	
+2-10	153-161	operated	_	_	
+2-11	162-163	a	_	_	
+2-12	164-171	smelter	_	_	
+2-13	172-176	near	_	_	
+2-14	177-180	the	_	_	
+2-15	181-185	town	_	_	
+2-16	186-188	of	_	_	
+2-17	189-200	Opportunity	_	_	
+2-18	201-202	,	_	_	
+2-19	203-210	Montana	_	_	
+2-20	211-212	.	_	_	
+
+#Text=At one time , the smelter produced much of the Nation 's copper supply and served as the State 's largest employer .
+3-1	214-216	At	_	_	
+3-2	217-220	one	_	_	
+3-3	221-225	time	_	_	
+3-4	226-227	,	_	_	
+3-5	228-231	the	_	_	
+3-6	232-239	smelter	_	_	
+3-7	240-248	produced	_	_	
+3-8	249-253	much	_	_	
+3-9	254-256	of	_	_	
+3-10	257-260	the	_	_	
+3-11	261-267	Nation	_	_	
+3-12	268-270	's	_	_	
+3-13	271-277	copper	_	_	
+3-14	278-284	supply	_	_	
+3-15	285-288	and	_	_	
+3-16	289-295	served	_	_	
+3-17	296-298	as	_	_	
+3-18	299-302	the	_	_	
+3-19	303-308	State	_	_	
+3-20	309-311	's	_	_	
+3-21	312-319	largest	_	_	
+3-22	320-328	employer	_	_	
+3-23	329-330	.	_	_	
+
+#Text=App . 311 .
+4-1	332-335	App	*[1]	Legal Source[1]	
+4-2	336-337	.	*[1]	Legal Source[1]	
+4-3	338-341	311	*[1]	Legal Source[1]	
+4-4	342-343	.	_	_	
+
+#Text=Eventually , though , it became apparent the smelter was producing more than just copper and jobs .
+5-1	345-355	Eventually	_	_	
+5-2	356-357	,	_	_	
+5-3	358-364	though	_	_	
+5-4	365-366	,	_	_	
+5-5	367-369	it	_	_	
+5-6	370-376	became	_	_	
+5-7	377-385	apparent	_	_	
+5-8	386-389	the	_	_	
+5-9	390-397	smelter	_	_	
+5-10	398-401	was	_	_	
+5-11	402-411	producing	_	_	
+5-12	412-416	more	_	_	
+5-13	417-421	than	_	_	
+5-14	422-426	just	_	_	
+5-15	427-433	copper	_	_	
+5-16	434-437	and	_	_	
+5-17	438-442	jobs	_	_	
+5-18	443-444	.	_	_	
+
+#Text=Studies showed that the plant emitted up to 62 tons of arsenic and 10 tons of lead each day .
+6-1	446-453	Studies	_	_	
+6-2	454-460	showed	_	_	
+6-3	461-465	that	_	_	
+6-4	466-469	the	_	_	
+6-5	470-475	plant	_	_	
+6-6	476-483	emitted	_	_	
+6-7	484-486	up	_	_	
+6-8	487-489	to	_	_	
+6-9	490-492	62	_	_	
+6-10	493-497	tons	_	_	
+6-11	498-500	of	_	_	
+6-12	501-508	arsenic	_	_	
+6-13	509-512	and	_	_	
+6-14	513-515	10	_	_	
+6-15	516-520	tons	_	_	
+6-16	521-523	of	_	_	
+6-17	524-528	lead	_	_	
+6-18	529-533	each	_	_	
+6-19	534-537	day	_	_	
+6-20	538-539	.	_	_	
+
+#Text=Brief for Respondents 7 .
+7-1	541-546	Brief	*[2]	Legal Source[2]	
+7-2	547-550	for	*[2]	Legal Source[2]	
+7-3	551-562	Respondents	*[2]	Legal Source[2]	
+7-4	563-564	7	*[2]	Legal Source[2]	
+7-5	565-566	.	_	_	
+
+#Text=Thanks to what was once the world 's tallest brick smokestack , these heavy metals blanketed the town and the whole of the Deer Lodge Valley - contaminating hundreds of square miles .
+8-1	568-574	Thanks	_	_	
+8-2	575-577	to	_	_	
+8-3	578-582	what	_	_	
+8-4	583-586	was	_	_	
+8-5	587-591	once	_	_	
+8-6	592-595	the	_	_	
+8-7	596-601	world	_	_	
+8-8	602-604	's	_	_	
+8-9	605-612	tallest	_	_	
+8-10	613-618	brick	_	_	
+8-11	619-629	smokestack	_	_	
+8-12	630-631	,	_	_	
+8-13	632-637	these	_	_	
+8-14	638-643	heavy	_	_	
+8-15	644-650	metals	_	_	
+8-16	651-660	blanketed	_	_	
+8-17	661-664	the	_	_	
+8-18	665-669	town	_	_	
+8-19	670-673	and	_	_	
+8-20	674-677	the	_	_	
+8-21	678-683	whole	_	_	
+8-22	684-686	of	_	_	
+8-23	687-690	the	_	_	
+8-24	691-695	Deer	_	_	
+8-25	696-701	Lodge	_	_	
+8-26	702-708	Valley	_	_	
+8-27	709-710	-	_	_	
+8-28	711-724	contaminating	_	_	
+8-29	725-733	hundreds	_	_	
+8-30	734-736	of	_	_	
+8-31	737-743	square	_	_	
+8-32	744-749	miles	_	_	
+8-33	750-751	.	_	_	
+
+#Text=Today , the smokestack is all that is left of the once massive operation .
+9-1	753-758	Today	_	_	
+9-2	759-760	,	_	_	
+9-3	761-764	the	_	_	
+9-4	765-775	smokestack	_	_	
+9-5	776-778	is	_	_	
+9-6	779-782	all	_	_	
+9-7	783-787	that	_	_	
+9-8	788-790	is	_	_	
+9-9	791-795	left	_	_	
+9-10	796-798	of	_	_	
+9-11	799-802	the	_	_	
+9-12	803-807	once	_	_	
+9-13	808-815	massive	_	_	
+9-14	816-825	operation	_	_	
+9-15	826-827	.	_	_	
+
+#Text=It stands alone in a state park , much of which remains dangerously contaminated and closed to the public .
+10-1	829-831	It	_	_	
+10-2	832-838	stands	_	_	
+10-3	839-844	alone	_	_	
+10-4	845-847	in	_	_	
+10-5	848-849	a	_	_	
+10-6	850-855	state	_	_	
+10-7	856-860	park	_	_	
+10-8	861-862	,	_	_	
+10-9	863-867	much	_	_	
+10-10	868-870	of	_	_	
+10-11	871-876	which	_	_	
+10-12	877-884	remains	_	_	
+10-13	885-896	dangerously	_	_	
+10-14	897-909	contaminated	_	_	
+10-15	910-913	and	_	_	
+10-16	914-920	closed	_	_	
+10-17	921-923	to	_	_	
+10-18	924-927	the	_	_	
+10-19	928-934	public	_	_	
+10-20	935-936	.	_	_	
+
+#Text=Visitors may view the stack , but only from a distance , through fences and between huge slag piles .
+11-1	938-946	Visitors	_	_	
+11-2	947-950	may	_	_	
+11-3	951-955	view	_	_	
+11-4	956-959	the	_	_	
+11-5	960-965	stack	_	_	
+11-6	966-967	,	_	_	
+11-7	968-971	but	_	_	
+11-8	972-976	only	_	_	
+11-9	977-981	from	_	_	
+11-10	982-983	a	_	_	
+11-11	984-992	distance	_	_	
+11-12	993-994	,	_	_	
+11-13	995-1002	through	_	_	
+11-14	1003-1009	fences	_	_	
+11-15	1010-1013	and	_	_	
+11-16	1014-1021	between	_	_	
+11-17	1022-1026	huge	_	_	
+11-18	1027-1031	slag	_	_	
+11-19	1032-1037	piles	_	_	
+11-20	1038-1039	.	_	_	
+
+#Text=Id. , at 9 .
+12-1	1041-1044	Id.	*[3]	Legal Source[3]	
+12-2	1045-1046	,	*[3]	Legal Source[3]	
+12-3	1047-1049	at	*[3]	Legal Source[3]	
+12-4	1050-1051	9	*[3]	Legal Source[3]	
+12-5	1052-1053	.	_	_	
+
+#Text=This case involves nearly 100 nearby residents .
+13-1	1055-1059	This	_	_	
+13-2	1060-1064	case	_	_	
+13-3	1065-1073	involves	_	_	
+13-4	1074-1080	nearly	_	_	
+13-5	1081-1084	100	_	_	
+13-6	1085-1091	nearby	_	_	
+13-7	1092-1101	residents	_	_	
+13-8	1102-1103	.	_	_	
+
+#Text=Some have lived in their homes for decades , some long before the environmental consequences of the smelter were fully appreciated .
+14-1	1105-1109	Some	_	_	
+14-2	1110-1114	have	_	_	
+14-3	1115-1120	lived	_	_	
+14-4	1121-1123	in	_	_	
+14-5	1124-1129	their	_	_	
+14-6	1130-1135	homes	_	_	
+14-7	1136-1139	for	_	_	
+14-8	1140-1147	decades	_	_	
+14-9	1148-1149	,	_	_	
+14-10	1150-1154	some	_	_	
+14-11	1155-1159	long	_	_	
+14-12	1160-1166	before	_	_	
+14-13	1167-1170	the	_	_	
+14-14	1171-1184	environmental	_	_	
+14-15	1185-1197	consequences	_	_	
+14-16	1198-1200	of	_	_	
+14-17	1201-1204	the	_	_	
+14-18	1205-1212	smelter	_	_	
+14-19	1213-1217	were	_	_	
+14-20	1218-1223	fully	_	_	
+14-21	1224-1235	appreciated	_	_	
+14-22	1236-1237	.	_	_	
+
+#Text=They say they have thought about moving , but for many their property values are n't what they once were .
+15-1	1239-1243	They	_	_	
+15-2	1244-1247	say	_	_	
+15-3	1248-1252	they	_	_	
+15-4	1253-1257	have	_	_	
+15-5	1258-1265	thought	_	_	
+15-6	1266-1271	about	_	_	
+15-7	1272-1278	moving	_	_	
+15-8	1279-1280	,	_	_	
+15-9	1281-1284	but	_	_	
+15-10	1285-1288	for	_	_	
+15-11	1289-1293	many	_	_	
+15-12	1294-1299	their	_	_	
+15-13	1300-1308	property	_	_	
+15-14	1309-1315	values	_	_	
+15-15	1316-1319	are	_	_	
+15-16	1320-1323	n't	_	_	
+15-17	1324-1328	what	_	_	
+15-18	1329-1333	they	_	_	
+15-19	1334-1338	once	_	_	
+15-20	1339-1343	were	_	_	
+15-21	1344-1345	.	_	_	
+
+#Text=Besides , as one homeowner put it , " I could n't find a kitchen door that 's got all my kids ' heights on it . "
+16-1	1347-1354	Besides	_	_	
+16-2	1355-1356	,	_	_	
+16-3	1357-1359	as	_	_	
+16-4	1360-1363	one	_	_	
+16-5	1364-1373	homeowner	_	_	
+16-6	1374-1377	put	_	_	
+16-7	1378-1380	it	_	_	
+16-8	1381-1382	,	_	_	
+16-9	1383-1384	"	*[4]	Direct Quote[4]	
+16-10	1385-1386	I	*[4]	Direct Quote[4]	
+16-11	1387-1392	could	*[4]	Direct Quote[4]	
+16-12	1393-1396	n't	*[4]	Direct Quote[4]	
+16-13	1397-1401	find	*[4]	Direct Quote[4]	
+16-14	1402-1403	a	*[4]	Direct Quote[4]	
+16-15	1404-1411	kitchen	*[4]	Direct Quote[4]	
+16-16	1412-1416	door	*[4]	Direct Quote[4]	
+16-17	1417-1421	that	*[4]	Direct Quote[4]	
+16-18	1422-1424	's	*[4]	Direct Quote[4]	
+16-19	1425-1428	got	*[4]	Direct Quote[4]	
+16-20	1429-1432	all	*[4]	Direct Quote[4]	
+16-21	1433-1435	my	*[4]	Direct Quote[4]	
+16-22	1436-1440	kids	*[4]	Direct Quote[4]	
+16-23	1441-1442	'	*[4]	Direct Quote[4]	
+16-24	1443-1450	heights	*[4]	Direct Quote[4]	
+16-25	1451-1453	on	*[4]	Direct Quote[4]	
+16-26	1454-1456	it	*[4]	Direct Quote[4]	
+16-27	1457-1458	.	*[4]	Direct Quote[4]	
+16-28	1459-1460	"	*[4]	Direct Quote[4]	
+
+#Text=Id. , at 8 .
+17-1	1462-1465	Id.	*[5]	Legal Source[5]	
+17-2	1466-1467	,	*[5]	Legal Source[5]	
+17-3	1468-1470	at	*[5]	Legal Source[5]	
+17-4	1471-1472	8	*[5]	Legal Source[5]	
+17-5	1473-1474	.	_	_	
+
+#Text=The federal government has tried to help in its own way .
+18-1	1476-1479	The	_	_	
+18-2	1480-1487	federal	_	_	
+18-3	1488-1498	government	_	_	
+18-4	1499-1502	has	_	_	
+18-5	1503-1508	tried	_	_	
+18-6	1509-1511	to	_	_	
+18-7	1512-1516	help	_	_	
+18-8	1517-1519	in	_	_	
+18-9	1520-1523	its	_	_	
+18-10	1524-1527	own	_	_	
+18-11	1528-1531	way	_	_	
+18-12	1532-1533	.	_	_	
+
+#Text=In 1983 , the government designated the 300 - square - mile area surrounding the smelter a Superfund site under the Comprehensive Environmental Response , Compensation , and Liability Act of 1980 ( CERCLA ) , 94 Stat . 2767 , as amended , 42 U.S.C. § 9601 et seq .
+19-1	1535-1537	In	_	_	
+19-2	1538-1542	1983	_	_	
+19-3	1543-1544	,	_	_	
+19-4	1545-1548	the	_	_	
+19-5	1549-1559	government	_	_	
+19-6	1560-1570	designated	_	_	
+19-7	1571-1574	the	_	_	
+19-8	1575-1578	300	_	_	
+19-9	1579-1580	-	_	_	
+19-10	1581-1587	square	_	_	
+19-11	1588-1589	-	_	_	
+19-12	1590-1594	mile	_	_	
+19-13	1595-1599	area	_	_	
+19-14	1600-1611	surrounding	_	_	
+19-15	1612-1615	the	_	_	
+19-16	1616-1623	smelter	_	_	
+19-17	1624-1625	a	_	_	
+19-18	1626-1635	Superfund	_	_	
+19-19	1636-1640	site	_	_	
+19-20	1641-1646	under	_	_	
+19-21	1647-1650	the	_	_	
+19-22	1651-1664	Comprehensive	*[6]	Legal Source[6]	
+19-23	1665-1678	Environmental	*[6]	Legal Source[6]	
+19-24	1679-1687	Response	*[6]	Legal Source[6]	
+19-25	1688-1689	,	*[6]	Legal Source[6]	
+19-26	1690-1702	Compensation	*[6]	Legal Source[6]	
+19-27	1703-1704	,	*[6]	Legal Source[6]	
+19-28	1705-1708	and	*[6]	Legal Source[6]	
+19-29	1709-1718	Liability	*[6]	Legal Source[6]	
+19-30	1719-1722	Act	*[6]	Legal Source[6]	
+19-31	1723-1725	of	*[6]	Legal Source[6]	
+19-32	1726-1730	1980	*[6]	Legal Source[6]	
+19-33	1731-1732	(	*[6]	Legal Source[6]	
+19-34	1733-1739	CERCLA	*[6]	Legal Source[6]	
+19-35	1740-1741	)	*[6]	Legal Source[6]	
+19-36	1742-1743	,	*[6]	Legal Source[6]	
+19-37	1744-1746	94	*[6]	Legal Source[6]	
+19-38	1747-1751	Stat	*[6]	Legal Source[6]	
+19-39	1752-1753	.	*[6]	Legal Source[6]	
+19-40	1754-1758	2767	*[6]	Legal Source[6]	
+19-41	1759-1760	,	*[6]	Legal Source[6]	
+19-42	1761-1763	as	*[6]	Legal Source[6]	
+19-43	1764-1771	amended	*[6]	Legal Source[6]	
+19-44	1772-1773	,	*[6]	Legal Source[6]	
+19-45	1774-1776	42	*[6]	Legal Source[6]	
+19-46	1777-1783	U.S.C.	*[6]	Legal Source[6]	
+19-47	1784-1785	§	*[6]	Legal Source[6]	
+19-48	1786-1790	9601	*[6]	Legal Source[6]	
+19-49	1791-1793	et	*[6]	Legal Source[6]	
+19-50	1794-1797	seq	*[6]	Legal Source[6]	
+19-51	1798-1799	.	*[6]	Legal Source[6]	
+
+#Text=After years of study and negotiation , the government ordered Atlantic Richfield to remove up to 18 inches of soil in residential yards with arsenic levels exceeding 250 parts per million ( ppm ) .
+20-1	1801-1806	After	_	_	
+20-2	1807-1812	years	_	_	
+20-3	1813-1815	of	_	_	
+20-4	1816-1821	study	_	_	
+20-5	1822-1825	and	_	_	
+20-6	1826-1837	negotiation	_	_	
+20-7	1838-1839	,	_	_	
+20-8	1840-1843	the	_	_	
+20-9	1844-1854	government	_	_	
+20-10	1855-1862	ordered	_	_	
+20-11	1863-1871	Atlantic	_	_	
+20-12	1872-1881	Richfield	_	_	
+20-13	1882-1884	to	_	_	
+20-14	1885-1891	remove	_	_	
+20-15	1892-1894	up	_	_	
+20-16	1895-1897	to	_	_	
+20-17	1898-1900	18	_	_	
+20-18	1901-1907	inches	_	_	
+20-19	1908-1910	of	_	_	
+20-20	1911-1915	soil	_	_	
+20-21	1916-1918	in	_	_	
+20-22	1919-1930	residential	_	_	
+20-23	1931-1936	yards	_	_	
+20-24	1937-1941	with	_	_	
+20-25	1942-1949	arsenic	_	_	
+20-26	1950-1956	levels	_	_	
+20-27	1957-1966	exceeding	_	_	
+20-28	1967-1970	250	_	_	
+20-29	1971-1976	parts	_	_	
+20-30	1977-1980	per	_	_	
+20-31	1981-1988	million	_	_	
+20-32	1989-1990	(	_	_	
+20-33	1991-1994	ppm	_	_	
+20-34	1995-1996	)	_	_	
+20-35	1997-1998	.	_	_	
+
+#Text=App . 94 - 95 .
+21-1	2000-2003	App	*[7]	Legal Source[7]	
+21-2	2004-2005	.	*[7]	Legal Source[7]	
+21-3	2006-2008	94	*[7]	Legal Source[7]	
+21-4	2009-2010	-	*[7]	Legal Source[7]	
+21-5	2011-2013	95	*[7]	Legal Source[7]	
+21-6	2014-2015	.	_	_	
+
+#Text=For so - called " pasture land"-that is , nearly everything else - the government set the threshold for soil removal at 1,000 ppm .
+22-1	2017-2020	For	_	_	
+22-2	2021-2023	so	_	_	
+22-3	2024-2025	-	_	_	
+22-4	2026-2032	called	_	_	
+22-5	2033-2034	"	*[8]	Direct Quote[8]	
+22-6	2035-2042	pasture	*[8]	Direct Quote[8]	
+22-7	2043-2053	land"-that	*[8]	Direct Quote[8]	
+22-8	2054-2056	is	_	_	
+22-9	2057-2058	,	_	_	
+22-10	2059-2065	nearly	_	_	
+22-11	2066-2076	everything	_	_	
+22-12	2077-2081	else	_	_	
+22-13	2082-2083	-	_	_	
+22-14	2084-2087	the	_	_	
+22-15	2088-2098	government	_	_	
+22-16	2099-2102	set	_	_	
+22-17	2103-2106	the	_	_	
+22-18	2107-2116	threshold	_	_	
+22-19	2117-2120	for	_	_	
+22-20	2121-2125	soil	_	_	
+22-21	2126-2133	removal	_	_	
+22-22	2134-2136	at	_	_	
+22-23	2137-2142	1,000	_	_	
+22-24	2143-2146	ppm	_	_	
+22-25	2147-2148	.	_	_	
+
+#Text=Brief for Respondents 8 .
+23-1	2150-2155	Brief	*[9]	Legal Source[9]	
+23-2	2156-2159	for	*[9]	Legal Source[9]	
+23-3	2160-2171	Respondents	*[9]	Legal Source[9]	
+23-4	2172-2173	8	*[9]	Legal Source[9]	
+23-5	2174-2175	.	_	_	
+
+#Text=By way of reference , even 100 ppm is sometimes considered too toxic for local landfills , and the federal government itself has elsewhere set a threshold of 25 ppm .
+24-1	2177-2179	By	_	_	
+24-2	2180-2183	way	_	_	
+24-3	2184-2186	of	_	_	
+24-4	2187-2196	reference	_	_	
+24-5	2197-2198	,	_	_	
+24-6	2199-2203	even	_	_	
+24-7	2204-2207	100	_	_	
+24-8	2208-2211	ppm	_	_	
+24-9	2212-2214	is	_	_	
+24-10	2215-2224	sometimes	_	_	
+24-11	2225-2235	considered	_	_	
+24-12	2236-2239	too	_	_	
+24-13	2240-2245	toxic	_	_	
+24-14	2246-2249	for	_	_	
+24-15	2250-2255	local	_	_	
+24-16	2256-2265	landfills	_	_	
+24-17	2266-2267	,	_	_	
+24-18	2268-2271	and	_	_	
+24-19	2272-2275	the	_	_	
+24-20	2276-2283	federal	_	_	
+24-21	2284-2294	government	_	_	
+24-22	2295-2301	itself	_	_	
+24-23	2302-2305	has	_	_	
+24-24	2306-2315	elsewhere	_	_	
+24-25	2316-2319	set	_	_	
+24-26	2320-2321	a	_	_	
+24-27	2322-2331	threshold	_	_	
+24-28	2332-2334	of	_	_	
+24-29	2335-2337	25	_	_	
+24-30	2338-2341	ppm	_	_	
+24-31	2342-2343	.	_	_	
+
+#Text=Ibid .
+25-1	2345-2349	Ibid	*	Legal Source	
+25-2	2350-2351	.	_	_	
+
+#Text=Some States set residential cleanup levels as low as 0.04 ppm .
+26-1	2353-2357	Some	_	_	
+26-2	2358-2364	States	_	_	
+26-3	2365-2368	set	_	_	
+26-4	2369-2380	residential	_	_	
+26-5	2381-2388	cleanup	_	_	
+26-6	2389-2395	levels	_	_	
+26-7	2396-2398	as	_	_	
+26-8	2399-2402	low	_	_	
+26-9	2403-2405	as	_	_	
+26-10	2406-2410	0.04	_	_	
+26-11	2411-2414	ppm	_	_	
+26-12	2415-2416	.	_	_	
+
+#Text=Ibid .
+27-1	2418-2422	Ibid	*	Legal Source	
+27-2	2423-2424	.	_	_	
+
+#Text=The cleanup work that followed left much to be desired .
+28-1	2426-2429	The	_	_	
+28-2	2430-2437	cleanup	_	_	
+28-3	2438-2442	work	_	_	
+28-4	2443-2447	that	_	_	
+28-5	2448-2456	followed	_	_	
+28-6	2457-2461	left	_	_	
+28-7	2462-2466	much	_	_	
+28-8	2467-2469	to	_	_	
+28-9	2470-2472	be	_	_	
+28-10	2473-2480	desired	_	_	
+28-11	2481-2482	.	_	_	
+
+#Text=By 2016 , Atlantic Richfield claimed that it had virtually finished work on the landowners ' properties .
+29-1	2484-2486	By	_	_	
+29-2	2487-2491	2016	_	_	
+29-3	2492-2493	,	_	_	
+29-4	2494-2502	Atlantic	_	_	
+29-5	2503-2512	Richfield	_	_	
+29-6	2513-2520	claimed	_	_	
+29-7	2521-2525	that	_	_	
+29-8	2526-2528	it	_	_	
+29-9	2529-2532	had	_	_	
+29-10	2533-2542	virtually	_	_	
+29-11	2543-2551	finished	_	_	
+29-12	2552-2556	work	_	_	
+29-13	2557-2559	on	_	_	
+29-14	2560-2563	the	_	_	
+29-15	2564-2574	landowners	_	_	
+29-16	2575-2576	'	_	_	
+29-17	2577-2587	properties	_	_	
+29-18	2588-2589	.	_	_	
+
+#Text=Yet , only 24 of their 77 properties had been remediated , and only about 5 percent of the total acreage had been touched .
+30-1	2591-2594	Yet	_	_	
+30-2	2595-2596	,	_	_	
+30-3	2597-2601	only	_	_	
+30-4	2602-2604	24	_	_	
+30-5	2605-2607	of	_	_	
+30-6	2608-2613	their	_	_	
+30-7	2614-2616	77	_	_	
+30-8	2617-2627	properties	_	_	
+30-9	2628-2631	had	_	_	
+30-10	2632-2636	been	_	_	
+30-11	2637-2647	remediated	_	_	
+30-12	2648-2649	,	_	_	
+30-13	2650-2653	and	_	_	
+30-14	2654-2658	only	_	_	
+30-15	2659-2664	about	_	_	
+30-16	2665-2666	5	_	_	
+30-17	2667-2674	percent	_	_	
+30-18	2675-2677	of	_	_	
+30-19	2678-2681	the	_	_	
+30-20	2682-2687	total	_	_	
+30-21	2688-2695	acreage	_	_	
+30-22	2696-2699	had	_	_	
+30-23	2700-2704	been	_	_	
+30-24	2705-2712	touched	_	_	
+30-25	2713-2714	.	_	_	
+
+#Text=I d . , at 9 .
+31-1	2716-2717	I	*[10]	Legal Source[10]	
+31-2	2718-2719	d	*[10]	Legal Source[10]	
+31-3	2720-2721	.	*[10]	Legal Source[10]	
+31-4	2722-2723	,	*[10]	Legal Source[10]	
+31-5	2724-2726	at	*[10]	Legal Source[10]	
+31-6	2727-2728	9	*[10]	Legal Source[10]	
+31-7	2729-2730	.	_	_	
+
+#Text=Soil near Tammy Peters 's daycare playground , for example , still shows an arsenic level of 292 ppm .
+32-1	2732-2736	Soil	_	_	
+32-2	2737-2741	near	_	_	
+32-3	2742-2747	Tammy	_	_	
+32-4	2748-2754	Peters	_	_	
+32-5	2755-2757	's	_	_	
+32-6	2758-2765	daycare	_	_	
+32-7	2766-2776	playground	_	_	
+32-8	2777-2778	,	_	_	
+32-9	2779-2782	for	_	_	
+32-10	2783-2790	example	_	_	
+32-11	2791-2792	,	_	_	
+32-12	2793-2798	still	_	_	
+32-13	2799-2804	shows	_	_	
+32-14	2805-2807	an	_	_	
+32-15	2808-2815	arsenic	_	_	
+32-16	2816-2821	level	_	_	
+32-17	2822-2824	of	_	_	
+32-18	2825-2828	292	_	_	
+32-19	2829-2832	ppm	_	_	
+32-20	2833-2834	.	_	_	
+
+#Text=But because the " weighted average " for her yard is below 250 ppm , Atlantic Richfield performed no cleanup of the playground at all .
+33-1	2836-2839	But	_	_	
+33-2	2840-2847	because	_	_	
+33-3	2848-2851	the	_	_	
+33-4	2852-2853	"	_	_	
+33-5	2854-2862	weighted	_	_	
+33-6	2863-2870	average	_	_	
+33-7	2871-2872	"	_	_	
+33-8	2873-2876	for	_	_	
+33-9	2877-2880	her	_	_	
+33-10	2881-2885	yard	_	_	
+33-11	2886-2888	is	_	_	
+33-12	2889-2894	below	_	_	
+33-13	2895-2898	250	_	_	
+33-14	2899-2902	ppm	_	_	
+33-15	2903-2904	,	_	_	
+33-16	2905-2913	Atlantic	_	_	
+33-17	2914-2923	Richfield	_	_	
+33-18	2924-2933	performed	_	_	
+33-19	2934-2936	no	_	_	
+33-20	2937-2944	cleanup	_	_	
+33-21	2945-2947	of	_	_	
+33-22	2948-2951	the	_	_	
+33-23	2952-2962	playground	_	_	
+33-24	2963-2965	at	_	_	
+33-25	2966-2969	all	_	_	
+33-26	2970-2971	.	_	_	
+
+#Text=I d . , at 10 .
+34-1	2973-2974	I	*[11]	Legal Source[11]	
+34-2	2975-2976	d	*[11]	Legal Source[11]	
+34-3	2977-2978	.	*[11]	Legal Source[11]	
+34-4	2979-2980	,	*[11]	Legal Source[11]	
+34-5	2981-2983	at	*[11]	Legal Source[11]	
+34-6	2984-2986	10	*[11]	Legal Source[11]	
+34-7	2987-2988	.	_	_	
+
+#Text=So the landowners here proceeded as landowners historically have : They sought remedies for the pollution on their lands in state court under state law .
+35-1	2990-2992	So	_	_	
+35-2	2993-2996	the	_	_	
+35-3	2997-3007	landowners	_	_	
+35-4	3008-3012	here	_	_	
+35-5	3013-3022	proceeded	_	_	
+35-6	3023-3025	as	_	_	
+35-7	3026-3036	landowners	_	_	
+35-8	3037-3049	historically	_	_	
+35-9	3050-3054	have	_	_	
+35-10	3055-3056	:	_	_	
+35-11	3057-3061	They	_	_	
+35-12	3062-3068	sought	_	_	
+35-13	3069-3077	remedies	_	_	
+35-14	3078-3081	for	_	_	
+35-15	3082-3085	the	_	_	
+35-16	3086-3095	pollution	_	_	
+35-17	3096-3098	on	_	_	
+35-18	3099-3104	their	_	_	
+35-19	3105-3110	lands	_	_	
+35-20	3111-3113	in	_	_	
+35-21	3114-3119	state	_	_	
+35-22	3120-3125	court	_	_	
+35-23	3126-3131	under	_	_	
+35-24	3132-3137	state	_	_	
+35-25	3138-3141	law	_	_	
+35-26	3142-3143	.	_	_	
+
+#Text=Their choice can come as no surprise .
+36-1	3145-3150	Their	_	_	
+36-2	3151-3157	choice	_	_	
+36-3	3158-3161	can	_	_	
+36-4	3162-3166	come	_	_	
+36-5	3167-3169	as	_	_	
+36-6	3170-3172	no	_	_	
+36-7	3173-3181	surprise	_	_	
+36-8	3182-3183	.	_	_	
+
+#Text=The federal government enjoys no general power to regulate private lands ; it may intervene only consistent with the Commerce Clause or some other constitutionally enumerated power .
+37-1	3185-3188	The	_	_	
+37-2	3189-3196	federal	_	_	
+37-3	3197-3207	government	_	_	
+37-4	3208-3214	enjoys	_	_	
+37-5	3215-3217	no	_	_	
+37-6	3218-3225	general	_	_	
+37-7	3226-3231	power	_	_	
+37-8	3232-3234	to	_	_	
+37-9	3235-3243	regulate	_	_	
+37-10	3244-3251	private	_	_	
+37-11	3252-3257	lands	_	_	
+37-12	3258-3259	;	_	_	
+37-13	3260-3262	it	_	_	
+37-14	3263-3266	may	_	_	
+37-15	3267-3276	intervene	_	_	
+37-16	3277-3281	only	_	_	
+37-17	3282-3292	consistent	_	_	
+37-18	3293-3297	with	_	_	
+37-19	3298-3301	the	_	_	
+37-20	3302-3310	Commerce	_	_	
+37-21	3311-3317	Clause	_	_	
+37-22	3318-3320	or	_	_	
+37-23	3321-3325	some	_	_	
+37-24	3326-3331	other	_	_	
+37-25	3332-3348	constitutionally	_	_	
+37-26	3349-3359	enumerated	_	_	
+37-27	3360-3365	power	_	_	
+37-28	3366-3367	.	_	_	
+
+#Text=Nor does the federal government always intervene as fully as it might even when it can .
+38-1	3369-3372	Nor	_	_	
+38-2	3373-3377	does	_	_	
+38-3	3378-3381	the	_	_	
+38-4	3382-3389	federal	_	_	
+38-5	3390-3400	government	_	_	
+38-6	3401-3407	always	_	_	
+38-7	3408-3417	intervene	_	_	
+38-8	3418-3420	as	_	_	
+38-9	3421-3426	fully	_	_	
+38-10	3427-3429	as	_	_	
+38-11	3430-3432	it	_	_	
+38-12	3433-3438	might	_	_	
+38-13	3439-3443	even	_	_	
+38-14	3444-3448	when	_	_	
+38-15	3449-3451	it	_	_	
+38-16	3452-3455	can	_	_	
+38-17	3456-3457	.	_	_	
+
+#Text=Meanwhile , the regulation of real property and the protection of natural resources is a traditional and central responsibility of state governments .
+39-1	3459-3468	Meanwhile	_	_	
+39-2	3469-3470	,	_	_	
+39-3	3471-3474	the	_	_	
+39-4	3475-3485	regulation	_	_	
+39-5	3486-3488	of	_	_	
+39-6	3489-3493	real	_	_	
+39-7	3494-3502	property	_	_	
+39-8	3503-3506	and	_	_	
+39-9	3507-3510	the	_	_	
+39-10	3511-3521	protection	_	_	
+39-11	3522-3524	of	_	_	
+39-12	3525-3532	natural	_	_	
+39-13	3533-3542	resources	_	_	
+39-14	3543-3545	is	_	_	
+39-15	3546-3547	a	_	_	
+39-16	3548-3559	traditional	_	_	
+39-17	3560-3563	and	_	_	
+39-18	3564-3571	central	_	_	
+39-19	3572-3586	responsibility	_	_	
+39-20	3587-3589	of	_	_	
+39-21	3590-3595	state	_	_	
+39-22	3596-3607	governments	_	_	
+39-23	3608-3609	.	_	_	
+
+#Text=And States have long allowed landowners to seek redress for the pollution of their lands through ancient common law causes of action like nuisance and trespass .
+40-1	3611-3614	And	_	_	
+40-2	3615-3621	States	_	_	
+40-3	3622-3626	have	_	_	
+40-4	3627-3631	long	_	_	
+40-5	3632-3639	allowed	_	_	
+40-6	3640-3650	landowners	_	_	
+40-7	3651-3653	to	_	_	
+40-8	3654-3658	seek	_	_	
+40-9	3659-3666	redress	_	_	
+40-10	3667-3670	for	_	_	
+40-11	3671-3674	the	_	_	
+40-12	3675-3684	pollution	_	_	
+40-13	3685-3687	of	_	_	
+40-14	3688-3693	their	_	_	
+40-15	3694-3699	lands	_	_	
+40-16	3700-3707	through	_	_	
+40-17	3708-3715	ancient	_	_	
+40-18	3716-3722	common	_	_	
+40-19	3723-3726	law	_	_	
+40-20	3727-3733	causes	_	_	
+40-21	3734-3736	of	_	_	
+40-22	3737-3743	action	_	_	
+40-23	3744-3748	like	_	_	
+40-24	3749-3757	nuisance	_	_	
+40-25	3758-3761	and	_	_	
+40-26	3762-3770	trespass	_	_	
+40-27	3771-3772	.	_	_	
+
+#Text=The landowners employed exactly these theories when they brought suit in state court seeking restoration damages from Atlantic Richfield - money that could be used only to remove arsenic , lead , and other toxins from their properties .
+41-1	3774-3777	The	_	_	
+41-2	3778-3788	landowners	_	_	
+41-3	3789-3797	employed	_	_	
+41-4	3798-3805	exactly	_	_	
+41-5	3806-3811	these	_	_	
+41-6	3812-3820	theories	_	_	
+41-7	3821-3825	when	_	_	
+41-8	3826-3830	they	_	_	
+41-9	3831-3838	brought	_	_	
+41-10	3839-3843	suit	_	_	
+41-11	3844-3846	in	_	_	
+41-12	3847-3852	state	_	_	
+41-13	3853-3858	court	_	_	
+41-14	3859-3866	seeking	_	_	
+41-15	3867-3878	restoration	_	_	
+41-16	3879-3886	damages	_	_	
+41-17	3887-3891	from	_	_	
+41-18	3892-3900	Atlantic	_	_	
+41-19	3901-3910	Richfield	_	_	
+41-20	3911-3912	-	_	_	
+41-21	3913-3918	money	_	_	
+41-22	3919-3923	that	_	_	
+41-23	3924-3929	could	_	_	
+41-24	3930-3932	be	_	_	
+41-25	3933-3937	used	_	_	
+41-26	3938-3942	only	_	_	
+41-27	3943-3945	to	_	_	
+41-28	3946-3952	remove	_	_	
+41-29	3953-3960	arsenic	_	_	
+41-30	3961-3962	,	_	_	
+41-31	3963-3967	lead	_	_	
+41-32	3968-3969	,	_	_	
+41-33	3970-3973	and	_	_	
+41-34	3974-3979	other	_	_	
+41-35	3980-3986	toxins	_	_	
+41-36	3987-3991	from	_	_	
+41-37	3992-3997	their	_	_	
+41-38	3998-4008	properties	_	_	
+41-39	4009-4010	.	_	_	
+
+#Text=The Montana Supreme Court has held that the landowners ' case states a viable claim for relief and warrants trial .
+42-1	4012-4015	The	_	_	
+42-2	4016-4023	Montana	_	_	
+42-3	4024-4031	Supreme	_	_	
+42-4	4032-4037	Court	_	_	
+42-5	4038-4041	has	_	_	
+42-6	4042-4046	held	_	_	
+42-7	4047-4051	that	_	_	
+42-8	4052-4055	the	_	_	
+42-9	4056-4066	landowners	_	_	
+42-10	4067-4068	'	_	_	
+42-11	4069-4073	case	_	_	
+42-12	4074-4080	states	_	_	
+42-13	4081-4082	a	_	_	
+42-14	4083-4089	viable	_	_	
+42-15	4090-4095	claim	_	_	
+42-16	4096-4099	for	_	_	
+42-17	4100-4106	relief	_	_	
+42-18	4107-4110	and	_	_	
+42-19	4111-4119	warrants	_	_	
+42-20	4120-4125	trial	_	_	
+42-21	4126-4127	.	_	_	
+
+#Text=Now , however , Atlantic Richfield wants us to call a halt to the proceedings .
+43-1	4129-4132	Now	_	_	
+43-2	4133-4134	,	_	_	
+43-3	4135-4142	however	_	_	
+43-4	4143-4144	,	_	_	
+43-5	4145-4153	Atlantic	_	_	
+43-6	4154-4163	Richfield	_	_	
+43-7	4164-4169	wants	_	_	
+43-8	4170-4172	us	_	_	
+43-9	4173-4175	to	_	_	
+43-10	4176-4180	call	_	_	
+43-11	4181-4182	a	_	_	
+43-12	4183-4187	halt	_	_	
+43-13	4188-4190	to	_	_	
+43-14	4191-4194	the	_	_	
+43-15	4195-4206	proceedings	_	_	
+43-16	4207-4208	.	_	_	
+
+#Text=The company insists that CERCLA preempts and prohibits common law tort suits like this one .
+44-1	4210-4213	The	_	_	
+44-2	4214-4221	company	_	_	
+44-3	4222-4229	insists	_	_	
+44-4	4230-4234	that	_	_	
+44-5	4235-4241	CERCLA	*	Legal Source	
+44-6	4242-4250	preempts	_	_	
+44-7	4251-4254	and	_	_	
+44-8	4255-4264	prohibits	_	_	
+44-9	4265-4271	common	_	_	
+44-10	4272-4275	law	_	_	
+44-11	4276-4280	tort	_	_	
+44-12	4281-4286	suits	_	_	
+44-13	4287-4291	like	_	_	
+44-14	4292-4296	this	_	_	
+44-15	4297-4300	one	_	_	
+44-16	4301-4302	.	_	_	
+
+#Text=On Atlantic Richfield 's telling , CERCLA even prevents private landowners from voluntarily remediating their own properties at their own expense .
+45-1	4304-4306	On	_	_	
+45-2	4307-4315	Atlantic	_	_	
+45-3	4316-4325	Richfield	_	_	
+45-4	4326-4328	's	_	_	
+45-5	4329-4336	telling	_	_	
+45-6	4337-4338	,	_	_	
+45-7	4339-4345	CERCLA	*	Legal Source	
+45-8	4346-4350	even	_	_	
+45-9	4351-4359	prevents	_	_	
+45-10	4360-4367	private	_	_	
+45-11	4368-4378	landowners	_	_	
+45-12	4379-4383	from	_	_	
+45-13	4384-4395	voluntarily	_	_	
+45-14	4396-4407	remediating	_	_	
+45-15	4408-4413	their	_	_	
+45-16	4414-4417	own	_	_	
+45-17	4418-4428	properties	_	_	
+45-18	4429-4431	at	_	_	
+45-19	4432-4437	their	_	_	
+45-20	4438-4441	own	_	_	
+45-21	4442-4449	expense	_	_	
+45-22	4450-4451	.	_	_	
+
+#Text=No one may do anything in 300 square miles of Montana , the company insists , without first securing the federal government 's permission .
+46-1	4453-4455	No	_	_	
+46-2	4456-4459	one	_	_	
+46-3	4460-4463	may	_	_	
+46-4	4464-4466	do	_	_	
+46-5	4467-4475	anything	_	_	
+46-6	4476-4478	in	_	_	
+46-7	4479-4482	300	_	_	
+46-8	4483-4489	square	_	_	
+46-9	4490-4495	miles	_	_	
+46-10	4496-4498	of	_	_	
+46-11	4499-4506	Montana	_	_	
+46-12	4507-4508	,	_	_	
+46-13	4509-4512	the	_	_	
+46-14	4513-4520	company	_	_	
+46-15	4521-4528	insists	_	_	
+46-16	4529-4530	,	_	_	
+46-17	4531-4538	without	_	_	
+46-18	4539-4544	first	_	_	
+46-19	4545-4553	securing	_	_	
+46-20	4554-4557	the	_	_	
+46-21	4558-4565	federal	_	_	
+46-22	4566-4576	government	_	_	
+46-23	4577-4579	's	_	_	
+46-24	4580-4590	permission	_	_	
+46-25	4591-4592	.	_	_	
+
+#Text=But what in the law commands that result ?
+47-1	4594-4597	But	_	_	
+47-2	4598-4602	what	_	_	
+47-3	4603-4605	in	_	_	
+47-4	4606-4609	the	_	_	
+47-5	4610-4613	law	_	_	
+47-6	4614-4622	commands	_	_	
+47-7	4623-4627	that	_	_	
+47-8	4628-4634	result	_	_	
+47-9	4635-4636	?	_	_	
+
+#Text=Everything in CERCLA suggests that it seeks to supplement , not supplant , traditional state law remedies and promote , not prohibit , efforts to restore contaminated land .
+48-1	4638-4648	Everything	_	_	
+48-2	4649-4651	in	_	_	
+48-3	4652-4658	CERCLA	*	Legal Source	
+48-4	4659-4667	suggests	_	_	
+48-5	4668-4672	that	_	_	
+48-6	4673-4675	it	_	_	
+48-7	4676-4681	seeks	_	_	
+48-8	4682-4684	to	_	_	
+48-9	4685-4695	supplement	_	_	
+48-10	4696-4697	,	_	_	
+48-11	4698-4701	not	_	_	
+48-12	4702-4710	supplant	_	_	
+48-13	4711-4712	,	_	_	
+48-14	4713-4724	traditional	_	_	
+48-15	4725-4730	state	_	_	
+48-16	4731-4734	law	_	_	
+48-17	4735-4743	remedies	_	_	
+48-18	4744-4747	and	_	_	
+48-19	4748-4755	promote	_	_	
+48-20	4756-4757	,	_	_	
+48-21	4758-4761	not	_	_	
+48-22	4762-4770	prohibit	_	_	
+48-23	4771-4772	,	_	_	
+48-24	4773-4780	efforts	_	_	
+48-25	4781-4783	to	_	_	
+48-26	4784-4791	restore	_	_	
+48-27	4792-4804	contaminated	_	_	
+48-28	4805-4809	land	_	_	
+48-29	4810-4811	.	_	_	
+
+#Text=Congress hardly could have been clearer .
+49-1	4813-4821	Congress	_	_	
+49-2	4822-4828	hardly	_	_	
+49-3	4829-4834	could	_	_	
+49-4	4835-4839	have	_	_	
+49-5	4840-4844	been	_	_	
+49-6	4845-4852	clearer	_	_	
+49-7	4853-4854	.	_	_	
+
+#Text=It stated that , " [ n]othing in this [ Act ] shall be construed or interpreted as preempting any State from imposing any additional liability or requirements with respect to the release of hazardous substances within such State . "
+50-1	4856-4858	It	_	_	
+50-2	4859-4865	stated	_	_	
+50-3	4866-4870	that	_	_	
+50-4	4871-4872	,	_	_	
+50-5	4873-4874	"	*[12]	Direct Quote[12]	
+50-6	4875-4876	[	*[12]	Direct Quote[12]	
+50-7	4877-4885	n]othing	*[12]	Direct Quote[12]	
+50-8	4886-4888	in	*[12]	Direct Quote[12]	
+50-9	4889-4893	this	*[12]	Direct Quote[12]	
+50-10	4894-4895	[	*[12]	Direct Quote[12]	
+50-11	4896-4899	Act	*[12]|*[13]	Direct Quote[12]|Legal Source[13]	
+50-12	4900-4901	]	*[12]	Direct Quote[12]	
+50-13	4902-4907	shall	*[12]	Direct Quote[12]	
+50-14	4908-4910	be	*[12]	Direct Quote[12]	
+50-15	4911-4920	construed	*[12]	Direct Quote[12]	
+50-16	4921-4923	or	*[12]	Direct Quote[12]	
+50-17	4924-4935	interpreted	*[12]	Direct Quote[12]	
+50-18	4936-4938	as	*[12]	Direct Quote[12]	
+50-19	4939-4949	preempting	*[12]	Direct Quote[12]	
+50-20	4950-4953	any	*[12]	Direct Quote[12]	
+50-21	4954-4959	State	*[12]	Direct Quote[12]	
+50-22	4960-4964	from	*[12]	Direct Quote[12]	
+50-23	4965-4973	imposing	*[12]	Direct Quote[12]	
+50-24	4974-4977	any	*[12]	Direct Quote[12]	
+50-25	4978-4988	additional	*[12]	Direct Quote[12]	
+50-26	4989-4998	liability	*[12]	Direct Quote[12]	
+50-27	4999-5001	or	*[12]	Direct Quote[12]	
+50-28	5002-5014	requirements	*[12]	Direct Quote[12]	
+50-29	5015-5019	with	*[12]	Direct Quote[12]	
+50-30	5020-5027	respect	*[12]	Direct Quote[12]	
+50-31	5028-5030	to	*[12]	Direct Quote[12]	
+50-32	5031-5034	the	*[12]	Direct Quote[12]	
+50-33	5035-5042	release	*[12]	Direct Quote[12]	
+50-34	5043-5045	of	*[12]	Direct Quote[12]	
+50-35	5046-5055	hazardous	*[12]	Direct Quote[12]	
+50-36	5056-5066	substances	*[12]	Direct Quote[12]	
+50-37	5067-5073	within	*[12]	Direct Quote[12]	
+50-38	5074-5078	such	*[12]	Direct Quote[12]	
+50-39	5079-5084	State	*[12]	Direct Quote[12]	
+50-40	5085-5086	.	*[12]	Direct Quote[12]	
+50-41	5087-5088	"	*[12]	Direct Quote[12]	
+
+#Text=42 U.S.C. § 9614 ( a ) .
+51-1	5090-5092	42	*[14]	Legal Source[14]	
+51-2	5093-5099	U.S.C.	*[14]	Legal Source[14]	
+51-3	5100-5101	§	*[14]	Legal Source[14]	
+51-4	5102-5106	9614	*[14]	Legal Source[14]	
+51-5	5107-5108	(	*[14]	Legal Source[14]	
+51-6	5109-5110	a	*[14]	Legal Source[14]	
+51-7	5111-5112	)	*[14]	Legal Source[14]	
+51-8	5113-5114	.	_	_	
+
+#Text=It added that " [ n]othing in this [ Act ] shall affect or modify in any way the obligations or liabilities of any person under other Federal or State law , including common law , with respect to releases of hazardous substances or other pollutants or contaminants . "
+52-1	5116-5118	It	_	_	
+52-2	5119-5124	added	_	_	
+52-3	5125-5129	that	_	_	
+52-4	5130-5131	"	*[15]	Direct Quote[15]	
+52-5	5132-5133	[	*[15]	Direct Quote[15]	
+52-6	5134-5142	n]othing	*[15]	Direct Quote[15]	
+52-7	5143-5145	in	*[15]	Direct Quote[15]	
+52-8	5146-5150	this	*[15]	Direct Quote[15]	
+52-9	5151-5152	[	*[15]	Direct Quote[15]	
+52-10	5153-5156	Act	*[15]|*[16]	Direct Quote[15]|Legal Source[16]	
+52-11	5157-5158	]	*[15]	Direct Quote[15]	
+52-12	5159-5164	shall	*[15]	Direct Quote[15]	
+52-13	5165-5171	affect	*[15]	Direct Quote[15]	
+52-14	5172-5174	or	*[15]	Direct Quote[15]	
+52-15	5175-5181	modify	*[15]	Direct Quote[15]	
+52-16	5182-5184	in	*[15]	Direct Quote[15]	
+52-17	5185-5188	any	*[15]	Direct Quote[15]	
+52-18	5189-5192	way	*[15]	Direct Quote[15]	
+52-19	5193-5196	the	*[15]	Direct Quote[15]	
+52-20	5197-5208	obligations	*[15]	Direct Quote[15]	
+52-21	5209-5211	or	*[15]	Direct Quote[15]	
+52-22	5212-5223	liabilities	*[15]	Direct Quote[15]	
+52-23	5224-5226	of	*[15]	Direct Quote[15]	
+52-24	5227-5230	any	*[15]	Direct Quote[15]	
+52-25	5231-5237	person	*[15]	Direct Quote[15]	
+52-26	5238-5243	under	*[15]	Direct Quote[15]	
+52-27	5244-5249	other	*[15]	Direct Quote[15]	
+52-28	5250-5257	Federal	*[15]	Direct Quote[15]	
+52-29	5258-5260	or	*[15]	Direct Quote[15]	
+52-30	5261-5266	State	*[15]	Direct Quote[15]	
+52-31	5267-5270	law	*[15]	Direct Quote[15]	
+52-32	5271-5272	,	*[15]	Direct Quote[15]	
+52-33	5273-5282	including	*[15]	Direct Quote[15]	
+52-34	5283-5289	common	*[15]	Direct Quote[15]	
+52-35	5290-5293	law	*[15]	Direct Quote[15]	
+52-36	5294-5295	,	*[15]	Direct Quote[15]	
+52-37	5296-5300	with	*[15]	Direct Quote[15]	
+52-38	5301-5308	respect	*[15]	Direct Quote[15]	
+52-39	5309-5311	to	*[15]	Direct Quote[15]	
+52-40	5312-5320	releases	*[15]	Direct Quote[15]	
+52-41	5321-5323	of	*[15]	Direct Quote[15]	
+52-42	5324-5333	hazardous	*[15]	Direct Quote[15]	
+52-43	5334-5344	substances	*[15]	Direct Quote[15]	
+52-44	5345-5347	or	*[15]	Direct Quote[15]	
+52-45	5348-5353	other	*[15]	Direct Quote[15]	
+52-46	5354-5364	pollutants	*[15]	Direct Quote[15]	
+52-47	5365-5367	or	*[15]	Direct Quote[15]	
+52-48	5368-5380	contaminants	*[15]	Direct Quote[15]	
+52-49	5381-5382	.	*[15]	Direct Quote[15]	
+52-50	5383-5384	"	*[15]	Direct Quote[15]	
+
+#Text=§ 9652(d ) .
+53-1	5386-5387	§	_	_	
+53-2	5388-5394	9652(d	_	_	
+53-3	5395-5396	)	_	_	
+53-4	5397-5398	.	_	_	
+
+#Text=And it said again that " [ t]his [ Act ] does not affect or otherwise impair the rights of any person under Federal , State , or common law , except with respect to the timing of review as provided " elsewhere in provisions that even the Court today does not invoke as limits on recovery here .
+54-1	5400-5403	And	_	_	
+54-2	5404-5406	it	_	_	
+54-3	5407-5411	said	_	_	
+54-4	5412-5417	again	_	_	
+54-5	5418-5422	that	_	_	
+54-6	5423-5424	"	*[17]	Direct Quote[17]	
+54-7	5425-5426	[	*[17]	Direct Quote[17]	
+54-8	5427-5432	t]his	*[17]	Direct Quote[17]	
+54-9	5433-5434	[	*[17]	Direct Quote[17]	
+54-10	5435-5438	Act	*[17]|*[18]	Direct Quote[17]|Legal Source[18]	
+54-11	5439-5440	]	*[17]	Direct Quote[17]	
+54-12	5441-5445	does	*[17]	Direct Quote[17]	
+54-13	5446-5449	not	*[17]	Direct Quote[17]	
+54-14	5450-5456	affect	*[17]	Direct Quote[17]	
+54-15	5457-5459	or	*[17]	Direct Quote[17]	
+54-16	5460-5469	otherwise	*[17]	Direct Quote[17]	
+54-17	5470-5476	impair	*[17]	Direct Quote[17]	
+54-18	5477-5480	the	*[17]	Direct Quote[17]	
+54-19	5481-5487	rights	*[17]	Direct Quote[17]	
+54-20	5488-5490	of	*[17]	Direct Quote[17]	
+54-21	5491-5494	any	*[17]	Direct Quote[17]	
+54-22	5495-5501	person	*[17]	Direct Quote[17]	
+54-23	5502-5507	under	*[17]	Direct Quote[17]	
+54-24	5508-5515	Federal	*[17]	Direct Quote[17]	
+54-25	5516-5517	,	*[17]	Direct Quote[17]	
+54-26	5518-5523	State	*[17]	Direct Quote[17]	
+54-27	5524-5525	,	*[17]	Direct Quote[17]	
+54-28	5526-5528	or	*[17]	Direct Quote[17]	
+54-29	5529-5535	common	*[17]	Direct Quote[17]	
+54-30	5536-5539	law	*[17]	Direct Quote[17]	
+54-31	5540-5541	,	*[17]	Direct Quote[17]	
+54-32	5542-5548	except	*[17]	Direct Quote[17]	
+54-33	5549-5553	with	*[17]	Direct Quote[17]	
+54-34	5554-5561	respect	*[17]	Direct Quote[17]	
+54-35	5562-5564	to	*[17]	Direct Quote[17]	
+54-36	5565-5568	the	*[17]	Direct Quote[17]	
+54-37	5569-5575	timing	*[17]	Direct Quote[17]	
+54-38	5576-5578	of	*[17]	Direct Quote[17]	
+54-39	5579-5585	review	*[17]	Direct Quote[17]	
+54-40	5586-5588	as	*[17]	Direct Quote[17]	
+54-41	5589-5597	provided	*[17]	Direct Quote[17]	
+54-42	5598-5599	"	*[17]	Direct Quote[17]	
+54-43	5600-5609	elsewhere	_	_	
+54-44	5610-5612	in	_	_	
+54-45	5613-5623	provisions	_	_	
+54-46	5624-5628	that	_	_	
+54-47	5629-5633	even	_	_	
+54-48	5634-5637	the	_	_	
+54-49	5638-5643	Court	_	_	
+54-50	5644-5649	today	_	_	
+54-51	5650-5654	does	_	_	
+54-52	5655-5658	not	_	_	
+54-53	5659-5665	invoke	_	_	
+54-54	5666-5668	as	_	_	
+54-55	5669-5675	limits	_	_	
+54-56	5676-5678	on	_	_	
+54-57	5679-5687	recovery	_	_	
+54-58	5688-5692	here	_	_	
+54-59	5693-5694	.	_	_	
+
+#Text=§ 9659(h ) .
+55-1	5696-5697	§	*[19]	Legal Source[19]	
+55-2	5698-5704	9659(h	*[19]	Legal Source[19]	
+55-3	5705-5706	)	*[19]	Legal Source[19]	
+55-4	5707-5708	.	_	_	
+
+#Text=Three times Congress made its point as plainly as anyone might .
+56-1	5710-5715	Three	_	_	
+56-2	5716-5721	times	_	_	
+56-3	5722-5730	Congress	_	_	
+56-4	5731-5735	made	_	_	
+56-5	5736-5739	its	_	_	
+56-6	5740-5745	point	_	_	
+56-7	5746-5748	as	_	_	
+56-8	5749-5756	plainly	_	_	
+56-9	5757-5759	as	_	_	
+56-10	5760-5766	anyone	_	_	
+56-11	5767-5772	might	_	_	
+56-12	5773-5774	.	_	_	
+
+#Text=So how does Atlantic Richfield seek to transform CERCLA from a tool to aid cleanups into a ban on them ?
+57-1	5776-5778	So	_	_	
+57-2	5779-5782	how	_	_	
+57-3	5783-5787	does	_	_	
+57-4	5788-5796	Atlantic	_	_	
+57-5	5797-5806	Richfield	_	_	
+57-6	5807-5811	seek	_	_	
+57-7	5812-5814	to	_	_	
+57-8	5815-5824	transform	_	_	
+57-9	5825-5831	CERCLA	*	Legal Source	
+57-10	5832-5836	from	_	_	
+57-11	5837-5838	a	_	_	
+57-12	5839-5843	tool	_	_	
+57-13	5844-5846	to	_	_	
+57-14	5847-5850	aid	_	_	
+57-15	5851-5859	cleanups	_	_	
+57-16	5860-5864	into	_	_	
+57-17	5865-5866	a	_	_	
+57-18	5867-5870	ban	_	_	
+57-19	5871-5873	on	_	_	
+57-20	5874-5878	them	_	_	
+57-21	5879-5880	?	_	_	
+
+#Text=The company has to point to something in the statutory text that trumps these many provisions and preempts the landowners ' right to use state law to restore their lands .
+58-1	5882-5885	The	_	_	
+58-2	5886-5893	company	_	_	
+58-3	5894-5897	has	_	_	
+58-4	5898-5900	to	_	_	
+58-5	5901-5906	point	_	_	
+58-6	5907-5909	to	_	_	
+58-7	5910-5919	something	_	_	
+58-8	5920-5922	in	_	_	
+58-9	5923-5926	the	_	_	
+58-10	5927-5936	statutory	_	_	
+58-11	5937-5941	text	_	_	
+58-12	5942-5946	that	_	_	
+58-13	5947-5953	trumps	_	_	
+58-14	5954-5959	these	_	_	
+58-15	5960-5964	many	_	_	
+58-16	5965-5975	provisions	_	_	
+58-17	5976-5979	and	_	_	
+58-18	5980-5988	preempts	_	_	
+58-19	5989-5992	the	_	_	
+58-20	5993-6003	landowners	_	_	
+58-21	6004-6005	'	_	_	
+58-22	6006-6011	right	_	_	
+58-23	6012-6014	to	_	_	
+58-24	6015-6018	use	_	_	
+58-25	6019-6024	state	_	_	
+58-26	6025-6028	law	_	_	
+58-27	6029-6031	to	_	_	
+58-28	6032-6039	restore	_	_	
+58-29	6040-6045	their	_	_	
+58-30	6046-6051	lands	_	_	
+58-31	6052-6053	.	_	_	
+
+#Text=After all , merely " [ i]nvoking some brooding federal interest or appealing to a judicial policy preference should never be enough to win preemption of a state law " ; instead , a party like Atlantic Richfield seeking to displace state law must identify " ' a constitutional text or a federal statute ' that does the displacing . "
+59-1	6055-6060	After	_	_	
+59-2	6061-6064	all	_	_	
+59-3	6065-6066	,	_	_	
+59-4	6067-6073	merely	_	_	
+59-5	6074-6075	"	*[20]	Direct Quote[20]	
+59-6	6076-6077	[	*[20]	Direct Quote[20]	
+59-7	6078-6087	i]nvoking	*[20]	Direct Quote[20]	
+59-8	6088-6092	some	*[20]	Direct Quote[20]	
+59-9	6093-6101	brooding	*[20]	Direct Quote[20]	
+59-10	6102-6109	federal	*[20]	Direct Quote[20]	
+59-11	6110-6118	interest	*[20]	Direct Quote[20]	
+59-12	6119-6121	or	*[20]	Direct Quote[20]	
+59-13	6122-6131	appealing	*[20]	Direct Quote[20]	
+59-14	6132-6134	to	*[20]	Direct Quote[20]	
+59-15	6135-6136	a	*[20]	Direct Quote[20]	
+59-16	6137-6145	judicial	*[20]	Direct Quote[20]	
+59-17	6146-6152	policy	*[20]	Direct Quote[20]	
+59-18	6153-6163	preference	*[20]	Direct Quote[20]	
+59-19	6164-6170	should	*[20]	Direct Quote[20]	
+59-20	6171-6176	never	*[20]	Direct Quote[20]	
+59-21	6177-6179	be	*[20]	Direct Quote[20]	
+59-22	6180-6186	enough	*[20]	Direct Quote[20]	
+59-23	6187-6189	to	*[20]	Direct Quote[20]	
+59-24	6190-6193	win	*[20]	Direct Quote[20]	
+59-25	6194-6204	preemption	*[20]	Direct Quote[20]	
+59-26	6205-6207	of	*[20]	Direct Quote[20]	
+59-27	6208-6209	a	*[20]	Direct Quote[20]	
+59-28	6210-6215	state	*[20]	Direct Quote[20]	
+59-29	6216-6219	law	*[20]	Direct Quote[20]	
+59-30	6220-6221	"	*[20]	Direct Quote[20]	
+59-31	6222-6223	;	_	_	
+59-32	6224-6231	instead	_	_	
+59-33	6232-6233	,	_	_	
+59-34	6234-6235	a	_	_	
+59-35	6236-6241	party	_	_	
+59-36	6242-6246	like	_	_	
+59-37	6247-6255	Atlantic	_	_	
+59-38	6256-6265	Richfield	_	_	
+59-39	6266-6273	seeking	_	_	
+59-40	6274-6276	to	_	_	
+59-41	6277-6285	displace	_	_	
+59-42	6286-6291	state	_	_	
+59-43	6292-6295	law	_	_	
+59-44	6296-6300	must	_	_	
+59-45	6301-6309	identify	_	_	
+59-46	6310-6311	"	*[21]	Direct Quote[21]	
+59-47	6312-6313	'	*[21]|*[22]	Direct Quote[21]|Direct Quote[22]	
+59-48	6314-6315	a	*[21]|*[22]	Direct Quote[21]|Direct Quote[22]	
+59-49	6316-6330	constitutional	*[21]|*[22]	Direct Quote[21]|Direct Quote[22]	
+59-50	6331-6335	text	*[21]|*[22]	Direct Quote[21]|Direct Quote[22]	
+59-51	6336-6338	or	*[21]|*[22]	Direct Quote[21]|Direct Quote[22]	
+59-52	6339-6340	a	*[21]|*[22]	Direct Quote[21]|Direct Quote[22]	
+59-53	6341-6348	federal	*[21]|*[22]	Direct Quote[21]|Direct Quote[22]	
+59-54	6349-6356	statute	*[21]|*[22]	Direct Quote[21]|Direct Quote[22]	
+59-55	6357-6358	'	*[21]|*[22]	Direct Quote[21]|Direct Quote[22]	
+59-56	6359-6363	that	*[21]	Direct Quote[21]	
+59-57	6364-6368	does	*[21]	Direct Quote[21]	
+59-58	6369-6372	the	*[21]	Direct Quote[21]	
+59-59	6373-6383	displacing	*[21]	Direct Quote[21]	
+59-60	6384-6385	.	*[21]	Direct Quote[21]	
+59-61	6386-6387	"	*[21]	Direct Quote[21]	
+
+#Text=Virginia Uranium , Inc. v. Warren , 587 U. S. ---- , ---- , 139 S.Ct . 1894 , 1901 , 204 L.Ed.2d 377 ( 2019 ) ( opinion of GORSUCH , J. ) ( quoting Puerto Rico Dept . of Consumer Affairs v. Isla Petroleum Corp. , 485 U.S. 495 , 503 , 108 S.Ct . 1350 , 99 L.Ed.2d 582 ( 1988 ) ) .
+60-1	6389-6397	Virginia	*[23]	Legal Source[23]	
+60-2	6398-6405	Uranium	*[23]	Legal Source[23]	
+60-3	6406-6407	,	*[23]	Legal Source[23]	
+60-4	6408-6412	Inc.	*[23]	Legal Source[23]	
+60-5	6413-6415	v.	*[23]	Legal Source[23]	
+60-6	6416-6422	Warren	*[23]	Legal Source[23]	
+60-7	6423-6424	,	*[23]	Legal Source[23]	
+60-8	6425-6428	587	*[23]	Legal Source[23]	
+60-9	6429-6431	U.	*[23]	Legal Source[23]	
+60-10	6432-6434	S.	*[23]	Legal Source[23]	
+60-11	6435-6439	----	*[23]	Legal Source[23]	
+60-12	6440-6441	,	*[23]	Legal Source[23]	
+60-13	6442-6446	----	*[23]	Legal Source[23]	
+60-14	6447-6448	,	*[23]	Legal Source[23]	
+60-15	6449-6452	139	*[23]	Legal Source[23]	
+60-16	6453-6457	S.Ct	*[23]	Legal Source[23]	
+60-17	6458-6459	.	*[23]	Legal Source[23]	
+60-18	6460-6464	1894	*[23]	Legal Source[23]	
+60-19	6465-6466	,	*[23]	Legal Source[23]	
+60-20	6467-6471	1901	*[23]	Legal Source[23]	
+60-21	6472-6473	,	*[23]	Legal Source[23]	
+60-22	6474-6477	204	*[23]	Legal Source[23]	
+60-23	6478-6485	L.Ed.2d	*[23]	Legal Source[23]	
+60-24	6486-6489	377	*[23]	Legal Source[23]	
+60-25	6490-6491	(	*[23]	Legal Source[23]	
+60-26	6492-6496	2019	*[23]	Legal Source[23]	
+60-27	6497-6498	)	*[23]	Legal Source[23]	
+60-28	6499-6500	(	*[23]	Legal Source[23]	
+60-29	6501-6508	opinion	*[23]	Legal Source[23]	
+60-30	6509-6511	of	*[23]	Legal Source[23]	
+60-31	6512-6519	GORSUCH	*[23]	Legal Source[23]	
+60-32	6520-6521	,	*[23]	Legal Source[23]	
+60-33	6522-6524	J.	*[23]	Legal Source[23]	
+60-34	6525-6526	)	*[23]	Legal Source[23]	
+60-35	6527-6528	(	_	_	
+60-36	6529-6536	quoting	_	_	
+60-37	6537-6543	Puerto	*[24]	Legal Source[24]	
+60-38	6544-6548	Rico	*[24]	Legal Source[24]	
+60-39	6549-6553	Dept	*[24]	Legal Source[24]	
+60-40	6554-6555	.	*[24]	Legal Source[24]	
+60-41	6556-6558	of	*[24]	Legal Source[24]	
+60-42	6559-6567	Consumer	*[24]	Legal Source[24]	
+60-43	6568-6575	Affairs	*[24]	Legal Source[24]	
+60-44	6576-6578	v.	*[24]	Legal Source[24]	
+60-45	6579-6583	Isla	*[24]	Legal Source[24]	
+60-46	6584-6593	Petroleum	*[24]	Legal Source[24]	
+60-47	6594-6599	Corp.	*[24]	Legal Source[24]	
+60-48	6600-6601	,	*[24]	Legal Source[24]	
+60-49	6602-6605	485	*[24]	Legal Source[24]	
+60-50	6606-6610	U.S.	*[24]	Legal Source[24]	
+60-51	6611-6614	495	*[24]	Legal Source[24]	
+60-52	6615-6616	,	*[24]	Legal Source[24]	
+60-53	6617-6620	503	*[24]	Legal Source[24]	
+60-54	6621-6622	,	*[24]	Legal Source[24]	
+60-55	6623-6626	108	*[24]	Legal Source[24]	
+60-56	6627-6631	S.Ct	*[24]	Legal Source[24]	
+60-57	6632-6633	.	*[24]	Legal Source[24]	
+60-58	6634-6638	1350	*[24]	Legal Source[24]	
+60-59	6639-6640	,	*[24]	Legal Source[24]	
+60-60	6641-6643	99	*[24]	Legal Source[24]	
+60-61	6644-6651	L.Ed.2d	*[24]	Legal Source[24]	
+60-62	6652-6655	582	*[24]	Legal Source[24]	
+60-63	6656-6657	(	*[24]	Legal Source[24]	
+60-64	6658-6662	1988	*[24]	Legal Source[24]	
+60-65	6663-6664	)	*[24]	Legal Source[24]	
+60-66	6665-6666	)	_	_	
+60-67	6667-6668	.	_	_	
+
+#Text=In answer , Atlantic Richfield directs our attention to § 122(e)(6 ) .
+61-1	6670-6672	In	_	_	
+61-2	6673-6679	answer	_	_	
+61-3	6680-6681	,	_	_	
+61-4	6682-6690	Atlantic	_	_	
+61-5	6691-6700	Richfield	_	_	
+61-6	6701-6708	directs	_	_	
+61-7	6709-6712	our	_	_	
+61-8	6713-6722	attention	_	_	
+61-9	6723-6725	to	_	_	
+61-10	6726-6727	§	*[25]	Legal Source[25]	
+61-11	6728-6736	122(e)(6	*[25]	Legal Source[25]	
+61-12	6737-6738	)	*[25]	Legal Source[25]	
+61-13	6739-6740	.	_	_	
+
+#Text=It 's a provision buried in a section captioned " Settlements . "
+62-1	6742-6744	It	_	_	
+62-2	6745-6747	's	_	_	
+62-3	6748-6749	a	_	_	
+62-4	6750-6759	provision	_	_	
+62-5	6760-6766	buried	_	_	
+62-6	6767-6769	in	_	_	
+62-7	6770-6771	a	_	_	
+62-8	6772-6779	section	_	_	
+62-9	6780-6789	captioned	_	_	
+62-10	6790-6791	"	*[26]	Direct Quote[26]	
+62-11	6792-6803	Settlements	*[26]	Direct Quote[26]	
+62-12	6804-6805	.	*[26]	Direct Quote[26]	
+62-13	6806-6807	"	*[26]	Direct Quote[26]	
+
+#Text=The section outlines the process private parties must follow to negotiate a settlement and release of CERCLA liability with the federal government .
+63-1	6809-6812	The	_	_	
+63-2	6813-6820	section	_	_	
+63-3	6821-6829	outlines	_	_	
+63-4	6830-6833	the	_	_	
+63-5	6834-6841	process	_	_	
+63-6	6842-6849	private	_	_	
+63-7	6850-6857	parties	_	_	
+63-8	6858-6862	must	_	_	
+63-9	6863-6869	follow	_	_	
+63-10	6870-6872	to	_	_	
+63-11	6873-6882	negotiate	_	_	
+63-12	6883-6884	a	_	_	
+63-13	6885-6895	settlement	_	_	
+63-14	6896-6899	and	_	_	
+63-15	6900-6907	release	_	_	
+63-16	6908-6910	of	_	_	
+63-17	6911-6917	CERCLA	*	Legal Source	
+63-18	6918-6927	liability	_	_	
+63-19	6928-6932	with	_	_	
+63-20	6933-6936	the	_	_	
+63-21	6937-6944	federal	_	_	
+63-22	6945-6955	government	_	_	
+63-23	6956-6957	.	_	_	
+
+#Text=Subsection ( e)(6 ) bears the title " Inconsistent response action " and states that , " [ w]hen either the President , or a potentially responsible party pursuant to an administrative order or consent decree under this chapter , has initiated a remedial investigation and feasibility study for a particular facility under this chapter , no potentially responsible party may undertake any remedial action at the facility unless such remedial action has been authorized by the President . "
+64-1	6959-6969	Subsection	*[27]	Legal Source[27]	
+64-2	6970-6971	(	*[27]	Legal Source[27]	
+64-3	6972-6976	e)(6	*[27]	Legal Source[27]	
+64-4	6977-6978	)	*[27]	Legal Source[27]	
+64-5	6979-6984	bears	_	_	
+64-6	6985-6988	the	_	_	
+64-7	6989-6994	title	_	_	
+64-8	6995-6996	"	*[28]	Direct Quote[28]	
+64-9	6997-7009	Inconsistent	*[28]	Direct Quote[28]	
+64-10	7010-7018	response	*[28]	Direct Quote[28]	
+64-11	7019-7025	action	*[28]	Direct Quote[28]	
+64-12	7026-7027	"	*[28]	Direct Quote[28]	
+64-13	7028-7031	and	_	_	
+64-14	7032-7038	states	_	_	
+64-15	7039-7043	that	_	_	
+64-16	7044-7045	,	_	_	
+64-17	7046-7047	"	*[29]	Direct Quote[29]	
+64-18	7048-7049	[	*[29]	Direct Quote[29]	
+64-19	7050-7055	w]hen	*[29]	Direct Quote[29]	
+64-20	7056-7062	either	*[29]	Direct Quote[29]	
+64-21	7063-7066	the	*[29]	Direct Quote[29]	
+64-22	7067-7076	President	*[29]	Direct Quote[29]	
+64-23	7077-7078	,	*[29]	Direct Quote[29]	
+64-24	7079-7081	or	*[29]	Direct Quote[29]	
+64-25	7082-7083	a	*[29]	Direct Quote[29]	
+64-26	7084-7095	potentially	*[29]	Direct Quote[29]	
+64-27	7096-7107	responsible	*[29]	Direct Quote[29]	
+64-28	7108-7113	party	*[29]	Direct Quote[29]	
+64-29	7114-7122	pursuant	*[29]	Direct Quote[29]	
+64-30	7123-7125	to	*[29]	Direct Quote[29]	
+64-31	7126-7128	an	*[29]	Direct Quote[29]	
+64-32	7129-7143	administrative	*[29]	Direct Quote[29]	
+64-33	7144-7149	order	*[29]	Direct Quote[29]	
+64-34	7150-7152	or	*[29]	Direct Quote[29]	
+64-35	7153-7160	consent	*[29]	Direct Quote[29]	
+64-36	7161-7167	decree	*[29]	Direct Quote[29]	
+64-37	7168-7173	under	*[29]	Direct Quote[29]	
+64-38	7174-7178	this	*[29]	Direct Quote[29]	
+64-39	7179-7186	chapter	*[29]	Direct Quote[29]	
+64-40	7187-7188	,	*[29]	Direct Quote[29]	
+64-41	7189-7192	has	*[29]	Direct Quote[29]	
+64-42	7193-7202	initiated	*[29]	Direct Quote[29]	
+64-43	7203-7204	a	*[29]	Direct Quote[29]	
+64-44	7205-7213	remedial	*[29]	Direct Quote[29]	
+64-45	7214-7227	investigation	*[29]	Direct Quote[29]	
+64-46	7228-7231	and	*[29]	Direct Quote[29]	
+64-47	7232-7243	feasibility	*[29]	Direct Quote[29]	
+64-48	7244-7249	study	*[29]	Direct Quote[29]	
+64-49	7250-7253	for	*[29]	Direct Quote[29]	
+64-50	7254-7255	a	*[29]	Direct Quote[29]	
+64-51	7256-7266	particular	*[29]	Direct Quote[29]	
+64-52	7267-7275	facility	*[29]	Direct Quote[29]	
+64-53	7276-7281	under	*[29]	Direct Quote[29]	
+64-54	7282-7286	this	*[29]	Direct Quote[29]	
+64-55	7287-7294	chapter	*[29]	Direct Quote[29]	
+64-56	7295-7296	,	*[29]	Direct Quote[29]	
+64-57	7297-7299	no	*[29]	Direct Quote[29]	
+64-58	7300-7311	potentially	*[29]	Direct Quote[29]	
+64-59	7312-7323	responsible	*[29]	Direct Quote[29]	
+64-60	7324-7329	party	*[29]	Direct Quote[29]	
+64-61	7330-7333	may	*[29]	Direct Quote[29]	
+64-62	7334-7343	undertake	*[29]	Direct Quote[29]	
+64-63	7344-7347	any	*[29]	Direct Quote[29]	
+64-64	7348-7356	remedial	*[29]	Direct Quote[29]	
+64-65	7357-7363	action	*[29]	Direct Quote[29]	
+64-66	7364-7366	at	*[29]	Direct Quote[29]	
+64-67	7367-7370	the	*[29]	Direct Quote[29]	
+64-68	7371-7379	facility	*[29]	Direct Quote[29]	
+64-69	7380-7386	unless	*[29]	Direct Quote[29]	
+64-70	7387-7391	such	*[29]	Direct Quote[29]	
+64-71	7392-7400	remedial	*[29]	Direct Quote[29]	
+64-72	7401-7407	action	*[29]	Direct Quote[29]	
+64-73	7408-7411	has	*[29]	Direct Quote[29]	
+64-74	7412-7416	been	*[29]	Direct Quote[29]	
+64-75	7417-7427	authorized	*[29]	Direct Quote[29]	
+64-76	7428-7430	by	*[29]	Direct Quote[29]	
+64-77	7431-7434	the	*[29]	Direct Quote[29]	
+64-78	7435-7444	President	*[29]	Direct Quote[29]	
+64-79	7445-7446	.	*[29]	Direct Quote[29]	
+64-80	7447-7448	"	*[29]	Direct Quote[29]	
+
+#Text=42 U.S.C. § 9622 ( e)(6 ) .
+65-1	7450-7452	42	*[30]	Legal Source[30]	
+65-2	7453-7459	U.S.C.	*[30]	Legal Source[30]	
+65-3	7460-7461	§	*[30]	Legal Source[30]	
+65-4	7462-7466	9622	*[30]	Legal Source[30]	
+65-5	7467-7468	(	*[30]	Legal Source[30]	
+65-6	7469-7473	e)(6	*[30]	Legal Source[30]	
+65-7	7474-7475	)	*[30]	Legal Source[30]	
+65-8	7476-7477	.	_	_	
+
+#Text=So even read for all its worth , this provision only bars those " potentially responsible " to the federal government from initiating cleanup efforts without prior approval .
+66-1	7479-7481	So	_	_	
+66-2	7482-7486	even	_	_	
+66-3	7487-7491	read	_	_	
+66-4	7492-7495	for	_	_	
+66-5	7496-7499	all	_	_	
+66-6	7500-7503	its	_	_	
+66-7	7504-7509	worth	_	_	
+66-8	7510-7511	,	_	_	
+66-9	7512-7516	this	_	_	
+66-10	7517-7526	provision	_	_	
+66-11	7527-7531	only	_	_	
+66-12	7532-7536	bars	_	_	
+66-13	7537-7542	those	_	_	
+66-14	7543-7544	"	*[31]	Direct Quote[31]	
+66-15	7545-7556	potentially	*[31]	Direct Quote[31]	
+66-16	7557-7568	responsible	*[31]	Direct Quote[31]	
+66-17	7569-7570	"	*[31]	Direct Quote[31]	
+66-18	7571-7573	to	_	_	
+66-19	7574-7577	the	_	_	
+66-20	7578-7585	federal	_	_	
+66-21	7586-7596	government	_	_	
+66-22	7597-7601	from	_	_	
+66-23	7602-7612	initiating	_	_	
+66-24	7613-7620	cleanup	_	_	
+66-25	7621-7628	efforts	_	_	
+66-26	7629-7636	without	_	_	
+66-27	7637-7642	prior	_	_	
+66-28	7643-7651	approval	_	_	
+66-29	7652-7653	.	_	_	
+
+#Text=To get where it needs to go , Atlantic Richfield must find some way to label the innocent landowners here " potentially responsible part[ies ] " on the hook for cleanup duties with the federal government .
+67-1	7655-7657	To	_	_	
+67-2	7658-7661	get	_	_	
+67-3	7662-7667	where	_	_	
+67-4	7668-7670	it	_	_	
+67-5	7671-7676	needs	_	_	
+67-6	7677-7679	to	_	_	
+67-7	7680-7682	go	_	_	
+67-8	7683-7684	,	_	_	
+67-9	7685-7693	Atlantic	_	_	
+67-10	7694-7703	Richfield	_	_	
+67-11	7704-7708	must	_	_	
+67-12	7709-7713	find	_	_	
+67-13	7714-7718	some	_	_	
+67-14	7719-7722	way	_	_	
+67-15	7723-7725	to	_	_	
+67-16	7726-7731	label	_	_	
+67-17	7732-7735	the	_	_	
+67-18	7736-7744	innocent	_	_	
+67-19	7745-7755	landowners	_	_	
+67-20	7756-7760	here	_	_	
+67-21	7761-7762	"	*[32]	Direct Quote[32]	
+67-22	7763-7774	potentially	*[32]	Direct Quote[32]	
+67-23	7775-7786	responsible	*[32]	Direct Quote[32]	
+67-24	7787-7795	part[ies	*[32]	Direct Quote[32]	
+67-25	7796-7797	]	*[32]	Direct Quote[32]	
+67-26	7798-7799	"	*[32]	Direct Quote[32]	
+67-27	7800-7802	on	_	_	
+67-28	7803-7806	the	_	_	
+67-29	7807-7811	hook	_	_	
+67-30	7812-7815	for	_	_	
+67-31	7816-7823	cleanup	_	_	
+67-32	7824-7830	duties	_	_	
+67-33	7831-7835	with	_	_	
+67-34	7836-7839	the	_	_	
+67-35	7840-7847	federal	_	_	
+67-36	7848-7858	government	_	_	
+67-37	7859-7860	.	_	_	
+
+#Text=They are hardly that .
+68-1	7862-7866	They	_	_	
+68-2	7867-7870	are	_	_	
+68-3	7871-7877	hardly	_	_	
+68-4	7878-7882	that	_	_	
+68-5	7883-7884	.	_	_	
+
+#Text=When interpreting a statute , this Court applies the law 's ordinary public meaning at the time of the statute 's adoption , here 1980 .
+69-1	7886-7890	When	_	_	
+69-2	7891-7903	interpreting	*	Metalinguistic Cue	
+69-3	7904-7905	a	_	_	
+69-4	7906-7913	statute	_	_	
+69-5	7914-7915	,	_	_	
+69-6	7916-7920	this	_	_	
+69-7	7921-7926	Court	_	_	
+69-8	7927-7934	applies	_	_	
+69-9	7935-7938	the	*[33]	Appeal to Meaning[33]	
+69-10	7939-7942	law	*[33]	Appeal to Meaning[33]	
+69-11	7943-7945	's	*[33]	Appeal to Meaning[33]	
+69-12	7946-7954	ordinary	*[33]	Appeal to Meaning[33]	
+69-13	7955-7961	public	*[33]	Appeal to Meaning[33]	
+69-14	7962-7969	meaning	*[33]	Appeal to Meaning[33]	
+69-15	7970-7972	at	*[33]	Appeal to Meaning[33]	
+69-16	7973-7976	the	*[33]	Appeal to Meaning[33]	
+69-17	7977-7981	time	*[33]	Appeal to Meaning[33]	
+69-18	7982-7984	of	*[33]	Appeal to Meaning[33]	
+69-19	7985-7988	the	*[33]	Appeal to Meaning[33]	
+69-20	7989-7996	statute	*[33]	Appeal to Meaning[33]	
+69-21	7997-7999	's	*[33]	Appeal to Meaning[33]	
+69-22	8000-8008	adoption	*[33]	Appeal to Meaning[33]	
+69-23	8009-8010	,	_	_	
+69-24	8011-8015	here	_	_	
+69-25	8016-8020	1980	_	_	
+69-26	8021-8022	.	_	_	
+
+#Text=See Wisconsin Central Ltd. v. United States , 585 U. S. ---- , ---- , 138 S.Ct . 2067 , 2074 , 201 L.Ed.2d 490 ( 2018 ) .
+70-1	8024-8027	See	*[34]	Legal Source[34]	
+70-2	8028-8037	Wisconsin	*[34]	Legal Source[34]	
+70-3	8038-8045	Central	*[34]	Legal Source[34]	
+70-4	8046-8050	Ltd.	*[34]	Legal Source[34]	
+70-5	8051-8053	v.	*[34]	Legal Source[34]	
+70-6	8054-8060	United	*[34]	Legal Source[34]	
+70-7	8061-8067	States	*[34]	Legal Source[34]	
+70-8	8068-8069	,	*[34]	Legal Source[34]	
+70-9	8070-8073	585	*[34]	Legal Source[34]	
+70-10	8074-8076	U.	*[34]	Legal Source[34]	
+70-11	8077-8079	S.	*[34]	Legal Source[34]	
+70-12	8080-8084	----	*[34]	Legal Source[34]	
+70-13	8085-8086	,	*[34]	Legal Source[34]	
+70-14	8087-8091	----	*[34]	Legal Source[34]	
+70-15	8092-8093	,	*[34]	Legal Source[34]	
+70-16	8094-8097	138	*[34]	Legal Source[34]	
+70-17	8098-8102	S.Ct	*[34]	Legal Source[34]	
+70-18	8103-8104	.	*[34]	Legal Source[34]	
+70-19	8105-8109	2067	*[34]	Legal Source[34]	
+70-20	8110-8111	,	*[34]	Legal Source[34]	
+70-21	8112-8116	2074	*[34]	Legal Source[34]	
+70-22	8117-8118	,	*[34]	Legal Source[34]	
+70-23	8119-8122	201	*[34]	Legal Source[34]	
+70-24	8123-8130	L.Ed.2d	*[34]	Legal Source[34]	
+70-25	8131-8134	490	*[34]	Legal Source[34]	
+70-26	8135-8136	(	*[34]	Legal Source[34]	
+70-27	8137-8141	2018	*[34]	Legal Source[34]	
+70-28	8142-8143	)	*[34]	Legal Source[34]	
+70-29	8144-8145	.	_	_	
+
+#Text=To be " potentially responsible " for something meant then , as it does today , that a person could possibly be held accountable for it ; the outcome is capable of happening .
+71-1	8147-8149	To	_	_	
+71-2	8150-8152	be	_	_	
+71-3	8153-8154	"	*[35]	Direct Quote[35]	
+71-4	8155-8166	potentially	*[35]|*[36]	Direct Quote[35]|Focal Term[36]	
+71-5	8167-8178	responsible	*[35]|*[36]	Direct Quote[35]|Focal Term[36]	
+71-6	8179-8180	"	*[35]	Direct Quote[35]	
+71-7	8181-8184	for	_	_	
+71-8	8185-8194	something	_	_	
+71-9	8195-8200	meant	*	Metalinguistic Cue	
+71-10	8201-8205	then	_	_	
+71-11	8206-8207	,	_	_	
+71-12	8208-8210	as	_	_	
+71-13	8211-8213	it	_	_	
+71-14	8214-8218	does	_	_	
+71-15	8219-8224	today	_	_	
+71-16	8225-8226	,	_	_	
+71-17	8227-8231	that	_	_	
+71-18	8232-8233	a	*[37]	Definition[37]	
+71-19	8234-8240	person	*[37]	Definition[37]	
+71-20	8241-8246	could	*[37]	Definition[37]	
+71-21	8247-8255	possibly	*[37]	Definition[37]	
+71-22	8256-8258	be	*[37]	Definition[37]	
+71-23	8259-8263	held	*[37]	Definition[37]	
+71-24	8264-8275	accountable	*[37]	Definition[37]	
+71-25	8276-8279	for	*[37]	Definition[37]	
+71-26	8280-8282	it	*[37]	Definition[37]	
+71-27	8283-8284	;	*[37]	Definition[37]	
+71-28	8285-8288	the	*[37]	Definition[37]	
+71-29	8289-8296	outcome	*[37]	Definition[37]	
+71-30	8297-8299	is	*[37]	Definition[37]	
+71-31	8300-8307	capable	*[37]	Definition[37]	
+71-32	8308-8310	of	*[37]	Definition[37]	
+71-33	8311-8320	happening	*[37]	Definition[37]	
+71-34	8321-8322	.	_	_	
+
+#Text=American Heritage Dictionary 1025 ( 1981 ) ; Webster 's New Collegiate Dictionary 893 ( 1980 ) .
+72-1	8324-8332	American	*[38]	Language Source[38]	
+72-2	8333-8341	Heritage	*[38]	Language Source[38]	
+72-3	8342-8352	Dictionary	*[38]	Language Source[38]	
+72-4	8353-8357	1025	*[38]	Language Source[38]	
+72-5	8358-8359	(	*[38]	Language Source[38]	
+72-6	8360-8364	1981	*[38]	Language Source[38]	
+72-7	8365-8366	)	*[38]	Language Source[38]	
+72-8	8367-8368	;	*[38]	Language Source[38]	
+72-9	8369-8376	Webster	*[38]	Language Source[38]	
+72-10	8377-8379	's	*[38]	Language Source[38]	
+72-11	8380-8383	New	*[38]	Language Source[38]	
+72-12	8384-8394	Collegiate	*[38]	Language Source[38]	
+72-13	8395-8405	Dictionary	*[38]	Language Source[38]	
+72-14	8406-8409	893	*[38]	Language Source[38]	
+72-15	8410-8411	(	*[38]	Language Source[38]	
+72-16	8412-8416	1980	*[38]	Language Source[38]	
+72-17	8417-8418	)	*[38]	Language Source[38]	
+72-18	8419-8420	.	_	_	
+
+#Text=And there is simply no way the landowners here are potentially , possibly , or capable of being held liable by the federal government for anything .
+73-1	8422-8425	And	_	_	
+73-2	8426-8431	there	_	_	
+73-3	8432-8434	is	_	_	
+73-4	8435-8441	simply	_	_	
+73-5	8442-8444	no	_	_	
+73-6	8445-8448	way	_	_	
+73-7	8449-8452	the	_	_	
+73-8	8453-8463	landowners	_	_	
+73-9	8464-8468	here	_	_	
+73-10	8469-8472	are	_	_	
+73-11	8473-8484	potentially	_	_	
+73-12	8485-8486	,	_	_	
+73-13	8487-8495	possibly	_	_	
+73-14	8496-8497	,	_	_	
+73-15	8498-8500	or	_	_	
+73-16	8501-8508	capable	_	_	
+73-17	8509-8511	of	_	_	
+73-18	8512-8517	being	_	_	
+73-19	8518-8522	held	_	_	
+73-20	8523-8529	liable	_	_	
+73-21	8530-8532	by	_	_	
+73-22	8533-8536	the	_	_	
+73-23	8537-8544	federal	_	_	
+73-24	8545-8555	government	_	_	
+73-25	8556-8559	for	_	_	
+73-26	8560-8568	anything	_	_	
+73-27	8569-8570	.	_	_	
+
+#Text=In the first place , the federal government never notified the landowners that they might be responsible parties , as it must under § 122(e)(1 ) .
+74-1	8572-8574	In	_	_	
+74-2	8575-8578	the	_	_	
+74-3	8579-8584	first	_	_	
+74-4	8585-8590	place	_	_	
+74-5	8591-8592	,	_	_	
+74-6	8593-8596	the	_	_	
+74-7	8597-8604	federal	_	_	
+74-8	8605-8615	government	_	_	
+74-9	8616-8621	never	_	_	
+74-10	8622-8630	notified	_	_	
+74-11	8631-8634	the	_	_	
+74-12	8635-8645	landowners	_	_	
+74-13	8646-8650	that	_	_	
+74-14	8651-8655	they	_	_	
+74-15	8656-8661	might	_	_	
+74-16	8662-8664	be	_	_	
+74-17	8665-8676	responsible	_	_	
+74-18	8677-8684	parties	_	_	
+74-19	8685-8686	,	_	_	
+74-20	8687-8689	as	_	_	
+74-21	8690-8692	it	_	_	
+74-22	8693-8697	must	_	_	
+74-23	8698-8703	under	_	_	
+74-24	8704-8705	§	*[39]	Legal Source[39]	
+74-25	8706-8714	122(e)(1	*[39]	Legal Source[39]	
+74-26	8715-8716	)	*[39]	Legal Source[39]	
+74-27	8717-8718	.	_	_	
+
+#Text=Additionally , everyone admits that the period allowed for bringing a CERLCA claim against them has long since passed under § 113(g)(2)(B ) .
+75-1	8720-8732	Additionally	_	_	
+75-2	8733-8734	,	_	_	
+75-3	8735-8743	everyone	_	_	
+75-4	8744-8750	admits	_	_	
+75-5	8751-8755	that	_	_	
+75-6	8756-8759	the	_	_	
+75-7	8760-8766	period	_	_	
+75-8	8767-8774	allowed	_	_	
+75-9	8775-8778	for	_	_	
+75-10	8779-8787	bringing	_	_	
+75-11	8788-8789	a	_	_	
+75-12	8790-8796	CERLCA	*	Legal Source	
+75-13	8797-8802	claim	_	_	
+75-14	8803-8810	against	_	_	
+75-15	8811-8815	them	_	_	
+75-16	8816-8819	has	_	_	
+75-17	8820-8824	long	_	_	
+75-18	8825-8830	since	_	_	
+75-19	8831-8837	passed	_	_	
+75-20	8838-8843	under	_	_	
+75-21	8844-8845	§	*[40]	Legal Source[40]	
+75-22	8846-8857	113(g)(2)(B	*[40]	Legal Source[40]	
+75-23	8858-8859	)	*[40]	Legal Source[40]	
+75-24	8860-8861	.	_	_	
+
+#Text=On any reasonable account , the landowners are potentially responsible to the government for exactly nothing .
+76-1	8863-8865	On	_	_	
+76-2	8866-8869	any	_	_	
+76-3	8870-8880	reasonable	_	_	
+76-4	8881-8888	account	_	_	
+76-5	8889-8890	,	_	_	
+76-6	8891-8894	the	_	_	
+76-7	8895-8905	landowners	_	_	
+76-8	8906-8909	are	_	_	
+76-9	8910-8921	potentially	_	_	
+76-10	8922-8933	responsible	_	_	
+76-11	8934-8936	to	_	_	
+76-12	8937-8940	the	_	_	
+76-13	8941-8951	government	_	_	
+76-14	8952-8955	for	_	_	
+76-15	8956-8963	exactly	_	_	
+76-16	8964-8971	nothing	_	_	
+76-17	8972-8973	.	_	_	
+
+#Text=Statutory context is of a piece with the narrow text .
+77-1	8975-8984	Statutory	*[41]|*[42]	Appeal to Meaning[41]|Metalinguistic Cue[42]	
+77-2	8985-8992	context	*[41]|*[42]	Appeal to Meaning[41]|Metalinguistic Cue[42]	
+77-3	8993-8995	is	*[41]	Appeal to Meaning[41]	
+77-4	8996-8998	of	*[41]	Appeal to Meaning[41]	
+77-5	8999-9000	a	*[41]	Appeal to Meaning[41]	
+77-6	9001-9006	piece	*[41]	Appeal to Meaning[41]	
+77-7	9007-9011	with	*[41]	Appeal to Meaning[41]	
+77-8	9012-9015	the	*[41]	Appeal to Meaning[41]	
+77-9	9016-9022	narrow	*[41]	Appeal to Meaning[41]	
+77-10	9023-9027	text	*[41]|*[43]	Appeal to Meaning[41]|Metalinguistic Cue[43]	
+77-11	9028-9029	.	_	_	
+
+#Text=Nothing in § 122 affects the rights of strangers to the federal government 's settlement process .
+78-1	9031-9038	Nothing	_	_	
+78-2	9039-9041	in	_	_	
+78-3	9042-9043	§	*[44]	Legal Source[44]	
+78-4	9044-9047	122	*[44]	Legal Source[44]	
+78-5	9048-9055	affects	_	_	
+78-6	9056-9059	the	_	_	
+78-7	9060-9066	rights	_	_	
+78-8	9067-9069	of	_	_	
+78-9	9070-9079	strangers	_	_	
+78-10	9080-9082	to	_	_	
+78-11	9083-9086	the	_	_	
+78-12	9087-9094	federal	_	_	
+78-13	9095-9105	government	_	_	
+78-14	9106-9108	's	_	_	
+78-15	9109-9119	settlement	_	_	
+78-16	9120-9127	process	_	_	
+78-17	9128-9129	.	_	_	
+
+#Text=Everything in the section speaks to the details of that process .
+79-1	9131-9141	Everything	_	_	
+79-2	9142-9144	in	_	_	
+79-3	9145-9148	the	_	_	
+79-4	9149-9156	section	_	_	
+79-5	9157-9163	speaks	_	_	
+79-6	9164-9166	to	_	_	
+79-7	9167-9170	the	_	_	
+79-8	9171-9178	details	_	_	
+79-9	9179-9181	of	_	_	
+79-10	9182-9186	that	_	_	
+79-11	9187-9194	process	_	_	
+79-12	9195-9196	.	_	_	
+
+#Text=The section requires the government to provide all potentially responsible parties with notice that they might be held responsible for remedial measures .
+80-1	9198-9201	The	_	_	
+80-2	9202-9209	section	_	_	
+80-3	9210-9218	requires	_	_	
+80-4	9219-9222	the	_	_	
+80-5	9223-9233	government	_	_	
+80-6	9234-9236	to	_	_	
+80-7	9237-9244	provide	_	_	
+80-8	9245-9248	all	_	_	
+80-9	9249-9260	potentially	_	_	
+80-10	9261-9272	responsible	_	_	
+80-11	9273-9280	parties	_	_	
+80-12	9281-9285	with	_	_	
+80-13	9286-9292	notice	_	_	
+80-14	9293-9297	that	_	_	
+80-15	9298-9302	they	_	_	
+80-16	9303-9308	might	_	_	
+80-17	9309-9311	be	_	_	
+80-18	9312-9316	held	_	_	
+80-19	9317-9328	responsible	_	_	
+80-20	9329-9332	for	_	_	
+80-21	9333-9341	remedial	_	_	
+80-22	9342-9350	measures	_	_	
+80-23	9351-9352	.	_	_	
+
+#Text=§ 9622(e)(1 ) .
+81-1	9354-9355	§	*[45]	Legal Source[45]	
+81-2	9356-9365	9622(e)(1	*[45]	Legal Source[45]	
+81-3	9366-9367	)	*[45]	Legal Source[45]	
+81-4	9368-9369	.	_	_	
+
+#Text=It instructs the government to give a potentially responsible party a list of everyone else so designated .
+82-1	9371-9373	It	_	_	
+82-2	9374-9383	instructs	_	_	
+82-3	9384-9387	the	_	_	
+82-4	9388-9398	government	_	_	
+82-5	9399-9401	to	_	_	
+82-6	9402-9406	give	_	_	
+82-7	9407-9408	a	_	_	
+82-8	9409-9420	potentially	_	_	
+82-9	9421-9432	responsible	_	_	
+82-10	9433-9438	party	_	_	
+82-11	9439-9440	a	_	_	
+82-12	9441-9445	list	_	_	
+82-13	9446-9448	of	_	_	
+82-14	9449-9457	everyone	_	_	
+82-15	9458-9462	else	_	_	
+82-16	9463-9465	so	_	_	
+82-17	9466-9476	designated	_	_	
+82-18	9477-9478	.	_	_	
+
+#Text=Ibid .
+83-1	9480-9484	Ibid	*	Legal Source	
+83-2	9485-9486	.	_	_	
+
+#Text=It specifies procedures for sharing proposals and counterproposals among this group .
+84-1	9488-9490	It	_	_	
+84-2	9491-9500	specifies	_	_	
+84-3	9501-9511	procedures	_	_	
+84-4	9512-9515	for	_	_	
+84-5	9516-9523	sharing	_	_	
+84-6	9524-9533	proposals	_	_	
+84-7	9534-9537	and	_	_	
+84-8	9538-9554	counterproposals	_	_	
+84-9	9555-9560	among	_	_	
+84-10	9561-9565	this	_	_	
+84-11	9566-9571	group	_	_	
+84-12	9572-9573	.	_	_	
+
+#Text=§ § 9622(e)(2)-(3 ) .
+85-1	9575-9576	§	*[46]	Legal Source[46]	
+85-2	9577-9578	§	*[46]	Legal Source[46]	
+85-3	9579-9592	9622(e)(2)-(3	*[46]	Legal Source[46]	
+85-4	9593-9594	)	*[46]	Legal Source[46]	
+85-5	9595-9596	.	_	_	
+
+#Text=It allows the government to release from federal liability those who agree to settle and clean up hazardous sites .
+86-1	9598-9600	It	_	_	
+86-2	9601-9607	allows	_	_	
+86-3	9608-9611	the	_	_	
+86-4	9612-9622	government	_	_	
+86-5	9623-9625	to	_	_	
+86-6	9626-9633	release	_	_	
+86-7	9634-9638	from	_	_	
+86-8	9639-9646	federal	_	_	
+86-9	9647-9656	liability	_	_	
+86-10	9657-9662	those	_	_	
+86-11	9663-9666	who	_	_	
+86-12	9667-9672	agree	_	_	
+86-13	9673-9675	to	_	_	
+86-14	9676-9682	settle	_	_	
+86-15	9683-9686	and	_	_	
+86-16	9687-9692	clean	_	_	
+86-17	9693-9695	up	_	_	
+86-18	9696-9705	hazardous	_	_	
+86-19	9706-9711	sites	_	_	
+86-20	9712-9713	.	_	_	
+
+#Text=See § § 9622(a ) - ( c ) .
+87-1	9715-9718	See	_	_	
+87-2	9719-9720	§	*[47]	Legal Source[47]	
+87-3	9721-9722	§	*[47]	Legal Source[47]	
+87-4	9723-9729	9622(a	*[47]	Legal Source[47]	
+87-5	9730-9731	)	*[47]	Legal Source[47]	
+87-6	9732-9733	-	*[47]	Legal Source[47]	
+87-7	9734-9735	(	*[47]	Legal Source[47]	
+87-8	9736-9737	c	*[47]	Legal Source[47]	
+87-9	9738-9739	)	*[47]	Legal Source[47]	
+87-10	9740-9741	.	_	_	
+
+#Text=And because parties who settle with the federal government may seek cleanup costs they incurred prior to settlement from other potentially responsible parties , subsection ( e)(6 ) bars a potentially responsible party from taking unauthorized remedial measures .
+88-1	9743-9746	And	_	_	
+88-2	9747-9754	because	_	_	
+88-3	9755-9762	parties	_	_	
+88-4	9763-9766	who	_	_	
+88-5	9767-9773	settle	_	_	
+88-6	9774-9778	with	_	_	
+88-7	9779-9782	the	_	_	
+88-8	9783-9790	federal	_	_	
+88-9	9791-9801	government	_	_	
+88-10	9802-9805	may	_	_	
+88-11	9806-9810	seek	_	_	
+88-12	9811-9818	cleanup	_	_	
+88-13	9819-9824	costs	_	_	
+88-14	9825-9829	they	_	_	
+88-15	9830-9838	incurred	_	_	
+88-16	9839-9844	prior	_	_	
+88-17	9845-9847	to	_	_	
+88-18	9848-9858	settlement	_	_	
+88-19	9859-9863	from	_	_	
+88-20	9864-9869	other	_	_	
+88-21	9870-9881	potentially	_	_	
+88-22	9882-9893	responsible	_	_	
+88-23	9894-9901	parties	_	_	
+88-24	9902-9903	,	_	_	
+88-25	9904-9914	subsection	*[48]	Legal Source[48]	
+88-26	9915-9916	(	*[48]	Legal Source[48]	
+88-27	9917-9921	e)(6	*[48]	Legal Source[48]	
+88-28	9922-9923	)	*[48]	Legal Source[48]	
+88-29	9924-9928	bars	_	_	
+88-30	9929-9930	a	_	_	
+88-31	9931-9942	potentially	_	_	
+88-32	9943-9954	responsible	_	_	
+88-33	9955-9960	party	_	_	
+88-34	9961-9965	from	_	_	
+88-35	9966-9972	taking	_	_	
+88-36	9973-9985	unauthorized	_	_	
+88-37	9986-9994	remedial	_	_	
+88-38	9995-10003	measures	_	_	
+88-39	10004-10005	.	_	_	
+
+#Text=See § § 922(e)(1)-(3 ) , ( h ) .
+89-1	10007-10010	See	_	_	
+89-2	10011-10012	§	*[49]	Legal Source[49]	
+89-3	10013-10014	§	*[49]	Legal Source[49]	
+89-4	10015-10027	922(e)(1)-(3	*[49]	Legal Source[49]	
+89-5	10028-10029	)	*[49]	Legal Source[49]	
+89-6	10030-10031	,	*[49]	Legal Source[49]	
+89-7	10032-10033	(	*[49]	Legal Source[49]	
+89-8	10034-10035	h	*[49]	Legal Source[49]	
+89-9	10036-10037	)	*[49]	Legal Source[49]	
+89-10	10038-10039	.	_	_	
+
+#Text=This ensures the government can control the shape of any final settlement and no private party can unilaterally incur costs that it might then foist on others .
+90-1	10041-10045	This	_	_	
+90-2	10046-10053	ensures	_	_	
+90-3	10054-10057	the	_	_	
+90-4	10058-10068	government	_	_	
+90-5	10069-10072	can	_	_	
+90-6	10073-10080	control	_	_	
+90-7	10081-10084	the	_	_	
+90-8	10085-10090	shape	_	_	
+90-9	10091-10093	of	_	_	
+90-10	10094-10097	any	_	_	
+90-11	10098-10103	final	_	_	
+90-12	10104-10114	settlement	_	_	
+90-13	10115-10118	and	_	_	
+90-14	10119-10121	no	_	_	
+90-15	10122-10129	private	_	_	
+90-16	10130-10135	party	_	_	
+90-17	10136-10139	can	_	_	
+90-18	10140-10152	unilaterally	_	_	
+90-19	10153-10158	incur	_	_	
+90-20	10159-10164	costs	_	_	
+90-21	10165-10169	that	_	_	
+90-22	10170-10172	it	_	_	
+90-23	10173-10178	might	_	_	
+90-24	10179-10183	then	_	_	
+90-25	10184-10189	foist	_	_	
+90-26	10190-10192	on	_	_	
+90-27	10193-10199	others	_	_	
+90-28	10200-10201	.	_	_	
+
+#Text=At the end of it all , the section does just what its title suggests .
+91-1	10203-10205	At	_	_	
+91-2	10206-10209	the	_	_	
+91-3	10210-10213	end	_	_	
+91-4	10214-10216	of	_	_	
+91-5	10217-10219	it	_	_	
+91-6	10220-10223	all	_	_	
+91-7	10224-10225	,	_	_	
+91-8	10226-10229	the	_	_	
+91-9	10230-10237	section	_	_	
+91-10	10238-10242	does	_	_	
+91-11	10243-10247	just	_	_	
+91-12	10248-10252	what	_	_	
+91-13	10253-10256	its	_	_	
+91-14	10257-10262	title	_	_	
+91-15	10263-10271	suggests	_	_	
+91-16	10272-10273	.	_	_	
+
+#Text=It governs the settlement process among those who have something to settle .
+92-1	10275-10277	It	_	_	
+92-2	10278-10285	governs	_	_	
+92-3	10286-10289	the	_	_	
+92-4	10290-10300	settlement	_	_	
+92-5	10301-10308	process	_	_	
+92-6	10309-10314	among	_	_	
+92-7	10315-10320	those	_	_	
+92-8	10321-10324	who	_	_	
+92-9	10325-10329	have	_	_	
+92-10	10330-10339	something	_	_	
+92-11	10340-10342	to	_	_	
+92-12	10343-10349	settle	_	_	
+92-13	10350-10351	.	_	_	
+
+#Text=It says nothing about the rights and duties of individuals who , like the landowners here , have nothing to settle because they face no potential liability .
+93-1	10353-10355	It	_	_	
+93-2	10356-10360	says	_	_	
+93-3	10361-10368	nothing	_	_	
+93-4	10369-10374	about	_	_	
+93-5	10375-10378	the	_	_	
+93-6	10379-10385	rights	_	_	
+93-7	10386-10389	and	_	_	
+93-8	10390-10396	duties	_	_	
+93-9	10397-10399	of	_	_	
+93-10	10400-10411	individuals	_	_	
+93-11	10412-10415	who	_	_	
+93-12	10416-10417	,	_	_	
+93-13	10418-10422	like	_	_	
+93-14	10423-10426	the	_	_	
+93-15	10427-10437	landowners	_	_	
+93-16	10438-10442	here	_	_	
+93-17	10443-10444	,	_	_	
+93-18	10445-10449	have	_	_	
+93-19	10450-10457	nothing	_	_	
+93-20	10458-10460	to	_	_	
+93-21	10461-10467	settle	_	_	
+93-22	10468-10475	because	_	_	
+93-23	10476-10480	they	_	_	
+93-24	10481-10485	face	_	_	
+93-25	10486-10488	no	_	_	
+93-26	10489-10498	potential	_	_	
+93-27	10499-10508	liability	_	_	
+93-28	10509-10510	.	_	_	
+
+#Text=Then there 's what the rest of the statute tells us .
+94-1	10512-10516	Then	_	_	
+94-2	10517-10522	there	_	_	
+94-3	10523-10525	's	_	_	
+94-4	10526-10530	what	_	_	
+94-5	10531-10534	the	_	_	
+94-6	10535-10539	rest	_	_	
+94-7	10540-10542	of	_	_	
+94-8	10543-10546	the	_	_	
+94-9	10547-10554	statute	_	_	
+94-10	10555-10560	tells	_	_	
+94-11	10561-10563	us	_	_	
+94-12	10564-10565	.	_	_	
+
+#Text=As we 've seen , CERCLA says again and again that it does not impair the rights of individuals under state law .
+95-1	10567-10569	As	_	_	
+95-2	10570-10572	we	_	_	
+95-3	10573-10576	've	_	_	
+95-4	10577-10581	seen	_	_	
+95-5	10582-10583	,	_	_	
+95-6	10584-10590	CERCLA	*	Legal Source	
+95-7	10591-10595	says	_	_	
+95-8	10596-10601	again	_	_	
+95-9	10602-10605	and	_	_	
+95-10	10606-10611	again	_	_	
+95-11	10612-10616	that	_	_	
+95-12	10617-10619	it	_	_	
+95-13	10620-10624	does	_	_	
+95-14	10625-10628	not	_	_	
+95-15	10629-10635	impair	_	_	
+95-16	10636-10639	the	_	_	
+95-17	10640-10646	rights	_	_	
+95-18	10647-10649	of	_	_	
+95-19	10650-10661	individuals	_	_	
+95-20	10662-10667	under	_	_	
+95-21	10668-10673	state	_	_	
+95-22	10674-10677	law	_	_	
+95-23	10678-10679	.	_	_	
+
+#Text=That instruction makes perfect sense and does plenty of work if § 122 only requires those potentially liable to the federal government to secure permission before engaging in cleanup efforts .
+96-1	10681-10685	That	_	_	
+96-2	10686-10697	instruction	_	_	
+96-3	10698-10703	makes	_	_	
+96-4	10704-10711	perfect	_	_	
+96-5	10712-10717	sense	_	_	
+96-6	10718-10721	and	_	_	
+96-7	10722-10726	does	_	_	
+96-8	10727-10733	plenty	_	_	
+96-9	10734-10736	of	_	_	
+96-10	10737-10741	work	_	_	
+96-11	10742-10744	if	_	_	
+96-12	10745-10746	§	*[50]	Legal Source[50]	
+96-13	10747-10750	122	*[50]	Legal Source[50]	
+96-14	10751-10755	only	_	_	
+96-15	10756-10764	requires	_	_	
+96-16	10765-10770	those	_	_	
+96-17	10771-10782	potentially	_	_	
+96-18	10783-10789	liable	_	_	
+96-19	10790-10792	to	_	_	
+96-20	10793-10796	the	_	_	
+96-21	10797-10804	federal	_	_	
+96-22	10805-10815	government	_	_	
+96-23	10816-10818	to	_	_	
+96-24	10819-10825	secure	_	_	
+96-25	10826-10836	permission	_	_	
+96-26	10837-10843	before	_	_	
+96-27	10844-10852	engaging	_	_	
+96-28	10853-10855	in	_	_	
+96-29	10856-10863	cleanup	_	_	
+96-30	10864-10871	efforts	_	_	
+96-31	10872-10873	.	_	_	
+
+#Text=By contrast , reading § 122 to bar nearly everyone from undertaking remedial efforts without federal permission renders CERCLA 's many and emphatic promises about protecting existing state law rights practically dead letters .
+97-1	10875-10877	By	_	_	
+97-2	10878-10886	contrast	_	_	
+97-3	10887-10888	,	_	_	
+97-4	10889-10896	reading	_	_	
+97-5	10897-10898	§	*[51]	Legal Source[51]	
+97-6	10899-10902	122	*[51]	Legal Source[51]	
+97-7	10903-10905	to	_	_	
+97-8	10906-10909	bar	_	_	
+97-9	10910-10916	nearly	_	_	
+97-10	10917-10925	everyone	_	_	
+97-11	10926-10930	from	_	_	
+97-12	10931-10942	undertaking	_	_	
+97-13	10943-10951	remedial	_	_	
+97-14	10952-10959	efforts	_	_	
+97-15	10960-10967	without	_	_	
+97-16	10968-10975	federal	_	_	
+97-17	10976-10986	permission	_	_	
+97-18	10987-10994	renders	_	_	
+97-19	10995-11001	CERCLA	*	Legal Source	
+97-20	11002-11004	's	_	_	
+97-21	11005-11009	many	_	_	
+97-22	11010-11013	and	_	_	
+97-23	11014-11022	emphatic	_	_	
+97-24	11023-11031	promises	_	_	
+97-25	11032-11037	about	_	_	
+97-26	11038-11048	protecting	_	_	
+97-27	11049-11057	existing	_	_	
+97-28	11058-11063	state	_	_	
+97-29	11064-11067	law	_	_	
+97-30	11068-11074	rights	_	_	
+97-31	11075-11086	practically	_	_	
+97-32	11087-11091	dead	_	_	
+97-33	11092-11099	letters	_	_	
+97-34	11100-11101	.	_	_	
+
+#Text=Sure , the federal government would still have to " involv[e ] " state officials and comply with state laws - or at least those laws federal agency employees deem " relevant and appropriate . "
+98-1	11103-11107	Sure	_	_	
+98-2	11108-11109	,	_	_	
+98-3	11110-11113	the	_	_	
+98-4	11114-11121	federal	_	_	
+98-5	11122-11132	government	_	_	
+98-6	11133-11138	would	_	_	
+98-7	11139-11144	still	_	_	
+98-8	11145-11149	have	_	_	
+98-9	11150-11152	to	_	_	
+98-10	11153-11154	"	*[52]	Direct Quote[52]	
+98-11	11155-11163	involv[e	*[52]	Direct Quote[52]	
+98-12	11164-11165	]	*[52]	Direct Quote[52]	
+98-13	11166-11167	"	*[52]	Direct Quote[52]	
+98-14	11168-11173	state	_	_	
+98-15	11174-11183	officials	_	_	
+98-16	11184-11187	and	_	_	
+98-17	11188-11194	comply	_	_	
+98-18	11195-11199	with	_	_	
+98-19	11200-11205	state	_	_	
+98-20	11206-11210	laws	_	_	
+98-21	11211-11212	-	_	_	
+98-22	11213-11215	or	_	_	
+98-23	11216-11218	at	_	_	
+98-24	11219-11224	least	_	_	
+98-25	11225-11230	those	_	_	
+98-26	11231-11235	laws	_	_	
+98-27	11236-11243	federal	_	_	
+98-28	11244-11250	agency	_	_	
+98-29	11251-11260	employees	_	_	
+98-30	11261-11265	deem	_	_	
+98-31	11266-11267	"	*[53]	Direct Quote[53]	
+98-32	11268-11276	relevant	*[53]	Direct Quote[53]	
+98-33	11277-11280	and	*[53]	Direct Quote[53]	
+98-34	11281-11292	appropriate	*[53]	Direct Quote[53]	
+98-35	11293-11294	.	*[53]	Direct Quote[53]	
+98-36	11295-11296	"	*[53]	Direct Quote[53]	
+
+#Text=§ § 9621(f ) ( 1 ) , ( d)(2)(A)(ii ) .
+99-1	11298-11299	§	*[54]	Legal Source[54]	
+99-2	11300-11301	§	*[54]	Legal Source[54]	
+99-3	11302-11308	9621(f	*[54]	Legal Source[54]	
+99-4	11309-11310	)	*[54]	Legal Source[54]	
+99-5	11311-11312	(	*[54]	Legal Source[54]	
+99-6	11313-11314	1	*[54]	Legal Source[54]	
+99-7	11315-11316	)	*[54]	Legal Source[54]	
+99-8	11317-11318	,	*[54]	Legal Source[54]	
+99-9	11319-11320	(	*[54]	Legal Source[54]	
+99-10	11321-11332	d)(2)(A)(ii	*[54]	Legal Source[54]	
+99-11	11333-11334	)	*[54]	Legal Source[54]	
+99-12	11335-11336	.	_	_	
+
+#Text=But CERCLA would promise nothing more than observer status for state law and those who wish to rely on it .
+100-1	11338-11341	But	_	_	
+100-2	11342-11348	CERCLA	*	Legal Source	
+100-3	11349-11354	would	_	_	
+100-4	11355-11362	promise	_	_	
+100-5	11363-11370	nothing	_	_	
+100-6	11371-11375	more	_	_	
+100-7	11376-11380	than	_	_	
+100-8	11381-11389	observer	_	_	
+100-9	11390-11396	status	_	_	
+100-10	11397-11400	for	_	_	
+100-11	11401-11406	state	_	_	
+100-12	11407-11410	law	_	_	
+100-13	11411-11414	and	_	_	
+100-14	11415-11420	those	_	_	
+100-15	11421-11424	who	_	_	
+100-16	11425-11429	wish	_	_	
+100-17	11430-11432	to	_	_	
+100-18	11433-11437	rely	_	_	
+100-19	11438-11440	on	_	_	
+100-20	11441-11443	it	_	_	
+100-21	11444-11445	.	_	_	
+
+#Text=States and private landowners alike who lack any potential federal liability could be barred even from undertaking remedial efforts on their own lands at their own expense , required instead to host toxic wastes involuntarily and indefinitely .
+101-1	11447-11453	States	_	_	
+101-2	11454-11457	and	_	_	
+101-3	11458-11465	private	_	_	
+101-4	11466-11476	landowners	_	_	
+101-5	11477-11482	alike	_	_	
+101-6	11483-11486	who	_	_	
+101-7	11487-11491	lack	_	_	
+101-8	11492-11495	any	_	_	
+101-9	11496-11505	potential	_	_	
+101-10	11506-11513	federal	_	_	
+101-11	11514-11523	liability	_	_	
+101-12	11524-11529	could	_	_	
+101-13	11530-11532	be	_	_	
+101-14	11533-11539	barred	_	_	
+101-15	11540-11544	even	_	_	
+101-16	11545-11549	from	_	_	
+101-17	11550-11561	undertaking	_	_	
+101-18	11562-11570	remedial	_	_	
+101-19	11571-11578	efforts	_	_	
+101-20	11579-11581	on	_	_	
+101-21	11582-11587	their	_	_	
+101-22	11588-11591	own	_	_	
+101-23	11592-11597	lands	_	_	
+101-24	11598-11600	at	_	_	
+101-25	11601-11606	their	_	_	
+101-26	11607-11610	own	_	_	
+101-27	11611-11618	expense	_	_	
+101-28	11619-11620	,	_	_	
+101-29	11621-11629	required	_	_	
+101-30	11630-11637	instead	_	_	
+101-31	11638-11640	to	_	_	
+101-32	11641-11645	host	_	_	
+101-33	11646-11651	toxic	_	_	
+101-34	11652-11658	wastes	_	_	
+101-35	11659-11672	involuntarily	_	_	
+101-36	11673-11676	and	_	_	
+101-37	11677-11689	indefinitely	_	_	
+101-38	11690-11691	.	_	_	
+
+#Text=Rather than supplementing state remedial efforts , CERCLA would rule them all .
+102-1	11693-11699	Rather	_	_	
+102-2	11700-11704	than	_	_	
+102-3	11705-11718	supplementing	_	_	
+102-4	11719-11724	state	_	_	
+102-5	11725-11733	remedial	_	_	
+102-6	11734-11741	efforts	_	_	
+102-7	11742-11743	,	_	_	
+102-8	11744-11750	CERCLA	*	Legal Source	
+102-9	11751-11756	would	_	_	
+102-10	11757-11761	rule	_	_	
+102-11	11762-11766	them	_	_	
+102-12	11767-11770	all	_	_	
+102-13	11771-11772	.	_	_	
+
+#Text=Reading CERCLA this way would raise uneasy constitutional questions too .
+103-1	11774-11781	Reading	_	_	
+103-2	11782-11788	CERCLA	*	Legal Source	
+103-3	11789-11793	this	_	_	
+103-4	11794-11797	way	_	_	
+103-5	11798-11803	would	_	_	
+103-6	11804-11809	raise	_	_	
+103-7	11810-11816	uneasy	_	_	
+103-8	11817-11831	constitutional	_	_	
+103-9	11832-11841	questions	_	_	
+103-10	11842-11845	too	_	_	
+103-11	11846-11847	.	_	_	
+
+#Text=If CERCLA really did allow the federal government to order innocent landowners to house another party 's pollutants involuntarily , it would invite weighty takings arguments under the Fifth Amendment .
+104-1	11849-11851	If	_	_	
+104-2	11852-11858	CERCLA	*	Legal Source	
+104-3	11859-11865	really	_	_	
+104-4	11866-11869	did	_	_	
+104-5	11870-11875	allow	_	_	
+104-6	11876-11879	the	_	_	
+104-7	11880-11887	federal	_	_	
+104-8	11888-11898	government	_	_	
+104-9	11899-11901	to	_	_	
+104-10	11902-11907	order	_	_	
+104-11	11908-11916	innocent	_	_	
+104-12	11917-11927	landowners	_	_	
+104-13	11928-11930	to	_	_	
+104-14	11931-11936	house	_	_	
+104-15	11937-11944	another	_	_	
+104-16	11945-11950	party	_	_	
+104-17	11951-11953	's	_	_	
+104-18	11954-11964	pollutants	_	_	
+104-19	11965-11978	involuntarily	_	_	
+104-20	11979-11980	,	_	_	
+104-21	11981-11983	it	_	_	
+104-22	11984-11989	would	_	_	
+104-23	11990-11996	invite	_	_	
+104-24	11997-12004	weighty	_	_	
+104-25	12005-12012	takings	_	_	
+104-26	12013-12022	arguments	_	_	
+104-27	12023-12028	under	_	_	
+104-28	12029-12032	the	_	_	
+104-29	12033-12038	Fifth	_	_	
+104-30	12039-12048	Amendment	_	_	
+104-31	12049-12050	.	_	_	
+
+#Text=See Loretto v. Teleprompter Manhattan CATV Corp. , 458 U.S. 419 , 421 , 102 S.Ct . 3164 , 73 L.Ed.2d 868 ( 1982 ) .
+105-1	12052-12055	See	_	_	
+105-2	12056-12063	Loretto	*[55]	Legal Source[55]	
+105-3	12064-12066	v.	*[55]	Legal Source[55]	
+105-4	12067-12079	Teleprompter	*[55]	Legal Source[55]	
+105-5	12080-12089	Manhattan	*[55]	Legal Source[55]	
+105-6	12090-12094	CATV	*[55]	Legal Source[55]	
+105-7	12095-12100	Corp.	*[55]	Legal Source[55]	
+105-8	12101-12102	,	*[55]	Legal Source[55]	
+105-9	12103-12106	458	*[55]	Legal Source[55]	
+105-10	12107-12111	U.S.	*[55]	Legal Source[55]	
+105-11	12112-12115	419	*[55]	Legal Source[55]	
+105-12	12116-12117	,	*[55]	Legal Source[55]	
+105-13	12118-12121	421	*[55]	Legal Source[55]	
+105-14	12122-12123	,	*[55]	Legal Source[55]	
+105-15	12124-12127	102	*[55]	Legal Source[55]	
+105-16	12128-12132	S.Ct	*[55]	Legal Source[55]	
+105-17	12133-12134	.	*[55]	Legal Source[55]	
+105-18	12135-12139	3164	*[55]	Legal Source[55]	
+105-19	12140-12141	,	*[55]	Legal Source[55]	
+105-20	12142-12144	73	*[55]	Legal Source[55]	
+105-21	12145-12152	L.Ed.2d	*[55]	Legal Source[55]	
+105-22	12153-12156	868	*[55]	Legal Source[55]	
+105-23	12157-12158	(	*[55]	Legal Source[55]	
+105-24	12159-12163	1982	*[55]	Legal Source[55]	
+105-25	12164-12165	)	*[55]	Legal Source[55]	
+105-26	12166-12167	.	_	_	
+
+#Text=And if the statute really did grant the federal government the power to regulate virtually each shovelful of dirt homeowners may dig on their own properties , it would sorely test the reaches of Congress 's power under the Commerce Clause .
+106-1	12169-12172	And	_	_	
+106-2	12173-12175	if	_	_	
+106-3	12176-12179	the	_	_	
+106-4	12180-12187	statute	_	_	
+106-5	12188-12194	really	_	_	
+106-6	12195-12198	did	_	_	
+106-7	12199-12204	grant	_	_	
+106-8	12205-12208	the	_	_	
+106-9	12209-12216	federal	_	_	
+106-10	12217-12227	government	_	_	
+106-11	12228-12231	the	_	_	
+106-12	12232-12237	power	_	_	
+106-13	12238-12240	to	_	_	
+106-14	12241-12249	regulate	_	_	
+106-15	12250-12259	virtually	_	_	
+106-16	12260-12264	each	_	_	
+106-17	12265-12274	shovelful	_	_	
+106-18	12275-12277	of	_	_	
+106-19	12278-12282	dirt	_	_	
+106-20	12283-12293	homeowners	_	_	
+106-21	12294-12297	may	_	_	
+106-22	12298-12301	dig	_	_	
+106-23	12302-12304	on	_	_	
+106-24	12305-12310	their	_	_	
+106-25	12311-12314	own	_	_	
+106-26	12315-12325	properties	_	_	
+106-27	12326-12327	,	_	_	
+106-28	12328-12330	it	_	_	
+106-29	12331-12336	would	_	_	
+106-30	12337-12343	sorely	_	_	
+106-31	12344-12348	test	_	_	
+106-32	12349-12352	the	_	_	
+106-33	12353-12360	reaches	_	_	
+106-34	12361-12363	of	_	_	
+106-35	12364-12372	Congress	_	_	
+106-36	12373-12375	's	_	_	
+106-37	12376-12381	power	_	_	
+106-38	12382-12387	under	_	_	
+106-39	12388-12391	the	_	_	
+106-40	12392-12400	Commerce	_	_	
+106-41	12401-12407	Clause	_	_	
+106-42	12408-12409	.	_	_	
+
+#Text=See National Federation of Independent Business v. Sebelius , 567 U.S. 519 , 551 - 553 , 132 S.Ct . 2566 , 183 L.Ed.2d 450 ( 2012 ) .
+107-1	12411-12414	See	_	_	
+107-2	12415-12423	National	*[56]	Legal Source[56]	
+107-3	12424-12434	Federation	*[56]	Legal Source[56]	
+107-4	12435-12437	of	*[56]	Legal Source[56]	
+107-5	12438-12449	Independent	*[56]	Legal Source[56]	
+107-6	12450-12458	Business	*[56]	Legal Source[56]	
+107-7	12459-12461	v.	*[56]	Legal Source[56]	
+107-8	12462-12470	Sebelius	*[56]	Legal Source[56]	
+107-9	12471-12472	,	*[56]	Legal Source[56]	
+107-10	12473-12476	567	*[56]	Legal Source[56]	
+107-11	12477-12481	U.S.	*[56]	Legal Source[56]	
+107-12	12482-12485	519	*[56]	Legal Source[56]	
+107-13	12486-12487	,	*[56]	Legal Source[56]	
+107-14	12488-12491	551	*[56]	Legal Source[56]	
+107-15	12492-12493	-	*[56]	Legal Source[56]	
+107-16	12494-12497	553	*[56]	Legal Source[56]	
+107-17	12498-12499	,	*[56]	Legal Source[56]	
+107-18	12500-12503	132	*[56]	Legal Source[56]	
+107-19	12504-12508	S.Ct	*[56]	Legal Source[56]	
+107-20	12509-12510	.	*[56]	Legal Source[56]	
+107-21	12511-12515	2566	*[56]	Legal Source[56]	
+107-22	12516-12517	,	*[56]	Legal Source[56]	
+107-23	12518-12521	183	*[56]	Legal Source[56]	
+107-24	12522-12529	L.Ed.2d	*[56]	Legal Source[56]	
+107-25	12530-12533	450	*[56]	Legal Source[56]	
+107-26	12534-12535	(	*[56]	Legal Source[56]	
+107-27	12536-12540	2012	*[56]	Legal Source[56]	
+107-28	12541-12542	)	*[56]	Legal Source[56]	
+107-29	12543-12544	.	_	_	
+
+#Text=Atlantic Richfield 's replies do nothing to address these problems .
+108-1	12546-12554	Atlantic	_	_	
+108-2	12555-12564	Richfield	_	_	
+108-3	12565-12567	's	_	_	
+108-4	12568-12575	replies	_	_	
+108-5	12576-12578	do	_	_	
+108-6	12579-12586	nothing	_	_	
+108-7	12587-12589	to	_	_	
+108-8	12590-12597	address	_	_	
+108-9	12598-12603	these	_	_	
+108-10	12604-12612	problems	_	_	
+108-11	12613-12614	.	_	_	
+
+#Text=Instead of making some helpful textual or contextual rejoinder about § 122 , the company asks us look somewhere else entirely .
+109-1	12616-12623	Instead	_	_	
+109-2	12624-12626	of	_	_	
+109-3	12627-12633	making	_	_	
+109-4	12634-12638	some	_	_	
+109-5	12639-12646	helpful	_	_	
+109-6	12647-12654	textual	*[57]	Metalinguistic Cue[57]	
+109-7	12655-12657	or	*[57]	Metalinguistic Cue[57]	
+109-8	12658-12668	contextual	*[57]	Metalinguistic Cue[57]	
+109-9	12669-12678	rejoinder	*[57]	Metalinguistic Cue[57]	
+109-10	12679-12684	about	_	_	
+109-11	12685-12686	§	*[58]	Legal Source[58]	
+109-12	12687-12690	122	*[58]	Legal Source[58]	
+109-13	12691-12692	,	_	_	
+109-14	12693-12696	the	_	_	
+109-15	12697-12704	company	_	_	
+109-16	12705-12709	asks	_	_	
+109-17	12710-12712	us	_	_	
+109-18	12713-12717	look	_	_	
+109-19	12718-12727	somewhere	_	_	
+109-20	12728-12732	else	_	_	
+109-21	12733-12741	entirely	_	_	
+109-22	12742-12743	.	_	_	
+
+#Text=Now , Atlantic Richfield says , we should direct our attention to § 107 , a provision that lists four classes of " [ c]overed persons " the federal government is authorized to sue under CERCLA .
+110-1	12745-12748	Now	_	_	
+110-2	12749-12750	,	_	_	
+110-3	12751-12759	Atlantic	_	_	
+110-4	12760-12769	Richfield	_	_	
+110-5	12770-12774	says	_	_	
+110-6	12775-12776	,	_	_	
+110-7	12777-12779	we	_	_	
+110-8	12780-12786	should	_	_	
+110-9	12787-12793	direct	_	_	
+110-10	12794-12797	our	_	_	
+110-11	12798-12807	attention	_	_	
+110-12	12808-12810	to	_	_	
+110-13	12811-12812	§	*[59]	Legal Source[59]	
+110-14	12813-12816	107	*[59]	Legal Source[59]	
+110-15	12817-12818	,	_	_	
+110-16	12819-12820	a	_	_	
+110-17	12821-12830	provision	_	_	
+110-18	12831-12835	that	_	_	
+110-19	12836-12841	lists	_	_	
+110-20	12842-12846	four	_	_	
+110-21	12847-12854	classes	_	_	
+110-22	12855-12857	of	_	_	
+110-23	12858-12859	"	*[60]	Direct Quote[60]	
+110-24	12860-12861	[	*[60]	Direct Quote[60]	
+110-25	12862-12870	c]overed	*[60]	Direct Quote[60]	
+110-26	12871-12878	persons	*[60]	Direct Quote[60]	
+110-27	12879-12880	"	*[60]	Direct Quote[60]	
+110-28	12881-12884	the	_	_	
+110-29	12885-12892	federal	_	_	
+110-30	12893-12903	government	_	_	
+110-31	12904-12906	is	_	_	
+110-32	12907-12917	authorized	_	_	
+110-33	12918-12920	to	_	_	
+110-34	12921-12924	sue	_	_	
+110-35	12925-12930	under	_	_	
+110-36	12931-12937	CERCLA	*	Legal Source	
+110-37	12938-12939	.	_	_	
+
+#Text=One of these classes encompasses any person who owns a " facility " where hazardous waste has " come to be located . "
+111-1	12941-12944	One	_	_	
+111-2	12945-12947	of	_	_	
+111-3	12948-12953	these	_	_	
+111-4	12954-12961	classes	_	_	
+111-5	12962-12973	encompasses	_	_	
+111-6	12974-12977	any	_	_	
+111-7	12978-12984	person	_	_	
+111-8	12985-12988	who	_	_	
+111-9	12989-12993	owns	_	_	
+111-10	12994-12995	a	_	_	
+111-11	12996-12997	"	*[61]	Direct Quote[61]	
+111-12	12998-13006	facility	*[61]	Direct Quote[61]	
+111-13	13007-13008	"	*[61]	Direct Quote[61]	
+111-14	13009-13014	where	_	_	
+111-15	13015-13024	hazardous	_	_	
+111-16	13025-13030	waste	_	_	
+111-17	13031-13034	has	_	_	
+111-18	13035-13036	"	*[62]	Direct Quote[62]	
+111-19	13037-13041	come	*[62]	Direct Quote[62]	
+111-20	13042-13044	to	*[62]	Direct Quote[62]	
+111-21	13045-13047	be	*[62]	Direct Quote[62]	
+111-22	13048-13055	located	*[62]	Direct Quote[62]	
+111-23	13056-13057	.	*[62]	Direct Quote[62]	
+111-24	13058-13059	"	*[62]	Direct Quote[62]	
+
+#Text=§ § 9607 , 9601(9 ) .
+112-1	13061-13062	§	*[63]	Legal Source[63]	
+112-2	13063-13064	§	*[63]	Legal Source[63]	
+112-3	13065-13069	9607	*[63]	Legal Source[63]	
+112-4	13070-13071	,	*[63]	Legal Source[63]	
+112-5	13072-13078	9601(9	*[63]	Legal Source[63]	
+112-6	13079-13080	)	*[63]	Legal Source[63]	
+112-7	13081-13082	.	_	_	
+
+#Text=Because the landowners ' properties qualify as " facilit[ies ] " where Atlantic Richfield 's waste has come to be located , everyone admits the landowners themselves are " [ c]overed persons . "
+113-1	13084-13091	Because	_	_	
+113-2	13092-13095	the	_	_	
+113-3	13096-13106	landowners	_	_	
+113-4	13107-13108	'	_	_	
+113-5	13109-13119	properties	_	_	
+113-6	13120-13127	qualify	*	Metalinguistic Cue	
+113-7	13128-13130	as	_	_	
+113-8	13131-13132	"	*[64]	Direct Quote[64]	
+113-9	13133-13144	facilit[ies	*[64]|*[65]	Direct Quote[64]|Focal Term[65]	
+113-10	13145-13146	]	*[64]|*[65]	Direct Quote[64]|Focal Term[65]	
+113-11	13147-13148	"	*[64]	Direct Quote[64]	
+113-12	13149-13154	where	_	_	
+113-13	13155-13163	Atlantic	_	_	
+113-14	13164-13173	Richfield	_	_	
+113-15	13174-13176	's	_	_	
+113-16	13177-13182	waste	_	_	
+113-17	13183-13186	has	_	_	
+113-18	13187-13191	come	_	_	
+113-19	13192-13194	to	_	_	
+113-20	13195-13197	be	_	_	
+113-21	13198-13205	located	_	_	
+113-22	13206-13207	,	_	_	
+113-23	13208-13216	everyone	_	_	
+113-24	13217-13223	admits	_	_	
+113-25	13224-13227	the	_	_	
+113-26	13228-13238	landowners	_	_	
+113-27	13239-13249	themselves	_	_	
+113-28	13250-13253	are	_	_	
+113-29	13254-13255	"	*[66]	Direct Quote[66]	
+113-30	13256-13257	[	*[66]|*[67]	Direct Quote[66]|Focal Term[67]	
+113-31	13258-13266	c]overed	*[66]|*[67]	Direct Quote[66]|Focal Term[67]	
+113-32	13267-13274	persons	*[66]|*[67]	Direct Quote[66]|Focal Term[67]	
+113-33	13275-13276	.	*[66]	Direct Quote[66]	
+113-34	13277-13278	"	*[66]	Direct Quote[66]	
+
+#Text=And , according to Atlantic Richfield , this necessarily means they are also " potentially responsible part[ies ] " subject to § 122(e)(6 ) 's requirement that they seek federal permission before proceeding with any cleanup .
+114-1	13280-13283	And	_	_	
+114-2	13284-13285	,	_	_	
+114-3	13286-13295	according	_	_	
+114-4	13296-13298	to	_	_	
+114-5	13299-13307	Atlantic	_	_	
+114-6	13308-13317	Richfield	_	_	
+114-7	13318-13319	,	_	_	
+114-8	13320-13324	this	_	_	
+114-9	13325-13336	necessarily	_	_	
+114-10	13337-13342	means	*	Metalinguistic Cue	
+114-11	13343-13347	they	_	_	
+114-12	13348-13351	are	_	_	
+114-13	13352-13356	also	_	_	
+114-14	13357-13358	"	*[68]	Direct Quote[68]	
+114-15	13359-13370	potentially	*[68]|*[69]	Direct Quote[68]|Focal Term[69]	
+114-16	13371-13382	responsible	*[68]|*[69]	Direct Quote[68]|Focal Term[69]	
+114-17	13383-13391	part[ies	*[68]|*[69]	Direct Quote[68]|Focal Term[69]	
+114-18	13392-13393	]	*[68]	Direct Quote[68]	
+114-19	13394-13395	"	*[68]	Direct Quote[68]	
+114-20	13396-13403	subject	_	_	
+114-21	13404-13406	to	_	_	
+114-22	13407-13408	§	*[70]	Legal Source[70]	
+114-23	13409-13417	122(e)(6	*[70]	Legal Source[70]	
+114-24	13418-13419	)	*[70]	Legal Source[70]	
+114-25	13420-13422	's	_	_	
+114-26	13423-13434	requirement	_	_	
+114-27	13435-13439	that	_	_	
+114-28	13440-13444	they	_	_	
+114-29	13445-13449	seek	_	_	
+114-30	13450-13457	federal	_	_	
+114-31	13458-13468	permission	_	_	
+114-32	13469-13475	before	_	_	
+114-33	13476-13486	proceeding	_	_	
+114-34	13487-13491	with	_	_	
+114-35	13492-13495	any	_	_	
+114-36	13496-13503	cleanup	_	_	
+114-37	13504-13505	.	_	_	
+
+#Text=But notice the linguistic contortion and logical leap .
+115-1	13507-13510	But	_	_	
+115-2	13511-13517	notice	_	_	
+115-3	13518-13521	the	_	_	
+115-4	13522-13532	linguistic	*[71]	Metalinguistic Cue[71]	
+115-5	13533-13543	contortion	*[71]	Metalinguistic Cue[71]	
+115-6	13544-13547	and	_	_	
+115-7	13548-13555	logical	*[72]	Metalinguistic Cue[72]	
+115-8	13556-13560	leap	*[72]	Metalinguistic Cue[72]	
+115-9	13561-13562	.	_	_	
+
+#Text=Linguistically , § 107 identifies the " [ c]overed persons " the government is authorized to sue .
+116-1	13564-13578	Linguistically	*	Metalinguistic Cue	
+116-2	13579-13580	,	_	_	
+116-3	13581-13582	§	*[73]	Legal Source[73]	
+116-4	13583-13586	107	*[73]	Legal Source[73]	
+116-5	13587-13597	identifies	*	Metalinguistic Cue	
+116-6	13598-13601	the	_	_	
+116-7	13602-13603	"	*[74]	Direct Quote[74]	
+116-8	13604-13605	[	*[74]|*[75]	Direct Quote[74]|Focal Term[75]	
+116-9	13606-13614	c]overed	*[74]|*[75]	Direct Quote[74]|Focal Term[75]	
+116-10	13615-13622	persons	*[74]|*[75]	Direct Quote[74]|Focal Term[75]	
+116-11	13623-13624	"	*[74]	Direct Quote[74]	
+116-12	13625-13628	the	_	_	
+116-13	13629-13639	government	_	_	
+116-14	13640-13642	is	_	_	
+116-15	13643-13653	authorized	_	_	
+116-16	13654-13656	to	_	_	
+116-17	13657-13660	sue	_	_	
+116-18	13661-13662	.	_	_	
+
+#Text=Section 122 requires a " potentially responsible party " seeking settlement with and discharge of liability from the federal government to obtain its permission before engaging in a cleanup .
+117-1	13664-13671	Section	*[76]	Legal Source[76]	
+117-2	13672-13675	122	*[76]	Legal Source[76]	
+117-3	13676-13684	requires	_	_	
+117-4	13685-13686	a	_	_	
+117-5	13687-13688	"	*[77]	Direct Quote[77]	
+117-6	13689-13700	potentially	*[77]|*[78]	Direct Quote[77]|Focal Term[78]	
+117-7	13701-13712	responsible	*[77]|*[78]	Direct Quote[77]|Focal Term[78]	
+117-8	13713-13718	party	*[77]|*[78]	Direct Quote[77]|Focal Term[78]	
+117-9	13719-13720	"	*[77]	Direct Quote[77]	
+117-10	13721-13728	seeking	_	_	
+117-11	13729-13739	settlement	_	_	
+117-12	13740-13744	with	_	_	
+117-13	13745-13748	and	_	_	
+117-14	13749-13758	discharge	_	_	
+117-15	13759-13761	of	_	_	
+117-16	13762-13771	liability	_	_	
+117-17	13772-13776	from	_	_	
+117-18	13777-13780	the	_	_	
+117-19	13781-13788	federal	_	_	
+117-20	13789-13799	government	_	_	
+117-21	13800-13802	to	_	_	
+117-22	13803-13809	obtain	_	_	
+117-23	13810-13813	its	_	_	
+117-24	13814-13824	permission	_	_	
+117-25	13825-13831	before	_	_	
+117-26	13832-13840	engaging	_	_	
+117-27	13841-13843	in	_	_	
+117-28	13844-13845	a	_	_	
+117-29	13846-13853	cleanup	_	_	
+117-30	13854-13855	.	_	_	
+
+#Text=The terms use different language , appear in different statutory sections , and address different matters .
+118-1	13857-13860	The	_	_	
+118-2	13861-13866	terms	*	Metalinguistic Cue	
+118-3	13867-13870	use	_	_	
+118-4	13871-13880	different	*[79]	Metalinguistic Cue[79]	
+118-5	13881-13889	language	*[79]	Metalinguistic Cue[79]	
+118-6	13890-13891	,	_	_	
+118-7	13892-13898	appear	_	_	
+118-8	13899-13901	in	_	_	
+118-9	13902-13911	different	_	_	
+118-10	13912-13921	statutory	_	_	
+118-11	13922-13930	sections	_	_	
+118-12	13931-13932	,	_	_	
+118-13	13933-13936	and	_	_	
+118-14	13937-13944	address	_	_	
+118-15	13945-13954	different	_	_	
+118-16	13955-13962	matters	_	_	
+118-17	13963-13964	.	_	_	
+
+#Text=Nor are these two sections the only ones like them .
+119-1	13966-13969	Nor	_	_	
+119-2	13970-13973	are	_	_	
+119-3	13974-13979	these	_	_	
+119-4	13980-13983	two	_	_	
+119-5	13984-13992	sections	_	_	
+119-6	13993-13996	the	_	_	
+119-7	13997-14001	only	_	_	
+119-8	14002-14006	ones	_	_	
+119-9	14007-14011	like	_	_	
+119-10	14012-14016	them	_	_	
+119-11	14017-14018	.	_	_	
+
+#Text=CERCLA differentiates between covered persons and potentially responsible parties in many places : Some sections apply to all persons covered by § 107 ( see , e.g. , 42 U.S.C. § § 9619 ( d ) , 9624(b ) ) , while others extend their mandates only to potentially responsible parties ( see , e.g. , § § 9604 , 9605 , 9611 ) .
+120-1	14020-14026	CERCLA	*	Metalinguistic Cue	
+120-2	14027-14041	differentiates	*	Metalinguistic Cue	
+120-3	14042-14049	between	_	_	
+120-4	14050-14057	covered	_	_	
+120-5	14058-14065	persons	_	_	
+120-6	14066-14069	and	_	_	
+120-7	14070-14081	potentially	_	_	
+120-8	14082-14093	responsible	_	_	
+120-9	14094-14101	parties	_	_	
+120-10	14102-14104	in	_	_	
+120-11	14105-14109	many	_	_	
+120-12	14110-14116	places	_	_	
+120-13	14117-14118	:	_	_	
+120-14	14119-14123	Some	_	_	
+120-15	14124-14132	sections	_	_	
+120-16	14133-14138	apply	_	_	
+120-17	14139-14141	to	_	_	
+120-18	14142-14145	all	_	_	
+120-19	14146-14153	persons	_	_	
+120-20	14154-14161	covered	_	_	
+120-21	14162-14164	by	_	_	
+120-22	14165-14166	§	*[80]	Legal Source[80]	
+120-23	14167-14170	107	*[80]	Legal Source[80]	
+120-24	14171-14172	(	_	_	
+120-25	14173-14176	see	_	_	
+120-26	14177-14178	,	_	_	
+120-27	14179-14183	e.g.	_	_	
+120-28	14184-14185	,	_	_	
+120-29	14186-14188	42	*[81]	Legal Source[81]	
+120-30	14189-14195	U.S.C.	*[81]	Legal Source[81]	
+120-31	14196-14197	§	*[81]	Legal Source[81]	
+120-32	14198-14199	§	*[81]	Legal Source[81]	
+120-33	14200-14204	9619	*[81]	Legal Source[81]	
+120-34	14205-14206	(	*[81]	Legal Source[81]	
+120-35	14207-14208	d	*[81]	Legal Source[81]	
+120-36	14209-14210	)	*[81]	Legal Source[81]	
+120-37	14211-14212	,	*[81]	Legal Source[81]	
+120-38	14213-14219	9624(b	*[81]	Legal Source[81]	
+120-39	14220-14221	)	*[81]	Legal Source[81]	
+120-40	14222-14223	)	*[81]	Legal Source[81]	
+120-41	14224-14225	,	_	_	
+120-42	14226-14231	while	_	_	
+120-43	14232-14238	others	_	_	
+120-44	14239-14245	extend	_	_	
+120-45	14246-14251	their	_	_	
+120-46	14252-14260	mandates	_	_	
+120-47	14261-14265	only	_	_	
+120-48	14266-14268	to	_	_	
+120-49	14269-14280	potentially	_	_	
+120-50	14281-14292	responsible	_	_	
+120-51	14293-14300	parties	_	_	
+120-52	14301-14302	(	_	_	
+120-53	14303-14306	see	_	_	
+120-54	14307-14308	,	_	_	
+120-55	14309-14313	e.g.	_	_	
+120-56	14314-14315	,	_	_	
+120-57	14316-14317	§	*[82]	Legal Source[82]	
+120-58	14318-14319	§	*[82]	Legal Source[82]	
+120-59	14320-14324	9604	*[82]	Legal Source[82]	
+120-60	14325-14326	,	*[82]	Legal Source[82]	
+120-61	14327-14331	9605	*[82]	Legal Source[82]	
+120-62	14332-14333	,	*[82]	Legal Source[82]	
+120-63	14334-14338	9611	*[82]	Legal Source[82]	
+120-64	14339-14340	)	_	_	
+120-65	14341-14342	.	_	_	
+
+#Text=Logically , too , the concepts are distinct .
+121-1	14344-14353	Logically	_	_	
+121-2	14354-14355	,	_	_	
+121-3	14356-14359	too	_	_	
+121-4	14360-14361	,	_	_	
+121-5	14362-14365	the	_	_	
+121-6	14366-14374	concepts	_	_	
+121-7	14375-14378	are	_	_	
+121-8	14379-14387	distinct	_	_	
+121-9	14388-14389	.	_	_	
+
+#Text=Yes , a potentially responsible party must be a covered person the government is authorized to sue .
+122-1	14391-14394	Yes	_	_	
+122-2	14395-14396	,	_	_	
+122-3	14397-14398	a	_	_	
+122-4	14399-14410	potentially	_	_	
+122-5	14411-14422	responsible	_	_	
+122-6	14423-14428	party	_	_	
+122-7	14429-14433	must	_	_	
+122-8	14434-14436	be	_	_	
+122-9	14437-14438	a	_	_	
+122-10	14439-14446	covered	_	_	
+122-11	14447-14453	person	_	_	
+122-12	14454-14457	the	_	_	
+122-13	14458-14468	government	_	_	
+122-14	14469-14471	is	_	_	
+122-15	14472-14482	authorized	_	_	
+122-16	14483-14485	to	_	_	
+122-17	14486-14489	sue	_	_	
+122-18	14490-14491	.	_	_	
+
+#Text=But the inverse does not follow .
+123-1	14493-14496	But	_	_	
+123-2	14497-14500	the	_	_	
+123-3	14501-14508	inverse	_	_	
+123-4	14509-14513	does	_	_	
+123-5	14514-14517	not	_	_	
+123-6	14518-14524	follow	_	_	
+123-7	14525-14526	.	_	_	
+
+#Text=It is possible to be a person the government is authorized to sue without also being a person the government has chosen to single out for potential responsibility .
+124-1	14528-14530	It	_	_	
+124-2	14531-14533	is	_	_	
+124-3	14534-14542	possible	_	_	
+124-4	14543-14545	to	_	_	
+124-5	14546-14548	be	_	_	
+124-6	14549-14550	a	_	_	
+124-7	14551-14557	person	_	_	
+124-8	14558-14561	the	_	_	
+124-9	14562-14572	government	_	_	
+124-10	14573-14575	is	_	_	
+124-11	14576-14586	authorized	_	_	
+124-12	14587-14589	to	_	_	
+124-13	14590-14593	sue	_	_	
+124-14	14594-14601	without	_	_	
+124-15	14602-14606	also	_	_	
+124-16	14607-14612	being	_	_	
+124-17	14613-14614	a	_	_	
+124-18	14615-14621	person	_	_	
+124-19	14622-14625	the	_	_	
+124-20	14626-14636	government	_	_	
+124-21	14637-14640	has	_	_	
+124-22	14641-14647	chosen	_	_	
+124-23	14648-14650	to	_	_	
+124-24	14651-14657	single	_	_	
+124-25	14658-14661	out	_	_	
+124-26	14662-14665	for	_	_	
+124-27	14666-14675	potential	_	_	
+124-28	14676-14690	responsibility	_	_	
+124-29	14691-14692	.	_	_	
+
+#Text=Atlantic Richfield 's argument , thus , essentially proceeds like this : Disregard the differences in language ; then assume Congress chose its terms randomly throughout the law ; and , finally , conflate logically distinct concepts .
+125-1	14694-14702	Atlantic	_	_	
+125-2	14703-14712	Richfield	_	_	
+125-3	14713-14715	's	_	_	
+125-4	14716-14724	argument	_	_	
+125-5	14725-14726	,	_	_	
+125-6	14727-14731	thus	_	_	
+125-7	14732-14733	,	_	_	
+125-8	14734-14745	essentially	_	_	
+125-9	14746-14754	proceeds	_	_	
+125-10	14755-14759	like	_	_	
+125-11	14760-14764	this	_	_	
+125-12	14765-14766	:	_	_	
+125-13	14767-14776	Disregard	_	_	
+125-14	14777-14780	the	_	_	
+125-15	14781-14792	differences	_	_	
+125-16	14793-14795	in	_	_	
+125-17	14796-14804	language	*	Metalinguistic Cue	
+125-18	14805-14806	;	_	_	
+125-19	14807-14811	then	_	_	
+125-20	14812-14818	assume	_	_	
+125-21	14819-14827	Congress	_	_	
+125-22	14828-14833	chose	_	_	
+125-23	14834-14837	its	_	_	
+125-24	14838-14843	terms	*	Metalinguistic Cue	
+125-25	14844-14852	randomly	_	_	
+125-26	14853-14863	throughout	_	_	
+125-27	14864-14867	the	_	_	
+125-28	14868-14871	law	_	_	
+125-29	14872-14873	;	_	_	
+125-30	14874-14877	and	_	_	
+125-31	14878-14879	,	_	_	
+125-32	14880-14887	finally	_	_	
+125-33	14888-14889	,	_	_	
+125-34	14890-14898	conflate	*	Metalinguistic Cue	
+125-35	14899-14908	logically	_	_	
+125-36	14909-14917	distinct	_	_	
+125-37	14918-14926	concepts	_	_	
+125-38	14927-14928	.	_	_	
+
+#Text=Our case illustrates the significance of the distinction Congress drew and Atlantic Richfield would have us ignore .
+126-1	14930-14933	Our	_	_	
+126-2	14934-14938	case	_	_	
+126-3	14939-14950	illustrates	_	_	
+126-4	14951-14954	the	_	_	
+126-5	14955-14967	significance	_	_	
+126-6	14968-14970	of	_	_	
+126-7	14971-14974	the	_	_	
+126-8	14975-14986	distinction	_	_	
+126-9	14987-14995	Congress	_	_	
+126-10	14996-15000	drew	_	_	
+126-11	15001-15004	and	_	_	
+126-12	15005-15013	Atlantic	_	_	
+126-13	15014-15023	Richfield	_	_	
+126-14	15024-15029	would	_	_	
+126-15	15030-15034	have	_	_	
+126-16	15035-15037	us	_	_	
+126-17	15038-15044	ignore	_	_	
+126-18	15045-15046	.	_	_	
+
+#Text=Maybe the federal government was once authorized by § 107 to include the innocent landowners here in a CERCLA suit .
+127-1	15048-15053	Maybe	_	_	
+127-2	15054-15057	the	_	_	
+127-3	15058-15065	federal	_	_	
+127-4	15066-15076	government	_	_	
+127-5	15077-15080	was	_	_	
+127-6	15081-15085	once	_	_	
+127-7	15086-15096	authorized	_	_	
+127-8	15097-15099	by	_	_	
+127-9	15100-15101	§	*[83]	Legal Source[83]	
+127-10	15102-15105	107	*[83]	Legal Source[83]	
+127-11	15106-15108	to	_	_	
+127-12	15109-15116	include	_	_	
+127-13	15117-15120	the	_	_	
+127-14	15121-15129	innocent	_	_	
+127-15	15130-15140	landowners	_	_	
+127-16	15141-15145	here	_	_	
+127-17	15146-15148	in	_	_	
+127-18	15149-15150	a	_	_	
+127-19	15151-15157	CERCLA	*	Legal Source	
+127-20	15158-15162	suit	_	_	
+127-21	15163-15164	.	_	_	
+
+#Text=But few statutes pursue their purpose single - mindedly or require their full enforcement .
+128-1	15166-15169	But	_	_	
+128-2	15170-15173	few	_	_	
+128-3	15174-15182	statutes	_	_	
+128-4	15183-15189	pursue	_	_	
+128-5	15190-15195	their	_	_	
+128-6	15196-15203	purpose	_	_	
+128-7	15204-15210	single	_	_	
+128-8	15211-15212	-	_	_	
+128-9	15213-15221	mindedly	_	_	
+128-10	15222-15224	or	_	_	
+128-11	15225-15232	require	_	_	
+128-12	15233-15238	their	_	_	
+128-13	15239-15243	full	_	_	
+128-14	15244-15255	enforcement	_	_	
+128-15	15256-15257	.	_	_	
+
+#Text=And as we 've seen , at least two things happened that preclude these landowners from being held responsible for anything : The government chose not to notify them of potential liability under § 122(e)(3 ) , and it declined to bring suit within the period prescribed by § 113(g)(2)(B ) .
+129-1	15259-15262	And	_	_	
+129-2	15263-15265	as	_	_	
+129-3	15266-15268	we	_	_	
+129-4	15269-15272	've	_	_	
+129-5	15273-15277	seen	_	_	
+129-6	15278-15279	,	_	_	
+129-7	15280-15282	at	_	_	
+129-8	15283-15288	least	_	_	
+129-9	15289-15292	two	_	_	
+129-10	15293-15299	things	_	_	
+129-11	15300-15308	happened	_	_	
+129-12	15309-15313	that	_	_	
+129-13	15314-15322	preclude	_	_	
+129-14	15323-15328	these	_	_	
+129-15	15329-15339	landowners	_	_	
+129-16	15340-15344	from	_	_	
+129-17	15345-15350	being	_	_	
+129-18	15351-15355	held	_	_	
+129-19	15356-15367	responsible	_	_	
+129-20	15368-15371	for	_	_	
+129-21	15372-15380	anything	_	_	
+129-22	15381-15382	:	_	_	
+129-23	15383-15386	The	_	_	
+129-24	15387-15397	government	_	_	
+129-25	15398-15403	chose	_	_	
+129-26	15404-15407	not	_	_	
+129-27	15408-15410	to	_	_	
+129-28	15411-15417	notify	_	_	
+129-29	15418-15422	them	_	_	
+129-30	15423-15425	of	_	_	
+129-31	15426-15435	potential	_	_	
+129-32	15436-15445	liability	_	_	
+129-33	15446-15451	under	_	_	
+129-34	15452-15453	§	*[84]	Legal Source[84]	
+129-35	15454-15462	122(e)(3	*[84]	Legal Source[84]	
+129-36	15463-15464	)	*[84]	Legal Source[84]	
+129-37	15465-15466	,	_	_	
+129-38	15467-15470	and	_	_	
+129-39	15471-15473	it	_	_	
+129-40	15474-15482	declined	_	_	
+129-41	15483-15485	to	_	_	
+129-42	15486-15491	bring	_	_	
+129-43	15492-15496	suit	_	_	
+129-44	15497-15503	within	_	_	
+129-45	15504-15507	the	_	_	
+129-46	15508-15514	period	_	_	
+129-47	15515-15525	prescribed	_	_	
+129-48	15526-15528	by	_	_	
+129-49	15529-15530	§	*[85]	Legal Source[85]	
+129-50	15531-15542	113(g)(2)(B	*[85]	Legal Source[85]	
+129-51	15543-15544	)	*[85]	Legal Source[85]	
+129-52	15545-15546	.	_	_	
+
+#Text=Under the plain and ordinary meaning of the statutory terms before us , these landowners are not potentially responsible parties and CERCLA does n't require them to seek permission from federal officials before cleaning their own lands .
+130-1	15548-15553	Under	*[86]	Appeal to Meaning[86]	
+130-2	15554-15557	the	*[86]	Appeal to Meaning[86]	
+130-3	15558-15563	plain	*[86]|*[87]	Appeal to Meaning[86]|Metalinguistic Cue[87]	
+130-4	15564-15567	and	*[86]|*[87]	Appeal to Meaning[86]|Metalinguistic Cue[87]	
+130-5	15568-15576	ordinary	*[86]|*[87]	Appeal to Meaning[86]|Metalinguistic Cue[87]	
+130-6	15577-15584	meaning	*[86]|*[87]	Appeal to Meaning[86]|Metalinguistic Cue[87]	
+130-7	15585-15587	of	*[86]	Appeal to Meaning[86]	
+130-8	15588-15591	the	*[86]	Appeal to Meaning[86]	
+130-9	15592-15601	statutory	*[86]	Appeal to Meaning[86]	
+130-10	15602-15607	terms	*[86]|*[88]	Appeal to Meaning[86]|Metalinguistic Cue[88]	
+130-11	15608-15614	before	*[86]	Appeal to Meaning[86]	
+130-12	15615-15617	us	*[86]	Appeal to Meaning[86]	
+130-13	15618-15619	,	_	_	
+130-14	15620-15625	these	_	_	
+130-15	15626-15636	landowners	_	_	
+130-16	15637-15640	are	_	_	
+130-17	15641-15644	not	_	_	
+130-18	15645-15656	potentially	_	_	
+130-19	15657-15668	responsible	_	_	
+130-20	15669-15676	parties	_	_	
+130-21	15677-15680	and	_	_	
+130-22	15681-15687	CERCLA	*	Legal Source	
+130-23	15688-15692	does	_	_	
+130-24	15693-15696	n't	_	_	
+130-25	15697-15704	require	_	_	
+130-26	15705-15709	them	_	_	
+130-27	15710-15712	to	_	_	
+130-28	15713-15717	seek	_	_	
+130-29	15718-15728	permission	_	_	
+130-30	15729-15733	from	_	_	
+130-31	15734-15741	federal	_	_	
+130-32	15742-15751	officials	_	_	
+130-33	15752-15758	before	_	_	
+130-34	15759-15767	cleaning	_	_	
+130-35	15768-15773	their	_	_	
+130-36	15774-15777	own	_	_	
+130-37	15778-15783	lands	_	_	
+130-38	15784-15785	.	_	_	
+
+#Text=If Congress had wished to extend its ask - before - cleaning rule to every covered person - including those the government chooses not to pursue for potential liability - all it had to do was say so .
+131-1	15787-15789	If	_	_	
+131-2	15790-15798	Congress	_	_	
+131-3	15799-15802	had	_	_	
+131-4	15803-15809	wished	_	_	
+131-5	15810-15812	to	_	_	
+131-6	15813-15819	extend	_	_	
+131-7	15820-15823	its	_	_	
+131-8	15824-15827	ask	_	_	
+131-9	15828-15829	-	_	_	
+131-10	15830-15836	before	_	_	
+131-11	15837-15838	-	_	_	
+131-12	15839-15847	cleaning	_	_	
+131-13	15848-15852	rule	_	_	
+131-14	15853-15855	to	_	_	
+131-15	15856-15861	every	_	_	
+131-16	15862-15869	covered	_	_	
+131-17	15870-15876	person	_	_	
+131-18	15877-15878	-	_	_	
+131-19	15879-15888	including	_	_	
+131-20	15889-15894	those	_	_	
+131-21	15895-15898	the	_	_	
+131-22	15899-15909	government	_	_	
+131-23	15910-15917	chooses	_	_	
+131-24	15918-15921	not	_	_	
+131-25	15922-15924	to	_	_	
+131-26	15925-15931	pursue	_	_	
+131-27	15932-15935	for	_	_	
+131-28	15936-15945	potential	_	_	
+131-29	15946-15955	liability	_	_	
+131-30	15956-15957	-	_	_	
+131-31	15958-15961	all	_	_	
+131-32	15962-15964	it	_	_	
+131-33	15965-15968	had	_	_	
+131-34	15969-15971	to	_	_	
+131-35	15972-15974	do	_	_	
+131-36	15975-15978	was	_	_	
+131-37	15979-15982	say	_	_	
+131-38	15983-15985	so	_	_	
+131-39	15986-15987	.	_	_	
+
+#Text=Congress displayed no trouble using the term " [ c]overed persons " elsewhere in the statute .
+132-1	15989-15997	Congress	_	_	
+132-2	15998-16007	displayed	_	_	
+132-3	16008-16010	no	_	_	
+132-4	16011-16018	trouble	_	_	
+132-5	16019-16024	using	_	_	
+132-6	16025-16028	the	_	_	
+132-7	16029-16033	term	*	Metalinguistic Cue	
+132-8	16034-16035	"	*[89]	Direct Quote[89]	
+132-9	16036-16037	[	*[89]|*[90]	Direct Quote[89]|Focal Term[90]	
+132-10	16038-16046	c]overed	*[89]|*[90]	Direct Quote[89]|Focal Term[90]	
+132-11	16047-16054	persons	*[89]|*[90]	Direct Quote[89]|Focal Term[90]	
+132-12	16055-16056	"	*[89]	Direct Quote[89]	
+132-13	16057-16066	elsewhere	_	_	
+132-14	16067-16069	in	_	_	
+132-15	16070-16073	the	_	_	
+132-16	16074-16081	statute	_	_	
+132-17	16082-16083	.	_	_	
+
+#Text=See , e.g. , § § 9619(d ) , 9624(b)(2 ) .
+133-1	16085-16088	See	_	_	
+133-2	16089-16090	,	_	_	
+133-3	16091-16095	e.g.	_	_	
+133-4	16096-16097	,	_	_	
+133-5	16098-16099	§	*[91]	Legal Source[91]	
+133-6	16100-16101	§	*[91]	Legal Source[91]	
+133-7	16102-16108	9619(d	*[91]	Legal Source[91]	
+133-8	16109-16110	)	*[91]	Legal Source[91]	
+133-9	16111-16112	,	*[91]	Legal Source[91]	
+133-10	16113-16122	9624(b)(2	*[91]	Legal Source[91]	
+133-11	16123-16124	)	*[91]	Legal Source[91]	
+133-12	16125-16126	.	_	_	
+
+#Text=Conspicuously , it made a different choice here .
+134-1	16128-16141	Conspicuously	_	_	
+134-2	16142-16143	,	_	_	
+134-3	16144-16146	it	_	_	
+134-4	16147-16151	made	_	_	
+134-5	16152-16153	a	_	_	
+134-6	16154-16163	different	_	_	
+134-7	16164-16170	choice	_	_	
+134-8	16171-16175	here	_	_	
+134-9	16176-16177	.	_	_	
+
+#Text=Without any plausible foundation in the statute to support its position , Atlantic Richfield resorts to this odd argument .
+135-1	16179-16186	Without	_	_	
+135-2	16187-16190	any	_	_	
+135-3	16191-16200	plausible	_	_	
+135-4	16201-16211	foundation	_	_	
+135-5	16212-16214	in	_	_	
+135-6	16215-16218	the	_	_	
+135-7	16219-16226	statute	_	_	
+135-8	16227-16229	to	_	_	
+135-9	16230-16237	support	_	_	
+135-10	16238-16241	its	_	_	
+135-11	16242-16250	position	_	_	
+135-12	16251-16252	,	_	_	
+135-13	16253-16261	Atlantic	_	_	
+135-14	16262-16271	Richfield	_	_	
+135-15	16272-16279	resorts	_	_	
+135-16	16280-16282	to	_	_	
+135-17	16283-16287	this	_	_	
+135-18	16288-16291	odd	_	_	
+135-19	16292-16300	argument	_	_	
+135-20	16301-16302	.	_	_	
+
+#Text=Maybe the terms " [ c]overed persons " and " potentially responsible party " are different and the statute uses them in different places to do different things .
+136-1	16304-16309	Maybe	_	_	
+136-2	16310-16313	the	_	_	
+136-3	16314-16319	terms	*	Metalinguistic Cue	
+136-4	16320-16321	"	*[92]	Direct Quote[92]	
+136-5	16322-16323	[	*[92]|*[93]	Direct Quote[92]|Focal Term[93]	
+136-6	16324-16332	c]overed	*[92]|*[93]	Direct Quote[92]|Focal Term[93]	
+136-7	16333-16340	persons	*[92]|*[93]	Direct Quote[92]|Focal Term[93]	
+136-8	16341-16342	"	*[92]	Direct Quote[92]	
+136-9	16343-16346	and	*[92]	Direct Quote[92]	
+136-10	16347-16348	"	*[92]	Direct Quote[92]	
+136-11	16349-16360	potentially	*[92]|*[94]	Direct Quote[92]|Focal Term[94]	
+136-12	16361-16372	responsible	*[92]|*[94]	Direct Quote[92]|Focal Term[94]	
+136-13	16373-16378	party	*[92]|*[94]	Direct Quote[92]|Focal Term[94]	
+136-14	16379-16380	"	*[92]	Direct Quote[92]	
+136-15	16381-16384	are	_	_	
+136-16	16385-16394	different	_	_	
+136-17	16395-16398	and	_	_	
+136-18	16399-16402	the	_	_	
+136-19	16403-16410	statute	_	_	
+136-20	16411-16415	uses	_	_	
+136-21	16416-16420	them	_	_	
+136-22	16421-16423	in	_	_	
+136-23	16424-16433	different	_	_	
+136-24	16434-16440	places	_	_	
+136-25	16441-16443	to	_	_	
+136-26	16444-16446	do	_	_	
+136-27	16447-16456	different	_	_	
+136-28	16457-16463	things	_	_	
+136-29	16464-16465	.	_	_	
+
+#Text=But , the company insists , we must conflate them now because this Court has conflated them before .
+137-1	16467-16470	But	_	_	
+137-2	16471-16472	,	_	_	
+137-3	16473-16476	the	_	_	
+137-4	16477-16484	company	_	_	
+137-5	16485-16492	insists	_	_	
+137-6	16493-16494	,	_	_	
+137-7	16495-16497	we	_	_	
+137-8	16498-16502	must	_	_	
+137-9	16503-16511	conflate	*	Metalinguistic Cue	
+137-10	16512-16516	them	_	_	
+137-11	16517-16520	now	_	_	
+137-12	16521-16528	because	_	_	
+137-13	16529-16533	this	_	_	
+137-14	16534-16539	Court	_	_	
+137-15	16540-16543	has	_	_	
+137-16	16544-16553	conflated	*	Metalinguistic Cue	
+137-17	16554-16558	them	_	_	
+137-18	16559-16565	before	_	_	
+137-19	16566-16567	.	_	_	
+
+#Text=In particular , Atlantic Richfield points to language in United States v. Atlantic Research Corp. , 551 U.S. 128 , 127 S.Ct . 2331 , 168 L.Ed.2d 28 ( 2007 ) , where the Court spoke of " Section 107(a ) [
+138-1	16569-16571	In	_	_	
+138-2	16572-16582	particular	_	_	
+138-3	16583-16584	,	_	_	
+138-4	16585-16593	Atlantic	_	_	
+138-5	16594-16603	Richfield	_	_	
+138-6	16604-16610	points	_	_	
+138-7	16611-16613	to	_	_	
+138-8	16614-16622	language	*	Metalinguistic Cue	
+138-9	16623-16625	in	_	_	
+138-10	16626-16632	United	*[95]	Legal Source[95]	
+138-11	16633-16639	States	*[95]	Legal Source[95]	
+138-12	16640-16642	v.	*[95]	Legal Source[95]	
+138-13	16643-16651	Atlantic	*[95]	Legal Source[95]	
+138-14	16652-16660	Research	*[95]	Legal Source[95]	
+138-15	16661-16666	Corp.	*[95]	Legal Source[95]	
+138-16	16667-16668	,	*[95]	Legal Source[95]	
+138-17	16669-16672	551	*[95]	Legal Source[95]	
+138-18	16673-16677	U.S.	*[95]	Legal Source[95]	
+138-19	16678-16681	128	*[95]	Legal Source[95]	
+138-20	16682-16683	,	*[95]	Legal Source[95]	
+138-21	16684-16687	127	*[95]	Legal Source[95]	
+138-22	16688-16692	S.Ct	*[95]	Legal Source[95]	
+138-23	16693-16694	.	*[95]	Legal Source[95]	
+138-24	16695-16699	2331	*[95]	Legal Source[95]	
+138-25	16700-16701	,	*[95]	Legal Source[95]	
+138-26	16702-16705	168	*[95]	Legal Source[95]	
+138-27	16706-16713	L.Ed.2d	*[95]	Legal Source[95]	
+138-28	16714-16716	28	*[95]	Legal Source[95]	
+138-29	16717-16718	(	*[95]	Legal Source[95]	
+138-30	16719-16723	2007	*[95]	Legal Source[95]	
+138-31	16724-16725	)	*[95]	Legal Source[95]	
+138-32	16726-16727	,	_	_	
+138-33	16728-16733	where	_	_	
+138-34	16734-16737	the	_	_	
+138-35	16738-16743	Court	_	_	
+138-36	16744-16749	spoke	_	_	
+138-37	16750-16752	of	_	_	
+138-38	16753-16754	"	*[96]	Direct Quote[96]	
+138-39	16755-16762	Section	*[96]	Direct Quote[96]	
+138-40	16763-16768	107(a	*[96]	Direct Quote[96]	
+138-41	16769-16770	)	*[96]	Direct Quote[96]	
+138-42	16771-16772	[	*[96]	Direct Quote[96]	
+
+#Text=as ] defin[ing ] four categories of PRPs [ potentially responsible parties ] . "
+139-1	16774-16776	as	*[97]	Direct Quote[97]	
+139-2	16777-16778	]	*[97]	Direct Quote[97]	
+139-3	16779-16788	defin[ing	*[97]|*[98]	Direct Quote[97]|Metalinguistic Cue[98]	
+139-4	16789-16790	]	*[97]|*[98]	Direct Quote[97]|Metalinguistic Cue[98]	
+139-5	16791-16795	four	*[97]	Direct Quote[97]	
+139-6	16796-16806	categories	*[97]	Direct Quote[97]	
+139-7	16807-16809	of	*[97]	Direct Quote[97]	
+139-8	16810-16814	PRPs	*[97]	Direct Quote[97]	
+139-9	16815-16816	[	*[97]	Direct Quote[97]	
+139-10	16817-16828	potentially	*[97]	Direct Quote[97]	
+139-11	16829-16840	responsible	*[97]	Direct Quote[97]	
+139-12	16841-16848	parties	*[97]	Direct Quote[97]	
+139-13	16849-16850	]	*[97]	Direct Quote[97]	
+139-14	16851-16852	.	*[97]	Direct Quote[97]	
+139-15	16853-16854	"	*[97]	Direct Quote[97]	
+
+#Text=I d . , at 131 - 132 , 127 S.Ct . 2331 .
+140-1	16856-16857	I	*[99]	Legal Source[99]	
+140-2	16858-16859	d	*[99]	Legal Source[99]	
+140-3	16860-16861	.	*[99]	Legal Source[99]	
+140-4	16862-16863	,	*[99]	Legal Source[99]	
+140-5	16864-16866	at	*[99]	Legal Source[99]	
+140-6	16867-16870	131	*[99]	Legal Source[99]	
+140-7	16871-16872	-	*[99]	Legal Source[99]	
+140-8	16873-16876	132	*[99]	Legal Source[99]	
+140-9	16877-16878	,	*[99]	Legal Source[99]	
+140-10	16879-16882	127	*[99]	Legal Source[99]	
+140-11	16883-16887	S.Ct	*[99]	Legal Source[99]	
+140-12	16888-16889	.	*[99]	Legal Source[99]	
+140-13	16890-16894	2331	*[99]	Legal Source[99]	
+140-14	16895-16896	.	_	_	
+
+#Text=That may be so but it does not make it so .
+141-1	16898-16902	That	_	_	
+141-2	16903-16906	may	_	_	
+141-3	16907-16909	be	_	_	
+141-4	16910-16912	so	_	_	
+141-5	16913-16916	but	_	_	
+141-6	16917-16919	it	_	_	
+141-7	16920-16924	does	_	_	
+141-8	16925-16928	not	_	_	
+141-9	16929-16933	make	_	_	
+141-10	16934-16936	it	_	_	
+141-11	16937-16939	so	_	_	
+141-12	16940-16941	.	_	_	
+
+#Text=The relationship between the terms " [ c]overed persons " under § 107 and " potentially responsible part[ies ] " under § 122 is of critical importance in this case , but it was not briefed , argued , or decided in Atlantic Research .
+142-1	16943-16946	The	_	_	
+142-2	16947-16959	relationship	_	_	
+142-3	16960-16967	between	_	_	
+142-4	16968-16971	the	_	_	
+142-5	16972-16977	terms	*	Metalinguistic Cue	
+142-6	16978-16979	"	*[100]	Direct Quote[100]	
+142-7	16980-16981	[	*[100]|*[101]	Direct Quote[100]|Focal Term[101]	
+142-8	16982-16990	c]overed	*[100]|*[101]	Direct Quote[100]|Focal Term[101]	
+142-9	16991-16998	persons	*[100]|*[101]	Direct Quote[100]|Focal Term[101]	
+142-10	16999-17000	"	*[100]	Direct Quote[100]	
+142-11	17001-17006	under	_	_	
+142-12	17007-17008	§	_	_	
+142-13	17009-17012	107	_	_	
+142-14	17013-17016	and	_	_	
+142-15	17017-17018	"	*[102]	Direct Quote[102]	
+142-16	17019-17030	potentially	*[102]|*[103]	Direct Quote[102]|Focal Term[103]	
+142-17	17031-17042	responsible	*[102]|*[103]	Direct Quote[102]|Focal Term[103]	
+142-18	17043-17051	part[ies	*[102]|*[103]	Direct Quote[102]|Focal Term[103]	
+142-19	17052-17053	]	*[102]|*[103]	Direct Quote[102]|Focal Term[103]	
+142-20	17054-17055	"	*[102]	Direct Quote[102]	
+142-21	17056-17061	under	_	_	
+142-22	17062-17063	§	*[104]	Legal Source[104]	
+142-23	17064-17067	122	*[104]	Legal Source[104]	
+142-24	17068-17070	is	_	_	
+142-25	17071-17073	of	_	_	
+142-26	17074-17082	critical	_	_	
+142-27	17083-17093	importance	_	_	
+142-28	17094-17096	in	_	_	
+142-29	17097-17101	this	_	_	
+142-30	17102-17106	case	_	_	
+142-31	17107-17108	,	_	_	
+142-32	17109-17112	but	_	_	
+142-33	17113-17115	it	_	_	
+142-34	17116-17119	was	_	_	
+142-35	17120-17123	not	_	_	
+142-36	17124-17131	briefed	_	_	
+142-37	17132-17133	,	_	_	
+142-38	17134-17140	argued	_	_	
+142-39	17141-17142	,	_	_	
+142-40	17143-17145	or	_	_	
+142-41	17146-17153	decided	_	_	
+142-42	17154-17156	in	_	_	
+142-43	17157-17165	Atlantic	_	_	
+142-44	17166-17174	Research	_	_	
+142-45	17175-17176	.	_	_	
+
+#Text=Instead , the only question there concerned the meaning of the term " [ c]overed persons " under § 107 .
+143-1	17178-17185	Instead	_	_	
+143-2	17186-17187	,	_	_	
+143-3	17188-17191	the	_	_	
+143-4	17192-17196	only	_	_	
+143-5	17197-17205	question	_	_	
+143-6	17206-17211	there	_	_	
+143-7	17212-17221	concerned	_	_	
+143-8	17222-17225	the	_	_	
+143-9	17226-17233	meaning	_	_	
+143-10	17234-17236	of	_	_	
+143-11	17237-17240	the	_	_	
+143-12	17241-17245	term	*	Metalinguistic Cue	
+143-13	17246-17247	"	*[105]	Direct Quote[105]	
+143-14	17248-17249	[	*[105]|*[106]	Direct Quote[105]|Focal Term[106]	
+143-15	17250-17258	c]overed	*[105]|*[106]	Direct Quote[105]|Focal Term[106]	
+143-16	17259-17266	persons	*[105]|*[106]	Direct Quote[105]|Focal Term[106]	
+143-17	17267-17268	"	*[105]	Direct Quote[105]	
+143-18	17269-17274	under	_	_	
+143-19	17275-17276	§	*[107]	Legal Source[107]	
+143-20	17277-17280	107	*[107]	Legal Source[107]	
+143-21	17281-17282	.	_	_	
+
+#Text=Though the Court employed the term " PRP " to describe " [ c]overed persons , " nothing turned on the use or meaning of the acronym : Replace every reference to " PRP " with " [ c]overed person " and the Court 's holding and reasoning remains the same .
+144-1	17284-17290	Though	_	_	
+144-2	17291-17294	the	_	_	
+144-3	17295-17300	Court	_	_	
+144-4	17301-17309	employed	_	_	
+144-5	17310-17313	the	_	_	
+144-6	17314-17318	term	*	Metalinguistic Cue	
+144-7	17319-17320	"	*[108]	Direct Quote[108]	
+144-8	17321-17324	PRP	*[108]|*[109]	Direct Quote[108]|Metalinguistic Cue[109]	
+144-9	17325-17326	"	*[108]	Direct Quote[108]	
+144-10	17327-17329	to	_	_	
+144-11	17330-17338	describe	_	_	
+144-12	17339-17340	"	*[110]	Direct Quote[110]	
+144-13	17341-17342	[	*[110]	Direct Quote[110]	
+144-14	17343-17351	c]overed	*[110]	Direct Quote[110]	
+144-15	17352-17359	persons	*[110]	Direct Quote[110]	
+144-16	17360-17361	,	*[110]	Direct Quote[110]	
+144-17	17362-17363	"	*[110]	Direct Quote[110]	
+144-18	17364-17371	nothing	_	_	
+144-19	17372-17378	turned	_	_	
+144-20	17379-17381	on	_	_	
+144-21	17382-17385	the	_	_	
+144-22	17386-17389	use	*	Metalinguistic Cue	
+144-23	17390-17392	or	_	_	
+144-24	17393-17400	meaning	*	Metalinguistic Cue	
+144-25	17401-17403	of	_	_	
+144-26	17404-17407	the	_	_	
+144-27	17408-17415	acronym	_	_	
+144-28	17416-17417	:	_	_	
+144-29	17418-17425	Replace	_	_	
+144-30	17426-17431	every	_	_	
+144-31	17432-17441	reference	_	_	
+144-32	17442-17444	to	_	_	
+144-33	17445-17446	"	*[111]	Direct Quote[111]	
+144-34	17447-17450	PRP	*[111]|*[112]	Direct Quote[111]|Focal Term[112]	
+144-35	17451-17452	"	*[111]	Direct Quote[111]	
+144-36	17453-17457	with	_	_	
+144-37	17458-17459	"	*[113]	Direct Quote[113]	
+144-38	17460-17461	[	*[113]	Direct Quote[113]	
+144-39	17462-17470	c]overed	*[113]|*[114]	Direct Quote[113]|Focal Term[114]	
+144-40	17471-17477	person	*[113]|*[114]	Direct Quote[113]|Focal Term[114]	
+144-41	17478-17479	"	*[113]	Direct Quote[113]	
+144-42	17480-17483	and	_	_	
+144-43	17484-17487	the	_	_	
+144-44	17488-17493	Court	_	_	
+144-45	17494-17496	's	_	_	
+144-46	17497-17504	holding	_	_	
+144-47	17505-17508	and	_	_	
+144-48	17509-17518	reasoning	_	_	
+144-49	17519-17526	remains	_	_	
+144-50	17527-17530	the	_	_	
+144-51	17531-17535	same	_	_	
+144-52	17536-17537	.	_	_	
+
+#Text=This Court has long warned that matters " ' lurk[ing ] in the record , neither brought to the attention of the court nor ruled upon , ' " should not be read as having decided anything .
+145-1	17539-17543	This	*[115]	Definition[115]	
+145-2	17544-17549	Court	*[115]	Definition[115]	
+145-3	17550-17553	has	*[115]	Definition[115]	
+145-4	17554-17558	long	*[115]	Definition[115]	
+145-5	17559-17565	warned	*[115]	Definition[115]	
+145-6	17566-17570	that	*[115]	Definition[115]	
+145-7	17571-17578	matters	*[115]	Definition[115]	
+145-8	17579-17580	"	*[115]|*[116]	Definition[115]|Direct Quote[116]	
+145-9	17581-17582	'	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-10	17583-17591	lurk[ing	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-11	17592-17593	]	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-12	17594-17596	in	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-13	17597-17600	the	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-14	17601-17607	record	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-15	17608-17609	,	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-16	17610-17617	neither	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-17	17618-17625	brought	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-18	17626-17628	to	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-19	17629-17632	the	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-20	17633-17642	attention	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-21	17643-17645	of	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-22	17646-17649	the	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-23	17650-17655	court	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-24	17656-17659	nor	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-25	17660-17665	ruled	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-26	17666-17670	upon	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-27	17671-17672	,	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-28	17673-17674	'	*[115]|*[116]|*[117]	Definition[115]|Direct Quote[116]|Direct Quote[117]	
+145-29	17675-17676	"	*[115]|*[116]	Definition[115]|Direct Quote[116]	
+145-30	17677-17683	should	*[115]	Definition[115]	
+145-31	17684-17687	not	*[115]	Definition[115]	
+145-32	17688-17690	be	*[115]	Definition[115]	
+145-33	17691-17695	read	*[115]	Definition[115]	
+145-34	17696-17698	as	*[115]	Definition[115]	
+145-35	17699-17705	having	*[115]	Definition[115]	
+145-36	17706-17713	decided	*[115]	Definition[115]	
+145-37	17714-17722	anything	*[115]	Definition[115]	
+145-38	17723-17724	.	_	_	
+
+#Text=Cooper Industries , Inc. v. Aviall Services , Inc. , 543 U.S. 157 , 170 , 125 S.Ct . 577 , 160 L.Ed.2d 548 ( 2004 ) ( quoting Webster v. Fall , 266 U.S. 507 , 511 , 45 S.Ct . 148 , 69 L.Ed .
+146-1	17726-17732	Cooper	*[118]	Legal Source[118]	
+146-2	17733-17743	Industries	*[118]	Legal Source[118]	
+146-3	17744-17745	,	*[118]	Legal Source[118]	
+146-4	17746-17750	Inc.	*[118]	Legal Source[118]	
+146-5	17751-17753	v.	*[118]	Legal Source[118]	
+146-6	17754-17760	Aviall	*[118]	Legal Source[118]	
+146-7	17761-17769	Services	*[118]	Legal Source[118]	
+146-8	17770-17771	,	*[118]	Legal Source[118]	
+146-9	17772-17776	Inc.	*[118]	Legal Source[118]	
+146-10	17777-17778	,	*[118]	Legal Source[118]	
+146-11	17779-17782	543	*[118]	Legal Source[118]	
+146-12	17783-17787	U.S.	*[118]	Legal Source[118]	
+146-13	17788-17791	157	*[118]	Legal Source[118]	
+146-14	17792-17793	,	*[118]	Legal Source[118]	
+146-15	17794-17797	170	*[118]	Legal Source[118]	
+146-16	17798-17799	,	*[118]	Legal Source[118]	
+146-17	17800-17803	125	*[118]	Legal Source[118]	
+146-18	17804-17808	S.Ct	*[118]	Legal Source[118]	
+146-19	17809-17810	.	*[118]	Legal Source[118]	
+146-20	17811-17814	577	*[118]	Legal Source[118]	
+146-21	17815-17816	,	*[118]	Legal Source[118]	
+146-22	17817-17820	160	*[118]	Legal Source[118]	
+146-23	17821-17828	L.Ed.2d	*[118]	Legal Source[118]	
+146-24	17829-17832	548	*[118]	Legal Source[118]	
+146-25	17833-17834	(	*[118]	Legal Source[118]	
+146-26	17835-17839	2004	*[118]	Legal Source[118]	
+146-27	17840-17841	)	*[118]	Legal Source[118]	
+146-28	17842-17843	(	_	_	
+146-29	17844-17851	quoting	_	_	
+146-30	17852-17859	Webster	*[119]	Legal Source[119]	
+146-31	17860-17862	v.	*[119]	Legal Source[119]	
+146-32	17863-17867	Fall	*[119]	Legal Source[119]	
+146-33	17868-17869	,	*[119]	Legal Source[119]	
+146-34	17870-17873	266	*[119]	Legal Source[119]	
+146-35	17874-17878	U.S.	*[119]	Legal Source[119]	
+146-36	17879-17882	507	*[119]	Legal Source[119]	
+146-37	17883-17884	,	*[119]	Legal Source[119]	
+146-38	17885-17888	511	*[119]	Legal Source[119]	
+146-39	17889-17890	,	*[119]	Legal Source[119]	
+146-40	17891-17893	45	*[119]	Legal Source[119]	
+146-41	17894-17898	S.Ct	*[119]	Legal Source[119]	
+146-42	17899-17900	.	*[119]	Legal Source[119]	
+146-43	17901-17904	148	*[119]	Legal Source[119]	
+146-44	17905-17906	,	*[119]	Legal Source[119]	
+146-45	17907-17909	69	*[119]	Legal Source[119]	
+146-46	17910-17914	L.Ed	*[119]	Legal Source[119]	
+146-47	17915-17916	.	*[119]	Legal Source[119]	
+
+#Text=411 ( 1925 ) ) .
+147-1	17918-17921	411	*[120]	Legal Source[120]	
+147-2	17922-17923	(	*[120]	Legal Source[120]	
+147-3	17924-17928	1925	*[120]	Legal Source[120]	
+147-4	17929-17930	)	*[120]	Legal Source[120]	
+147-5	17931-17932	)	_	_	
+147-6	17933-17934	.	_	_	
+
+#Text=We have warned , too , against reading our judicial opinions as if they were some sort of legislative code because , otherwise , innocent and inconsequential judicial remarks might mistakenly come to trump democratically adopted laws .
+148-1	17936-17938	We	*[121]	Appeal to Meaning[121]	
+148-2	17939-17943	have	*[121]	Appeal to Meaning[121]	
+148-3	17944-17950	warned	*[121]	Appeal to Meaning[121]	
+148-4	17951-17952	,	*[121]	Appeal to Meaning[121]	
+148-5	17953-17956	too	*[121]	Appeal to Meaning[121]	
+148-6	17957-17958	,	*[121]	Appeal to Meaning[121]	
+148-7	17959-17966	against	*[121]	Appeal to Meaning[121]	
+148-8	17967-17974	reading	*[121]	Appeal to Meaning[121]	
+148-9	17975-17978	our	*[121]	Appeal to Meaning[121]	
+148-10	17979-17987	judicial	*[121]	Appeal to Meaning[121]	
+148-11	17988-17996	opinions	*[121]	Appeal to Meaning[121]	
+148-12	17997-17999	as	*[121]	Appeal to Meaning[121]	
+148-13	18000-18002	if	*[121]	Appeal to Meaning[121]	
+148-14	18003-18007	they	*[121]	Appeal to Meaning[121]	
+148-15	18008-18012	were	*[121]	Appeal to Meaning[121]	
+148-16	18013-18017	some	*[121]	Appeal to Meaning[121]	
+148-17	18018-18022	sort	*[121]	Appeal to Meaning[121]	
+148-18	18023-18025	of	*[121]	Appeal to Meaning[121]	
+148-19	18026-18037	legislative	*[121]	Appeal to Meaning[121]	
+148-20	18038-18042	code	*[121]	Appeal to Meaning[121]	
+148-21	18043-18050	because	*[121]	Appeal to Meaning[121]	
+148-22	18051-18052	,	*[121]	Appeal to Meaning[121]	
+148-23	18053-18062	otherwise	*[121]	Appeal to Meaning[121]	
+148-24	18063-18064	,	*[121]	Appeal to Meaning[121]	
+148-25	18065-18073	innocent	*[121]	Appeal to Meaning[121]	
+148-26	18074-18077	and	*[121]	Appeal to Meaning[121]	
+148-27	18078-18093	inconsequential	*[121]	Appeal to Meaning[121]	
+148-28	18094-18102	judicial	*[121]	Appeal to Meaning[121]	
+148-29	18103-18110	remarks	*[121]	Appeal to Meaning[121]	
+148-30	18111-18116	might	*[121]	Appeal to Meaning[121]	
+148-31	18117-18127	mistakenly	*[121]	Appeal to Meaning[121]	
+148-32	18128-18132	come	*[121]	Appeal to Meaning[121]	
+148-33	18133-18135	to	*[121]	Appeal to Meaning[121]	
+148-34	18136-18141	trump	*[121]	Appeal to Meaning[121]	
+148-35	18142-18156	democratically	*[121]	Appeal to Meaning[121]	
+148-36	18157-18164	adopted	*[121]	Appeal to Meaning[121]	
+148-37	18165-18169	laws	*[121]	Appeal to Meaning[121]	
+148-38	18170-18171	.	_	_	
+
+#Text=See Reiter v. Sonotone Corp. , 442 U.S. 330 , 341 , 99 S.Ct . 2326 , 60 L.Ed.2d 931 ( 1979 ) .
+149-1	18173-18176	See	_	_	
+149-2	18177-18183	Reiter	*[122]	Legal Source[122]	
+149-3	18184-18186	v.	*[122]	Legal Source[122]	
+149-4	18187-18195	Sonotone	*[122]	Legal Source[122]	
+149-5	18196-18201	Corp.	*[122]	Legal Source[122]	
+149-6	18202-18203	,	*[122]	Legal Source[122]	
+149-7	18204-18207	442	*[122]	Legal Source[122]	
+149-8	18208-18212	U.S.	*[122]	Legal Source[122]	
+149-9	18213-18216	330	*[122]	Legal Source[122]	
+149-10	18217-18218	,	*[122]	Legal Source[122]	
+149-11	18219-18222	341	*[122]	Legal Source[122]	
+149-12	18223-18224	,	*[122]	Legal Source[122]	
+149-13	18225-18227	99	*[122]	Legal Source[122]	
+149-14	18228-18232	S.Ct	*[122]	Legal Source[122]	
+149-15	18233-18234	.	*[122]	Legal Source[122]	
+149-16	18235-18239	2326	*[122]	Legal Source[122]	
+149-17	18240-18241	,	*[122]	Legal Source[122]	
+149-18	18242-18244	60	*[122]	Legal Source[122]	
+149-19	18245-18252	L.Ed.2d	*[122]	Legal Source[122]	
+149-20	18253-18256	931	*[122]	Legal Source[122]	
+149-21	18257-18258	(	*[122]	Legal Source[122]	
+149-22	18259-18263	1979	*[122]	Legal Source[122]	
+149-23	18264-18265	)	*[122]	Legal Source[122]	
+149-24	18266-18267	.	_	_	
+
+#Text=Atlantic Richfield would have us ignore these teachings and confuse a stray remark with a rule of law .
+150-1	18269-18277	Atlantic	_	_	
+150-2	18278-18287	Richfield	_	_	
+150-3	18288-18293	would	_	_	
+150-4	18294-18298	have	_	_	
+150-5	18299-18301	us	_	_	
+150-6	18302-18308	ignore	_	_	
+150-7	18309-18314	these	_	_	
+150-8	18315-18324	teachings	_	_	
+150-9	18325-18328	and	_	_	
+150-10	18329-18336	confuse	_	_	
+150-11	18337-18338	a	_	_	
+150-12	18339-18344	stray	_	_	
+150-13	18345-18351	remark	_	_	
+150-14	18352-18356	with	_	_	
+150-15	18357-18358	a	_	_	
+150-16	18359-18363	rule	_	_	
+150-17	18364-18366	of	_	_	
+150-18	18367-18370	law	_	_	
+150-19	18371-18372	.	_	_	
+
+#Text=In the end , the company 's case can not help but be seen for what it really is : an appeal to policy .
+151-1	18374-18376	In	_	_	
+151-2	18377-18380	the	_	_	
+151-3	18381-18384	end	_	_	
+151-4	18385-18386	,	_	_	
+151-5	18387-18390	the	_	_	
+151-6	18391-18398	company	_	_	
+151-7	18399-18401	's	_	_	
+151-8	18402-18406	case	_	_	
+151-9	18407-18410	can	_	_	
+151-10	18411-18414	not	_	_	
+151-11	18415-18419	help	_	_	
+151-12	18420-18423	but	_	_	
+151-13	18424-18426	be	_	_	
+151-14	18427-18431	seen	_	_	
+151-15	18432-18435	for	_	_	
+151-16	18436-18440	what	_	_	
+151-17	18441-18443	it	_	_	
+151-18	18444-18450	really	_	_	
+151-19	18451-18453	is	_	_	
+151-20	18454-18455	:	_	_	
+151-21	18456-18458	an	_	_	
+151-22	18459-18465	appeal	_	_	
+151-23	18466-18468	to	_	_	
+151-24	18469-18475	policy	_	_	
+151-25	18476-18477	.	_	_	
+
+#Text=On its view , things would be so much more orderly if the federal government ran everything .
+152-1	18479-18481	On	_	_	
+152-2	18482-18485	its	_	_	
+152-3	18486-18490	view	_	_	
+152-4	18491-18492	,	_	_	
+152-5	18493-18499	things	_	_	
+152-6	18500-18505	would	_	_	
+152-7	18506-18508	be	_	_	
+152-8	18509-18511	so	_	_	
+152-9	18512-18516	much	_	_	
+152-10	18517-18521	more	_	_	
+152-11	18522-18529	orderly	_	_	
+152-12	18530-18532	if	_	_	
+152-13	18533-18536	the	_	_	
+152-14	18537-18544	federal	_	_	
+152-15	18545-18555	government	_	_	
+152-16	18556-18559	ran	_	_	
+152-17	18560-18570	everything	_	_	
+152-18	18571-18572	.	_	_	
+
+#Text=And , let 's be honest , the implication here is that property owners can not be trusted to clean up their lands without causing trouble ( especially for Atlantic Richfield ) .
+153-1	18574-18577	And	_	_	
+153-2	18578-18579	,	_	_	
+153-3	18580-18583	let	_	_	
+153-4	18584-18586	's	_	_	
+153-5	18587-18589	be	_	_	
+153-6	18590-18596	honest	_	_	
+153-7	18597-18598	,	_	_	
+153-8	18599-18602	the	_	_	
+153-9	18603-18614	implication	_	_	
+153-10	18615-18619	here	_	_	
+153-11	18620-18622	is	_	_	
+153-12	18623-18627	that	_	_	
+153-13	18628-18636	property	_	_	
+153-14	18637-18643	owners	_	_	
+153-15	18644-18647	can	_	_	
+153-16	18648-18651	not	_	_	
+153-17	18652-18654	be	_	_	
+153-18	18655-18662	trusted	_	_	
+153-19	18663-18665	to	_	_	
+153-20	18666-18671	clean	_	_	
+153-21	18672-18674	up	_	_	
+153-22	18675-18680	their	_	_	
+153-23	18681-18686	lands	_	_	
+153-24	18687-18694	without	_	_	
+153-25	18695-18702	causing	_	_	
+153-26	18703-18710	trouble	_	_	
+153-27	18711-18712	(	_	_	
+153-28	18713-18723	especially	_	_	
+153-29	18724-18727	for	_	_	
+153-30	18728-18736	Atlantic	_	_	
+153-31	18737-18746	Richfield	_	_	
+153-32	18747-18748	)	_	_	
+153-33	18749-18750	.	_	_	
+
+#Text=Nor , we are told , should Montanans worry so much : The restrictions Atlantic Richfield proposes are n't really that draconian because homeowners would still be free to do things like build sandboxes for their grandchildren ( provided , of course , they do n't scoop out too much arsenic in the process ) .
+154-1	18752-18755	Nor	_	_	
+154-2	18756-18757	,	_	_	
+154-3	18758-18760	we	_	_	
+154-4	18761-18764	are	_	_	
+154-5	18765-18769	told	_	_	
+154-6	18770-18771	,	_	_	
+154-7	18772-18778	should	_	_	
+154-8	18779-18788	Montanans	_	_	
+154-9	18789-18794	worry	_	_	
+154-10	18795-18797	so	_	_	
+154-11	18798-18802	much	_	_	
+154-12	18803-18804	:	_	_	
+154-13	18805-18808	The	_	_	
+154-14	18809-18821	restrictions	_	_	
+154-15	18822-18830	Atlantic	_	_	
+154-16	18831-18840	Richfield	_	_	
+154-17	18841-18849	proposes	_	_	
+154-18	18850-18853	are	_	_	
+154-19	18854-18857	n't	_	_	
+154-20	18858-18864	really	_	_	
+154-21	18865-18869	that	_	_	
+154-22	18870-18879	draconian	_	_	
+154-23	18880-18887	because	_	_	
+154-24	18888-18898	homeowners	_	_	
+154-25	18899-18904	would	_	_	
+154-26	18905-18910	still	_	_	
+154-27	18911-18913	be	_	_	
+154-28	18914-18918	free	_	_	
+154-29	18919-18921	to	_	_	
+154-30	18922-18924	do	_	_	
+154-31	18925-18931	things	_	_	
+154-32	18932-18936	like	_	_	
+154-33	18937-18942	build	_	_	
+154-34	18943-18952	sandboxes	_	_	
+154-35	18953-18956	for	_	_	
+154-36	18957-18962	their	_	_	
+154-37	18963-18976	grandchildren	_	_	
+154-38	18977-18978	(	_	_	
+154-39	18979-18987	provided	_	_	
+154-40	18988-18989	,	_	_	
+154-41	18990-18992	of	_	_	
+154-42	18993-18999	course	_	_	
+154-43	19000-19001	,	_	_	
+154-44	19002-19006	they	_	_	
+154-45	19007-19009	do	_	_	
+154-46	19010-19013	n't	_	_	
+154-47	19014-19019	scoop	_	_	
+154-48	19020-19023	out	_	_	
+154-49	19024-19027	too	_	_	
+154-50	19028-19032	much	_	_	
+154-51	19033-19040	arsenic	_	_	
+154-52	19041-19043	in	_	_	
+154-53	19044-19047	the	_	_	
+154-54	19048-19055	process	_	_	
+154-55	19056-19057	)	_	_	
+154-56	19058-19059	.	_	_	
+
+#Text=But , as in so many cases that come before this Court , the policy arguments here cut both ways .
+155-1	19061-19064	But	_	_	
+155-2	19065-19066	,	_	_	
+155-3	19067-19069	as	_	_	
+155-4	19070-19072	in	_	_	
+155-5	19073-19075	so	_	_	
+155-6	19076-19080	many	_	_	
+155-7	19081-19086	cases	_	_	
+155-8	19087-19091	that	_	_	
+155-9	19092-19096	come	_	_	
+155-10	19097-19103	before	_	_	
+155-11	19104-19108	this	_	_	
+155-12	19109-19114	Court	_	_	
+155-13	19115-19116	,	_	_	
+155-14	19117-19120	the	_	_	
+155-15	19121-19127	policy	_	_	
+155-16	19128-19137	arguments	_	_	
+155-17	19138-19142	here	_	_	
+155-18	19143-19146	cut	_	_	
+155-19	19147-19151	both	_	_	
+155-20	19152-19156	ways	_	_	
+155-21	19157-19158	.	_	_	
+
+#Text=Maybe paternalistic central planning can not tolerate parallel state law efforts to restore state lands .
+156-1	19160-19165	Maybe	_	_	
+156-2	19166-19179	paternalistic	_	_	
+156-3	19180-19187	central	_	_	
+156-4	19188-19196	planning	_	_	
+156-5	19197-19200	can	_	_	
+156-6	19201-19204	not	_	_	
+156-7	19205-19213	tolerate	_	_	
+156-8	19214-19222	parallel	_	_	
+156-9	19223-19228	state	_	_	
+156-10	19229-19232	law	_	_	
+156-11	19233-19240	efforts	_	_	
+156-12	19241-19243	to	_	_	
+156-13	19244-19251	restore	_	_	
+156-14	19252-19257	state	_	_	
+156-15	19258-19263	lands	_	_	
+156-16	19264-19265	.	_	_	
+
+#Text=But maybe , too , good government and environmental protection would be better served if state law remedies proceeded alongside federal efforts .
+157-1	19267-19270	But	_	_	
+157-2	19271-19276	maybe	_	_	
+157-3	19277-19278	,	_	_	
+157-4	19279-19282	too	_	_	
+157-5	19283-19284	,	_	_	
+157-6	19285-19289	good	_	_	
+157-7	19290-19300	government	_	_	
+157-8	19301-19304	and	_	_	
+157-9	19305-19318	environmental	_	_	
+157-10	19319-19329	protection	_	_	
+157-11	19330-19335	would	_	_	
+157-12	19336-19338	be	_	_	
+157-13	19339-19345	better	_	_	
+157-14	19346-19352	served	_	_	
+157-15	19353-19355	if	_	_	
+157-16	19356-19361	state	_	_	
+157-17	19362-19365	law	_	_	
+157-18	19366-19374	remedies	_	_	
+157-19	19375-19384	proceeded	_	_	
+157-20	19385-19394	alongside	_	_	
+157-21	19395-19402	federal	_	_	
+157-22	19403-19410	efforts	_	_	
+157-23	19411-19412	.	_	_	
+
+#Text=State and federal law enforcement usually work in just this way , complementing rather than displacing one another .
+158-1	19414-19419	State	_	_	
+158-2	19420-19423	and	_	_	
+158-3	19424-19431	federal	_	_	
+158-4	19432-19435	law	_	_	
+158-5	19436-19447	enforcement	_	_	
+158-6	19448-19455	usually	_	_	
+158-7	19456-19460	work	_	_	
+158-8	19461-19463	in	_	_	
+158-9	19464-19468	just	_	_	
+158-10	19469-19473	this	_	_	
+158-11	19474-19477	way	_	_	
+158-12	19478-19479	,	_	_	
+158-13	19480-19493	complementing	_	_	
+158-14	19494-19500	rather	_	_	
+158-15	19501-19505	than	_	_	
+158-16	19506-19516	displacing	_	_	
+158-17	19517-19520	one	_	_	
+158-18	19521-19528	another	_	_	
+158-19	19529-19530	.	_	_	
+
+#Text=And , anyway , how long would Atlantic Richfield have us enforce what amounts to a federal easement requiring landowners to house toxic waste on their lands ?
+159-1	19532-19535	And	_	_	
+159-2	19536-19537	,	_	_	
+159-3	19538-19544	anyway	_	_	
+159-4	19545-19546	,	_	_	
+159-5	19547-19550	how	_	_	
+159-6	19551-19555	long	_	_	
+159-7	19556-19561	would	_	_	
+159-8	19562-19570	Atlantic	_	_	
+159-9	19571-19580	Richfield	_	_	
+159-10	19581-19585	have	_	_	
+159-11	19586-19588	us	_	_	
+159-12	19589-19596	enforce	_	_	
+159-13	19597-19601	what	_	_	
+159-14	19602-19609	amounts	_	_	
+159-15	19610-19612	to	_	_	
+159-16	19613-19614	a	_	_	
+159-17	19615-19622	federal	_	_	
+159-18	19623-19631	easement	_	_	
+159-19	19632-19641	requiring	_	_	
+159-20	19642-19652	landowners	_	_	
+159-21	19653-19655	to	_	_	
+159-22	19656-19661	house	_	_	
+159-23	19662-19667	toxic	_	_	
+159-24	19668-19673	waste	_	_	
+159-25	19674-19676	on	_	_	
+159-26	19677-19682	their	_	_	
+159-27	19683-19688	lands	_	_	
+159-28	19689-19690	?	_	_	
+
+#Text=The government has been on site since 1983 ; work supposedly finished around the landowners ' homes in 2016 ; the completion of " primary " cleanup efforts is " estimated " to happen by 2025 .
+160-1	19692-19695	The	_	_	
+160-2	19696-19706	government	_	_	
+160-3	19707-19710	has	_	_	
+160-4	19711-19715	been	_	_	
+160-5	19716-19718	on	_	_	
+160-6	19719-19723	site	_	_	
+160-7	19724-19729	since	_	_	
+160-8	19730-19734	1983	_	_	
+160-9	19735-19736	;	_	_	
+160-10	19737-19741	work	_	_	
+160-11	19742-19752	supposedly	_	_	
+160-12	19753-19761	finished	_	_	
+160-13	19762-19768	around	_	_	
+160-14	19769-19772	the	_	_	
+160-15	19773-19783	landowners	_	_	
+160-16	19784-19785	'	_	_	
+160-17	19786-19791	homes	_	_	
+160-18	19792-19794	in	_	_	
+160-19	19795-19799	2016	_	_	
+160-20	19800-19801	;	_	_	
+160-21	19802-19805	the	_	_	
+160-22	19806-19816	completion	_	_	
+160-23	19817-19819	of	_	_	
+160-24	19820-19821	"	*[123]	Direct Quote[123]	
+160-25	19822-19829	primary	*[123]	Direct Quote[123]	
+160-26	19830-19831	"	*[123]	Direct Quote[123]	
+160-27	19832-19839	cleanup	_	_	
+160-28	19840-19847	efforts	_	_	
+160-29	19848-19850	is	_	_	
+160-30	19851-19852	"	*[124]	Direct Quote[124]	
+160-31	19853-19862	estimated	*[124]	Direct Quote[124]	
+160-32	19863-19864	"	*[124]	Direct Quote[124]	
+160-33	19865-19867	to	_	_	
+160-34	19868-19874	happen	_	_	
+160-35	19875-19877	by	_	_	
+160-36	19878-19882	2025	_	_	
+160-37	19883-19884	.	_	_	
+
+#Text=So , yes , once a Superfund site is " delisted , " the restrictions on potentially responsible parties fade away .
+161-1	19886-19888	So	_	_	
+161-2	19889-19890	,	_	_	
+161-3	19891-19894	yes	_	_	
+161-4	19895-19896	,	_	_	
+161-5	19897-19901	once	_	_	
+161-6	19902-19903	a	_	_	
+161-7	19904-19913	Superfund	_	_	
+161-8	19914-19918	site	_	_	
+161-9	19919-19921	is	_	_	
+161-10	19922-19923	"	*[125]	Direct Quote[125]	
+161-11	19924-19932	delisted	*[125]	Direct Quote[125]	
+161-12	19933-19934	,	*[125]	Direct Quote[125]	
+161-13	19935-19936	"	*[125]	Direct Quote[125]	
+161-14	19937-19940	the	_	_	
+161-15	19941-19953	restrictions	_	_	
+161-16	19954-19956	on	_	_	
+161-17	19957-19968	potentially	_	_	
+161-18	19969-19980	responsible	_	_	
+161-19	19981-19988	parties	_	_	
+161-20	19989-19993	fade	_	_	
+161-21	19994-19998	away	_	_	
+161-22	19999-20000	.	_	_	
+
+#Text=But this project is well on its way to the half - century mark and still only a " preliminary " deadline lies on the horizon .
+162-1	20002-20005	But	_	_	
+162-2	20006-20010	this	_	_	
+162-3	20011-20018	project	_	_	
+162-4	20019-20021	is	_	_	
+162-5	20022-20026	well	_	_	
+162-6	20027-20029	on	_	_	
+162-7	20030-20033	its	_	_	
+162-8	20034-20037	way	_	_	
+162-9	20038-20040	to	_	_	
+162-10	20041-20044	the	_	_	
+162-11	20045-20049	half	_	_	
+162-12	20050-20051	-	_	_	
+162-13	20052-20059	century	_	_	
+162-14	20060-20064	mark	_	_	
+162-15	20065-20068	and	_	_	
+162-16	20069-20074	still	_	_	
+162-17	20075-20079	only	_	_	
+162-18	20080-20081	a	_	_	
+162-19	20082-20083	"	*[126]	Direct Quote[126]	
+162-20	20084-20095	preliminary	*[126]	Direct Quote[126]	
+162-21	20096-20097	"	*[126]	Direct Quote[126]	
+162-22	20098-20106	deadline	_	_	
+162-23	20107-20111	lies	_	_	
+162-24	20112-20114	on	_	_	
+162-25	20115-20118	the	_	_	
+162-26	20119-20126	horizon	_	_	
+162-27	20127-20128	.	_	_	
+
+#Text=No one before us will even hazard a guess when the work will finish and a " delisting " might come .
+163-1	20130-20132	No	_	_	
+163-2	20133-20136	one	_	_	
+163-3	20137-20143	before	_	_	
+163-4	20144-20146	us	_	_	
+163-5	20147-20151	will	_	_	
+163-6	20152-20156	even	_	_	
+163-7	20157-20163	hazard	_	_	
+163-8	20164-20165	a	_	_	
+163-9	20166-20171	guess	_	_	
+163-10	20172-20176	when	_	_	
+163-11	20177-20180	the	_	_	
+163-12	20181-20185	work	_	_	
+163-13	20186-20190	will	_	_	
+163-14	20191-20197	finish	_	_	
+163-15	20198-20201	and	_	_	
+163-16	20202-20203	a	_	_	
+163-17	20204-20205	"	*[127]	Direct Quote[127]	
+163-18	20206-20215	delisting	*[127]	Direct Quote[127]	
+163-19	20216-20217	"	*[127]	Direct Quote[127]	
+163-20	20218-20223	might	_	_	
+163-21	20224-20228	come	_	_	
+163-22	20229-20230	.	_	_	
+
+#Text=On Atlantic Richfield 's view , generations have come and gone and more may follow before the plaintiffs can clean their land .
+164-1	20232-20234	On	_	_	
+164-2	20235-20243	Atlantic	_	_	
+164-3	20244-20253	Richfield	_	_	
+164-4	20254-20256	's	_	_	
+164-5	20257-20261	view	_	_	
+164-6	20262-20263	,	_	_	
+164-7	20264-20275	generations	_	_	
+164-8	20276-20280	have	_	_	
+164-9	20281-20285	come	_	_	
+164-10	20286-20289	and	_	_	
+164-11	20290-20294	gone	_	_	
+164-12	20295-20298	and	_	_	
+164-13	20299-20303	more	_	_	
+164-14	20304-20307	may	_	_	
+164-15	20308-20314	follow	_	_	
+164-16	20315-20321	before	_	_	
+164-17	20322-20325	the	_	_	
+164-18	20326-20336	plaintiffs	_	_	
+164-19	20337-20340	can	_	_	
+164-20	20341-20346	clean	_	_	
+164-21	20347-20352	their	_	_	
+164-22	20353-20357	land	_	_	
+164-23	20358-20359	.	_	_	
+
+#Text=The real problem , of course , is that Congress , not this Court , is supposed to make judgments between competing policy arguments like these .
+165-1	20361-20364	The	_	_	
+165-2	20365-20369	real	_	_	
+165-3	20370-20377	problem	_	_	
+165-4	20378-20379	,	_	_	
+165-5	20380-20382	of	_	_	
+165-6	20383-20389	course	_	_	
+165-7	20390-20391	,	_	_	
+165-8	20392-20394	is	_	_	
+165-9	20395-20399	that	_	_	
+165-10	20400-20408	Congress	_	_	
+165-11	20409-20410	,	_	_	
+165-12	20411-20414	not	_	_	
+165-13	20415-20419	this	_	_	
+165-14	20420-20425	Court	_	_	
+165-15	20426-20427	,	_	_	
+165-16	20428-20430	is	_	_	
+165-17	20431-20439	supposed	_	_	
+165-18	20440-20442	to	_	_	
+165-19	20443-20447	make	_	_	
+165-20	20448-20457	judgments	_	_	
+165-21	20458-20465	between	_	_	
+165-22	20466-20475	competing	_	_	
+165-23	20476-20482	policy	_	_	
+165-24	20483-20492	arguments	_	_	
+165-25	20493-20497	like	_	_	
+165-26	20498-20503	these	_	_	
+165-27	20504-20505	.	_	_	
+
+#Text=And , as we 've seen , Congress has offered its judgment repeatedly and clearly .
+166-1	20507-20510	And	_	_	
+166-2	20511-20512	,	_	_	
+166-3	20513-20515	as	_	_	
+166-4	20516-20518	we	_	_	
+166-5	20519-20522	've	_	_	
+166-6	20523-20527	seen	_	_	
+166-7	20528-20529	,	_	_	
+166-8	20530-20538	Congress	_	_	
+166-9	20539-20542	has	_	_	
+166-10	20543-20550	offered	_	_	
+166-11	20551-20554	its	_	_	
+166-12	20555-20563	judgment	_	_	
+166-13	20564-20574	repeatedly	_	_	
+166-14	20575-20578	and	_	_	
+166-15	20579-20586	clearly	_	_	
+166-16	20587-20588	.	_	_	
+
+#Text=CERCLA sought to add to , not detract from , state law remedial efforts .
+167-1	20590-20596	CERCLA	*	Legal Source	
+167-2	20597-20603	sought	_	_	
+167-3	20604-20606	to	_	_	
+167-4	20607-20610	add	_	_	
+167-5	20611-20613	to	_	_	
+167-6	20614-20615	,	_	_	
+167-7	20616-20619	not	_	_	
+167-8	20620-20627	detract	_	_	
+167-9	20628-20632	from	_	_	
+167-10	20633-20634	,	_	_	
+167-11	20635-20640	state	_	_	
+167-12	20641-20644	law	_	_	
+167-13	20645-20653	remedial	_	_	
+167-14	20654-20661	efforts	_	_	
+167-15	20662-20663	.	_	_	
+
+#Text=It endorsed a federalized , not a centralized , approach to environmental protection .
+168-1	20665-20667	It	_	_	
+168-2	20668-20676	endorsed	_	_	
+168-3	20677-20678	a	_	_	
+168-4	20679-20690	federalized	_	_	
+168-5	20691-20692	,	_	_	
+168-6	20693-20696	not	_	_	
+168-7	20697-20698	a	_	_	
+168-8	20699-20710	centralized	_	_	
+168-9	20711-20712	,	_	_	
+168-10	20713-20721	approach	_	_	
+168-11	20722-20724	to	_	_	
+168-12	20725-20738	environmental	_	_	
+168-13	20739-20749	protection	_	_	
+168-14	20750-20751	.	_	_	
+
+#Text=What if private or state cleanup efforts really do somehow interfere with federal interests ?
+169-1	20753-20757	What	_	_	
+169-2	20758-20760	if	_	_	
+169-3	20761-20768	private	_	_	
+169-4	20769-20771	or	_	_	
+169-5	20772-20777	state	_	_	
+169-6	20778-20785	cleanup	_	_	
+169-7	20786-20793	efforts	_	_	
+169-8	20794-20800	really	_	_	
+169-9	20801-20803	do	_	_	
+169-10	20804-20811	somehow	_	_	
+169-11	20812-20821	interfere	_	_	
+169-12	20822-20826	with	_	_	
+169-13	20827-20834	federal	_	_	
+169-14	20835-20844	interests	_	_	
+169-15	20845-20846	?	_	_	
+
+#Text=Congress did n't neglect the possibility .
+170-1	20848-20856	Congress	_	_	
+170-2	20857-20860	did	_	_	
+170-3	20861-20864	n't	_	_	
+170-4	20865-20872	neglect	_	_	
+170-5	20873-20876	the	_	_	
+170-6	20877-20888	possibility	_	_	
+170-7	20889-20890	.	_	_	
+
+#Text=But instead of requiring state officials and local landowners to beg Washington for permission , Congress authorized the federal government to seek injunctive relief in court .
+171-1	20892-20895	But	_	_	
+171-2	20896-20903	instead	_	_	
+171-3	20904-20906	of	_	_	
+171-4	20907-20916	requiring	_	_	
+171-5	20917-20922	state	_	_	
+171-6	20923-20932	officials	_	_	
+171-7	20933-20936	and	_	_	
+171-8	20937-20942	local	_	_	
+171-9	20943-20953	landowners	_	_	
+171-10	20954-20956	to	_	_	
+171-11	20957-20960	beg	_	_	
+171-12	20961-20971	Washington	_	_	
+171-13	20972-20975	for	_	_	
+171-14	20976-20986	permission	_	_	
+171-15	20987-20988	,	_	_	
+171-16	20989-20997	Congress	_	_	
+171-17	20998-21008	authorized	_	_	
+171-18	21009-21012	the	_	_	
+171-19	21013-21020	federal	_	_	
+171-20	21021-21031	government	_	_	
+171-21	21032-21034	to	_	_	
+171-22	21035-21039	seek	_	_	
+171-23	21040-21050	injunctive	_	_	
+171-24	21051-21057	relief	_	_	
+171-25	21058-21060	in	_	_	
+171-26	21061-21066	court	_	_	
+171-27	21067-21068	.	_	_	
+
+#Text=See § 9606(a ) .
+172-1	21070-21073	See	_	_	
+172-2	21074-21075	§	*[128]	Legal Source[128]	
+172-3	21076-21082	9606(a	*[128]	Legal Source[128]	
+172-4	21083-21084	)	*[128]	Legal Source[128]	
+172-5	21085-21086	.	_	_	
+
+#Text=Atlantic Richfield would have us turn this system upside down , recasting the statute 's presumption in favor of cooperative federalism into a presumption of federal absolutism .
+173-1	21088-21096	Atlantic	_	_	
+173-2	21097-21106	Richfield	_	_	
+173-3	21107-21112	would	_	_	
+173-4	21113-21117	have	_	_	
+173-5	21118-21120	us	_	_	
+173-6	21121-21125	turn	_	_	
+173-7	21126-21130	this	_	_	
+173-8	21131-21137	system	_	_	
+173-9	21138-21144	upside	_	_	
+173-10	21145-21149	down	_	_	
+173-11	21150-21151	,	_	_	
+173-12	21152-21161	recasting	_	_	
+173-13	21162-21165	the	_	_	
+173-14	21166-21173	statute	_	_	
+173-15	21174-21176	's	_	_	
+173-16	21177-21188	presumption	_	_	
+173-17	21189-21191	in	_	_	
+173-18	21192-21197	favor	_	_	
+173-19	21198-21200	of	_	_	
+173-20	21201-21212	cooperative	_	_	
+173-21	21213-21223	federalism	_	_	
+173-22	21224-21228	into	_	_	
+173-23	21229-21230	a	_	_	
+173-24	21231-21242	presumption	_	_	
+173-25	21243-21245	of	_	_	
+173-26	21246-21253	federal	_	_	
+173-27	21254-21264	absolutism	_	_	
+173-28	21265-21266	.	_	_	
+
+#Text=While I agree with the Court 's assessment in Parts I and II of its opinion that we have jurisdiction to hear this case , I can not agree with its ruling on the merits in Part III .
+174-1	21268-21273	While	_	_	
+174-2	21274-21275	I	_	_	
+174-3	21276-21281	agree	_	_	
+174-4	21282-21286	with	_	_	
+174-5	21287-21290	the	_	_	
+174-6	21291-21296	Court	_	_	
+174-7	21297-21299	's	_	_	
+174-8	21300-21310	assessment	_	_	
+174-9	21311-21313	in	_	_	
+174-10	21314-21319	Parts	*[129]	Legal Source[129]	
+174-11	21320-21321	I	*[129]	Legal Source[129]	
+174-12	21322-21325	and	*[129]	Legal Source[129]	
+174-13	21326-21328	II	*[129]	Legal Source[129]	
+174-14	21329-21331	of	_	_	
+174-15	21332-21335	its	_	_	
+174-16	21336-21343	opinion	_	_	
+174-17	21344-21348	that	_	_	
+174-18	21349-21351	we	_	_	
+174-19	21352-21356	have	_	_	
+174-20	21357-21369	jurisdiction	_	_	
+174-21	21370-21372	to	_	_	
+174-22	21373-21377	hear	_	_	
+174-23	21378-21382	this	_	_	
+174-24	21383-21387	case	_	_	
+174-25	21388-21389	,	_	_	
+174-26	21390-21391	I	_	_	
+174-27	21392-21395	can	_	_	
+174-28	21396-21399	not	_	_	
+174-29	21400-21405	agree	_	_	
+174-30	21406-21410	with	_	_	
+174-31	21411-21414	its	_	_	
+174-32	21415-21421	ruling	_	_	
+174-33	21422-21424	on	_	_	
+174-34	21425-21428	the	_	_	
+174-35	21429-21435	merits	_	_	
+174-36	21436-21438	in	_	_	
+174-37	21439-21443	Part	*[130]	Legal Source[130]	
+174-38	21444-21447	III	*[130]	Legal Source[130]	
+174-39	21448-21449	.	_	_	
+
+#Text=Departing from CERCLA 's terms in this way transforms it from a law that supplements state environmental restoration efforts into one that prohibits them .
+175-1	21451-21460	Departing	_	_	
+175-2	21461-21465	from	_	_	
+175-3	21466-21472	CERCLA	*	Legal Source	
+175-4	21473-21475	's	_	_	
+175-5	21476-21481	terms	_	_	
+175-6	21482-21484	in	_	_	
+175-7	21485-21489	this	_	_	
+175-8	21490-21493	way	_	_	
+175-9	21494-21504	transforms	_	_	
+175-10	21505-21507	it	_	_	
+175-11	21508-21512	from	_	_	
+175-12	21513-21514	a	_	_	
+175-13	21515-21518	law	_	_	
+175-14	21519-21523	that	_	_	
+175-15	21524-21535	supplements	_	_	
+175-16	21536-21541	state	_	_	
+175-17	21542-21555	environmental	_	_	
+175-18	21556-21567	restoration	_	_	
+175-19	21568-21575	efforts	_	_	
+175-20	21576-21580	into	_	_	
+175-21	21581-21584	one	_	_	
+175-22	21585-21589	that	_	_	
+175-23	21590-21599	prohibits	_	_	
+175-24	21600-21604	them	_	_	
+175-25	21605-21606	.	_	_	
+
+#Text=Along the way , it strips away ancient common law rights from innocent landowners and forces them to suffer toxic waste in their backyards , playgrounds , and farms .
+176-1	21608-21613	Along	_	_	
+176-2	21614-21617	the	_	_	
+176-3	21618-21621	way	_	_	
+176-4	21622-21623	,	_	_	
+176-5	21624-21626	it	_	_	
+176-6	21627-21633	strips	_	_	
+176-7	21634-21638	away	_	_	
+176-8	21639-21646	ancient	_	_	
+176-9	21647-21653	common	_	_	
+176-10	21654-21657	law	_	_	
+176-11	21658-21664	rights	_	_	
+176-12	21665-21669	from	_	_	
+176-13	21670-21678	innocent	_	_	
+176-14	21679-21689	landowners	_	_	
+176-15	21690-21693	and	_	_	
+176-16	21694-21700	forces	_	_	
+176-17	21701-21705	them	_	_	
+176-18	21706-21708	to	_	_	
+176-19	21709-21715	suffer	_	_	
+176-20	21716-21721	toxic	_	_	
+176-21	21722-21727	waste	_	_	
+176-22	21728-21730	in	_	_	
+176-23	21731-21736	their	_	_	
+176-24	21737-21746	backyards	_	_	
+176-25	21747-21748	,	_	_	
+176-26	21749-21760	playgrounds	_	_	
+176-27	21761-21762	,	_	_	
+176-28	21763-21766	and	_	_	
+176-29	21767-21772	farms	_	_	
+176-30	21773-21774	.	_	_	
+
+#Text=Respectfully , that is not what the law was written to do ; that is what it was written to prevent .
+177-1	21776-21788	Respectfully	_	_	
+177-2	21789-21790	,	_	_	
+177-3	21791-21795	that	_	_	
+177-4	21796-21798	is	_	_	
+177-5	21799-21802	not	_	_	
+177-6	21803-21807	what	_	_	
+177-7	21808-21811	the	_	_	
+177-8	21812-21815	law	_	_	
+177-9	21816-21819	was	_	_	
+177-10	21820-21827	written	_	_	
+177-11	21828-21830	to	_	_	
+177-12	21831-21833	do	_	_	
+177-13	21834-21835	;	_	_	
+177-14	21836-21840	that	_	_	
+177-15	21841-21843	is	_	_	
+177-16	21844-21848	what	_	_	
+177-17	21849-21851	it	_	_	
+177-18	21852-21855	was	_	_	
+177-19	21856-21863	written	_	_	
+177-20	21864-21866	to	_	_	
+177-21	21867-21874	prevent	_	_	
+177-22	21875-21876	.	_	_	

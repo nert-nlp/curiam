@@ -1,0 +1,2673 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice THOMAS , with whom Justice GORSUCH joins , dissenting .
+1-1	0-7	Justice	_	_	
+1-2	8-14	THOMAS	_	_	
+1-3	15-16	,	_	_	
+1-4	17-21	with	_	_	
+1-5	22-26	whom	_	_	
+1-6	27-34	Justice	_	_	
+1-7	35-42	GORSUCH	_	_	
+1-8	43-48	joins	_	_	
+1-9	49-50	,	_	_	
+1-10	51-61	dissenting	_	_	
+1-11	62-63	.	_	_	
+
+#Text=The Clean Water Act ( CWA ) requires a federal permit for " the discharge of any pollutant by any person . "
+2-1	65-68	The	_	_	
+2-2	69-74	Clean	*[1]	Legal Source[1]	
+2-3	75-80	Water	*[1]	Legal Source[1]	
+2-4	81-84	Act	*[1]	Legal Source[1]	
+2-5	85-86	(	*[1]	Legal Source[1]	
+2-6	87-90	CWA	*[1]	Legal Source[1]	
+2-7	91-92	)	*[1]	Legal Source[1]	
+2-8	93-101	requires	_	_	
+2-9	102-103	a	_	_	
+2-10	104-111	federal	_	_	
+2-11	112-118	permit	_	_	
+2-12	119-122	for	_	_	
+2-13	123-124	"	*[2]	Direct Quote[2]	
+2-14	125-128	the	*[2]	Direct Quote[2]	
+2-15	129-138	discharge	*[2]	Direct Quote[2]	
+2-16	139-141	of	*[2]	Direct Quote[2]	
+2-17	142-145	any	*[2]	Direct Quote[2]	
+2-18	146-155	pollutant	*[2]	Direct Quote[2]	
+2-19	156-158	by	*[2]	Direct Quote[2]	
+2-20	159-162	any	*[2]	Direct Quote[2]	
+2-21	163-169	person	*[2]	Direct Quote[2]	
+2-22	170-171	.	*[2]	Direct Quote[2]	
+2-23	172-173	"	*[2]	Direct Quote[2]	
+
+#Text=33 U.S.C. § 1311 ( a ) ; see § 1342 .
+3-1	175-177	33	*[3]	Legal Source[3]	
+3-2	178-184	U.S.C.	*[3]	Legal Source[3]	
+3-3	185-186	§	*[3]	Legal Source[3]	
+3-4	187-191	1311	*[3]	Legal Source[3]	
+3-5	192-193	(	*[3]	Legal Source[3]	
+3-6	194-195	a	*[3]	Legal Source[3]	
+3-7	196-197	)	*[3]	Legal Source[3]	
+3-8	198-199	;	_	_	
+3-9	200-203	see	*[4]	Legal Source[4]	
+3-10	204-205	§	*[4]	Legal Source[4]	
+3-11	206-210	1342	*[4]	Legal Source[4]	
+3-12	211-212	.	_	_	
+
+#Text=The CWA defines a " discharge " as " any addition of any pollutant to navigable waters from any point source . "
+4-1	214-217	The	_	_	
+4-2	218-221	CWA	*	Legal Source	
+4-3	222-229	defines	*	Metalinguistic Cue	
+4-4	230-231	a	_	_	
+4-5	232-233	"	*[5]	Direct Quote[5]	
+4-6	234-243	discharge	*[5]|*[6]	Direct Quote[5]|Focal Term[6]	
+4-7	244-245	"	*[5]	Direct Quote[5]	
+4-8	246-248	as	_	_	
+4-9	249-250	"	*[7]	Direct Quote[7]	
+4-10	251-254	any	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-11	255-263	addition	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-12	264-266	of	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-13	267-270	any	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-14	271-280	pollutant	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-15	281-283	to	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-16	284-293	navigable	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-17	294-300	waters	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-18	301-305	from	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-19	306-309	any	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-20	310-315	point	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-21	316-322	source	*[7]|*[8]	Direct Quote[7]|Definition[8]	
+4-22	323-324	.	*[7]	Direct Quote[7]	
+4-23	325-326	"	*[7]	Direct Quote[7]	
+
+#Text=§ 1362(12 ) .
+5-1	328-329	§	*[9]	Legal Source[9]	
+5-2	330-337	1362(12	*[9]	Legal Source[9]	
+5-3	338-339	)	*[9]	Legal Source[9]	
+5-4	340-341	.	_	_	
+
+#Text=Based on the statutory text and structure , I would hold that a permit is required only when a point source discharges pollutants directly into navigable waters .
+6-1	343-348	Based	_	_	
+6-2	349-351	on	_	_	
+6-3	352-355	the	_	_	
+6-4	356-365	statutory	*[10]	Metalinguistic Cue[10]	
+6-5	366-370	text	*[10]	Metalinguistic Cue[10]	
+6-6	371-374	and	*[10]	Metalinguistic Cue[10]	
+6-7	375-384	structure	*[10]	Metalinguistic Cue[10]	
+6-8	385-386	,	_	_	
+6-9	387-388	I	_	_	
+6-10	389-394	would	_	_	
+6-11	395-399	hold	_	_	
+6-12	400-404	that	_	_	
+6-13	405-406	a	_	_	
+6-14	407-413	permit	_	_	
+6-15	414-416	is	_	_	
+6-16	417-425	required	_	_	
+6-17	426-430	only	_	_	
+6-18	431-435	when	_	_	
+6-19	436-437	a	_	_	
+6-20	438-443	point	_	_	
+6-21	444-450	source	_	_	
+6-22	451-461	discharges	_	_	
+6-23	462-472	pollutants	_	_	
+6-24	473-481	directly	_	_	
+6-25	482-486	into	_	_	
+6-26	487-496	navigable	_	_	
+6-27	497-503	waters	_	_	
+6-28	504-505	.	_	_	
+
+#Text=The Court adopts this interpretation in part , concluding that a permit is required for " a direct discharge . "
+7-1	507-510	The	_	_	
+7-2	511-516	Court	_	_	
+7-3	517-523	adopts	_	_	
+7-4	524-528	this	_	_	
+7-5	529-543	interpretation	*	Metalinguistic Cue	
+7-6	544-546	in	_	_	
+7-7	547-551	part	_	_	
+7-8	552-553	,	_	_	
+7-9	554-564	concluding	_	_	
+7-10	565-569	that	_	_	
+7-11	570-571	a	_	_	
+7-12	572-578	permit	_	_	
+7-13	579-581	is	_	_	
+7-14	582-590	required	_	_	
+7-15	591-594	for	_	_	
+7-16	595-596	"	*[11]	Direct Quote[11]	
+7-17	597-598	a	*[11]	Direct Quote[11]	
+7-18	599-605	direct	*[11]	Direct Quote[11]	
+7-19	606-615	discharge	*[11]	Direct Quote[11]	
+7-20	616-617	.	*[11]	Direct Quote[11]	
+7-21	618-619	"	*[11]	Direct Quote[11]	
+
+#Text=Ante , at 1475 - 1476 .
+8-1	621-625	Ante	*[12]	Legal Source[12]	
+8-2	626-627	,	*[12]	Legal Source[12]	
+8-3	628-630	at	*[12]	Legal Source[12]	
+8-4	631-635	1475	*[12]	Legal Source[12]	
+8-5	636-637	-	*[12]	Legal Source[12]	
+8-6	638-642	1476	*[12]	Legal Source[12]	
+8-7	643-644	.	_	_	
+
+#Text=But the Court then departs from the statutory text by requiring a permit for " the functional equivalent of a direct discharge , " ibid . , which it defines through an open - ended inquiry into congressional intent and practical considerations .
+9-1	646-649	But	_	_	
+9-2	650-653	the	_	_	
+9-3	654-659	Court	_	_	
+9-4	660-664	then	_	_	
+9-5	665-672	departs	_	_	
+9-6	673-677	from	_	_	
+9-7	678-681	the	_	_	
+9-8	682-691	statutory	*[13]	Metalinguistic Cue[13]	
+9-9	692-696	text	*[13]	Metalinguistic Cue[13]	
+9-10	697-699	by	_	_	
+9-11	700-709	requiring	_	_	
+9-12	710-711	a	_	_	
+9-13	712-718	permit	_	_	
+9-14	719-722	for	_	_	
+9-15	723-724	"	*[14]	Direct Quote[14]	
+9-16	725-728	the	*[14]	Direct Quote[14]	
+9-17	729-739	functional	*[14]	Direct Quote[14]	
+9-18	740-750	equivalent	*[14]	Direct Quote[14]	
+9-19	751-753	of	*[14]	Direct Quote[14]	
+9-20	754-755	a	*[14]	Direct Quote[14]	
+9-21	756-762	direct	*[14]	Direct Quote[14]	
+9-22	763-772	discharge	*[14]	Direct Quote[14]	
+9-23	773-774	,	*[14]	Direct Quote[14]	
+9-24	775-776	"	*[14]	Direct Quote[14]	
+9-25	777-781	ibid	*[15]	Legal Source[15]	
+9-26	782-783	.	*[15]	Legal Source[15]	
+9-27	784-785	,	_	_	
+9-28	786-791	which	_	_	
+9-29	792-794	it	_	_	
+9-30	795-802	defines	*	Metalinguistic Cue	
+9-31	803-810	through	_	_	
+9-32	811-813	an	_	_	
+9-33	814-818	open	_	_	
+9-34	819-820	-	_	_	
+9-35	821-826	ended	_	_	
+9-36	827-834	inquiry	_	_	
+9-37	835-839	into	_	_	
+9-38	840-853	congressional	*[16]|*[17]	Metalinguistic Cue[16]|Named Interpretive Rule[17]	
+9-39	854-860	intent	*[16]|*[17]	Metalinguistic Cue[16]|Named Interpretive Rule[17]	
+9-40	861-864	and	_	_	
+9-41	865-874	practical	_	_	
+9-42	875-889	considerations	_	_	
+9-43	890-891	.	_	_	
+
+#Text=Because I would adhere to the text , I respectfully dissent .
+10-1	893-900	Because	*[18]	Appeal to Meaning[18]	
+10-2	901-902	I	*[18]	Appeal to Meaning[18]	
+10-3	903-908	would	*[18]	Appeal to Meaning[18]	
+10-4	909-915	adhere	*[18]	Appeal to Meaning[18]	
+10-5	916-918	to	*[18]	Appeal to Meaning[18]	
+10-6	919-922	the	*[18]	Appeal to Meaning[18]	
+10-7	923-927	text	*[18]|*[19]	Appeal to Meaning[18]|Metalinguistic Cue[19]	
+10-8	928-929	,	*[18]	Appeal to Meaning[18]	
+10-9	930-931	I	*[18]	Appeal to Meaning[18]	
+10-10	932-944	respectfully	*[18]	Appeal to Meaning[18]	
+10-11	945-952	dissent	*[18]	Appeal to Meaning[18]	
+10-12	953-954	.	_	_	
+
+#Text=I
+11-1	956-957	I	_	_	
+
+#Text=A
+12-1	959-960	A	_	_	
+
+#Text=In interpreting the statutory definition of " discharge , " the Court focuses on the word " from , " but the most helpful word is " addition . "
+13-1	962-964	In	_	_	
+13-2	965-977	interpreting	*	Metalinguistic Cue	
+13-3	978-981	the	_	_	
+13-4	982-991	statutory	*[20]	Metalinguistic Cue[20]	
+13-5	992-1002	definition	*[20]	Metalinguistic Cue[20]	
+13-6	1003-1005	of	_	_	
+13-7	1006-1007	"	*[21]	Direct Quote[21]	
+13-8	1008-1017	discharge	*[21]	Direct Quote[21]	
+13-9	1018-1019	,	*[21]	Direct Quote[21]	
+13-10	1020-1021	"	*[21]	Direct Quote[21]	
+13-11	1022-1025	the	_	_	
+13-12	1026-1031	Court	_	_	
+13-13	1032-1039	focuses	_	_	
+13-14	1040-1042	on	_	_	
+13-15	1043-1046	the	_	_	
+13-16	1047-1051	word	*	Metalinguistic Cue	
+13-17	1052-1053	"	*[22]	Direct Quote[22]	
+13-18	1054-1058	from	*[22]|*[23]	Direct Quote[22]|Focal Term[23]	
+13-19	1059-1060	,	*[22]	Direct Quote[22]	
+13-20	1061-1062	"	*[22]	Direct Quote[22]	
+13-21	1063-1066	but	_	_	
+13-22	1067-1070	the	_	_	
+13-23	1071-1075	most	_	_	
+13-24	1076-1083	helpful	_	_	
+13-25	1084-1088	word	*	Metalinguistic Cue	
+13-26	1089-1091	is	_	_	
+13-27	1092-1093	"	*[24]	Direct Quote[24]	
+13-28	1094-1102	addition	*[24]|*[25]	Direct Quote[24]|Focal Term[25]	
+13-29	1103-1104	.	*[24]	Direct Quote[24]	
+13-30	1105-1106	"	*[24]	Direct Quote[24]	
+
+#Text=That word , together with " to " and " from , " limits the meaning of " discharge " to the augmentation of navigable waters .
+14-1	1108-1112	That	_	_	
+14-2	1113-1117	word	*	Metalinguistic Cue	
+14-3	1118-1119	,	_	_	
+14-4	1120-1128	together	_	_	
+14-5	1129-1133	with	_	_	
+14-6	1134-1135	"	*[26]	Direct Quote[26]	
+14-7	1136-1138	to	*[26]|*[27]	Direct Quote[26]|Focal Term[27]	
+14-8	1139-1140	"	*[26]	Direct Quote[26]	
+14-9	1141-1144	and	_	_	
+14-10	1145-1146	"	*[28]	Direct Quote[28]	
+14-11	1147-1151	from	*[28]|*[29]	Direct Quote[28]|Focal Term[29]	
+14-12	1152-1153	,	*[28]	Direct Quote[28]	
+14-13	1154-1155	"	*[28]	Direct Quote[28]	
+14-14	1156-1162	limits	_	_	
+14-15	1163-1166	the	_	_	
+14-16	1167-1174	meaning	*	Metalinguistic Cue	
+14-17	1175-1177	of	_	_	
+14-18	1178-1179	"	*[30]	Direct Quote[30]	
+14-19	1180-1189	discharge	*[30]|*[31]	Direct Quote[30]|Focal Term[31]	
+14-20	1190-1191	"	*[30]	Direct Quote[30]	
+14-21	1192-1194	to	_	_	
+14-22	1195-1198	the	*[32]	Definition[32]	
+14-23	1199-1211	augmentation	*[32]	Definition[32]	
+14-24	1212-1214	of	*[32]	Definition[32]	
+14-25	1215-1224	navigable	*[32]	Definition[32]	
+14-26	1225-1231	waters	*[32]	Definition[32]	
+14-27	1232-1233	.	_	_	
+
+#Text=Dictionary definitions of " addition " denote an augmentation or increase .
+15-1	1235-1245	Dictionary	*[33]	Metalinguistic Cue[33]	
+15-2	1246-1257	definitions	*[33]	Metalinguistic Cue[33]	
+15-3	1258-1260	of	_	_	
+15-4	1261-1262	"	*[34]	Direct Quote[34]	
+15-5	1263-1271	addition	*[34]|*[35]	Direct Quote[34]|Focal Term[35]	
+15-6	1272-1273	"	*[34]	Direct Quote[34]	
+15-7	1274-1280	denote	*	Metalinguistic Cue	
+15-8	1281-1283	an	*[36]	Definition[36]	
+15-9	1284-1296	augmentation	*[36]	Definition[36]	
+15-10	1297-1299	or	*[36]	Definition[36]	
+15-11	1300-1308	increase	*[36]	Definition[36]	
+15-12	1309-1310	.	_	_	
+
+#Text=Webster 's Third New International Dictionary defines " addition " as " the act or process of adding : the joining or uniting of one thing to another . "
+16-1	1312-1319	Webster	*[37]	Language Source[37]	
+16-2	1320-1322	's	*[37]	Language Source[37]	
+16-3	1323-1328	Third	*[37]	Language Source[37]	
+16-4	1329-1332	New	*[37]	Language Source[37]	
+16-5	1333-1346	International	*[37]	Language Source[37]	
+16-6	1347-1357	Dictionary	*[37]	Language Source[37]	
+16-7	1358-1365	defines	*	Metalinguistic Cue	
+16-8	1366-1367	"	*[38]	Direct Quote[38]	
+16-9	1368-1376	addition	*[38]|*[39]	Direct Quote[38]|Focal Term[39]	
+16-10	1377-1378	"	*[38]	Direct Quote[38]	
+16-11	1379-1381	as	_	_	
+16-12	1382-1383	"	*[40]	Direct Quote[40]	
+16-13	1384-1387	the	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-14	1388-1391	act	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-15	1392-1394	or	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-16	1395-1402	process	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-17	1403-1405	of	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-18	1406-1412	adding	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-19	1413-1414	:	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-20	1415-1418	the	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-21	1419-1426	joining	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-22	1427-1429	or	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-23	1430-1437	uniting	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-24	1438-1440	of	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-25	1441-1444	one	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-26	1445-1450	thing	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-27	1451-1453	to	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-28	1454-1461	another	*[40]|*[41]	Direct Quote[40]|Definition[41]	
+16-29	1462-1463	.	*[40]	Direct Quote[40]	
+16-30	1464-1465	"	*[40]	Direct Quote[40]	
+
+#Text=Webster 's Third New International Dictionary 24 ( 1961 ) ; see also ibid .
+17-1	1467-1474	Webster	*[42]	Language Source[42]	
+17-2	1475-1477	's	*[42]	Language Source[42]	
+17-3	1478-1483	Third	*[42]	Language Source[42]	
+17-4	1484-1487	New	*[42]	Language Source[42]	
+17-5	1488-1501	International	*[42]	Language Source[42]	
+17-6	1502-1512	Dictionary	*[42]	Language Source[42]	
+17-7	1513-1515	24	*[42]	Language Source[42]	
+17-8	1516-1517	(	*[42]	Language Source[42]	
+17-9	1518-1522	1961	*[42]	Language Source[42]	
+17-10	1523-1524	)	*[42]	Language Source[42]	
+17-11	1525-1526	;	_	_	
+17-12	1527-1530	see	_	_	
+17-13	1531-1535	also	_	_	
+17-14	1536-1540	ibid	*[43]	Language Source[43]	
+17-15	1541-1542	.	*[43]	Language Source[43]	
+
+#Text=( listing " increase " and " augmentation " as synonyms for " addition " ) .
+18-1	1544-1545	(	_	_	
+18-2	1546-1553	listing	_	_	
+18-3	1554-1555	"	*[44]	Direct Quote[44]	
+18-4	1556-1564	increase	*[44]|*[45]	Direct Quote[44]|Focal Term[45]	
+18-5	1565-1566	"	*[44]	Direct Quote[44]	
+18-6	1567-1570	and	_	_	
+18-7	1571-1572	"	*[46]	Direct Quote[46]	
+18-8	1573-1585	augmentation	*[46]|*[47]	Direct Quote[46]|Focal Term[47]	
+18-9	1586-1587	"	*[46]	Direct Quote[46]	
+18-10	1588-1590	as	_	_	
+18-11	1591-1599	synonyms	*	Metalinguistic Cue	
+18-12	1600-1603	for	_	_	
+18-13	1604-1605	"	*[48]	Direct Quote[48]	
+18-14	1606-1614	addition	*[48]|*[49]	Direct Quote[48]|Focal Term[49]	
+18-15	1615-1616	"	*[48]	Direct Quote[48]	
+18-16	1617-1618	)	_	_	
+18-17	1619-1620	.	_	_	
+
+#Text=Other dictionary definitions from around the time of the statute 's enactment are in accord .
+19-1	1622-1627	Other	_	_	
+19-2	1628-1638	dictionary	*[50]	Metalinguistic Cue[50]	
+19-3	1639-1650	definitions	*[50]	Metalinguistic Cue[50]	
+19-4	1651-1655	from	_	_	
+19-5	1656-1662	around	_	_	
+19-6	1663-1666	the	_	_	
+19-7	1667-1671	time	_	_	
+19-8	1672-1674	of	_	_	
+19-9	1675-1678	the	_	_	
+19-10	1679-1686	statute	_	_	
+19-11	1687-1689	's	_	_	
+19-12	1690-1699	enactment	_	_	
+19-13	1700-1703	are	_	_	
+19-14	1704-1706	in	_	_	
+19-15	1707-1713	accord	_	_	
+19-16	1714-1715	.	_	_	
+
+#Text=See , e.g. , American Heritage Dictionary 14 , 15 ( 1981 ) ( defining " addition " as " [ t]he act or process of adding " and defining " add " as " [ t]o join or unite so as to increase in size , quantity , or scope " ) ; see also Webster 's New International Dictionary 29 , 30 ( 2d ed . 1957 ) ( defining " addition " as the " [ a]ct , process , or instance of adding , " and defining " add " as to " join or unite , as one thing to another , or as several particulars , so as to increase the number , augment the quantity , enlarge the magnitude , or so as to form into one aggregate " ) .
+20-1	1717-1720	See	_	_	
+20-2	1721-1722	,	_	_	
+20-3	1723-1727	e.g.	_	_	
+20-4	1728-1729	,	_	_	
+20-5	1730-1738	American	*[51]	Language Source[51]	
+20-6	1739-1747	Heritage	*[51]	Language Source[51]	
+20-7	1748-1758	Dictionary	*[51]	Language Source[51]	
+20-8	1759-1761	14	*[51]	Language Source[51]	
+20-9	1762-1763	,	*[51]	Language Source[51]	
+20-10	1764-1766	15	*[51]	Language Source[51]	
+20-11	1767-1768	(	*[51]	Language Source[51]	
+20-12	1769-1773	1981	*[51]	Language Source[51]	
+20-13	1774-1775	)	*[51]	Language Source[51]	
+20-14	1776-1777	(	_	_	
+20-15	1778-1786	defining	*	Metalinguistic Cue	
+20-16	1787-1788	"	*[52]	Direct Quote[52]	
+20-17	1789-1797	addition	*[52]|*[53]	Direct Quote[52]|Focal Term[53]	
+20-18	1798-1799	"	*[52]	Direct Quote[52]	
+20-19	1800-1802	as	_	_	
+20-20	1803-1804	"	*[54]	Direct Quote[54]	
+20-21	1805-1806	[	*[54]|*[55]	Direct Quote[54]|Definition[55]	
+20-22	1807-1811	t]he	*[54]|*[55]	Direct Quote[54]|Definition[55]	
+20-23	1812-1815	act	*[54]|*[55]	Direct Quote[54]|Definition[55]	
+20-24	1816-1818	or	*[54]|*[55]	Direct Quote[54]|Definition[55]	
+20-25	1819-1826	process	*[54]|*[55]	Direct Quote[54]|Definition[55]	
+20-26	1827-1829	of	*[54]|*[55]	Direct Quote[54]|Definition[55]	
+20-27	1830-1836	adding	*[54]|*[55]	Direct Quote[54]|Definition[55]	
+20-28	1837-1838	"	*[54]	Direct Quote[54]	
+20-29	1839-1842	and	_	_	
+20-30	1843-1851	defining	*	Metalinguistic Cue	
+20-31	1852-1853	"	*[56]	Direct Quote[56]	
+20-32	1854-1857	add	*[56]|*[57]	Direct Quote[56]|Focal Term[57]	
+20-33	1858-1859	"	*[56]	Direct Quote[56]	
+20-34	1860-1862	as	_	_	
+20-35	1863-1864	"	*[58]	Direct Quote[58]	
+20-36	1865-1866	[	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-37	1867-1870	t]o	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-38	1871-1875	join	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-39	1876-1878	or	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-40	1879-1884	unite	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-41	1885-1887	so	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-42	1888-1890	as	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-43	1891-1893	to	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-44	1894-1902	increase	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-45	1903-1905	in	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-46	1906-1910	size	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-47	1911-1912	,	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-48	1913-1921	quantity	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-49	1922-1923	,	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-50	1924-1926	or	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-51	1927-1932	scope	*[58]|*[59]	Direct Quote[58]|Definition[59]	
+20-52	1933-1934	"	*[58]	Direct Quote[58]	
+20-53	1935-1936	)	_	_	
+20-54	1937-1938	;	_	_	
+20-55	1939-1942	see	_	_	
+20-56	1943-1947	also	_	_	
+20-57	1948-1955	Webster	*[60]	Language Source[60]	
+20-58	1956-1958	's	*[60]	Language Source[60]	
+20-59	1959-1962	New	*[60]	Language Source[60]	
+20-60	1963-1976	International	*[60]	Language Source[60]	
+20-61	1977-1987	Dictionary	*[60]	Language Source[60]	
+20-62	1988-1990	29	*[60]	Language Source[60]	
+20-63	1991-1992	,	*[60]	Language Source[60]	
+20-64	1993-1995	30	*[60]	Language Source[60]	
+20-65	1996-1997	(	*[60]	Language Source[60]	
+20-66	1998-2000	2d	*[60]	Language Source[60]	
+20-67	2001-2003	ed	*[60]	Language Source[60]	
+20-68	2004-2005	.	*[60]	Language Source[60]	
+20-69	2006-2010	1957	*[60]	Language Source[60]	
+20-70	2011-2012	)	*[60]	Language Source[60]	
+20-71	2013-2014	(	_	_	
+20-72	2015-2023	defining	*	Metalinguistic Cue	
+20-73	2024-2025	"	*[61]	Direct Quote[61]	
+20-74	2026-2034	addition	*[61]|*[62]	Direct Quote[61]|Focal Term[62]	
+20-75	2035-2036	"	*[61]	Direct Quote[61]	
+20-76	2037-2039	as	_	_	
+20-77	2040-2043	the	_	_	
+20-78	2044-2045	"	*[63]	Direct Quote[63]	
+20-79	2046-2047	[	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+20-80	2048-2052	a]ct	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+20-81	2053-2054	,	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+20-82	2055-2062	process	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+20-83	2063-2064	,	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+20-84	2065-2067	or	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+20-85	2068-2076	instance	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+20-86	2077-2079	of	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+20-87	2080-2086	adding	*[63]|*[64]	Direct Quote[63]|Definition[64]	
+20-88	2087-2088	,	*[63]	Direct Quote[63]	
+20-89	2089-2090	"	*[63]	Direct Quote[63]	
+20-90	2091-2094	and	_	_	
+20-91	2095-2103	defining	*	Metalinguistic Cue	
+20-92	2104-2105	"	*[65]	Direct Quote[65]	
+20-93	2106-2109	add	*[65]|*[66]	Direct Quote[65]|Focal Term[66]	
+20-94	2110-2111	"	*[65]	Direct Quote[65]	
+20-95	2112-2114	as	_	_	
+20-96	2115-2117	to	_	_	
+20-97	2118-2119	"	*[67]	Direct Quote[67]	
+20-98	2120-2124	join	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-99	2125-2127	or	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-100	2128-2133	unite	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-101	2134-2135	,	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-102	2136-2138	as	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-103	2139-2142	one	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-104	2143-2148	thing	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-105	2149-2151	to	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-106	2152-2159	another	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-107	2160-2161	,	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-108	2162-2164	or	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-109	2165-2167	as	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-110	2168-2175	several	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-111	2176-2187	particulars	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-112	2188-2189	,	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-113	2190-2192	so	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-114	2193-2195	as	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-115	2196-2198	to	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-116	2199-2207	increase	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-117	2208-2211	the	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-118	2212-2218	number	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-119	2219-2220	,	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-120	2221-2228	augment	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-121	2229-2232	the	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-122	2233-2241	quantity	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-123	2242-2243	,	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-124	2244-2251	enlarge	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-125	2252-2255	the	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-126	2256-2265	magnitude	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-127	2266-2267	,	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-128	2268-2270	or	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-129	2271-2273	so	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-130	2274-2276	as	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-131	2277-2279	to	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-132	2280-2284	form	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-133	2285-2289	into	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-134	2290-2293	one	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-135	2294-2303	aggregate	*[67]|*[68]	Direct Quote[67]|Definition[68]	
+20-136	2304-2305	"	*[67]	Direct Quote[67]	
+20-137	2306-2307	)	_	_	
+20-138	2308-2309	.	_	_	
+
+#Text=The inclusion of the term " addition " in the CWA indicates that the statute excludes anything other than a direct discharge .
+21-1	2311-2314	The	_	_	
+21-2	2315-2324	inclusion	_	_	
+21-3	2325-2327	of	_	_	
+21-4	2328-2331	the	_	_	
+21-5	2332-2336	term	*	Metalinguistic Cue	
+21-6	2337-2338	"	*[69]	Direct Quote[69]	
+21-7	2339-2347	addition	*[69]|*[70]	Direct Quote[69]|Focal Term[70]	
+21-8	2348-2349	"	*[69]	Direct Quote[69]	
+21-9	2350-2352	in	_	_	
+21-10	2353-2356	the	_	_	
+21-11	2357-2360	CWA	*	Legal Source	
+21-12	2361-2370	indicates	_	_	
+21-13	2371-2375	that	_	_	
+21-14	2376-2379	the	_	_	
+21-15	2380-2387	statute	_	_	
+21-16	2388-2396	excludes	_	_	
+21-17	2397-2405	anything	_	_	
+21-18	2406-2411	other	_	_	
+21-19	2412-2416	than	_	_	
+21-20	2417-2418	a	_	_	
+21-21	2419-2425	direct	_	_	
+21-22	2426-2435	discharge	_	_	
+21-23	2436-2437	.	_	_	
+
+#Text=When a point source releases pollutants to groundwater , one would naturally say that the groundwater has been augmented with pollutants from the point source .
+22-1	2439-2443	When	*[71]	Example Use[71]	
+22-2	2444-2445	a	*[71]	Example Use[71]	
+22-3	2446-2451	point	*[71]	Example Use[71]	
+22-4	2452-2458	source	*[71]	Example Use[71]	
+22-5	2459-2467	releases	*[71]	Example Use[71]	
+22-6	2468-2478	pollutants	*[71]	Example Use[71]	
+22-7	2479-2481	to	*[71]	Example Use[71]	
+22-8	2482-2493	groundwater	*[71]	Example Use[71]	
+22-9	2494-2495	,	*[71]	Example Use[71]	
+22-10	2496-2499	one	*[71]	Example Use[71]	
+22-11	2500-2505	would	*[71]	Example Use[71]	
+22-12	2506-2515	naturally	*[71]	Example Use[71]	
+22-13	2516-2519	say	*[71]	Example Use[71]	
+22-14	2520-2524	that	*[71]	Example Use[71]	
+22-15	2525-2528	the	*[71]	Example Use[71]	
+22-16	2529-2540	groundwater	*[71]	Example Use[71]	
+22-17	2541-2544	has	*[71]	Example Use[71]	
+22-18	2545-2549	been	*[71]	Example Use[71]	
+22-19	2550-2559	augmented	*[71]|*[72]	Example Use[71]|Focal Term[72]	
+22-20	2560-2564	with	*[71]	Example Use[71]	
+22-21	2565-2575	pollutants	*[71]	Example Use[71]	
+22-22	2576-2580	from	*[71]	Example Use[71]	
+22-23	2581-2584	the	*[71]	Example Use[71]	
+22-24	2585-2590	point	*[71]	Example Use[71]	
+22-25	2591-2597	source	*[71]	Example Use[71]	
+22-26	2598-2599	.	_	_	
+
+#Text=If the pollutants eventually reach navigable waters , one would not naturally say that the navigable waters have been augmented with pollutants from the point source .
+23-1	2601-2603	If	*[73]	Example Use[73]	
+23-2	2604-2607	the	*[73]	Example Use[73]	
+23-3	2608-2618	pollutants	*[73]	Example Use[73]	
+23-4	2619-2629	eventually	*[73]	Example Use[73]	
+23-5	2630-2635	reach	*[73]	Example Use[73]	
+23-6	2636-2645	navigable	*[73]	Example Use[73]	
+23-7	2646-2652	waters	*[73]	Example Use[73]	
+23-8	2653-2654	,	*[73]	Example Use[73]	
+23-9	2655-2658	one	*[73]	Example Use[73]	
+23-10	2659-2664	would	*[73]	Example Use[73]	
+23-11	2665-2668	not	*[73]	Example Use[73]	
+23-12	2669-2678	naturally	*[73]	Example Use[73]	
+23-13	2679-2682	say	*[73]	Example Use[73]	
+23-14	2683-2687	that	*[73]	Example Use[73]	
+23-15	2688-2691	the	*[73]	Example Use[73]	
+23-16	2692-2701	navigable	*[73]	Example Use[73]	
+23-17	2702-2708	waters	*[73]	Example Use[73]	
+23-18	2709-2713	have	*[73]	Example Use[73]	
+23-19	2714-2718	been	*[73]	Example Use[73]	
+23-20	2719-2728	augmented	*[73]|*[74]	Example Use[73]|Focal Term[74]	
+23-21	2729-2733	with	*[73]	Example Use[73]	
+23-22	2734-2744	pollutants	*[73]	Example Use[73]	
+23-23	2745-2749	from	*[73]	Example Use[73]	
+23-24	2750-2753	the	*[73]	Example Use[73]	
+23-25	2754-2759	point	*[73]	Example Use[73]	
+23-26	2760-2766	source	*[73]	Example Use[73]	
+23-27	2767-2768	.	_	_	
+
+#Text=The augmentation instead occurs with pollutants from the groundwater .
+24-1	2770-2773	The	_	_	
+24-2	2774-2786	augmentation	_	_	
+24-3	2787-2794	instead	_	_	
+24-4	2795-2801	occurs	_	_	
+24-5	2802-2806	with	_	_	
+24-6	2807-2817	pollutants	_	_	
+24-7	2818-2822	from	_	_	
+24-8	2823-2826	the	_	_	
+24-9	2827-2838	groundwater	_	_	
+24-10	2839-2840	.	_	_	
+
+#Text=The prepositions " from " and " to " reinforce this reading .
+25-1	2842-2845	The	_	_	
+25-2	2846-2858	prepositions	*	Metalinguistic Cue	
+25-3	2859-2860	"	*[75]	Direct Quote[75]	
+25-4	2861-2865	from	*[75]|*[76]	Direct Quote[75]|Focal Term[76]	
+25-5	2866-2867	"	*[75]	Direct Quote[75]	
+25-6	2868-2871	and	_	_	
+25-7	2872-2873	"	*[77]	Direct Quote[77]	
+25-8	2874-2876	to	*[77]|*[78]	Direct Quote[77]|Focal Term[78]	
+25-9	2877-2878	"	*[77]	Direct Quote[77]	
+25-10	2879-2888	reinforce	_	_	
+25-11	2889-2893	this	_	_	
+25-12	2894-2901	reading	*	Metalinguistic Cue	
+25-13	2902-2903	.	_	_	
+
+#Text=When pollutants are released from a point source to another point source or groundwater , they are added to the second from the first .
+26-1	2905-2909	When	*[79]	Example Use[79]	
+26-2	2910-2920	pollutants	*[79]	Example Use[79]	
+26-3	2921-2924	are	*[79]	Example Use[79]	
+26-4	2925-2933	released	*[79]	Example Use[79]	
+26-5	2934-2938	from	*[79]	Example Use[79]	
+26-6	2939-2940	a	*[79]	Example Use[79]	
+26-7	2941-2946	point	*[79]	Example Use[79]	
+26-8	2947-2953	source	*[79]	Example Use[79]	
+26-9	2954-2956	to	*[79]	Example Use[79]	
+26-10	2957-2964	another	*[79]	Example Use[79]	
+26-11	2965-2970	point	*[79]	Example Use[79]	
+26-12	2971-2977	source	*[79]	Example Use[79]	
+26-13	2978-2980	or	*[79]	Example Use[79]	
+26-14	2981-2992	groundwater	*[79]	Example Use[79]	
+26-15	2993-2994	,	*[79]	Example Use[79]	
+26-16	2995-2999	they	*[79]	Example Use[79]	
+26-17	3000-3003	are	*[79]	Example Use[79]	
+26-18	3004-3009	added	*[79]|*[80]	Example Use[79]|Focal Term[80]	
+26-19	3010-3012	to	*[79]|*[81]	Example Use[79]|Focal Term[81]	
+26-20	3013-3016	the	*[79]	Example Use[79]	
+26-21	3017-3023	second	*[79]	Example Use[79]	
+26-22	3024-3028	from	*[79]|*[82]	Example Use[79]|Focal Term[82]	
+26-23	3029-3032	the	*[79]	Example Use[79]	
+26-24	3033-3038	first	*[79]	Example Use[79]	
+26-25	3039-3040	.	_	_	
+
+#Text=If the pollutants are later released to navigable waters , they are added to the navigable waters from the second point source or the groundwater .
+27-1	3042-3044	If	*[83]	Example Use[83]	
+27-2	3045-3048	the	*[83]	Example Use[83]	
+27-3	3049-3059	pollutants	*[83]	Example Use[83]	
+27-4	3060-3063	are	*[83]	Example Use[83]	
+27-5	3064-3069	later	*[83]	Example Use[83]	
+27-6	3070-3078	released	*[83]	Example Use[83]	
+27-7	3079-3081	to	*[83]	Example Use[83]	
+27-8	3082-3091	navigable	*[83]	Example Use[83]	
+27-9	3092-3098	waters	*[83]	Example Use[83]	
+27-10	3099-3100	,	*[83]	Example Use[83]	
+27-11	3101-3105	they	*[83]	Example Use[83]	
+27-12	3106-3109	are	*[83]	Example Use[83]	
+27-13	3110-3115	added	*[83]|*[84]	Example Use[83]|Focal Term[84]	
+27-14	3116-3118	to	*[83]|*[85]	Example Use[83]|Focal Term[85]	
+27-15	3119-3122	the	*[83]	Example Use[83]	
+27-16	3123-3132	navigable	*[83]	Example Use[83]	
+27-17	3133-3139	waters	*[83]	Example Use[83]	
+27-18	3140-3144	from	*[83]|*[86]	Example Use[83]|Focal Term[86]	
+27-19	3145-3148	the	*[83]	Example Use[83]	
+27-20	3149-3155	second	*[83]	Example Use[83]	
+27-21	3156-3161	point	*[83]	Example Use[83]	
+27-22	3162-3168	source	*[83]	Example Use[83]	
+27-23	3169-3171	or	*[83]	Example Use[83]	
+27-24	3172-3175	the	*[83]	Example Use[83]	
+27-25	3176-3187	groundwater	*[83]	Example Use[83]	
+27-26	3188-3189	.	_	_	
+
+#Text=One would not naturally say that the pollutants are added to the navigable waters from the original point source .
+28-1	3191-3194	One	*[87]	Example Use[87]	
+28-2	3195-3200	would	*[87]	Example Use[87]	
+28-3	3201-3204	not	*[87]	Example Use[87]	
+28-4	3205-3214	naturally	*[87]	Example Use[87]	
+28-5	3215-3218	say	*[87]	Example Use[87]	
+28-6	3219-3223	that	*[87]	Example Use[87]	
+28-7	3224-3227	the	*[87]	Example Use[87]	
+28-8	3228-3238	pollutants	*[87]	Example Use[87]	
+28-9	3239-3242	are	*[87]	Example Use[87]	
+28-10	3243-3248	added	*[87]|*[88]	Example Use[87]|Focal Term[88]	
+28-11	3249-3251	to	*[87]|*[89]	Example Use[87]|Focal Term[89]	
+28-12	3252-3255	the	*[87]	Example Use[87]	
+28-13	3256-3265	navigable	*[87]	Example Use[87]	
+28-14	3266-3272	waters	*[87]	Example Use[87]	
+28-15	3273-3277	from	*[87]|*[90]	Example Use[87]|Focal Term[90]	
+28-16	3278-3281	the	*[87]	Example Use[87]	
+28-17	3282-3290	original	*[87]	Example Use[87]	
+28-18	3291-3296	point	*[87]	Example Use[87]	
+28-19	3297-3303	source	*[87]	Example Use[87]	
+28-20	3304-3305	.	_	_	
+
+#Text=Interpreting " discharge " to mean a direct discharge makes sense of other parts of the definition as well .
+29-1	3307-3319	Interpreting	*[91]|*[92]	Appeal to Meaning[91]|Metalinguistic Cue[92]	
+29-2	3320-3321	"	*[91]|*[93]	Appeal to Meaning[91]|Direct Quote[93]	
+29-3	3322-3331	discharge	*[91]|*[93]|*[94]	Appeal to Meaning[91]|Direct Quote[93]|Focal Term[94]	
+29-4	3332-3333	"	*[91]|*[93]	Appeal to Meaning[91]|Direct Quote[93]	
+29-5	3334-3336	to	*[91]	Appeal to Meaning[91]	
+29-6	3337-3341	mean	*[91]|*[95]	Appeal to Meaning[91]|Metalinguistic Cue[95]	
+29-7	3342-3343	a	*[91]|*[96]	Appeal to Meaning[91]|Definition[96]	
+29-8	3344-3350	direct	*[91]|*[96]	Appeal to Meaning[91]|Definition[96]	
+29-9	3351-3360	discharge	*[91]|*[96]	Appeal to Meaning[91]|Definition[96]	
+29-10	3361-3366	makes	*[91]	Appeal to Meaning[91]	
+29-11	3367-3372	sense	*[91]	Appeal to Meaning[91]	
+29-12	3373-3375	of	*[91]	Appeal to Meaning[91]	
+29-13	3376-3381	other	*[91]	Appeal to Meaning[91]	
+29-14	3382-3387	parts	*[91]	Appeal to Meaning[91]	
+29-15	3388-3390	of	*[91]	Appeal to Meaning[91]	
+29-16	3391-3394	the	*[91]	Appeal to Meaning[91]	
+29-17	3395-3405	definition	*[91]|*[97]	Appeal to Meaning[91]|Metalinguistic Cue[97]	
+29-18	3406-3408	as	*[91]	Appeal to Meaning[91]	
+29-19	3409-3413	well	*[91]	Appeal to Meaning[91]	
+29-20	3414-3415	.	_	_	
+
+#Text=It respects the statutory definition of a point source as a " conveyance , " see § 1362(14 ) , because a point source that releases pollutants directly into navigable waters is a means of conveyance .
+30-1	3417-3419	It	*[98]	Appeal to Meaning[98]	
+30-2	3420-3428	respects	*[98]	Appeal to Meaning[98]	
+30-3	3429-3432	the	*[98]	Appeal to Meaning[98]	
+30-4	3433-3442	statutory	*[98]|*[99]	Appeal to Meaning[98]|Metalinguistic Cue[99]	
+30-5	3443-3453	definition	*[98]|*[99]	Appeal to Meaning[98]|Metalinguistic Cue[99]	
+30-6	3454-3456	of	*[98]	Appeal to Meaning[98]	
+30-7	3457-3458	a	*[98]	Appeal to Meaning[98]	
+30-8	3459-3464	point	*[98]|*[100]	Appeal to Meaning[98]|Focal Term[100]	
+30-9	3465-3471	source	*[98]|*[100]	Appeal to Meaning[98]|Focal Term[100]	
+30-10	3472-3474	as	*[98]	Appeal to Meaning[98]	
+30-11	3475-3476	a	*[98]|*[101]	Appeal to Meaning[98]|Definition[101]	
+30-12	3477-3478	"	*[98]|*[101]|*[102]	Appeal to Meaning[98]|Definition[101]|Direct Quote[102]	
+30-13	3479-3489	conveyance	*[98]|*[101]|*[102]	Appeal to Meaning[98]|Definition[101]|Direct Quote[102]	
+30-14	3490-3491	,	*[98]|*[102]	Appeal to Meaning[98]|Direct Quote[102]	
+30-15	3492-3493	"	*[98]|*[102]	Appeal to Meaning[98]|Direct Quote[102]	
+30-16	3494-3497	see	*[98]	Appeal to Meaning[98]	
+30-17	3498-3499	§	*[98]|*[103]	Appeal to Meaning[98]|Legal Source[103]	
+30-18	3500-3507	1362(14	*[98]|*[103]	Appeal to Meaning[98]|Legal Source[103]	
+30-19	3508-3509	)	*[98]|*[103]	Appeal to Meaning[98]|Legal Source[103]	
+30-20	3510-3511	,	*[98]	Appeal to Meaning[98]	
+30-21	3512-3519	because	*[98]	Appeal to Meaning[98]	
+30-22	3520-3521	a	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-23	3522-3527	point	*[98]|*[104]|*[105]	Appeal to Meaning[98]|Example Use[104]|Focal Term[105]	
+30-24	3528-3534	source	*[98]|*[104]|*[105]	Appeal to Meaning[98]|Example Use[104]|Focal Term[105]	
+30-25	3535-3539	that	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-26	3540-3548	releases	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-27	3549-3559	pollutants	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-28	3560-3568	directly	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-29	3569-3573	into	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-30	3574-3583	navigable	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-31	3584-3590	waters	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-32	3591-3593	is	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-33	3594-3595	a	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-34	3596-3601	means	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-35	3602-3604	of	*[98]|*[104]	Appeal to Meaning[98]|Example Use[104]	
+30-36	3605-3615	conveyance	*[98]|*[104]|*[106]	Appeal to Meaning[98]|Example Use[104]|Focal Term[106]	
+30-37	3616-3617	.	_	_	
+
+#Text=And it makes sense of the word " any " before " point source , " because that term clarifies that any kind of point source may require a permit .
+31-1	3619-3622	And	*[107]	Appeal to Meaning[107]	
+31-2	3623-3625	it	*[107]	Appeal to Meaning[107]	
+31-3	3626-3631	makes	*[107]	Appeal to Meaning[107]	
+31-4	3632-3637	sense	*[107]	Appeal to Meaning[107]	
+31-5	3638-3640	of	*[107]	Appeal to Meaning[107]	
+31-6	3641-3644	the	*[107]	Appeal to Meaning[107]	
+31-7	3645-3649	word	*[107]|*[108]	Appeal to Meaning[107]|Metalinguistic Cue[108]	
+31-8	3650-3651	"	*[107]|*[109]	Appeal to Meaning[107]|Direct Quote[109]	
+31-9	3652-3655	any	*[107]|*[109]|*[110]	Appeal to Meaning[107]|Direct Quote[109]|Focal Term[110]	
+31-10	3656-3657	"	*[107]|*[109]	Appeal to Meaning[107]|Direct Quote[109]	
+31-11	3658-3664	before	*[107]	Appeal to Meaning[107]	
+31-12	3665-3666	"	*[107]|*[111]	Appeal to Meaning[107]|Direct Quote[111]	
+31-13	3667-3672	point	*[107]|*[111]|*[112]	Appeal to Meaning[107]|Direct Quote[111]|Focal Term[112]	
+31-14	3673-3679	source	*[107]|*[111]|*[112]	Appeal to Meaning[107]|Direct Quote[111]|Focal Term[112]	
+31-15	3680-3681	,	*[107]|*[111]	Appeal to Meaning[107]|Direct Quote[111]	
+31-16	3682-3683	"	*[107]|*[111]	Appeal to Meaning[107]|Direct Quote[111]	
+31-17	3684-3691	because	*[107]	Appeal to Meaning[107]	
+31-18	3692-3696	that	*[107]	Appeal to Meaning[107]	
+31-19	3697-3701	term	*[107]|*[113]	Appeal to Meaning[107]|Metalinguistic Cue[113]	
+31-20	3702-3711	clarifies	*[107]|*[114]	Appeal to Meaning[107]|Metalinguistic Cue[114]	
+31-21	3712-3716	that	*[107]	Appeal to Meaning[107]	
+31-22	3717-3720	any	*[107]|*[115]	Appeal to Meaning[107]|Focal Term[115]	
+31-23	3721-3725	kind	*[107]|*[115]	Appeal to Meaning[107]|Focal Term[115]	
+31-24	3726-3728	of	*[107]|*[115]	Appeal to Meaning[107]|Focal Term[115]	
+31-25	3729-3734	point	*[107]|*[115]	Appeal to Meaning[107]|Focal Term[115]	
+31-26	3735-3741	source	*[107]|*[115]	Appeal to Meaning[107]|Focal Term[115]	
+31-27	3742-3745	may	*[107]	Appeal to Meaning[107]	
+31-28	3746-3753	require	*[107]	Appeal to Meaning[107]	
+31-29	3754-3755	a	*[107]	Appeal to Meaning[107]	
+31-30	3756-3762	permit	*[107]	Appeal to Meaning[107]	
+31-31	3763-3764	.	_	_	
+
+#Text=The structure of the CWA confirms this interpretation .
+32-1	3766-3769	The	_	_	
+32-2	3770-3779	structure	_	_	
+32-3	3780-3782	of	_	_	
+32-4	3783-3786	the	_	_	
+32-5	3787-3790	CWA	*	Legal Source	
+32-6	3791-3799	confirms	_	_	
+32-7	3800-3804	this	*[116]	Metalinguistic Cue[116]	
+32-8	3805-3819	interpretation	*[116]	Metalinguistic Cue[116]	
+32-9	3820-3821	.	_	_	
+
+#Text=It authorizes the Environmental Protection Agency ( EPA ) to regulate discharges from point sources , including through the permitting process , but it reserves to the States the primary responsibility for regulating other sources of pollution , including groundwater .
+33-1	3823-3825	It	_	_	
+33-2	3826-3836	authorizes	_	_	
+33-3	3837-3840	the	_	_	
+33-4	3841-3854	Environmental	_	_	
+33-5	3855-3865	Protection	_	_	
+33-6	3866-3872	Agency	_	_	
+33-7	3873-3874	(	_	_	
+33-8	3875-3878	EPA	_	_	
+33-9	3879-3880	)	_	_	
+33-10	3881-3883	to	_	_	
+33-11	3884-3892	regulate	_	_	
+33-12	3893-3903	discharges	_	_	
+33-13	3904-3908	from	_	_	
+33-14	3909-3914	point	_	_	
+33-15	3915-3922	sources	_	_	
+33-16	3923-3924	,	_	_	
+33-17	3925-3934	including	_	_	
+33-18	3935-3942	through	_	_	
+33-19	3943-3946	the	_	_	
+33-20	3947-3957	permitting	_	_	
+33-21	3958-3965	process	_	_	
+33-22	3966-3967	,	_	_	
+33-23	3968-3971	but	_	_	
+33-24	3972-3974	it	_	_	
+33-25	3975-3983	reserves	_	_	
+33-26	3984-3986	to	_	_	
+33-27	3987-3990	the	_	_	
+33-28	3991-3997	States	_	_	
+33-29	3998-4001	the	_	_	
+33-30	4002-4009	primary	_	_	
+33-31	4010-4024	responsibility	_	_	
+33-32	4025-4028	for	_	_	
+33-33	4029-4039	regulating	_	_	
+33-34	4040-4045	other	_	_	
+33-35	4046-4053	sources	_	_	
+33-36	4054-4056	of	_	_	
+33-37	4057-4066	pollution	_	_	
+33-38	4067-4068	,	_	_	
+33-39	4069-4078	including	_	_	
+33-40	4079-4090	groundwater	_	_	
+33-41	4091-4092	.	_	_	
+
+#Text=With respect to these sources , the EPA merely collects information , coordinates with the States , and provides funding .
+34-1	4094-4098	With	_	_	
+34-2	4099-4106	respect	_	_	
+34-3	4107-4109	to	_	_	
+34-4	4110-4115	these	_	_	
+34-5	4116-4123	sources	_	_	
+34-6	4124-4125	,	_	_	
+34-7	4126-4129	the	_	_	
+34-8	4130-4133	EPA	_	_	
+34-9	4134-4140	merely	_	_	
+34-10	4141-4149	collects	_	_	
+34-11	4150-4161	information	_	_	
+34-12	4162-4163	,	_	_	
+34-13	4164-4175	coordinates	_	_	
+34-14	4176-4180	with	_	_	
+34-15	4181-4184	the	_	_	
+34-16	4185-4191	States	_	_	
+34-17	4192-4193	,	_	_	
+34-18	4194-4197	and	_	_	
+34-19	4198-4206	provides	_	_	
+34-20	4207-4214	funding	_	_	
+34-21	4215-4216	.	_	_	
+
+#Text=See 33 U.S.C. § § 1252 ( a ) , 1254(a)(5 ) , 1282(b)(2 ) , 1288 , 1314(a ) , 1329 ; ante , at 1470 - 1472 .
+35-1	4218-4221	See	_	_	
+35-2	4222-4224	33	*[117]	Legal Source[117]	
+35-3	4225-4231	U.S.C.	*[117]	Legal Source[117]	
+35-4	4232-4233	§	*[117]	Legal Source[117]	
+35-5	4234-4235	§	*[117]	Legal Source[117]	
+35-6	4236-4240	1252	*[117]	Legal Source[117]	
+35-7	4241-4242	(	*[117]	Legal Source[117]	
+35-8	4243-4244	a	*[117]	Legal Source[117]	
+35-9	4245-4246	)	*[117]	Legal Source[117]	
+35-10	4247-4248	,	*[117]	Legal Source[117]	
+35-11	4249-4258	1254(a)(5	*[117]	Legal Source[117]	
+35-12	4259-4260	)	*[117]	Legal Source[117]	
+35-13	4261-4262	,	*[117]	Legal Source[117]	
+35-14	4263-4272	1282(b)(2	*[117]	Legal Source[117]	
+35-15	4273-4274	)	*[117]	Legal Source[117]	
+35-16	4275-4276	,	*[117]	Legal Source[117]	
+35-17	4277-4281	1288	*[117]	Legal Source[117]	
+35-18	4282-4283	,	*[117]	Legal Source[117]	
+35-19	4284-4290	1314(a	*[117]	Legal Source[117]	
+35-20	4291-4292	)	*[117]	Legal Source[117]	
+35-21	4293-4294	,	*[117]	Legal Source[117]	
+35-22	4295-4299	1329	*[117]	Legal Source[117]	
+35-23	4300-4301	;	_	_	
+35-24	4302-4306	ante	*[118]	Legal Source[118]	
+35-25	4307-4308	,	*[118]	Legal Source[118]	
+35-26	4309-4311	at	*[118]	Legal Source[118]	
+35-27	4312-4316	1470	*[118]	Legal Source[118]	
+35-28	4317-4318	-	*[118]	Legal Source[118]	
+35-29	4319-4323	1472	*[118]	Legal Source[118]	
+35-30	4324-4325	.	_	_	
+
+#Text=In the CWA , Congress expressly stated its " policy ... to recognize , preserve , and protect the primary responsibilities and rights of States to prevent , reduce , and eliminate pollution . "
+36-1	4327-4329	In	_	_	
+36-2	4330-4333	the	_	_	
+36-3	4334-4337	CWA	*	Legal Source	
+36-4	4338-4339	,	_	_	
+36-5	4340-4348	Congress	_	_	
+36-6	4349-4358	expressly	*	Metalinguistic Cue	
+36-7	4359-4365	stated	_	_	
+36-8	4366-4369	its	_	_	
+36-9	4370-4371	"	*[119]	Direct Quote[119]	
+36-10	4372-4378	policy	*[119]	Direct Quote[119]	
+36-11	4379-4382	...	*[119]	Direct Quote[119]	
+36-12	4383-4385	to	*[119]	Direct Quote[119]	
+36-13	4386-4395	recognize	*[119]	Direct Quote[119]	
+36-14	4396-4397	,	*[119]	Direct Quote[119]	
+36-15	4398-4406	preserve	*[119]	Direct Quote[119]	
+36-16	4407-4408	,	*[119]	Direct Quote[119]	
+36-17	4409-4412	and	*[119]	Direct Quote[119]	
+36-18	4413-4420	protect	*[119]	Direct Quote[119]	
+36-19	4421-4424	the	*[119]	Direct Quote[119]	
+36-20	4425-4432	primary	*[119]	Direct Quote[119]	
+36-21	4433-4449	responsibilities	*[119]	Direct Quote[119]	
+36-22	4450-4453	and	*[119]	Direct Quote[119]	
+36-23	4454-4460	rights	*[119]	Direct Quote[119]	
+36-24	4461-4463	of	*[119]	Direct Quote[119]	
+36-25	4464-4470	States	*[119]	Direct Quote[119]	
+36-26	4471-4473	to	*[119]	Direct Quote[119]	
+36-27	4474-4481	prevent	*[119]	Direct Quote[119]	
+36-28	4482-4483	,	*[119]	Direct Quote[119]	
+36-29	4484-4490	reduce	*[119]	Direct Quote[119]	
+36-30	4491-4492	,	*[119]	Direct Quote[119]	
+36-31	4493-4496	and	*[119]	Direct Quote[119]	
+36-32	4497-4506	eliminate	*[119]	Direct Quote[119]	
+36-33	4507-4516	pollution	*[119]	Direct Quote[119]	
+36-34	4517-4518	.	*[119]	Direct Quote[119]	
+36-35	4519-4520	"	*[119]	Direct Quote[119]	
+
+#Text=§ 1251(b ) .
+37-1	4522-4523	§	*[120]	Legal Source[120]	
+37-2	4524-4530	1251(b	*[120]	Legal Source[120]	
+37-3	4531-4532	)	*[120]	Legal Source[120]	
+37-4	4533-4534	.	_	_	
+
+#Text=Thus , construing the EPA 's power to regulate point sources to allow the agency to regulate nonpoint sources and groundwater is in serious tension with Congress ' design .
+38-1	4536-4540	Thus	*[121]	Appeal to Meaning[121]	
+38-2	4541-4542	,	*[121]	Appeal to Meaning[121]	
+38-3	4543-4553	construing	*[121]|*[122]	Appeal to Meaning[121]|Metalinguistic Cue[122]	
+38-4	4554-4557	the	*[121]	Appeal to Meaning[121]	
+38-5	4558-4561	EPA	*[121]	Appeal to Meaning[121]	
+38-6	4562-4564	's	*[121]	Appeal to Meaning[121]	
+38-7	4565-4570	power	*[121]	Appeal to Meaning[121]	
+38-8	4571-4573	to	*[121]	Appeal to Meaning[121]	
+38-9	4574-4582	regulate	*[121]	Appeal to Meaning[121]	
+38-10	4583-4588	point	*[121]	Appeal to Meaning[121]	
+38-11	4589-4596	sources	*[121]	Appeal to Meaning[121]	
+38-12	4597-4599	to	*[121]	Appeal to Meaning[121]	
+38-13	4600-4605	allow	*[121]	Appeal to Meaning[121]	
+38-14	4606-4609	the	*[121]	Appeal to Meaning[121]	
+38-15	4610-4616	agency	*[121]	Appeal to Meaning[121]	
+38-16	4617-4619	to	*[121]	Appeal to Meaning[121]	
+38-17	4620-4628	regulate	*[121]	Appeal to Meaning[121]	
+38-18	4629-4637	nonpoint	*[121]	Appeal to Meaning[121]	
+38-19	4638-4645	sources	*[121]	Appeal to Meaning[121]	
+38-20	4646-4649	and	*[121]	Appeal to Meaning[121]	
+38-21	4650-4661	groundwater	*[121]	Appeal to Meaning[121]	
+38-22	4662-4664	is	*[121]	Appeal to Meaning[121]	
+38-23	4665-4667	in	*[121]	Appeal to Meaning[121]	
+38-24	4668-4675	serious	*[121]	Appeal to Meaning[121]	
+38-25	4676-4683	tension	*[121]	Appeal to Meaning[121]	
+38-26	4684-4688	with	*[121]	Appeal to Meaning[121]	
+38-27	4689-4697	Congress	*[121]|*[123]|*[124]	Appeal to Meaning[121]|Metalinguistic Cue[123]|Named Interpretive Rule[124]	
+38-28	4698-4699	'	*[121]|*[123]|*[124]	Appeal to Meaning[121]|Metalinguistic Cue[123]|Named Interpretive Rule[124]	
+38-29	4700-4706	design	*[121]|*[123]|*[124]	Appeal to Meaning[121]|Metalinguistic Cue[123]|Named Interpretive Rule[124]	
+38-30	4707-4708	.	_	_	
+
+#Text=My reading is also consistent with our decision in South Fla. Water Management Dist . v. Miccosukee Tribe , 541 U.S. 95 , 124 S.Ct . 1537 , 158 L.Ed.2d 264 ( 2004 ) .
+39-1	4710-4712	My	*[125]	Appeal to Meaning[125]	
+39-2	4713-4720	reading	*[125]|*[126]	Appeal to Meaning[125]|Metalinguistic Cue[126]	
+39-3	4721-4723	is	*[125]	Appeal to Meaning[125]	
+39-4	4724-4728	also	*[125]	Appeal to Meaning[125]	
+39-5	4729-4739	consistent	*[125]	Appeal to Meaning[125]	
+39-6	4740-4744	with	*[125]	Appeal to Meaning[125]	
+39-7	4745-4748	our	*[125]	Appeal to Meaning[125]	
+39-8	4749-4757	decision	*[125]	Appeal to Meaning[125]	
+39-9	4758-4760	in	*[125]	Appeal to Meaning[125]	
+39-10	4761-4766	South	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-11	4767-4771	Fla.	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-12	4772-4777	Water	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-13	4778-4788	Management	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-14	4789-4793	Dist	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-15	4794-4795	.	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-16	4796-4798	v.	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-17	4799-4809	Miccosukee	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-18	4810-4815	Tribe	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-19	4816-4817	,	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-20	4818-4821	541	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-21	4822-4826	U.S.	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-22	4827-4829	95	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-23	4830-4831	,	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-24	4832-4835	124	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-25	4836-4840	S.Ct	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-26	4841-4842	.	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-27	4843-4847	1537	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-28	4848-4849	,	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-29	4850-4853	158	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-30	4854-4861	L.Ed.2d	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-31	4862-4865	264	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-32	4866-4867	(	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-33	4868-4872	2004	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-34	4873-4874	)	*[125]|*[127]	Appeal to Meaning[125]|Legal Source[127]	
+39-35	4875-4876	.	_	_	
+
+#Text=The petitioner in that case argued that no permit was required when a point source was not the original source of the pollutant but instead conveyed the pollutant from further up a chain of sources .
+40-1	4878-4881	The	_	_	
+40-2	4882-4892	petitioner	_	_	
+40-3	4893-4895	in	_	_	
+40-4	4896-4900	that	_	_	
+40-5	4901-4905	case	_	_	
+40-6	4906-4912	argued	_	_	
+40-7	4913-4917	that	_	_	
+40-8	4918-4920	no	_	_	
+40-9	4921-4927	permit	_	_	
+40-10	4928-4931	was	_	_	
+40-11	4932-4940	required	_	_	
+40-12	4941-4945	when	_	_	
+40-13	4946-4947	a	_	_	
+40-14	4948-4953	point	_	_	
+40-15	4954-4960	source	_	_	
+40-16	4961-4964	was	_	_	
+40-17	4965-4968	not	_	_	
+40-18	4969-4972	the	_	_	
+40-19	4973-4981	original	_	_	
+40-20	4982-4988	source	_	_	
+40-21	4989-4991	of	_	_	
+40-22	4992-4995	the	_	_	
+40-23	4996-5005	pollutant	_	_	
+40-24	5006-5009	but	_	_	
+40-25	5010-5017	instead	_	_	
+40-26	5018-5026	conveyed	_	_	
+40-27	5027-5030	the	_	_	
+40-28	5031-5040	pollutant	_	_	
+40-29	5041-5045	from	_	_	
+40-30	5046-5053	further	_	_	
+40-31	5054-5056	up	_	_	
+40-32	5057-5058	a	_	_	
+40-33	5059-5064	chain	_	_	
+40-34	5065-5067	of	_	_	
+40-35	5068-5075	sources	_	_	
+40-36	5076-5077	.	_	_	
+
+#Text=Id. , at 104 , 124 S.Ct . 1537 .
+41-1	5081-5084	Id.	*[128]	Legal Source[128]	
+41-2	5085-5086	,	*[128]	Legal Source[128]	
+41-3	5087-5089	at	*[128]	Legal Source[128]	
+41-4	5090-5093	104	*[128]	Legal Source[128]	
+41-5	5094-5095	,	*[128]	Legal Source[128]	
+41-6	5096-5099	124	*[128]	Legal Source[128]	
+41-7	5100-5104	S.Ct	*[128]	Legal Source[128]	
+41-8	5105-5106	.	*[128]	Legal Source[128]	
+41-9	5107-5111	1537	*[128]	Legal Source[128]	
+41-10	5112-5113	.	_	_	
+
+#Text=We rejected that argument because " a point source need not be the original source of the pollutant ; it need only convey the pollutant to ' navigable waters . ' "
+42-1	5115-5117	We	_	_	
+42-2	5118-5126	rejected	_	_	
+42-3	5127-5131	that	_	_	
+42-4	5132-5140	argument	_	_	
+42-5	5141-5148	because	_	_	
+42-6	5149-5150	"	*[129]	Direct Quote[129]	
+42-7	5151-5152	a	*[129]	Direct Quote[129]	
+42-8	5153-5158	point	*[129]	Direct Quote[129]	
+42-9	5159-5165	source	*[129]	Direct Quote[129]	
+42-10	5166-5170	need	*[129]	Direct Quote[129]	
+42-11	5171-5174	not	*[129]	Direct Quote[129]	
+42-12	5175-5177	be	*[129]	Direct Quote[129]	
+42-13	5178-5181	the	*[129]	Direct Quote[129]	
+42-14	5182-5190	original	*[129]	Direct Quote[129]	
+42-15	5191-5197	source	*[129]	Direct Quote[129]	
+42-16	5198-5200	of	*[129]	Direct Quote[129]	
+42-17	5201-5204	the	*[129]	Direct Quote[129]	
+42-18	5205-5214	pollutant	*[129]	Direct Quote[129]	
+42-19	5215-5216	;	*[129]	Direct Quote[129]	
+42-20	5217-5219	it	*[129]	Direct Quote[129]	
+42-21	5220-5224	need	*[129]	Direct Quote[129]	
+42-22	5225-5229	only	*[129]	Direct Quote[129]	
+42-23	5230-5236	convey	*[129]	Direct Quote[129]	
+42-24	5237-5240	the	*[129]	Direct Quote[129]	
+42-25	5241-5250	pollutant	*[129]	Direct Quote[129]	
+42-26	5251-5253	to	*[129]	Direct Quote[129]	
+42-27	5254-5255	'	*[129]|*[130]	Direct Quote[129]|Direct Quote[130]	
+42-28	5256-5265	navigable	*[129]|*[130]	Direct Quote[129]|Direct Quote[130]	
+42-29	5266-5272	waters	*[129]|*[130]	Direct Quote[129]|Direct Quote[130]	
+42-30	5273-5274	.	*[129]|*[130]	Direct Quote[129]|Direct Quote[130]	
+42-31	5275-5276	'	*[129]|*[130]	Direct Quote[129]|Direct Quote[130]	
+42-32	5277-5278	"	*[129]	Direct Quote[129]	
+
+#Text=Id. , at 105 , 124 S.Ct . 1537 .
+43-1	5280-5283	Id.	*[131]	Legal Source[131]	
+43-2	5284-5285	,	*[131]	Legal Source[131]	
+43-3	5286-5288	at	*[131]	Legal Source[131]	
+43-4	5289-5292	105	*[131]	Legal Source[131]	
+43-5	5293-5294	,	*[131]	Legal Source[131]	
+43-6	5295-5298	124	*[131]	Legal Source[131]	
+43-7	5299-5303	S.Ct	*[131]	Legal Source[131]	
+43-8	5304-5305	.	*[131]	Legal Source[131]	
+43-9	5306-5310	1537	*[131]	Legal Source[131]	
+43-10	5311-5312	.	_	_	
+
+#Text=Although that case did not involve the exact question presented here , the direct - discharge interpretation comports well with that previous decision .
+44-1	5314-5322	Although	_	_	
+44-2	5323-5327	that	_	_	
+44-3	5328-5332	case	_	_	
+44-4	5333-5336	did	_	_	
+44-5	5337-5340	not	_	_	
+44-6	5341-5348	involve	_	_	
+44-7	5349-5352	the	_	_	
+44-8	5353-5358	exact	_	_	
+44-9	5359-5367	question	_	_	
+44-10	5368-5377	presented	_	_	
+44-11	5378-5382	here	_	_	
+44-12	5383-5384	,	_	_	
+44-13	5385-5388	the	_	_	
+44-14	5389-5395	direct	_	_	
+44-15	5396-5397	-	_	_	
+44-16	5398-5407	discharge	_	_	
+44-17	5408-5422	interpretation	*	Metalinguistic Cue	
+44-18	5423-5431	comports	_	_	
+44-19	5432-5436	well	_	_	
+44-20	5437-5441	with	_	_	
+44-21	5442-5446	that	_	_	
+44-22	5447-5455	previous	_	_	
+44-23	5456-5464	decision	_	_	
+44-24	5465-5466	.	_	_	
+
+#Text=B
+45-1	5468-5469	B	_	_	
+
+#Text=The Court 's main textual argument reads the word " from " in isolation .
+46-1	5471-5474	The	_	_	
+46-2	5475-5480	Court	_	_	
+46-3	5481-5483	's	_	_	
+46-4	5484-5488	main	_	_	
+46-5	5489-5496	textual	*[132]	Metalinguistic Cue[132]	
+46-6	5497-5505	argument	*[132]	Metalinguistic Cue[132]	
+46-7	5506-5511	reads	*	Metalinguistic Cue	
+46-8	5512-5515	the	_	_	
+46-9	5516-5520	word	*	Metalinguistic Cue	
+46-10	5521-5522	"	*[133]	Direct Quote[133]	
+46-11	5523-5527	from	*[133]|*[134]	Direct Quote[133]|Focal Term[134]	
+46-12	5528-5529	"	*[133]	Direct Quote[133]	
+46-13	5530-5532	in	_	_	
+46-14	5533-5542	isolation	_	_	
+46-15	5543-5544	.	_	_	
+
+#Text=But as the Court recognizes , " the word ' from ' necessarily draws its meaning from context . "
+47-1	5546-5549	But	*[135]	Appeal to Meaning[135]	
+47-2	5550-5552	as	*[135]	Appeal to Meaning[135]	
+47-3	5553-5556	the	*[135]	Appeal to Meaning[135]	
+47-4	5557-5562	Court	*[135]	Appeal to Meaning[135]	
+47-5	5563-5573	recognizes	*[135]	Appeal to Meaning[135]	
+47-6	5574-5575	,	*[135]	Appeal to Meaning[135]	
+47-7	5576-5577	"	*[135]|*[136]	Appeal to Meaning[135]|Direct Quote[136]	
+47-8	5578-5581	the	*[135]|*[136]	Appeal to Meaning[135]|Direct Quote[136]	
+47-9	5582-5586	word	*[135]|*[136]|*[137]	Appeal to Meaning[135]|Direct Quote[136]|Metalinguistic Cue[137]	
+47-10	5587-5588	'	*[135]|*[136]|*[138]	Appeal to Meaning[135]|Direct Quote[136]|Direct Quote[138]	
+47-11	5589-5593	from	*[135]|*[136]|*[138]|*[139]	Appeal to Meaning[135]|Direct Quote[136]|Direct Quote[138]|Focal Term[139]	
+47-12	5594-5595	'	*[135]|*[136]|*[138]	Appeal to Meaning[135]|Direct Quote[136]|Direct Quote[138]	
+47-13	5596-5607	necessarily	*[135]|*[136]	Appeal to Meaning[135]|Direct Quote[136]	
+47-14	5608-5613	draws	*[135]|*[136]	Appeal to Meaning[135]|Direct Quote[136]	
+47-15	5614-5617	its	*[135]|*[136]	Appeal to Meaning[135]|Direct Quote[136]	
+47-16	5618-5625	meaning	*[135]|*[136]|*[140]	Appeal to Meaning[135]|Direct Quote[136]|Metalinguistic Cue[140]	
+47-17	5626-5630	from	*[135]|*[136]	Appeal to Meaning[135]|Direct Quote[136]	
+47-18	5631-5638	context	*[135]|*[136]|*[141]	Appeal to Meaning[135]|Direct Quote[136]|Metalinguistic Cue[141]	
+47-19	5639-5640	.	*[135]|*[136]	Appeal to Meaning[135]|Direct Quote[136]	
+47-20	5641-5642	"	*[135]|*[136]	Appeal to Meaning[135]|Direct Quote[136]	
+
+#Text=Ante , at 1473 .
+48-1	5644-5648	Ante	*[142]	Legal Source[142]	
+48-2	5649-5650	,	*[142]	Legal Source[142]	
+48-3	5651-5653	at	*[142]	Legal Source[142]	
+48-4	5654-5658	1473	*[142]	Legal Source[142]	
+48-5	5659-5660	.	_	_	
+
+#Text=The Court 's example using " arrive " instead of " addition " is thus unpersuasive , ante , at 1474 - 1475 , because " from " takes different meanings with different verbs .
+49-1	5662-5665	The	_	_	
+49-2	5666-5671	Court	_	_	
+49-3	5672-5674	's	_	_	
+49-4	5675-5682	example	*	Metalinguistic Cue	
+49-5	5683-5688	using	_	_	
+49-6	5689-5690	"	*[143]	Direct Quote[143]	
+49-7	5691-5697	arrive	*[143]|*[144]	Direct Quote[143]|Focal Term[144]	
+49-8	5698-5699	"	*[143]	Direct Quote[143]	
+49-9	5700-5707	instead	_	_	
+49-10	5708-5710	of	_	_	
+49-11	5711-5712	"	*[145]	Direct Quote[145]	
+49-12	5713-5721	addition	*[145]|*[146]	Direct Quote[145]|Focal Term[146]	
+49-13	5722-5723	"	*[145]	Direct Quote[145]	
+49-14	5724-5726	is	_	_	
+49-15	5727-5731	thus	_	_	
+49-16	5732-5744	unpersuasive	_	_	
+49-17	5745-5746	,	_	_	
+49-18	5747-5751	ante	*[147]	Legal Source[147]	
+49-19	5752-5753	,	*[147]	Legal Source[147]	
+49-20	5754-5756	at	*[147]	Legal Source[147]	
+49-21	5757-5761	1474	*[147]	Legal Source[147]	
+49-22	5762-5763	-	*[147]	Legal Source[147]	
+49-23	5764-5768	1475	*[147]	Legal Source[147]	
+49-24	5769-5770	,	_	_	
+49-25	5771-5778	because	_	_	
+49-26	5779-5780	"	*[148]	Direct Quote[148]	
+49-27	5781-5785	from	*[148]|*[149]	Direct Quote[148]|Focal Term[149]	
+49-28	5786-5787	"	*[148]	Direct Quote[148]	
+49-29	5788-5793	takes	_	_	
+49-30	5794-5803	different	_	_	
+49-31	5804-5812	meanings	*	Metalinguistic Cue	
+49-32	5813-5817	with	_	_	
+49-33	5818-5827	different	_	_	
+49-34	5828-5833	verbs	*	Metalinguistic Cue	
+49-35	5834-5835	.	_	_	
+
+#Text=The Court 's culinary example also misses the mark , ante , at 1475 , because if the drippings from the meat collect in the pan before the chef adds them to the gravy , the drippings are added to the gravy from the pan , not from the meat .
+50-1	5837-5840	The	_	_	
+50-2	5841-5846	Court	_	_	
+50-3	5847-5849	's	_	_	
+50-4	5850-5858	culinary	_	_	
+50-5	5859-5866	example	*	Metalinguistic Cue	
+50-6	5867-5871	also	_	_	
+50-7	5872-5878	misses	_	_	
+50-8	5879-5882	the	_	_	
+50-9	5883-5887	mark	_	_	
+50-10	5888-5889	,	_	_	
+50-11	5890-5894	ante	*[150]	Legal Source[150]	
+50-12	5895-5896	,	*[150]	Legal Source[150]	
+50-13	5897-5899	at	*[150]	Legal Source[150]	
+50-14	5900-5904	1475	*[150]	Legal Source[150]	
+50-15	5905-5906	,	_	_	
+50-16	5907-5914	because	_	_	
+50-17	5915-5917	if	*[151]	Example Use[151]	
+50-18	5918-5921	the	*[151]	Example Use[151]	
+50-19	5922-5931	drippings	*[151]	Example Use[151]	
+50-20	5932-5936	from	*[151]|*[152]	Example Use[151]|Focal Term[152]	
+50-21	5937-5940	the	*[151]	Example Use[151]	
+50-22	5941-5945	meat	*[151]	Example Use[151]	
+50-23	5946-5953	collect	*[151]	Example Use[151]	
+50-24	5954-5956	in	*[151]	Example Use[151]	
+50-25	5957-5960	the	*[151]	Example Use[151]	
+50-26	5961-5964	pan	*[151]	Example Use[151]	
+50-27	5965-5971	before	*[151]	Example Use[151]	
+50-28	5972-5975	the	*[151]	Example Use[151]	
+50-29	5976-5980	chef	*[151]	Example Use[151]	
+50-30	5981-5985	adds	*[151]	Example Use[151]	
+50-31	5986-5990	them	*[151]	Example Use[151]	
+50-32	5991-5993	to	*[151]	Example Use[151]	
+50-33	5994-5997	the	*[151]	Example Use[151]	
+50-34	5998-6003	gravy	*[151]	Example Use[151]	
+50-35	6004-6005	,	*[151]	Example Use[151]	
+50-36	6006-6009	the	*[151]	Example Use[151]	
+50-37	6010-6019	drippings	*[151]	Example Use[151]	
+50-38	6020-6023	are	*[151]	Example Use[151]	
+50-39	6024-6029	added	*[151]	Example Use[151]	
+50-40	6030-6032	to	*[151]	Example Use[151]	
+50-41	6033-6036	the	*[151]	Example Use[151]	
+50-42	6037-6042	gravy	*[151]	Example Use[151]	
+50-43	6043-6047	from	*[151]|*[153]	Example Use[151]|Focal Term[153]	
+50-44	6048-6051	the	*[151]	Example Use[151]	
+50-45	6052-6055	pan	*[151]	Example Use[151]	
+50-46	6056-6057	,	*[151]	Example Use[151]	
+50-47	6058-6061	not	*[151]	Example Use[151]	
+50-48	6062-6066	from	*[151]|*[154]	Example Use[151]|Focal Term[154]	
+50-49	6067-6070	the	*[151]	Example Use[151]	
+50-50	6071-6075	meat	*[151]	Example Use[151]	
+50-51	6076-6077	.	_	_	
+
+#Text=This point becomes clear if we reorder the majority 's recipe to match the statute ; the chef has not added the drippings to the gravy from the meat .
+51-1	6079-6083	This	_	_	
+51-2	6084-6089	point	_	_	
+51-3	6090-6097	becomes	_	_	
+51-4	6098-6103	clear	_	_	
+51-5	6104-6106	if	_	_	
+51-6	6107-6109	we	_	_	
+51-7	6110-6117	reorder	_	_	
+51-8	6118-6121	the	_	_	
+51-9	6122-6130	majority	_	_	
+51-10	6131-6133	's	_	_	
+51-11	6134-6140	recipe	_	_	
+51-12	6141-6143	to	_	_	
+51-13	6144-6149	match	_	_	
+51-14	6150-6153	the	_	_	
+51-15	6154-6161	statute	_	_	
+51-16	6162-6163	;	_	_	
+51-17	6164-6167	the	*[155]	Example Use[155]	
+51-18	6168-6172	chef	*[155]	Example Use[155]	
+51-19	6173-6176	has	*[155]	Example Use[155]	
+51-20	6177-6180	not	*[155]	Example Use[155]	
+51-21	6181-6186	added	*[155]	Example Use[155]	
+51-22	6187-6190	the	*[155]	Example Use[155]	
+51-23	6191-6200	drippings	*[155]	Example Use[155]	
+51-24	6201-6203	to	*[155]	Example Use[155]	
+51-25	6204-6207	the	*[155]	Example Use[155]	
+51-26	6208-6213	gravy	*[155]	Example Use[155]	
+51-27	6214-6218	from	*[155]|*[156]	Example Use[155]|Focal Term[156]	
+51-28	6219-6222	the	*[155]	Example Use[155]	
+51-29	6223-6227	meat	*[155]	Example Use[155]	
+51-30	6228-6229	.	_	_	
+
+#Text=The Court 's bathwater example , ante , at 1475 , suffers from the same problem ; if the well water is put in a bucket before it is put in the bathtub , it is added to the bathtub from the bucket .
+52-1	6231-6234	The	_	_	
+52-2	6235-6240	Court	_	_	
+52-3	6241-6243	's	_	_	
+52-4	6244-6253	bathwater	_	_	
+52-5	6254-6261	example	*	Metalinguistic Cue	
+52-6	6262-6263	,	_	_	
+52-7	6264-6268	ante	*[157]	Legal Source[157]	
+52-8	6269-6270	,	*[157]	Legal Source[157]	
+52-9	6271-6273	at	*[157]	Legal Source[157]	
+52-10	6274-6278	1475	*[157]	Legal Source[157]	
+52-11	6279-6280	,	_	_	
+52-12	6281-6288	suffers	_	_	
+52-13	6289-6293	from	_	_	
+52-14	6294-6297	the	_	_	
+52-15	6298-6302	same	_	_	
+52-16	6303-6310	problem	_	_	
+52-17	6311-6312	;	_	_	
+52-18	6313-6315	if	*[158]	Example Use[158]	
+52-19	6316-6319	the	*[158]	Example Use[158]	
+52-20	6320-6324	well	*[158]	Example Use[158]	
+52-21	6325-6330	water	*[158]	Example Use[158]	
+52-22	6331-6333	is	*[158]	Example Use[158]	
+52-23	6334-6337	put	*[158]	Example Use[158]	
+52-24	6338-6340	in	*[158]	Example Use[158]	
+52-25	6341-6342	a	*[158]	Example Use[158]	
+52-26	6343-6349	bucket	*[158]	Example Use[158]	
+52-27	6350-6356	before	*[158]	Example Use[158]	
+52-28	6357-6359	it	*[158]	Example Use[158]	
+52-29	6360-6362	is	*[158]	Example Use[158]	
+52-30	6363-6366	put	*[158]	Example Use[158]	
+52-31	6367-6369	in	*[158]	Example Use[158]	
+52-32	6370-6373	the	*[158]	Example Use[158]	
+52-33	6374-6381	bathtub	*[158]	Example Use[158]	
+52-34	6382-6383	,	*[158]	Example Use[158]	
+52-35	6384-6386	it	*[158]	Example Use[158]	
+52-36	6387-6389	is	*[158]	Example Use[158]	
+52-37	6390-6395	added	*[158]	Example Use[158]	
+52-38	6396-6398	to	*[158]	Example Use[158]	
+52-39	6399-6402	the	*[158]	Example Use[158]	
+52-40	6403-6410	bathtub	*[158]	Example Use[158]	
+52-41	6411-6415	from	*[158]|*[159]	Example Use[158]|Focal Term[159]	
+52-42	6416-6419	the	*[158]	Example Use[158]	
+52-43	6420-6426	bucket	*[158]	Example Use[158]	
+52-44	6427-6428	.	_	_	
+
+#Text=Only by reading the phrase in its entirety can we interpret the definition of " discharge . "
+53-1	6430-6434	Only	*[160]	Appeal to Meaning[160]	
+53-2	6435-6437	by	*[160]	Appeal to Meaning[160]	
+53-3	6438-6445	reading	*[160]|*[161]	Appeal to Meaning[160]|Metalinguistic Cue[161]	
+53-4	6446-6449	the	*[160]	Appeal to Meaning[160]	
+53-5	6450-6456	phrase	*[160]|*[162]	Appeal to Meaning[160]|Metalinguistic Cue[162]	
+53-6	6457-6459	in	*[160]	Appeal to Meaning[160]	
+53-7	6460-6463	its	*[160]	Appeal to Meaning[160]	
+53-8	6464-6472	entirety	*[160]	Appeal to Meaning[160]	
+53-9	6473-6476	can	*[160]	Appeal to Meaning[160]	
+53-10	6477-6479	we	*[160]	Appeal to Meaning[160]	
+53-11	6480-6489	interpret	*[160]|*[163]	Appeal to Meaning[160]|Metalinguistic Cue[163]	
+53-12	6490-6493	the	*[160]	Appeal to Meaning[160]	
+53-13	6494-6504	definition	*[160]|*[164]	Appeal to Meaning[160]|Metalinguistic Cue[164]	
+53-14	6505-6507	of	*[160]	Appeal to Meaning[160]	
+53-15	6508-6509	"	*[160]|*[165]	Appeal to Meaning[160]|Direct Quote[165]	
+53-16	6510-6519	discharge	*[160]|*[165]	Appeal to Meaning[160]|Direct Quote[165]	
+53-17	6520-6521	.	*[160]|*[165]	Appeal to Meaning[160]|Direct Quote[165]	
+53-18	6522-6523	"	*[160]|*[165]	Appeal to Meaning[160]|Direct Quote[165]	
+
+#Text=See Deal v. United States , 508 U.S. 129 , 132 , 113 S.Ct . 1993 , 124 L.Ed.2d 44 ( 1993 ) .
+54-1	6525-6528	See	_	_	
+54-2	6529-6533	Deal	*[166]	Legal Source[166]	
+54-3	6534-6536	v.	*[166]	Legal Source[166]	
+54-4	6537-6543	United	*[166]	Legal Source[166]	
+54-5	6544-6550	States	*[166]	Legal Source[166]	
+54-6	6551-6552	,	*[166]	Legal Source[166]	
+54-7	6553-6556	508	*[166]	Legal Source[166]	
+54-8	6557-6561	U.S.	*[166]	Legal Source[166]	
+54-9	6562-6565	129	*[166]	Legal Source[166]	
+54-10	6566-6567	,	*[166]	Legal Source[166]	
+54-11	6568-6571	132	*[166]	Legal Source[166]	
+54-12	6572-6573	,	*[166]	Legal Source[166]	
+54-13	6574-6577	113	*[166]	Legal Source[166]	
+54-14	6578-6582	S.Ct	*[166]	Legal Source[166]	
+54-15	6583-6584	.	*[166]	Legal Source[166]	
+54-16	6585-6589	1993	*[166]	Legal Source[166]	
+54-17	6590-6591	,	*[166]	Legal Source[166]	
+54-18	6592-6595	124	*[166]	Legal Source[166]	
+54-19	6596-6603	L.Ed.2d	*[166]	Legal Source[166]	
+54-20	6604-6606	44	*[166]	Legal Source[166]	
+54-21	6607-6608	(	*[166]	Legal Source[166]	
+54-22	6609-6613	1993	*[166]	Legal Source[166]	
+54-23	6614-6615	)	*[166]	Legal Source[166]	
+54-24	6616-6617	.	_	_	
+
+#Text=The Court also asserts that a narrower reading than the one it adopts would create a " massive loophole " in the statute .
+55-1	6619-6622	The	_	_	
+55-2	6623-6628	Court	_	_	
+55-3	6629-6633	also	_	_	
+55-4	6634-6641	asserts	_	_	
+55-5	6642-6646	that	_	_	
+55-6	6647-6648	a	_	_	
+55-7	6649-6657	narrower	*[167]	Metalinguistic Cue[167]	
+55-8	6658-6665	reading	*[167]	Metalinguistic Cue[167]	
+55-9	6666-6670	than	_	_	
+55-10	6671-6674	the	_	_	
+55-11	6675-6678	one	_	_	
+55-12	6679-6681	it	_	_	
+55-13	6682-6688	adopts	_	_	
+55-14	6689-6694	would	_	_	
+55-15	6695-6701	create	_	_	
+55-16	6702-6703	a	_	_	
+55-17	6704-6705	"	*[168]	Direct Quote[168]	
+55-18	6706-6713	massive	*[168]	Direct Quote[168]	
+55-19	6714-6722	loophole	*[168]	Direct Quote[168]	
+55-20	6723-6724	"	*[168]	Direct Quote[168]	
+55-21	6725-6727	in	_	_	
+55-22	6728-6731	the	_	_	
+55-23	6732-6739	statute	_	_	
+55-24	6740-6741	.	_	_	
+
+#Text=Ante , at 1476 .
+56-1	6745-6749	Ante	*[169]	Legal Source[169]	
+56-2	6750-6751	,	*[169]	Legal Source[169]	
+56-3	6752-6754	at	*[169]	Legal Source[169]	
+56-4	6755-6759	1476	*[169]	Legal Source[169]	
+56-5	6760-6761	.	_	_	
+
+#Text=Far from creating a loophole , my reading is the most logical because it is consonant with the scope of Congress ' power .
+57-1	6763-6766	Far	_	_	
+57-2	6767-6771	from	_	_	
+57-3	6772-6780	creating	_	_	
+57-4	6781-6782	a	_	_	
+57-5	6783-6791	loophole	_	_	
+57-6	6792-6793	,	_	_	
+57-7	6794-6796	my	_	_	
+57-8	6797-6804	reading	*	Metalinguistic Cue	
+57-9	6805-6807	is	_	_	
+57-10	6808-6811	the	_	_	
+57-11	6812-6816	most	_	_	
+57-12	6817-6824	logical	_	_	
+57-13	6825-6832	because	_	_	
+57-14	6833-6835	it	_	_	
+57-15	6836-6838	is	_	_	
+57-16	6839-6848	consonant	_	_	
+57-17	6849-6853	with	_	_	
+57-18	6854-6857	the	_	_	
+57-19	6858-6863	scope	_	_	
+57-20	6864-6866	of	_	_	
+57-21	6867-6875	Congress	_	_	
+57-22	6876-6877	'	_	_	
+57-23	6878-6883	power	_	_	
+57-24	6884-6885	.	_	_	
+
+#Text=The CWA presumably was passed as an exercise of Congress ' authority " to regulate Commerce with foreign Nations , and among the several States , and with the Indian Tribes . "
+58-1	6887-6890	The	_	_	
+58-2	6891-6894	CWA	*	Legal Source	
+58-3	6895-6905	presumably	_	_	
+58-4	6906-6909	was	_	_	
+58-5	6910-6916	passed	_	_	
+58-6	6917-6919	as	_	_	
+58-7	6920-6922	an	_	_	
+58-8	6923-6931	exercise	_	_	
+58-9	6932-6934	of	_	_	
+58-10	6935-6943	Congress	_	_	
+58-11	6944-6945	'	_	_	
+58-12	6946-6955	authority	_	_	
+58-13	6956-6957	"	*[170]	Direct Quote[170]	
+58-14	6958-6960	to	*[170]	Direct Quote[170]	
+58-15	6961-6969	regulate	*[170]	Direct Quote[170]	
+58-16	6970-6978	Commerce	*[170]	Direct Quote[170]	
+58-17	6979-6983	with	*[170]	Direct Quote[170]	
+58-18	6984-6991	foreign	*[170]	Direct Quote[170]	
+58-19	6992-6999	Nations	*[170]	Direct Quote[170]	
+58-20	7000-7001	,	*[170]	Direct Quote[170]	
+58-21	7002-7005	and	*[170]	Direct Quote[170]	
+58-22	7006-7011	among	*[170]	Direct Quote[170]	
+58-23	7012-7015	the	*[170]	Direct Quote[170]	
+58-24	7016-7023	several	*[170]	Direct Quote[170]	
+58-25	7024-7030	States	*[170]	Direct Quote[170]	
+58-26	7031-7032	,	*[170]	Direct Quote[170]	
+58-27	7033-7036	and	*[170]	Direct Quote[170]	
+58-28	7037-7041	with	*[170]	Direct Quote[170]	
+58-29	7042-7045	the	*[170]	Direct Quote[170]	
+58-30	7046-7052	Indian	*[170]	Direct Quote[170]	
+58-31	7053-7059	Tribes	*[170]	Direct Quote[170]	
+58-32	7060-7061	.	*[170]	Direct Quote[170]	
+58-33	7062-7063	"	*[170]	Direct Quote[170]	
+
+#Text=U.S. Const . , Art . I , § 8 , cl . 3 .
+59-1	7065-7069	U.S.	*[171]	Legal Source[171]	
+59-2	7070-7075	Const	*[171]	Legal Source[171]	
+59-3	7076-7077	.	*[171]	Legal Source[171]	
+59-4	7078-7079	,	*[171]	Legal Source[171]	
+59-5	7080-7083	Art	*[171]	Legal Source[171]	
+59-6	7084-7085	.	*[171]	Legal Source[171]	
+59-7	7086-7087	I	*[171]	Legal Source[171]	
+59-8	7088-7089	,	*[171]	Legal Source[171]	
+59-9	7090-7091	§	*[171]	Legal Source[171]	
+59-10	7092-7093	8	*[171]	Legal Source[171]	
+59-11	7094-7095	,	*[171]	Legal Source[171]	
+59-12	7096-7098	cl	*[171]	Legal Source[171]	
+59-13	7099-7100	.	*[171]	Legal Source[171]	
+59-14	7101-7102	3	*[171]	Legal Source[171]	
+59-15	7103-7104	.	_	_	
+
+#Text=My interpretation ties the statute more closely to navigable waters , on the theory that they are at least a channel of these kinds of commerce .
+60-1	7106-7108	My	_	_	
+60-2	7109-7123	interpretation	*	Metalinguistic Cue	
+60-3	7124-7128	ties	_	_	
+60-4	7129-7132	the	_	_	
+60-5	7133-7140	statute	_	_	
+60-6	7141-7145	more	_	_	
+60-7	7146-7153	closely	_	_	
+60-8	7154-7156	to	_	_	
+60-9	7157-7166	navigable	_	_	
+60-10	7167-7173	waters	_	_	
+60-11	7174-7175	,	_	_	
+60-12	7176-7178	on	_	_	
+60-13	7179-7182	the	_	_	
+60-14	7183-7189	theory	_	_	
+60-15	7190-7194	that	_	_	
+60-16	7195-7199	they	_	_	
+60-17	7200-7203	are	_	_	
+60-18	7204-7206	at	_	_	
+60-19	7207-7212	least	_	_	
+60-20	7213-7214	a	_	_	
+60-21	7215-7222	channel	_	_	
+60-22	7223-7225	of	_	_	
+60-23	7226-7231	these	_	_	
+60-24	7232-7237	kinds	_	_	
+60-25	7238-7240	of	_	_	
+60-26	7241-7249	commerce	_	_	
+60-27	7250-7251	.	_	_	
+
+#Text=Further , the Court 's interpretation creates practical problems of its own .
+61-1	7253-7260	Further	_	_	
+61-2	7261-7262	,	_	_	
+61-3	7263-7266	the	_	_	
+61-4	7267-7272	Court	_	_	
+61-5	7273-7275	's	_	_	
+61-6	7276-7290	interpretation	*	Metalinguistic Cue	
+61-7	7291-7298	creates	_	_	
+61-8	7299-7308	practical	_	_	
+61-9	7309-7317	problems	_	_	
+61-10	7318-7320	of	_	_	
+61-11	7321-7324	its	_	_	
+61-12	7325-7328	own	_	_	
+61-13	7329-7330	.	_	_	
+
+#Text=As the Court acknowledges , its opinion gives almost no guidance , save for a list of seven factors .
+62-1	7332-7334	As	_	_	
+62-2	7335-7338	the	_	_	
+62-3	7339-7344	Court	_	_	
+62-4	7345-7357	acknowledges	_	_	
+62-5	7358-7359	,	_	_	
+62-6	7360-7363	its	_	_	
+62-7	7364-7371	opinion	_	_	
+62-8	7372-7377	gives	_	_	
+62-9	7378-7384	almost	_	_	
+62-10	7385-7387	no	_	_	
+62-11	7388-7396	guidance	_	_	
+62-12	7397-7398	,	_	_	
+62-13	7399-7403	save	_	_	
+62-14	7404-7407	for	_	_	
+62-15	7408-7409	a	_	_	
+62-16	7410-7414	list	_	_	
+62-17	7415-7417	of	_	_	
+62-18	7418-7423	seven	_	_	
+62-19	7424-7431	factors	_	_	
+62-20	7432-7433	.	_	_	
+
+#Text=But the Court does not commit to whether those factors are the only relevant ones , whether those factors are always relevant , or which factors are the most important .
+63-1	7435-7438	But	_	_	
+63-2	7439-7442	the	_	_	
+63-3	7443-7448	Court	_	_	
+63-4	7449-7453	does	_	_	
+63-5	7454-7457	not	_	_	
+63-6	7458-7464	commit	_	_	
+63-7	7465-7467	to	_	_	
+63-8	7468-7475	whether	_	_	
+63-9	7476-7481	those	_	_	
+63-10	7482-7489	factors	_	_	
+63-11	7490-7493	are	_	_	
+63-12	7494-7497	the	_	_	
+63-13	7498-7502	only	_	_	
+63-14	7503-7511	relevant	_	_	
+63-15	7512-7516	ones	_	_	
+63-16	7517-7518	,	_	_	
+63-17	7519-7526	whether	_	_	
+63-18	7527-7532	those	_	_	
+63-19	7533-7540	factors	_	_	
+63-20	7541-7544	are	_	_	
+63-21	7545-7551	always	_	_	
+63-22	7552-7560	relevant	_	_	
+63-23	7561-7562	,	_	_	
+63-24	7563-7565	or	_	_	
+63-25	7566-7571	which	_	_	
+63-26	7572-7579	factors	_	_	
+63-27	7580-7583	are	_	_	
+63-28	7584-7587	the	_	_	
+63-29	7588-7592	most	_	_	
+63-30	7593-7602	important	_	_	
+63-31	7603-7604	.	_	_	
+
+#Text=See ante , at 1475 - 1477 .
+64-1	7606-7609	See	_	_	
+64-2	7610-7614	ante	*[172]	Legal Source[172]	
+64-3	7615-7616	,	*[172]	Legal Source[172]	
+64-4	7617-7619	at	*[172]	Legal Source[172]	
+64-5	7620-7624	1475	*[172]	Legal Source[172]	
+64-6	7625-7626	-	*[172]	Legal Source[172]	
+64-7	7627-7631	1477	*[172]	Legal Source[172]	
+64-8	7632-7633	.	_	_	
+
+#Text=It ultimately does little to explain how functionally equivalent an indirect discharge must be to require a permit .
+65-1	7635-7637	It	_	_	
+65-2	7638-7648	ultimately	_	_	
+65-3	7649-7653	does	_	_	
+65-4	7654-7660	little	_	_	
+65-5	7661-7663	to	_	_	
+65-6	7664-7671	explain	_	_	
+65-7	7672-7675	how	_	_	
+65-8	7676-7688	functionally	_	_	
+65-9	7689-7699	equivalent	_	_	
+65-10	7700-7702	an	_	_	
+65-11	7703-7711	indirect	_	_	
+65-12	7712-7721	discharge	_	_	
+65-13	7722-7726	must	_	_	
+65-14	7727-7729	be	_	_	
+65-15	7730-7732	to	_	_	
+65-16	7733-7740	require	_	_	
+65-17	7741-7742	a	_	_	
+65-18	7743-7749	permit	_	_	
+65-19	7750-7751	.	_	_	
+
+#Text=The Court suggests that the EPA could clarify matters through " administrative guidance , " ante , at 1477 , but so far the EPA has provided only limited advice and recently shifted its position , see 84 Fed . Reg . 16810 ( 2019 ) ; ante , at 1473 - 1474 .
+66-1	7753-7756	The	_	_	
+66-2	7757-7762	Court	_	_	
+66-3	7763-7771	suggests	_	_	
+66-4	7772-7776	that	_	_	
+66-5	7777-7780	the	_	_	
+66-6	7781-7784	EPA	_	_	
+66-7	7785-7790	could	_	_	
+66-8	7791-7798	clarify	*	Metalinguistic Cue	
+66-9	7799-7806	matters	_	_	
+66-10	7807-7814	through	_	_	
+66-11	7815-7816	"	*[173]	Direct Quote[173]	
+66-12	7817-7831	administrative	*[173]	Direct Quote[173]	
+66-13	7832-7840	guidance	*[173]	Direct Quote[173]	
+66-14	7841-7842	,	*[173]	Direct Quote[173]	
+66-15	7843-7844	"	*[173]	Direct Quote[173]	
+66-16	7845-7849	ante	*[174]	Legal Source[174]	
+66-17	7850-7851	,	*[174]	Legal Source[174]	
+66-18	7852-7854	at	*[174]	Legal Source[174]	
+66-19	7855-7859	1477	*[174]	Legal Source[174]	
+66-20	7860-7861	,	_	_	
+66-21	7862-7865	but	_	_	
+66-22	7866-7868	so	_	_	
+66-23	7869-7872	far	_	_	
+66-24	7873-7876	the	_	_	
+66-25	7877-7880	EPA	_	_	
+66-26	7881-7884	has	_	_	
+66-27	7885-7893	provided	_	_	
+66-28	7894-7898	only	_	_	
+66-29	7899-7906	limited	_	_	
+66-30	7907-7913	advice	_	_	
+66-31	7914-7917	and	_	_	
+66-32	7918-7926	recently	_	_	
+66-33	7927-7934	shifted	_	_	
+66-34	7935-7938	its	_	_	
+66-35	7939-7947	position	_	_	
+66-36	7948-7949	,	_	_	
+66-37	7950-7953	see	_	_	
+66-38	7954-7956	84	*[175]	Legal Source[175]	
+66-39	7957-7960	Fed	*[175]	Legal Source[175]	
+66-40	7961-7962	.	*[175]	Legal Source[175]	
+66-41	7963-7966	Reg	*[175]	Legal Source[175]	
+66-42	7967-7968	.	*[175]	Legal Source[175]	
+66-43	7969-7974	16810	*[175]	Legal Source[175]	
+66-44	7975-7976	(	*[175]	Legal Source[175]	
+66-45	7977-7981	2019	*[175]	Legal Source[175]	
+66-46	7982-7983	)	*[175]	Legal Source[175]	
+66-47	7984-7985	;	_	_	
+66-48	7986-7990	ante	*[176]	Legal Source[176]	
+66-49	7991-7992	,	*[176]	Legal Source[176]	
+66-50	7993-7995	at	*[176]	Legal Source[176]	
+66-51	7996-8000	1473	*[176]	Legal Source[176]	
+66-52	8001-8002	-	*[176]	Legal Source[176]	
+66-53	8003-8007	1474	*[176]	Legal Source[176]	
+66-54	8008-8009	.	_	_	
+
+#Text=In any event , the sort of " ' general rules ' " that the Court hopes the EPA will promulgate are constitutionally suspect .
+67-1	8011-8013	In	_	_	
+67-2	8014-8017	any	_	_	
+67-3	8018-8023	event	_	_	
+67-4	8024-8025	,	_	_	
+67-5	8026-8029	the	_	_	
+67-6	8030-8034	sort	_	_	
+67-7	8035-8037	of	_	_	
+67-8	8038-8039	"	*[177]	Direct Quote[177]	
+67-9	8040-8041	'	*[177]|*[178]	Direct Quote[177]|Direct Quote[178]	
+67-10	8042-8049	general	*[177]|*[178]	Direct Quote[177]|Direct Quote[178]	
+67-11	8050-8055	rules	*[177]|*[178]	Direct Quote[177]|Direct Quote[178]	
+67-12	8056-8057	'	*[177]|*[178]	Direct Quote[177]|Direct Quote[178]	
+67-13	8058-8059	"	*[177]	Direct Quote[177]	
+67-14	8060-8064	that	_	_	
+67-15	8065-8068	the	_	_	
+67-16	8069-8074	Court	_	_	
+67-17	8075-8080	hopes	_	_	
+67-18	8081-8084	the	_	_	
+67-19	8085-8088	EPA	_	_	
+67-20	8089-8093	will	_	_	
+67-21	8094-8104	promulgate	_	_	
+67-22	8105-8108	are	_	_	
+67-23	8109-8125	constitutionally	_	_	
+67-24	8126-8133	suspect	_	_	
+67-25	8134-8135	.	_	_	
+
+#Text=See Department of Transportation v. Association of American Railroads , 575 U.S. 43 , 67 - 87 , 135 S.Ct . 1225 , 191 L.Ed.2d 153 ( 2015 ) ( THOMAS , J. , concurring in judgment ) .
+68-1	8137-8140	See	_	_	
+68-2	8141-8151	Department	*[179]	Legal Source[179]	
+68-3	8152-8154	of	*[179]	Legal Source[179]	
+68-4	8155-8169	Transportation	*[179]	Legal Source[179]	
+68-5	8170-8172	v.	*[179]	Legal Source[179]	
+68-6	8173-8184	Association	*[179]	Legal Source[179]	
+68-7	8185-8187	of	*[179]	Legal Source[179]	
+68-8	8188-8196	American	*[179]	Legal Source[179]	
+68-9	8197-8206	Railroads	*[179]	Legal Source[179]	
+68-10	8207-8208	,	*[179]	Legal Source[179]	
+68-11	8209-8212	575	*[179]	Legal Source[179]	
+68-12	8213-8217	U.S.	*[179]	Legal Source[179]	
+68-13	8218-8220	43	*[179]	Legal Source[179]	
+68-14	8221-8222	,	*[179]	Legal Source[179]	
+68-15	8223-8225	67	*[179]	Legal Source[179]	
+68-16	8226-8227	-	*[179]	Legal Source[179]	
+68-17	8228-8230	87	*[179]	Legal Source[179]	
+68-18	8231-8232	,	*[179]	Legal Source[179]	
+68-19	8233-8236	135	*[179]	Legal Source[179]	
+68-20	8237-8241	S.Ct	*[179]	Legal Source[179]	
+68-21	8242-8243	.	*[179]	Legal Source[179]	
+68-22	8244-8248	1225	*[179]	Legal Source[179]	
+68-23	8249-8250	,	*[179]	Legal Source[179]	
+68-24	8251-8254	191	*[179]	Legal Source[179]	
+68-25	8255-8262	L.Ed.2d	*[179]	Legal Source[179]	
+68-26	8263-8266	153	*[179]	Legal Source[179]	
+68-27	8267-8268	(	*[179]	Legal Source[179]	
+68-28	8269-8273	2015	*[179]	Legal Source[179]	
+68-29	8274-8275	)	*[179]	Legal Source[179]	
+68-30	8276-8277	(	*[179]	Legal Source[179]	
+68-31	8278-8284	THOMAS	*[179]	Legal Source[179]	
+68-32	8285-8286	,	*[179]	Legal Source[179]	
+68-33	8287-8289	J.	*[179]	Legal Source[179]	
+68-34	8290-8291	,	*[179]	Legal Source[179]	
+68-35	8292-8302	concurring	*[179]	Legal Source[179]	
+68-36	8303-8305	in	*[179]	Legal Source[179]	
+68-37	8306-8314	judgment	*[179]	Legal Source[179]	
+68-38	8315-8316	)	*[179]	Legal Source[179]	
+68-39	8317-8318	.	_	_	
+
+#Text=Despite giving minimal guidance as to how this case should be decided on remand , the majority speculates about whether a permit would be required in other factual circumstances .
+69-1	8320-8327	Despite	_	_	
+69-2	8328-8334	giving	_	_	
+69-3	8335-8342	minimal	_	_	
+69-4	8343-8351	guidance	_	_	
+69-5	8352-8354	as	_	_	
+69-6	8355-8357	to	_	_	
+69-7	8358-8361	how	_	_	
+69-8	8362-8366	this	_	_	
+69-9	8367-8371	case	_	_	
+69-10	8372-8378	should	_	_	
+69-11	8379-8381	be	_	_	
+69-12	8382-8389	decided	_	_	
+69-13	8390-8392	on	_	_	
+69-14	8393-8399	remand	_	_	
+69-15	8400-8401	,	_	_	
+69-16	8402-8405	the	_	_	
+69-17	8406-8414	majority	_	_	
+69-18	8415-8425	speculates	_	_	
+69-19	8426-8431	about	_	_	
+69-20	8432-8439	whether	_	_	
+69-21	8440-8441	a	_	_	
+69-22	8442-8448	permit	_	_	
+69-23	8449-8454	would	_	_	
+69-24	8455-8457	be	_	_	
+69-25	8458-8466	required	_	_	
+69-26	8467-8469	in	_	_	
+69-27	8470-8475	other	_	_	
+69-28	8476-8483	factual	_	_	
+69-29	8484-8497	circumstances	_	_	
+69-30	8498-8499	.	_	_	
+
+#Text=It poses the examples of a pipe that releases pollutants over navigable waters and a pipe that releases pollutants onto land near navigable waters .
+70-1	8501-8503	It	_	_	
+70-2	8504-8509	poses	_	_	
+70-3	8510-8513	the	_	_	
+70-4	8514-8522	examples	_	_	
+70-5	8523-8525	of	_	_	
+70-6	8526-8527	a	_	_	
+70-7	8528-8532	pipe	_	_	
+70-8	8533-8537	that	_	_	
+70-9	8538-8546	releases	_	_	
+70-10	8547-8557	pollutants	_	_	
+70-11	8558-8562	over	_	_	
+70-12	8563-8572	navigable	_	_	
+70-13	8573-8579	waters	_	_	
+70-14	8580-8583	and	_	_	
+70-15	8584-8585	a	_	_	
+70-16	8586-8590	pipe	_	_	
+70-17	8591-8595	that	_	_	
+70-18	8596-8604	releases	_	_	
+70-19	8605-8615	pollutants	_	_	
+70-20	8616-8620	onto	_	_	
+70-21	8621-8625	land	_	_	
+70-22	8626-8630	near	_	_	
+70-23	8631-8640	navigable	_	_	
+70-24	8641-8647	waters	_	_	
+70-25	8648-8649	.	_	_	
+
+#Text=As an initial matter , I am not as sure as the majority that a " pollutant , " as defined by the CWA , may be added to the air .
+71-1	8651-8653	As	_	_	
+71-2	8654-8656	an	_	_	
+71-3	8657-8664	initial	_	_	
+71-4	8665-8671	matter	_	_	
+71-5	8672-8673	,	_	_	
+71-6	8674-8675	I	_	_	
+71-7	8676-8678	am	_	_	
+71-8	8679-8682	not	_	_	
+71-9	8683-8685	as	_	_	
+71-10	8686-8690	sure	_	_	
+71-11	8691-8693	as	_	_	
+71-12	8694-8697	the	_	_	
+71-13	8698-8706	majority	_	_	
+71-14	8707-8711	that	_	_	
+71-15	8712-8713	a	_	_	
+71-16	8714-8715	"	*[180]	Direct Quote[180]	
+71-17	8716-8725	pollutant	*[180]|*[181]	Direct Quote[180]|Focal Term[181]	
+71-18	8726-8727	,	*[180]	Direct Quote[180]	
+71-19	8728-8729	"	*[180]	Direct Quote[180]	
+71-20	8730-8732	as	_	_	
+71-21	8733-8740	defined	*	Metalinguistic Cue	
+71-22	8741-8743	by	_	_	
+71-23	8744-8747	the	_	_	
+71-24	8748-8751	CWA	*	Legal Source	
+71-25	8752-8753	,	_	_	
+71-26	8754-8757	may	_	_	
+71-27	8758-8760	be	_	_	
+71-28	8761-8766	added	_	_	
+71-29	8767-8769	to	_	_	
+71-30	8770-8773	the	_	_	
+71-31	8774-8777	air	_	_	
+71-32	8778-8779	.	_	_	
+
+#Text=Even if the majority is correct that a permit is not required in these hypothetical cases , drawing the line at discharges to water is not so absurd as to undermine the most natural reading of the statute .
+72-1	8781-8785	Even	*[182]	Appeal to Meaning[182]	
+72-2	8786-8788	if	*[182]	Appeal to Meaning[182]	
+72-3	8789-8792	the	*[182]	Appeal to Meaning[182]	
+72-4	8793-8801	majority	*[182]	Appeal to Meaning[182]	
+72-5	8802-8804	is	*[182]	Appeal to Meaning[182]	
+72-6	8805-8812	correct	*[182]	Appeal to Meaning[182]	
+72-7	8813-8817	that	*[182]	Appeal to Meaning[182]	
+72-8	8818-8819	a	*[182]	Appeal to Meaning[182]	
+72-9	8820-8826	permit	*[182]	Appeal to Meaning[182]	
+72-10	8827-8829	is	*[182]	Appeal to Meaning[182]	
+72-11	8830-8833	not	*[182]	Appeal to Meaning[182]	
+72-12	8834-8842	required	*[182]	Appeal to Meaning[182]	
+72-13	8843-8845	in	*[182]	Appeal to Meaning[182]	
+72-14	8846-8851	these	*[182]	Appeal to Meaning[182]	
+72-15	8852-8864	hypothetical	*[182]	Appeal to Meaning[182]	
+72-16	8865-8870	cases	*[182]	Appeal to Meaning[182]	
+72-17	8871-8872	,	*[182]	Appeal to Meaning[182]	
+72-18	8873-8880	drawing	*[182]	Appeal to Meaning[182]	
+72-19	8881-8884	the	*[182]	Appeal to Meaning[182]	
+72-20	8885-8889	line	*[182]	Appeal to Meaning[182]	
+72-21	8890-8892	at	*[182]	Appeal to Meaning[182]	
+72-22	8893-8903	discharges	*[182]	Appeal to Meaning[182]	
+72-23	8904-8906	to	*[182]	Appeal to Meaning[182]	
+72-24	8907-8912	water	*[182]	Appeal to Meaning[182]	
+72-25	8913-8915	is	*[182]	Appeal to Meaning[182]	
+72-26	8916-8919	not	*[182]	Appeal to Meaning[182]	
+72-27	8920-8922	so	*[182]	Appeal to Meaning[182]	
+72-28	8923-8929	absurd	*[182]	Appeal to Meaning[182]	
+72-29	8930-8932	as	*[182]	Appeal to Meaning[182]	
+72-30	8933-8935	to	*[182]	Appeal to Meaning[182]	
+72-31	8936-8945	undermine	*[182]	Appeal to Meaning[182]	
+72-32	8946-8949	the	*[182]	Appeal to Meaning[182]	
+72-33	8950-8954	most	*[182]	Appeal to Meaning[182]	
+72-34	8955-8962	natural	*[182]	Appeal to Meaning[182]	
+72-35	8963-8970	reading	*[182]	Appeal to Meaning[182]	
+72-36	8971-8973	of	*[182]	Appeal to Meaning[182]	
+72-37	8974-8977	the	*[182]	Appeal to Meaning[182]	
+72-38	8978-8985	statute	*[182]	Appeal to Meaning[182]	
+72-39	8986-8987	.	*[182]	Appeal to Meaning[182]	
+
+#Text=In any event , it is unnecessary to decide these hypothetical cases today .
+73-1	8989-8991	In	_	_	
+73-2	8992-8995	any	_	_	
+73-3	8996-9001	event	_	_	
+73-4	9002-9003	,	_	_	
+73-5	9004-9006	it	_	_	
+73-6	9007-9009	is	_	_	
+73-7	9010-9021	unnecessary	_	_	
+73-8	9022-9024	to	_	_	
+73-9	9025-9031	decide	_	_	
+73-10	9032-9037	these	_	_	
+73-11	9038-9050	hypothetical	_	_	
+73-12	9051-9056	cases	_	_	
+73-13	9057-9062	today	_	_	
+73-14	9063-9064	.	_	_	
+
+#Text=Finally , the Court speculates as to " those circumstances in which Congress intended to require a federal permit . "
+74-1	9066-9073	Finally	_	_	
+74-2	9074-9075	,	_	_	
+74-3	9076-9079	the	_	_	
+74-4	9080-9085	Court	_	_	
+74-5	9086-9096	speculates	_	_	
+74-6	9097-9099	as	_	_	
+74-7	9100-9102	to	_	_	
+74-8	9103-9104	"	*[183]	Direct Quote[183]	
+74-9	9105-9110	those	*[183]	Direct Quote[183]	
+74-10	9111-9124	circumstances	*[183]	Direct Quote[183]	
+74-11	9125-9127	in	*[183]	Direct Quote[183]	
+74-12	9128-9133	which	*[183]	Direct Quote[183]	
+74-13	9134-9142	Congress	*[183]	Direct Quote[183]	
+74-14	9143-9151	intended	*[183]	Direct Quote[183]	
+74-15	9152-9154	to	*[183]	Direct Quote[183]	
+74-16	9155-9162	require	*[183]	Direct Quote[183]	
+74-17	9163-9164	a	*[183]	Direct Quote[183]	
+74-18	9165-9172	federal	*[183]	Direct Quote[183]	
+74-19	9173-9179	permit	*[183]	Direct Quote[183]	
+74-20	9180-9181	.	*[183]	Direct Quote[183]	
+74-21	9182-9183	"	*[183]	Direct Quote[183]	
+
+#Text=Ante , at 1476 .
+75-1	9185-9189	Ante	*[184]	Legal Source[184]	
+75-2	9190-9191	,	*[184]	Legal Source[184]	
+75-3	9192-9194	at	*[184]	Legal Source[184]	
+75-4	9195-9199	1476	*[184]	Legal Source[184]	
+75-5	9200-9201	.	_	_	
+
+#Text=But we are not a superlegislature ( or super - EPA ) tasked with making good policy - assuming that is even what the Court accomplishes today .
+76-1	9203-9206	But	_	_	
+76-2	9207-9209	we	_	_	
+76-3	9210-9213	are	_	_	
+76-4	9214-9217	not	_	_	
+76-5	9218-9219	a	_	_	
+76-6	9220-9236	superlegislature	_	_	
+76-7	9237-9238	(	_	_	
+76-8	9239-9241	or	_	_	
+76-9	9242-9247	super	_	_	
+76-10	9248-9249	-	_	_	
+76-11	9250-9253	EPA	_	_	
+76-12	9254-9255	)	_	_	
+76-13	9256-9262	tasked	_	_	
+76-14	9263-9267	with	_	_	
+76-15	9268-9274	making	_	_	
+76-16	9275-9279	good	_	_	
+76-17	9280-9286	policy	_	_	
+76-18	9287-9288	-	_	_	
+76-19	9289-9297	assuming	_	_	
+76-20	9298-9302	that	_	_	
+76-21	9303-9305	is	_	_	
+76-22	9306-9310	even	_	_	
+76-23	9311-9315	what	_	_	
+76-24	9316-9319	the	_	_	
+76-25	9320-9325	Court	_	_	
+76-26	9326-9338	accomplishes	_	_	
+76-27	9339-9344	today	_	_	
+76-28	9345-9346	.	_	_	
+
+#Text=" Our job is to follow the text even if doing so will supposedly undercut a basic objective of the statute . "
+77-1	9348-9349	"	*[185]	Direct Quote[185]	
+77-2	9350-9353	Our	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-3	9354-9357	job	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-4	9358-9360	is	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-5	9361-9363	to	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-6	9364-9370	follow	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-7	9371-9374	the	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-8	9375-9379	text	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-9	9380-9384	even	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-10	9385-9387	if	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-11	9388-9393	doing	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-12	9394-9396	so	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-13	9397-9401	will	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-14	9402-9412	supposedly	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-15	9413-9421	undercut	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-16	9422-9423	a	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-17	9424-9429	basic	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-18	9430-9439	objective	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-19	9440-9442	of	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-20	9443-9446	the	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-21	9447-9454	statute	*[185]|*[186]	Direct Quote[185]|Appeal to Meaning[186]	
+77-22	9455-9456	.	*[185]	Direct Quote[185]	
+77-23	9457-9458	"	*[185]	Direct Quote[185]	
+
+#Text=Baker Botts L. L. P. v. ASARCO LLC , 576 U.S. 121 , 135 , 135 S.Ct . 2158 , 192 L.Ed.2d 208 ( 2015 ) ( internal quotation marks omitted ) .
+78-1	9460-9465	Baker	*[187]	Legal Source[187]	
+78-2	9466-9471	Botts	*[187]	Legal Source[187]	
+78-3	9472-9474	L.	*[187]	Legal Source[187]	
+78-4	9475-9477	L.	*[187]	Legal Source[187]	
+78-5	9478-9480	P.	*[187]	Legal Source[187]	
+78-6	9481-9483	v.	*[187]	Legal Source[187]	
+78-7	9484-9490	ASARCO	*[187]	Legal Source[187]	
+78-8	9491-9494	LLC	*[187]	Legal Source[187]	
+78-9	9495-9496	,	*[187]	Legal Source[187]	
+78-10	9497-9500	576	*[187]	Legal Source[187]	
+78-11	9501-9505	U.S.	*[187]	Legal Source[187]	
+78-12	9506-9509	121	*[187]	Legal Source[187]	
+78-13	9510-9511	,	*[187]	Legal Source[187]	
+78-14	9512-9515	135	*[187]	Legal Source[187]	
+78-15	9516-9517	,	*[187]	Legal Source[187]	
+78-16	9518-9521	135	*[187]	Legal Source[187]	
+78-17	9522-9526	S.Ct	*[187]	Legal Source[187]	
+78-18	9527-9528	.	*[187]	Legal Source[187]	
+78-19	9529-9533	2158	*[187]	Legal Source[187]	
+78-20	9534-9535	,	*[187]	Legal Source[187]	
+78-21	9536-9539	192	*[187]	Legal Source[187]	
+78-22	9540-9547	L.Ed.2d	*[187]	Legal Source[187]	
+78-23	9548-9551	208	*[187]	Legal Source[187]	
+78-24	9552-9553	(	*[187]	Legal Source[187]	
+78-25	9554-9558	2015	*[187]	Legal Source[187]	
+78-26	9559-9560	)	*[187]	Legal Source[187]	
+78-27	9561-9562	(	_	_	
+78-28	9563-9571	internal	_	_	
+78-29	9572-9581	quotation	_	_	
+78-30	9582-9587	marks	_	_	
+78-31	9588-9595	omitted	_	_	
+78-32	9596-9597	)	_	_	
+78-33	9598-9599	.	_	_	
+
+#Text=II
+79-1	9601-9603	II	_	_	
+
+#Text=I do agree with the Court on several points .
+80-1	9605-9606	I	_	_	
+80-2	9607-9609	do	_	_	
+80-3	9610-9615	agree	_	_	
+80-4	9616-9620	with	_	_	
+80-5	9621-9624	the	_	_	
+80-6	9625-9630	Court	_	_	
+80-7	9631-9633	on	_	_	
+80-8	9634-9641	several	_	_	
+80-9	9642-9648	points	_	_	
+80-10	9649-9650	.	_	_	
+
+#Text=First , the interpretation adopted by respondents and the Ninth Circuit is unsupportable .
+81-1	9652-9657	First	_	_	
+81-2	9658-9659	,	_	_	
+81-3	9660-9663	the	_	_	
+81-4	9664-9678	interpretation	*	Metalinguistic Cue	
+81-5	9679-9686	adopted	_	_	
+81-6	9687-9689	by	_	_	
+81-7	9690-9701	respondents	_	_	
+81-8	9702-9705	and	_	_	
+81-9	9706-9709	the	_	_	
+81-10	9710-9715	Ninth	_	_	
+81-11	9716-9723	Circuit	_	_	
+81-12	9724-9726	is	_	_	
+81-13	9727-9740	unsupportable	_	_	
+81-14	9741-9742	.	_	_	
+
+#Text=That interpretation - which would require permits for discharges that are " ' fairly traceable ' " to , and proximately caused by , a point source - is atextual and unsettles the CWA 's careful balance between federal regulation of point - source pollution and state regulation of nonpoint - source pollution .
+82-1	9744-9748	That	_	_	
+82-2	9749-9763	interpretation	*	Metalinguistic Cue	
+82-3	9764-9765	-	_	_	
+82-4	9766-9771	which	_	_	
+82-5	9772-9777	would	_	_	
+82-6	9778-9785	require	_	_	
+82-7	9786-9793	permits	_	_	
+82-8	9794-9797	for	_	_	
+82-9	9798-9808	discharges	_	_	
+82-10	9809-9813	that	_	_	
+82-11	9814-9817	are	_	_	
+82-12	9818-9819	"	*[188]	Direct Quote[188]	
+82-13	9820-9821	'	*[188]|*[189]	Direct Quote[188]|Direct Quote[189]	
+82-14	9822-9828	fairly	*[188]|*[189]	Direct Quote[188]|Direct Quote[189]	
+82-15	9829-9838	traceable	*[188]|*[189]	Direct Quote[188]|Direct Quote[189]	
+82-16	9839-9840	'	*[188]|*[189]	Direct Quote[188]|Direct Quote[189]	
+82-17	9841-9842	"	*[188]	Direct Quote[188]	
+82-18	9843-9845	to	_	_	
+82-19	9846-9847	,	_	_	
+82-20	9848-9851	and	_	_	
+82-21	9852-9863	proximately	_	_	
+82-22	9864-9870	caused	_	_	
+82-23	9871-9873	by	_	_	
+82-24	9874-9875	,	_	_	
+82-25	9876-9877	a	_	_	
+82-26	9878-9883	point	_	_	
+82-27	9884-9890	source	_	_	
+82-28	9891-9892	-	_	_	
+82-29	9893-9895	is	_	_	
+82-30	9896-9904	atextual	*	Metalinguistic Cue	
+82-31	9905-9908	and	_	_	
+82-32	9909-9918	unsettles	_	_	
+82-33	9919-9922	the	_	_	
+82-34	9923-9926	CWA	*	Legal Source	
+82-35	9927-9929	's	_	_	
+82-36	9930-9937	careful	_	_	
+82-37	9938-9945	balance	_	_	
+82-38	9946-9953	between	_	_	
+82-39	9954-9961	federal	_	_	
+82-40	9962-9972	regulation	_	_	
+82-41	9973-9975	of	_	_	
+82-42	9976-9981	point	_	_	
+82-43	9982-9983	-	_	_	
+82-44	9984-9990	source	_	_	
+82-45	9991-10000	pollution	_	_	
+82-46	10001-10004	and	_	_	
+82-47	10005-10010	state	_	_	
+82-48	10011-10021	regulation	_	_	
+82-49	10022-10024	of	_	_	
+82-50	10025-10033	nonpoint	_	_	
+82-51	10034-10035	-	_	_	
+82-52	10036-10042	source	_	_	
+82-53	10043-10052	pollution	_	_	
+82-54	10053-10054	.	_	_	
+
+#Text=Ante , at 1470 - 1473 .
+83-1	10058-10062	Ante	*[190]	Legal Source[190]	
+83-2	10063-10064	,	*[190]	Legal Source[190]	
+83-3	10065-10067	at	*[190]	Legal Source[190]	
+83-4	10068-10072	1470	*[190]	Legal Source[190]	
+83-5	10073-10074	-	*[190]	Legal Source[190]	
+83-6	10075-10079	1473	*[190]	Legal Source[190]	
+83-7	10080-10081	.	_	_	
+
+#Text=Second , I agree that the interpretation adopted by petitioner and Justice ALITO reads the word " any " unnaturally , ante , at 1473 - 1474 , although the majority appears to deploy that argument itself in another part of the opinion , ante , at 1475 .
+84-1	10083-10089	Second	_	_	
+84-2	10090-10091	,	_	_	
+84-3	10092-10093	I	_	_	
+84-4	10094-10099	agree	_	_	
+84-5	10100-10104	that	_	_	
+84-6	10105-10108	the	_	_	
+84-7	10109-10123	interpretation	*	Metalinguistic Cue	
+84-8	10124-10131	adopted	_	_	
+84-9	10132-10134	by	_	_	
+84-10	10135-10145	petitioner	_	_	
+84-11	10146-10149	and	_	_	
+84-12	10150-10157	Justice	_	_	
+84-13	10158-10163	ALITO	_	_	
+84-14	10164-10169	reads	*	Metalinguistic Cue	
+84-15	10170-10173	the	_	_	
+84-16	10174-10178	word	*	Metalinguistic Cue	
+84-17	10179-10180	"	*[191]	Direct Quote[191]	
+84-18	10181-10184	any	*[191]|*[192]	Direct Quote[191]|Focal Term[192]	
+84-19	10185-10186	"	*[191]	Direct Quote[191]	
+84-20	10187-10198	unnaturally	_	_	
+84-21	10199-10200	,	_	_	
+84-22	10201-10205	ante	*[193]	Legal Source[193]	
+84-23	10206-10207	,	*[193]	Legal Source[193]	
+84-24	10208-10210	at	*[193]	Legal Source[193]	
+84-25	10211-10215	1473	*[193]	Legal Source[193]	
+84-26	10216-10217	-	*[193]	Legal Source[193]	
+84-27	10218-10222	1474	*[193]	Legal Source[193]	
+84-28	10223-10224	,	_	_	
+84-29	10225-10233	although	_	_	
+84-30	10234-10237	the	_	_	
+84-31	10238-10246	majority	_	_	
+84-32	10247-10254	appears	_	_	
+84-33	10255-10257	to	_	_	
+84-34	10258-10264	deploy	_	_	
+84-35	10265-10269	that	_	_	
+84-36	10270-10278	argument	_	_	
+84-37	10279-10285	itself	_	_	
+84-38	10286-10288	in	_	_	
+84-39	10289-10296	another	_	_	
+84-40	10297-10301	part	_	_	
+84-41	10302-10304	of	_	_	
+84-42	10305-10308	the	_	_	
+84-43	10309-10316	opinion	_	_	
+84-44	10317-10318	,	_	_	
+84-45	10319-10323	ante	*[194]	Legal Source[194]	
+84-46	10324-10325	,	*[194]	Legal Source[194]	
+84-47	10326-10328	at	*[194]	Legal Source[194]	
+84-48	10329-10333	1475	*[194]	Legal Source[194]	
+84-49	10334-10335	.	_	_	
+
+#Text=Petitioner 's and Justice ALITO 's interpretation also gives insufficient weight to the meaning of " addition , " see supra , at 1479 - 1480 .
+85-1	10337-10347	Petitioner	_	_	
+85-2	10348-10350	's	_	_	
+85-3	10351-10354	and	_	_	
+85-4	10355-10362	Justice	_	_	
+85-5	10363-10368	ALITO	_	_	
+85-6	10369-10371	's	_	_	
+85-7	10372-10386	interpretation	*	Metalinguistic Cue	
+85-8	10387-10391	also	_	_	
+85-9	10392-10397	gives	_	_	
+85-10	10398-10410	insufficient	_	_	
+85-11	10411-10417	weight	_	_	
+85-12	10418-10420	to	_	_	
+85-13	10421-10424	the	_	_	
+85-14	10425-10432	meaning	*	Metalinguistic Cue	
+85-15	10433-10435	of	_	_	
+85-16	10436-10437	"	*[195]	Direct Quote[195]	
+85-17	10438-10446	addition	*[195]	Direct Quote[195]	
+85-18	10447-10448	,	*[195]	Direct Quote[195]	
+85-19	10449-10450	"	*[195]	Direct Quote[195]	
+85-20	10451-10454	see	_	_	
+85-21	10455-10460	supra	*[196]	Legal Source[196]	
+85-22	10461-10462	,	*[196]	Legal Source[196]	
+85-23	10463-10465	at	*[196]	Legal Source[196]	
+85-24	10466-10470	1479	*[196]	Legal Source[196]	
+85-25	10471-10472	-	*[196]	Legal Source[196]	
+85-26	10473-10477	1480	*[196]	Legal Source[196]	
+85-27	10478-10479	.	_	_	
+
+#Text=Third , I agree that the EPA 's interpretation is not entitled to deference for at least two reasons : No party requests it , and the EPA 's reading is not the best one .
+86-1	10481-10486	Third	_	_	
+86-2	10487-10488	,	_	_	
+86-3	10489-10490	I	_	_	
+86-4	10491-10496	agree	_	_	
+86-5	10497-10501	that	_	_	
+86-6	10502-10505	the	_	_	
+86-7	10506-10509	EPA	_	_	
+86-8	10510-10512	's	_	_	
+86-9	10513-10527	interpretation	*	Metalinguistic Cue	
+86-10	10528-10530	is	_	_	
+86-11	10531-10534	not	_	_	
+86-12	10535-10543	entitled	_	_	
+86-13	10544-10546	to	_	_	
+86-14	10547-10556	deference	_	_	
+86-15	10557-10560	for	_	_	
+86-16	10561-10563	at	_	_	
+86-17	10564-10569	least	_	_	
+86-18	10570-10573	two	_	_	
+86-19	10574-10581	reasons	_	_	
+86-20	10582-10583	:	_	_	
+86-21	10584-10586	No	_	_	
+86-22	10587-10592	party	_	_	
+86-23	10593-10601	requests	_	_	
+86-24	10602-10604	it	_	_	
+86-25	10605-10606	,	_	_	
+86-26	10607-10610	and	_	_	
+86-27	10611-10614	the	_	_	
+86-28	10615-10618	EPA	_	_	
+86-29	10619-10621	's	_	_	
+86-30	10622-10629	reading	*	Metalinguistic Cue	
+86-31	10630-10632	is	_	_	
+86-32	10633-10636	not	_	_	
+86-33	10637-10640	the	_	_	
+86-34	10641-10645	best	_	_	
+86-35	10646-10649	one	_	_	
+86-36	10650-10651	.	_	_	
+
+#Text=Ante , at 1474 - 1475 .
+87-1	10655-10659	Ante	*[197]	Legal Source[197]	
+87-2	10660-10661	,	*[197]	Legal Source[197]	
+87-3	10662-10664	at	*[197]	Legal Source[197]	
+87-4	10665-10669	1474	*[197]	Legal Source[197]	
+87-5	10670-10671	-	*[197]	Legal Source[197]	
+87-6	10672-10676	1475	*[197]	Legal Source[197]	
+87-7	10677-10678	.	_	_	
+
+#Text=I add only that deference under Chevron U.S. A. Inc. v. Natural Resources Defense Council , Inc. , 467 U.S. 837 , 104 S.Ct . 2778 , 81 L.Ed.2d 694 ( 1984 ) , likely conflicts with the Vesting Clauses of the Constitution .
+88-1	10680-10681	I	_	_	
+88-2	10682-10685	add	_	_	
+88-3	10686-10690	only	_	_	
+88-4	10691-10695	that	_	_	
+88-5	10696-10705	deference	_	_	
+88-6	10706-10711	under	_	_	
+88-7	10712-10719	Chevron	*[198]	Legal Source[198]	
+88-8	10720-10724	U.S.	*[198]	Legal Source[198]	
+88-9	10725-10727	A.	*[198]	Legal Source[198]	
+88-10	10728-10732	Inc.	*[198]	Legal Source[198]	
+88-11	10733-10735	v.	*[198]	Legal Source[198]	
+88-12	10736-10743	Natural	*[198]	Legal Source[198]	
+88-13	10744-10753	Resources	*[198]	Legal Source[198]	
+88-14	10754-10761	Defense	*[198]	Legal Source[198]	
+88-15	10762-10769	Council	*[198]	Legal Source[198]	
+88-16	10770-10771	,	*[198]	Legal Source[198]	
+88-17	10772-10776	Inc.	*[198]	Legal Source[198]	
+88-18	10777-10778	,	*[198]	Legal Source[198]	
+88-19	10779-10782	467	*[198]	Legal Source[198]	
+88-20	10783-10787	U.S.	*[198]	Legal Source[198]	
+88-21	10788-10791	837	*[198]	Legal Source[198]	
+88-22	10792-10793	,	*[198]	Legal Source[198]	
+88-23	10794-10797	104	*[198]	Legal Source[198]	
+88-24	10798-10802	S.Ct	*[198]	Legal Source[198]	
+88-25	10803-10804	.	*[198]	Legal Source[198]	
+88-26	10805-10809	2778	*[198]	Legal Source[198]	
+88-27	10810-10811	,	*[198]	Legal Source[198]	
+88-28	10812-10814	81	*[198]	Legal Source[198]	
+88-29	10815-10822	L.Ed.2d	*[198]	Legal Source[198]	
+88-30	10823-10826	694	*[198]	Legal Source[198]	
+88-31	10827-10828	(	*[198]	Legal Source[198]	
+88-32	10829-10833	1984	*[198]	Legal Source[198]	
+88-33	10834-10835	)	*[198]	Legal Source[198]	
+88-34	10836-10837	,	_	_	
+88-35	10838-10844	likely	_	_	
+88-36	10845-10854	conflicts	_	_	
+88-37	10855-10859	with	_	_	
+88-38	10860-10863	the	_	_	
+88-39	10864-10871	Vesting	*[199]	Legal Source[199]	
+88-40	10872-10879	Clauses	*[199]	Legal Source[199]	
+88-41	10880-10882	of	*[199]	Legal Source[199]	
+88-42	10883-10886	the	*[199]	Legal Source[199]	
+88-43	10887-10899	Constitution	*[199]	Legal Source[199]	
+88-44	10900-10901	.	_	_	
+
+#Text=See Baldwin v. United States , 589 U.S. ---- , ---- - ---- , 140 S.Ct . 690 , 690 - 694 , --- L.Ed.2d ---- ( 2020 ) ( THOMAS , J. , dissenting from denial of certiorari ) ; Michigan v. EPA , 576 U.S. 743 , 761 - 764 , 135 S.Ct . 2699 , 192 L.Ed.2d 674 ( 2015 ) ( THOMAS , J. , concurring ) ; see also Perez v. Mortgage Bankers Assn . , 575 U.S. 92 , 115 - 126 , 135 S.Ct . 1199 , 191 L.Ed.2d 186 ( 2015 ) ( THOMAS , J. , concurring in judgment ) .
+89-1	10903-10906	See	_	_	
+89-2	10907-10914	Baldwin	*[200]	Legal Source[200]	
+89-3	10915-10917	v.	*[200]	Legal Source[200]	
+89-4	10918-10924	United	*[200]	Legal Source[200]	
+89-5	10925-10931	States	*[200]	Legal Source[200]	
+89-6	10932-10933	,	*[200]	Legal Source[200]	
+89-7	10934-10937	589	*[200]	Legal Source[200]	
+89-8	10938-10942	U.S.	*[200]	Legal Source[200]	
+89-9	10943-10947	----	*[200]	Legal Source[200]	
+89-10	10948-10949	,	*[200]	Legal Source[200]	
+89-11	10950-10954	----	*[200]	Legal Source[200]	
+89-12	10955-10956	-	*[200]	Legal Source[200]	
+89-13	10957-10961	----	*[200]	Legal Source[200]	
+89-14	10962-10963	,	*[200]	Legal Source[200]	
+89-15	10964-10967	140	*[200]	Legal Source[200]	
+89-16	10968-10972	S.Ct	*[200]	Legal Source[200]	
+89-17	10973-10974	.	*[200]	Legal Source[200]	
+89-18	10975-10978	690	*[200]	Legal Source[200]	
+89-19	10979-10980	,	*[200]	Legal Source[200]	
+89-20	10981-10984	690	*[200]	Legal Source[200]	
+89-21	10985-10986	-	*[200]	Legal Source[200]	
+89-22	10987-10990	694	*[200]	Legal Source[200]	
+89-23	10991-10992	,	*[200]	Legal Source[200]	
+89-24	10993-10996	---	*[200]	Legal Source[200]	
+89-25	10997-11004	L.Ed.2d	*[200]	Legal Source[200]	
+89-26	11005-11009	----	*[200]	Legal Source[200]	
+89-27	11010-11011	(	*[200]	Legal Source[200]	
+89-28	11012-11016	2020	*[200]	Legal Source[200]	
+89-29	11017-11018	)	*[200]	Legal Source[200]	
+89-30	11019-11020	(	*[200]	Legal Source[200]	
+89-31	11021-11027	THOMAS	*[200]	Legal Source[200]	
+89-32	11028-11029	,	*[200]	Legal Source[200]	
+89-33	11030-11032	J.	*[200]	Legal Source[200]	
+89-34	11033-11034	,	*[200]	Legal Source[200]	
+89-35	11035-11045	dissenting	*[200]	Legal Source[200]	
+89-36	11046-11050	from	*[200]	Legal Source[200]	
+89-37	11051-11057	denial	*[200]	Legal Source[200]	
+89-38	11058-11060	of	*[200]	Legal Source[200]	
+89-39	11061-11071	certiorari	*[200]	Legal Source[200]	
+89-40	11072-11073	)	*[200]	Legal Source[200]	
+89-41	11074-11075	;	_	_	
+89-42	11076-11084	Michigan	*[201]	Legal Source[201]	
+89-43	11085-11087	v.	*[201]	Legal Source[201]	
+89-44	11088-11091	EPA	*[201]	Legal Source[201]	
+89-45	11092-11093	,	*[201]	Legal Source[201]	
+89-46	11094-11097	576	*[201]	Legal Source[201]	
+89-47	11098-11102	U.S.	*[201]	Legal Source[201]	
+89-48	11103-11106	743	*[201]	Legal Source[201]	
+89-49	11107-11108	,	*[201]	Legal Source[201]	
+89-50	11109-11112	761	*[201]	Legal Source[201]	
+89-51	11113-11114	-	*[201]	Legal Source[201]	
+89-52	11115-11118	764	*[201]	Legal Source[201]	
+89-53	11119-11120	,	*[201]	Legal Source[201]	
+89-54	11121-11124	135	*[201]	Legal Source[201]	
+89-55	11125-11129	S.Ct	*[201]	Legal Source[201]	
+89-56	11130-11131	.	*[201]	Legal Source[201]	
+89-57	11132-11136	2699	*[201]	Legal Source[201]	
+89-58	11137-11138	,	*[201]	Legal Source[201]	
+89-59	11139-11142	192	*[201]	Legal Source[201]	
+89-60	11143-11150	L.Ed.2d	*[201]	Legal Source[201]	
+89-61	11151-11154	674	*[201]	Legal Source[201]	
+89-62	11155-11156	(	*[201]	Legal Source[201]	
+89-63	11157-11161	2015	*[201]	Legal Source[201]	
+89-64	11162-11163	)	*[201]	Legal Source[201]	
+89-65	11164-11165	(	*[201]	Legal Source[201]	
+89-66	11166-11172	THOMAS	*[201]	Legal Source[201]	
+89-67	11173-11174	,	*[201]	Legal Source[201]	
+89-68	11175-11177	J.	*[201]	Legal Source[201]	
+89-69	11178-11179	,	*[201]	Legal Source[201]	
+89-70	11180-11190	concurring	*[201]	Legal Source[201]	
+89-71	11191-11192	)	*[201]	Legal Source[201]	
+89-72	11193-11194	;	_	_	
+89-73	11195-11198	see	_	_	
+89-74	11199-11203	also	_	_	
+89-75	11204-11209	Perez	*[202]	Legal Source[202]	
+89-76	11210-11212	v.	*[202]	Legal Source[202]	
+89-77	11213-11221	Mortgage	*[202]	Legal Source[202]	
+89-78	11222-11229	Bankers	*[202]	Legal Source[202]	
+89-79	11230-11234	Assn	*[202]	Legal Source[202]	
+89-80	11235-11236	.	*[202]	Legal Source[202]	
+89-81	11237-11238	,	*[202]	Legal Source[202]	
+89-82	11239-11242	575	*[202]	Legal Source[202]	
+89-83	11243-11247	U.S.	*[202]	Legal Source[202]	
+89-84	11248-11250	92	*[202]	Legal Source[202]	
+89-85	11251-11252	,	*[202]	Legal Source[202]	
+89-86	11253-11256	115	*[202]	Legal Source[202]	
+89-87	11257-11258	-	*[202]	Legal Source[202]	
+89-88	11259-11262	126	*[202]	Legal Source[202]	
+89-89	11263-11264	,	*[202]	Legal Source[202]	
+89-90	11265-11268	135	*[202]	Legal Source[202]	
+89-91	11269-11273	S.Ct	*[202]	Legal Source[202]	
+89-92	11274-11275	.	*[202]	Legal Source[202]	
+89-93	11276-11280	1199	*[202]	Legal Source[202]	
+89-94	11281-11282	,	*[202]	Legal Source[202]	
+89-95	11283-11286	191	*[202]	Legal Source[202]	
+89-96	11287-11294	L.Ed.2d	*[202]	Legal Source[202]	
+89-97	11295-11298	186	*[202]	Legal Source[202]	
+89-98	11299-11300	(	*[202]	Legal Source[202]	
+89-99	11301-11305	2015	*[202]	Legal Source[202]	
+89-100	11306-11307	)	*[202]	Legal Source[202]	
+89-101	11308-11309	(	*[202]	Legal Source[202]	
+89-102	11310-11316	THOMAS	*[202]	Legal Source[202]	
+89-103	11317-11318	,	*[202]	Legal Source[202]	
+89-104	11319-11321	J.	*[202]	Legal Source[202]	
+89-105	11322-11323	,	*[202]	Legal Source[202]	
+89-106	11324-11334	concurring	*[202]	Legal Source[202]	
+89-107	11335-11337	in	*[202]	Legal Source[202]	
+89-108	11338-11346	judgment	*[202]	Legal Source[202]	
+89-109	11347-11348	)	*[202]	Legal Source[202]	
+89-110	11349-11350	.	_	_	
+
+#Text=Finally , I agree with the Court 's implicit conclusion that Rapanos v. United States , 547 U.S. 715 , 126 S.Ct . 2208 , 165 L.Ed.2d 159 ( 2006 ) , does not resolve this case .
+90-1	11352-11359	Finally	_	_	
+90-2	11360-11361	,	_	_	
+90-3	11362-11363	I	_	_	
+90-4	11364-11369	agree	_	_	
+90-5	11370-11374	with	_	_	
+90-6	11375-11378	the	_	_	
+90-7	11379-11384	Court	_	_	
+90-8	11385-11387	's	_	_	
+90-9	11388-11396	implicit	_	_	
+90-10	11397-11407	conclusion	_	_	
+90-11	11408-11412	that	_	_	
+90-12	11413-11420	Rapanos	*[203]	Legal Source[203]	
+90-13	11421-11423	v.	*[203]	Legal Source[203]	
+90-14	11424-11430	United	*[203]	Legal Source[203]	
+90-15	11431-11437	States	*[203]	Legal Source[203]	
+90-16	11438-11439	,	*[203]	Legal Source[203]	
+90-17	11440-11443	547	*[203]	Legal Source[203]	
+90-18	11444-11448	U.S.	*[203]	Legal Source[203]	
+90-19	11449-11452	715	*[203]	Legal Source[203]	
+90-20	11453-11454	,	*[203]	Legal Source[203]	
+90-21	11455-11458	126	*[203]	Legal Source[203]	
+90-22	11459-11463	S.Ct	*[203]	Legal Source[203]	
+90-23	11464-11465	.	*[203]	Legal Source[203]	
+90-24	11466-11470	2208	*[203]	Legal Source[203]	
+90-25	11471-11472	,	*[203]	Legal Source[203]	
+90-26	11473-11476	165	*[203]	Legal Source[203]	
+90-27	11477-11484	L.Ed.2d	*[203]	Legal Source[203]	
+90-28	11485-11488	159	*[203]	Legal Source[203]	
+90-29	11489-11490	(	*[203]	Legal Source[203]	
+90-30	11491-11495	2006	*[203]	Legal Source[203]	
+90-31	11496-11497	)	*[203]	Legal Source[203]	
+90-32	11498-11499	,	_	_	
+90-33	11500-11504	does	_	_	
+90-34	11505-11508	not	_	_	
+90-35	11509-11516	resolve	_	_	
+90-36	11517-11521	this	_	_	
+90-37	11522-11526	case	_	_	
+90-38	11527-11528	.	_	_	
+
+#Text=That plurality opinion , which I joined , observed that lower courts have required a permit when pollutants pass through a chain of point sources .
+91-1	11530-11534	That	_	_	
+91-2	11535-11544	plurality	_	_	
+91-3	11545-11552	opinion	_	_	
+91-4	11553-11554	,	_	_	
+91-5	11555-11560	which	_	_	
+91-6	11561-11562	I	_	_	
+91-7	11563-11569	joined	_	_	
+91-8	11570-11571	,	_	_	
+91-9	11572-11580	observed	_	_	
+91-10	11581-11585	that	_	_	
+91-11	11586-11591	lower	_	_	
+91-12	11592-11598	courts	_	_	
+91-13	11599-11603	have	_	_	
+91-14	11604-11612	required	_	_	
+91-15	11613-11614	a	_	_	
+91-16	11615-11621	permit	_	_	
+91-17	11622-11626	when	_	_	
+91-18	11627-11637	pollutants	_	_	
+91-19	11638-11642	pass	_	_	
+91-20	11643-11650	through	_	_	
+91-21	11651-11652	a	_	_	
+91-22	11653-11658	chain	_	_	
+91-23	11659-11661	of	_	_	
+91-24	11662-11667	point	_	_	
+91-25	11668-11675	sources	_	_	
+91-26	11676-11677	.	_	_	
+
+#Text=Id. , at 743 - 744 , 126 S.Ct . 2208 .
+92-1	11681-11684	Id.	*[204]	Legal Source[204]	
+92-2	11685-11686	,	*[204]	Legal Source[204]	
+92-3	11687-11689	at	*[204]	Legal Source[204]	
+92-4	11690-11693	743	*[204]	Legal Source[204]	
+92-5	11694-11695	-	*[204]	Legal Source[204]	
+92-6	11696-11699	744	*[204]	Legal Source[204]	
+92-7	11700-11701	,	*[204]	Legal Source[204]	
+92-8	11702-11705	126	*[204]	Legal Source[204]	
+92-9	11706-11710	S.Ct	*[204]	Legal Source[204]	
+92-10	11711-11712	.	*[204]	Legal Source[204]	
+92-11	11713-11717	2208	*[204]	Legal Source[204]	
+92-12	11718-11719	.	_	_	
+
+#Text=But we expressly said in Rapanos that " we [ did ] not decide this issue . "
+93-1	11721-11724	But	_	_	
+93-2	11725-11727	we	_	_	
+93-3	11728-11737	expressly	_	_	
+93-4	11738-11742	said	_	_	
+93-5	11743-11745	in	_	_	
+93-6	11746-11753	Rapanos	_	_	
+93-7	11754-11758	that	_	_	
+93-8	11759-11760	"	*[205]	Direct Quote[205]	
+93-9	11761-11763	we	*[205]	Direct Quote[205]	
+93-10	11764-11765	[	*[205]	Direct Quote[205]	
+93-11	11766-11769	did	*[205]	Direct Quote[205]	
+93-12	11770-11771	]	*[205]	Direct Quote[205]	
+93-13	11772-11775	not	*[205]	Direct Quote[205]	
+93-14	11776-11782	decide	*[205]	Direct Quote[205]	
+93-15	11783-11787	this	*[205]	Direct Quote[205]	
+93-16	11788-11793	issue	*[205]	Direct Quote[205]	
+93-17	11794-11795	.	*[205]	Direct Quote[205]	
+93-18	11796-11797	"	*[205]	Direct Quote[205]	
+
+#Text=Id. , at 743 , 126 S.Ct . 2208 .
+94-1	11799-11802	Id.	*[206]	Legal Source[206]	
+94-2	11803-11804	,	*[206]	Legal Source[206]	
+94-3	11805-11807	at	*[206]	Legal Source[206]	
+94-4	11808-11811	743	*[206]	Legal Source[206]	
+94-5	11812-11813	,	*[206]	Legal Source[206]	
+94-6	11814-11817	126	*[206]	Legal Source[206]	
+94-7	11818-11822	S.Ct	*[206]	Legal Source[206]	
+94-8	11823-11824	.	*[206]	Legal Source[206]	
+94-9	11825-11829	2208	*[206]	Legal Source[206]	
+94-10	11830-11831	.	_	_	
+
+#Text=We are not bound by dictum in a plurality opinion or by the lower court opinions it cited .
+95-1	11833-11835	We	_	_	
+95-2	11836-11839	are	_	_	
+95-3	11840-11843	not	_	_	
+95-4	11844-11849	bound	_	_	
+95-5	11850-11852	by	_	_	
+95-6	11853-11859	dictum	_	_	
+95-7	11860-11862	in	_	_	
+95-8	11863-11864	a	_	_	
+95-9	11865-11874	plurality	_	_	
+95-10	11875-11882	opinion	_	_	
+95-11	11883-11885	or	_	_	
+95-12	11886-11888	by	_	_	
+95-13	11889-11892	the	_	_	
+95-14	11893-11898	lower	_	_	
+95-15	11899-11904	court	_	_	
+95-16	11905-11913	opinions	_	_	
+95-17	11914-11916	it	_	_	
+95-18	11917-11922	cited	_	_	
+95-19	11923-11924	.	_	_	
+
+#Text=III
+96-1	11926-11929	III	_	_	
+
+#Text=The best reading of the statute is that a " discharge " is the release of pollutants directly from a point source to navigable waters .
+97-1	11931-11934	The	_	_	
+97-2	11935-11939	best	_	_	
+97-3	11940-11947	reading	*	Metalinguistic Cue	
+97-4	11948-11950	of	_	_	
+97-5	11951-11954	the	_	_	
+97-6	11955-11962	statute	_	_	
+97-7	11963-11965	is	_	_	
+97-8	11966-11970	that	_	_	
+97-9	11971-11972	a	_	_	
+97-10	11973-11974	"	*[207]	Direct Quote[207]	
+97-11	11975-11984	discharge	*[207]|*[208]	Direct Quote[207]|Focal Term[208]	
+97-12	11985-11986	"	*[207]	Direct Quote[207]	
+97-13	11987-11989	is	_	_	
+97-14	11990-11993	the	*[209]	Definition[209]	
+97-15	11994-12001	release	*[209]	Definition[209]	
+97-16	12002-12004	of	*[209]	Definition[209]	
+97-17	12005-12015	pollutants	*[209]	Definition[209]	
+97-18	12016-12024	directly	*[209]	Definition[209]	
+97-19	12025-12029	from	*[209]	Definition[209]	
+97-20	12030-12031	a	*[209]	Definition[209]	
+97-21	12032-12037	point	*[209]	Definition[209]	
+97-22	12038-12044	source	*[209]	Definition[209]	
+97-23	12045-12047	to	*[209]	Definition[209]	
+97-24	12048-12057	navigable	*[209]	Definition[209]	
+97-25	12058-12064	waters	*[209]	Definition[209]	
+97-26	12065-12066	.	_	_	
+
+#Text=The application of this interpretation to the undisputed facts of this case makes a remand unnecessary .
+98-1	12068-12071	The	_	_	
+98-2	12072-12083	application	_	_	
+98-3	12084-12086	of	_	_	
+98-4	12087-12091	this	_	_	
+98-5	12092-12106	interpretation	*	Metalinguistic Cue	
+98-6	12107-12109	to	_	_	
+98-7	12110-12113	the	_	_	
+98-8	12114-12124	undisputed	_	_	
+98-9	12125-12130	facts	_	_	
+98-10	12131-12133	of	_	_	
+98-11	12134-12138	this	_	_	
+98-12	12139-12143	case	_	_	
+98-13	12144-12149	makes	_	_	
+98-14	12150-12151	a	_	_	
+98-15	12152-12158	remand	_	_	
+98-16	12159-12170	unnecessary	_	_	
+98-17	12171-12172	.	_	_	
+
+#Text=Petitioner operates a wastewater treatment facility and injects treated wastewater into four underground injection control wells .
+99-1	12174-12184	Petitioner	_	_	
+99-2	12185-12193	operates	_	_	
+99-3	12194-12195	a	_	_	
+99-4	12196-12206	wastewater	_	_	
+99-5	12207-12216	treatment	_	_	
+99-6	12217-12225	facility	_	_	
+99-7	12226-12229	and	_	_	
+99-8	12230-12237	injects	_	_	
+99-9	12238-12245	treated	_	_	
+99-10	12246-12256	wastewater	_	_	
+99-11	12257-12261	into	_	_	
+99-12	12262-12266	four	_	_	
+99-13	12267-12278	underground	_	_	
+99-14	12279-12288	injection	_	_	
+99-15	12289-12296	control	_	_	
+99-16	12297-12302	wells	_	_	
+99-17	12303-12304	.	_	_	
+
+#Text=All parties agree that the wastewater enters groundwater from the wells and does not directly enter navigable waters .
+100-1	12306-12309	All	_	_	
+100-2	12310-12317	parties	_	_	
+100-3	12318-12323	agree	_	_	
+100-4	12324-12328	that	_	_	
+100-5	12329-12332	the	_	_	
+100-6	12333-12343	wastewater	_	_	
+100-7	12344-12350	enters	_	_	
+100-8	12351-12362	groundwater	_	_	
+100-9	12363-12367	from	_	_	
+100-10	12368-12371	the	_	_	
+100-11	12372-12377	wells	_	_	
+100-12	12378-12381	and	_	_	
+100-13	12382-12386	does	_	_	
+100-14	12387-12390	not	_	_	
+100-15	12391-12399	directly	_	_	
+100-16	12400-12405	enter	_	_	
+100-17	12406-12415	navigable	_	_	
+100-18	12416-12422	waters	_	_	
+100-19	12423-12424	.	_	_	
+
+#Text=Based on these undisputed facts , there is no " discharge , " so I would reverse the judgment of the Ninth Circuit .
+101-1	12426-12431	Based	_	_	
+101-2	12432-12434	on	_	_	
+101-3	12435-12440	these	_	_	
+101-4	12441-12451	undisputed	_	_	
+101-5	12452-12457	facts	_	_	
+101-6	12458-12459	,	_	_	
+101-7	12460-12465	there	_	_	
+101-8	12466-12468	is	_	_	
+101-9	12469-12471	no	_	_	
+101-10	12472-12473	"	*[210]	Direct Quote[210]	
+101-11	12474-12483	discharge	*[210]|*[211]	Direct Quote[210]|Focal Term[211]	
+101-12	12484-12485	,	*[210]	Direct Quote[210]	
+101-13	12486-12487	"	*[210]	Direct Quote[210]	
+101-14	12488-12490	so	_	_	
+101-15	12491-12492	I	_	_	
+101-16	12493-12498	would	_	_	
+101-17	12499-12506	reverse	_	_	
+101-18	12507-12510	the	_	_	
+101-19	12511-12519	judgment	_	_	
+101-20	12520-12522	of	_	_	
+101-21	12523-12526	the	_	_	
+101-22	12527-12532	Ninth	_	_	
+101-23	12533-12540	Circuit	_	_	
+101-24	12541-12542	.	_	_	
+
+#Text=I respectfully dissent .
+102-1	12544-12545	I	_	_	
+102-2	12546-12558	respectfully	_	_	
+102-3	12559-12566	dissent	_	_	
+102-4	12567-12568	.	_	_	

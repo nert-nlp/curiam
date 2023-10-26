@@ -1,0 +1,439 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=custom.Span|Notes|label
+
+
+#Text=Justice SOTOMAYOR , concurring .
+1-1	0-7	Justice	_	_	
+1-2	8-17	SOTOMAYOR	_	_	
+1-3	18-19	,	_	_	
+1-4	20-30	concurring	_	_	
+1-5	31-32	.	_	_	
+
+#Text=Like my colleagues in both the majority and the partial dissent , I agree that 15 U.S.C. § 1692k(d ) is a one - year statute of limitations that typically begins to run when the alleged violation " occurs , " not when the plaintiff discovers it .
+2-1	33-37	Like	_	_	
+2-2	38-40	my	_	_	
+2-3	41-51	colleagues	_	_	
+2-4	52-54	in	_	_	
+2-5	55-59	both	_	_	
+2-6	60-63	the	_	_	
+2-7	64-72	majority	_	_	
+2-8	73-76	and	_	_	
+2-9	77-80	the	_	_	
+2-10	81-88	partial	_	_	
+2-11	89-96	dissent	_	_	
+2-12	97-98	,	_	_	
+2-13	99-100	I	_	_	
+2-14	101-106	agree	_	_	
+2-15	107-111	that	_	_	
+2-16	112-114	15	*[1]	Legal Source[1]	
+2-17	115-121	U.S.C.	*[1]	Legal Source[1]	
+2-18	122-123	§	*[1]	Legal Source[1]	
+2-19	124-131	1692k(d	*[1]	Legal Source[1]	
+2-20	132-133	)	*[1]	Legal Source[1]	
+2-21	134-136	is	_	_	
+2-22	137-138	a	_	_	
+2-23	139-142	one	_	_	
+2-24	143-144	-	_	_	
+2-25	145-149	year	_	_	
+2-26	150-157	statute	_	_	
+2-27	158-160	of	_	_	
+2-28	161-172	limitations	_	_	
+2-29	173-177	that	_	_	
+2-30	178-187	typically	_	_	
+2-31	188-194	begins	_	_	
+2-32	195-197	to	_	_	
+2-33	198-201	run	_	_	
+2-34	202-206	when	_	_	
+2-35	207-210	the	_	_	
+2-36	211-218	alleged	_	_	
+2-37	219-228	violation	_	_	
+2-38	229-230	"	*[2]	Direct Quote[2]	
+2-39	231-237	occurs	*[2]	Direct Quote[2]	
+2-40	238-239	,	*[2]	Direct Quote[2]	
+2-41	240-241	"	*[2]	Direct Quote[2]	
+2-42	242-245	not	_	_	
+2-43	246-250	when	_	_	
+2-44	251-254	the	_	_	
+2-45	255-264	plaintiff	_	_	
+2-46	265-274	discovers	_	_	
+2-47	275-277	it	_	_	
+2-48	278-279	.	_	_	
+
+#Text=Compare ante , at 358 , with post , at 362 ( GINSBURG , J. , dissenting in part and from judgment ) .
+3-1	280-287	Compare	_	_	
+3-2	288-292	ante	*[3]	Legal Source[3]	
+3-3	293-294	,	*[3]	Legal Source[3]	
+3-4	295-297	at	*[3]	Legal Source[3]	
+3-5	298-301	358	*[3]	Legal Source[3]	
+3-6	302-303	,	_	_	
+3-7	304-308	with	_	_	
+3-8	309-313	post	*[4]	Legal Source[4]	
+3-9	314-315	,	*[4]	Legal Source[4]	
+3-10	316-318	at	*[4]	Legal Source[4]	
+3-11	319-322	362	*[4]	Legal Source[4]	
+3-12	323-324	(	*[4]	Legal Source[4]	
+3-13	325-333	GINSBURG	*[4]	Legal Source[4]	
+3-14	334-335	,	*[4]	Legal Source[4]	
+3-15	336-338	J.	*[4]	Legal Source[4]	
+3-16	339-340	,	*[4]	Legal Source[4]	
+3-17	341-351	dissenting	*[4]	Legal Source[4]	
+3-18	352-354	in	*[4]	Legal Source[4]	
+3-19	355-359	part	*[4]	Legal Source[4]	
+3-20	360-363	and	*[4]	Legal Source[4]	
+3-21	364-368	from	*[4]	Legal Source[4]	
+3-22	369-377	judgment	*[4]	Legal Source[4]	
+3-23	378-379	)	*[4]	Legal Source[4]	
+3-24	380-381	.	_	_	
+
+#Text=The only daylight between the majority and dissenting opinions is whether petitioner Rotkiske forfeited reliance on an " equitable , fraud - specific discovery rule " that forgives otherwise untimely filings .
+4-1	382-385	The	_	_	
+4-2	386-390	only	_	_	
+4-3	391-399	daylight	_	_	
+4-4	400-407	between	_	_	
+4-5	408-411	the	_	_	
+4-6	412-420	majority	_	_	
+4-7	421-424	and	_	_	
+4-8	425-435	dissenting	_	_	
+4-9	436-444	opinions	_	_	
+4-10	445-447	is	_	_	
+4-11	448-455	whether	_	_	
+4-12	456-466	petitioner	_	_	
+4-13	467-475	Rotkiske	_	_	
+4-14	476-485	forfeited	_	_	
+4-15	486-494	reliance	_	_	
+4-16	495-497	on	_	_	
+4-17	498-500	an	_	_	
+4-18	501-502	"	*[5]	Direct Quote[5]	
+4-19	503-512	equitable	*[5]	Direct Quote[5]	
+4-20	513-514	,	*[5]	Direct Quote[5]	
+4-21	515-520	fraud	*[5]	Direct Quote[5]	
+4-22	521-522	-	*[5]	Direct Quote[5]	
+4-23	523-531	specific	*[5]	Direct Quote[5]	
+4-24	532-541	discovery	*[5]	Direct Quote[5]	
+4-25	542-546	rule	*[5]	Direct Quote[5]	
+4-26	547-548	"	*[5]	Direct Quote[5]	
+4-27	549-553	that	_	_	
+4-28	554-562	forgives	_	_	
+4-29	563-572	otherwise	_	_	
+4-30	573-581	untimely	_	_	
+4-31	582-589	filings	_	_	
+4-32	590-591	.	_	_	
+
+#Text=Ante , at 359 - 362 ; cf . post , at 364 - 365 .
+5-1	592-596	Ante	*[6]	Legal Source[6]	
+5-2	597-598	,	*[6]	Legal Source[6]	
+5-3	599-601	at	*[6]	Legal Source[6]	
+5-4	602-605	359	*[6]	Legal Source[6]	
+5-5	606-607	-	*[6]	Legal Source[6]	
+5-6	608-611	362	*[6]	Legal Source[6]	
+5-7	612-613	;	_	_	
+5-8	614-616	cf	_	_	
+5-9	617-618	.	_	_	
+5-10	619-623	post	*[7]	Legal Source[7]	
+5-11	624-625	,	*[7]	Legal Source[7]	
+5-12	626-628	at	*[7]	Legal Source[7]	
+5-13	629-632	364	*[7]	Legal Source[7]	
+5-14	633-634	-	*[7]	Legal Source[7]	
+5-15	635-638	365	*[7]	Legal Source[7]	
+5-16	639-640	.	_	_	
+
+#Text=Because I believe the Court of Appeals fairly found that Rotkiske failed to preserve an equitable argument of this sort , see 890 F.3d 422 , 429 , and n. 5 ( C.A.3 2018 ) , and because the Court did not grant certiorari on that doctrine , I join the majority opinion .
+6-1	641-648	Because	_	_	
+6-2	649-650	I	_	_	
+6-3	651-658	believe	_	_	
+6-4	659-662	the	_	_	
+6-5	663-668	Court	_	_	
+6-6	669-671	of	_	_	
+6-7	672-679	Appeals	_	_	
+6-8	680-686	fairly	_	_	
+6-9	687-692	found	_	_	
+6-10	693-697	that	_	_	
+6-11	698-706	Rotkiske	_	_	
+6-12	707-713	failed	_	_	
+6-13	714-716	to	_	_	
+6-14	717-725	preserve	_	_	
+6-15	726-728	an	_	_	
+6-16	729-738	equitable	_	_	
+6-17	739-747	argument	_	_	
+6-18	748-750	of	_	_	
+6-19	751-755	this	_	_	
+6-20	756-760	sort	_	_	
+6-21	761-762	,	_	_	
+6-22	763-766	see	_	_	
+6-23	767-770	890	*[8]	Legal Source[8]	
+6-24	771-775	F.3d	*[8]	Legal Source[8]	
+6-25	776-779	422	*[8]	Legal Source[8]	
+6-26	780-781	,	*[8]	Legal Source[8]	
+6-27	782-785	429	*[8]	Legal Source[8]	
+6-28	786-787	,	*[8]	Legal Source[8]	
+6-29	788-791	and	*[8]	Legal Source[8]	
+6-30	792-794	n.	*[8]	Legal Source[8]	
+6-31	795-796	5	*[8]	Legal Source[8]	
+6-32	797-798	(	*[8]	Legal Source[8]	
+6-33	799-804	C.A.3	*[8]	Legal Source[8]	
+6-34	805-809	2018	*[8]	Legal Source[8]	
+6-35	810-811	)	*[8]	Legal Source[8]	
+6-36	812-813	,	_	_	
+6-37	814-817	and	_	_	
+6-38	818-825	because	_	_	
+6-39	826-829	the	_	_	
+6-40	830-835	Court	_	_	
+6-41	836-839	did	_	_	
+6-42	840-843	not	_	_	
+6-43	844-849	grant	_	_	
+6-44	850-860	certiorari	_	_	
+6-45	861-863	on	_	_	
+6-46	864-868	that	_	_	
+6-47	869-877	doctrine	_	_	
+6-48	878-879	,	_	_	
+6-49	880-881	I	_	_	
+6-50	882-886	join	_	_	
+6-51	887-890	the	_	_	
+6-52	891-899	majority	_	_	
+6-53	900-907	opinion	_	_	
+6-54	908-909	.	_	_	
+
+#Text=I write separately to emphasize that this fraud - specific equitable principle is not the " ' bad wine of recent vintage ' " of which my colleagues speak .
+7-1	910-911	I	_	_	
+7-2	912-917	write	_	_	
+7-3	918-928	separately	_	_	
+7-4	929-931	to	_	_	
+7-5	932-941	emphasize	_	_	
+7-6	942-946	that	_	_	
+7-7	947-951	this	_	_	
+7-8	952-957	fraud	_	_	
+7-9	958-959	-	_	_	
+7-10	960-968	specific	_	_	
+7-11	969-978	equitable	_	_	
+7-12	979-988	principle	_	_	
+7-13	989-991	is	_	_	
+7-14	992-995	not	_	_	
+7-15	996-999	the	_	_	
+7-16	1000-1001	"	*[9]	Direct Quote[9]	
+7-17	1002-1003	'	*[9]|*[10]	Direct Quote[9]|Direct Quote[10]	
+7-18	1004-1007	bad	*[9]|*[10]	Direct Quote[9]|Direct Quote[10]	
+7-19	1008-1012	wine	*[9]|*[10]	Direct Quote[9]|Direct Quote[10]	
+7-20	1013-1015	of	*[9]|*[10]	Direct Quote[9]|Direct Quote[10]	
+7-21	1016-1022	recent	*[9]|*[10]	Direct Quote[9]|Direct Quote[10]	
+7-22	1023-1030	vintage	*[9]|*[10]	Direct Quote[9]|Direct Quote[10]	
+7-23	1031-1032	'	*[9]|*[10]	Direct Quote[9]|Direct Quote[10]	
+7-24	1033-1034	"	*[9]	Direct Quote[9]	
+7-25	1035-1037	of	_	_	
+7-26	1038-1043	which	_	_	
+7-27	1044-1046	my	_	_	
+7-28	1047-1057	colleagues	_	_	
+7-29	1058-1063	speak	_	_	
+7-30	1064-1065	.	_	_	
+
+#Text=Ante , at 360 ( quoting TRW Inc. v. Andrews , 534 U.S. 19 , 37 , 122 S.Ct . 441 , 151 L.Ed.2d 339 ( 2001 ) ( Scalia , J. , concurring in judgment ) ) .
+8-1	1066-1070	Ante	*[11]	Legal Source[11]	
+8-2	1071-1072	,	*[11]	Legal Source[11]	
+8-3	1073-1075	at	*[11]	Legal Source[11]	
+8-4	1076-1079	360	*[11]	Legal Source[11]	
+8-5	1080-1081	(	_	_	
+8-6	1082-1089	quoting	_	_	
+8-7	1090-1093	TRW	*[12]	Legal Source[12]	
+8-8	1094-1098	Inc.	*[12]	Legal Source[12]	
+8-9	1099-1101	v.	*[12]	Legal Source[12]	
+8-10	1102-1109	Andrews	*[12]	Legal Source[12]	
+8-11	1110-1111	,	*[12]	Legal Source[12]	
+8-12	1112-1115	534	*[12]	Legal Source[12]	
+8-13	1116-1120	U.S.	*[12]	Legal Source[12]	
+8-14	1121-1123	19	*[12]	Legal Source[12]	
+8-15	1124-1125	,	*[12]	Legal Source[12]	
+8-16	1126-1128	37	*[12]	Legal Source[12]	
+8-17	1129-1130	,	*[12]	Legal Source[12]	
+8-18	1131-1134	122	*[12]	Legal Source[12]	
+8-19	1135-1139	S.Ct	*[12]	Legal Source[12]	
+8-20	1140-1141	.	*[12]	Legal Source[12]	
+8-21	1142-1145	441	*[12]	Legal Source[12]	
+8-22	1146-1147	,	*[12]	Legal Source[12]	
+8-23	1148-1151	151	*[12]	Legal Source[12]	
+8-24	1152-1159	L.Ed.2d	*[12]	Legal Source[12]	
+8-25	1160-1163	339	*[12]	Legal Source[12]	
+8-26	1164-1165	(	*[12]	Legal Source[12]	
+8-27	1166-1170	2001	*[12]	Legal Source[12]	
+8-28	1171-1172	)	*[12]	Legal Source[12]	
+8-29	1173-1174	(	*[12]	Legal Source[12]	
+8-30	1175-1181	Scalia	*[12]	Legal Source[12]	
+8-31	1182-1183	,	*[12]	Legal Source[12]	
+8-32	1184-1186	J.	*[12]	Legal Source[12]	
+8-33	1187-1188	,	*[12]	Legal Source[12]	
+8-34	1189-1199	concurring	*[12]	Legal Source[12]	
+8-35	1200-1202	in	*[12]	Legal Source[12]	
+8-36	1203-1211	judgment	*[12]	Legal Source[12]	
+8-37	1212-1213	)	*[12]	Legal Source[12]	
+8-38	1214-1215	)	_	_	
+8-39	1216-1217	.	_	_	
+
+#Text=Rather , the Court has long " recogni[zed ] " and applied this " historical exception for suits based on fraud . "
+9-1	1218-1224	Rather	_	_	
+9-2	1225-1226	,	_	_	
+9-3	1227-1230	the	_	_	
+9-4	1231-1236	Court	_	_	
+9-5	1237-1240	has	_	_	
+9-6	1241-1245	long	_	_	
+9-7	1246-1247	"	*[13]	Direct Quote[13]	
+9-8	1248-1259	recogni[zed	*[13]	Direct Quote[13]	
+9-9	1260-1261	]	*[13]	Direct Quote[13]	
+9-10	1262-1263	"	*[13]	Direct Quote[13]	
+9-11	1264-1267	and	_	_	
+9-12	1268-1275	applied	_	_	
+9-13	1276-1280	this	_	_	
+9-14	1281-1282	"	*[14]	Direct Quote[14]	
+9-15	1283-1293	historical	*[14]	Direct Quote[14]	
+9-16	1294-1303	exception	*[14]	Direct Quote[14]	
+9-17	1304-1307	for	*[14]	Direct Quote[14]	
+9-18	1308-1313	suits	*[14]	Direct Quote[14]	
+9-19	1314-1319	based	*[14]	Direct Quote[14]	
+9-20	1320-1322	on	*[14]	Direct Quote[14]	
+9-21	1323-1328	fraud	*[14]	Direct Quote[14]	
+9-22	1329-1330	.	*[14]	Direct Quote[14]	
+9-23	1331-1332	"	*[14]	Direct Quote[14]	
+
+#Text=I d . , at 37 , 122 S.Ct . 441 ; see also i d . , at 27 , 122 S.Ct . 441 ( majority opinion ) ( noting equitable discovery rule " in cases of fraud or concealment " ) ; Holmberg v. Armbrecht , 327 U.S. 392 , 66 S.Ct . 582 , 90 L.Ed . 743 ( 1946 ) ; Exploration Co. v. United States , 247 U.S. 435 , 38 S.Ct . 571 , 62 L.Ed . 1200 ( 1918 ) ; Bailey v. Glover , 21 Wall . 342 , 22 L.Ed . 636 ( 1875 ) ; Sherwood v. Sutton , 21 F.Cas . 1303 ( No . 12,782 ) ( C.C.D.N.H. 1828 ) ( Story , J. ) .
+10-1	1333-1334	I	*[15]	Legal Source[15]	
+10-2	1335-1336	d	*[15]	Legal Source[15]	
+10-3	1337-1338	.	*[15]	Legal Source[15]	
+10-4	1339-1340	,	*[15]	Legal Source[15]	
+10-5	1341-1343	at	*[15]	Legal Source[15]	
+10-6	1344-1346	37	*[15]	Legal Source[15]	
+10-7	1347-1348	,	*[15]	Legal Source[15]	
+10-8	1349-1352	122	*[15]	Legal Source[15]	
+10-9	1353-1357	S.Ct	*[15]	Legal Source[15]	
+10-10	1358-1359	.	*[15]	Legal Source[15]	
+10-11	1360-1363	441	*[15]	Legal Source[15]	
+10-12	1364-1365	;	_	_	
+10-13	1366-1369	see	_	_	
+10-14	1370-1374	also	_	_	
+10-15	1375-1376	i	*[16]	Legal Source[16]	
+10-16	1377-1378	d	*[16]	Legal Source[16]	
+10-17	1379-1380	.	*[16]	Legal Source[16]	
+10-18	1381-1382	,	*[16]	Legal Source[16]	
+10-19	1383-1385	at	*[16]	Legal Source[16]	
+10-20	1386-1388	27	*[16]	Legal Source[16]	
+10-21	1389-1390	,	*[16]	Legal Source[16]	
+10-22	1391-1394	122	*[16]	Legal Source[16]	
+10-23	1395-1399	S.Ct	*[16]	Legal Source[16]	
+10-24	1400-1401	.	*[16]	Legal Source[16]	
+10-25	1402-1405	441	*[16]	Legal Source[16]	
+10-26	1406-1407	(	*[16]	Legal Source[16]	
+10-27	1408-1416	majority	*[16]	Legal Source[16]	
+10-28	1417-1424	opinion	*[16]	Legal Source[16]	
+10-29	1425-1426	)	*[16]	Legal Source[16]	
+10-30	1427-1428	(	_	_	
+10-31	1429-1435	noting	_	_	
+10-32	1436-1445	equitable	_	_	
+10-33	1446-1455	discovery	_	_	
+10-34	1456-1460	rule	_	_	
+10-35	1461-1462	"	*[17]	Direct Quote[17]	
+10-36	1463-1465	in	*[17]	Direct Quote[17]	
+10-37	1466-1471	cases	*[17]	Direct Quote[17]	
+10-38	1472-1474	of	*[17]	Direct Quote[17]	
+10-39	1475-1480	fraud	*[17]	Direct Quote[17]	
+10-40	1481-1483	or	*[17]	Direct Quote[17]	
+10-41	1484-1495	concealment	*[17]	Direct Quote[17]	
+10-42	1496-1497	"	*[17]	Direct Quote[17]	
+10-43	1498-1499	)	_	_	
+10-44	1500-1501	;	_	_	
+10-45	1502-1510	Holmberg	*[18]	Legal Source[18]	
+10-46	1511-1513	v.	*[18]	Legal Source[18]	
+10-47	1514-1523	Armbrecht	*[18]	Legal Source[18]	
+10-48	1524-1525	,	*[18]	Legal Source[18]	
+10-49	1526-1529	327	*[18]	Legal Source[18]	
+10-50	1530-1534	U.S.	*[18]	Legal Source[18]	
+10-51	1535-1538	392	*[18]	Legal Source[18]	
+10-52	1539-1540	,	*[18]	Legal Source[18]	
+10-53	1541-1543	66	*[18]	Legal Source[18]	
+10-54	1544-1548	S.Ct	*[18]	Legal Source[18]	
+10-55	1549-1550	.	*[18]	Legal Source[18]	
+10-56	1551-1554	582	*[18]	Legal Source[18]	
+10-57	1555-1556	,	*[18]	Legal Source[18]	
+10-58	1557-1559	90	*[18]	Legal Source[18]	
+10-59	1560-1564	L.Ed	*[18]	Legal Source[18]	
+10-60	1565-1566	.	*[18]	Legal Source[18]	
+10-61	1567-1570	743	*[18]	Legal Source[18]	
+10-62	1571-1572	(	*[18]	Legal Source[18]	
+10-63	1573-1577	1946	*[18]	Legal Source[18]	
+10-64	1578-1579	)	*[18]	Legal Source[18]	
+10-65	1580-1581	;	_	_	
+10-66	1582-1593	Exploration	*[19]	Legal Source[19]	
+10-67	1594-1597	Co.	*[19]	Legal Source[19]	
+10-68	1598-1600	v.	*[19]	Legal Source[19]	
+10-69	1601-1607	United	*[19]	Legal Source[19]	
+10-70	1608-1614	States	*[19]	Legal Source[19]	
+10-71	1615-1616	,	*[19]	Legal Source[19]	
+10-72	1617-1620	247	*[19]	Legal Source[19]	
+10-73	1621-1625	U.S.	*[19]	Legal Source[19]	
+10-74	1626-1629	435	*[19]	Legal Source[19]	
+10-75	1630-1631	,	*[19]	Legal Source[19]	
+10-76	1632-1634	38	*[19]	Legal Source[19]	
+10-77	1635-1639	S.Ct	*[19]	Legal Source[19]	
+10-78	1640-1641	.	*[19]	Legal Source[19]	
+10-79	1642-1645	571	*[19]	Legal Source[19]	
+10-80	1646-1647	,	*[19]	Legal Source[19]	
+10-81	1648-1650	62	*[19]	Legal Source[19]	
+10-82	1651-1655	L.Ed	*[19]	Legal Source[19]	
+10-83	1656-1657	.	*[19]	Legal Source[19]	
+10-84	1658-1662	1200	*[19]	Legal Source[19]	
+10-85	1663-1664	(	*[19]	Legal Source[19]	
+10-86	1665-1669	1918	*[19]	Legal Source[19]	
+10-87	1670-1671	)	*[19]	Legal Source[19]	
+10-88	1672-1673	;	_	_	
+10-89	1674-1680	Bailey	*[20]	Legal Source[20]	
+10-90	1681-1683	v.	*[20]	Legal Source[20]	
+10-91	1684-1690	Glover	*[20]	Legal Source[20]	
+10-92	1691-1692	,	*[20]	Legal Source[20]	
+10-93	1693-1695	21	*[20]	Legal Source[20]	
+10-94	1696-1700	Wall	*[20]	Legal Source[20]	
+10-95	1701-1702	.	*[20]	Legal Source[20]	
+10-96	1703-1706	342	*[20]	Legal Source[20]	
+10-97	1707-1708	,	*[20]	Legal Source[20]	
+10-98	1709-1711	22	*[20]	Legal Source[20]	
+10-99	1712-1716	L.Ed	*[20]	Legal Source[20]	
+10-100	1717-1718	.	*[20]	Legal Source[20]	
+10-101	1719-1722	636	*[20]	Legal Source[20]	
+10-102	1723-1724	(	*[20]	Legal Source[20]	
+10-103	1725-1729	1875	*[20]	Legal Source[20]	
+10-104	1730-1731	)	*[20]	Legal Source[20]	
+10-105	1732-1733	;	_	_	
+10-106	1734-1742	Sherwood	*[21]	Legal Source[21]	
+10-107	1743-1745	v.	*[21]	Legal Source[21]	
+10-108	1746-1752	Sutton	*[21]	Legal Source[21]	
+10-109	1753-1754	,	*[21]	Legal Source[21]	
+10-110	1755-1757	21	*[21]	Legal Source[21]	
+10-111	1758-1763	F.Cas	*[21]	Legal Source[21]	
+10-112	1764-1765	.	*[21]	Legal Source[21]	
+10-113	1766-1770	1303	*[21]	Legal Source[21]	
+10-114	1771-1772	(	*[21]	Legal Source[21]	
+10-115	1773-1775	No	*[21]	Legal Source[21]	
+10-116	1776-1777	.	*[21]	Legal Source[21]	
+10-117	1778-1784	12,782	*[21]	Legal Source[21]	
+10-118	1785-1786	)	*[21]	Legal Source[21]	
+10-119	1787-1788	(	*[21]	Legal Source[21]	
+10-120	1789-1799	C.C.D.N.H.	*[21]	Legal Source[21]	
+10-121	1800-1804	1828	*[21]	Legal Source[21]	
+10-122	1805-1806	)	*[21]	Legal Source[21]	
+10-123	1807-1808	(	*[21]	Legal Source[21]	
+10-124	1809-1814	Story	*[21]	Legal Source[21]	
+10-125	1815-1816	,	*[21]	Legal Source[21]	
+10-126	1817-1819	J.	*[21]	Legal Source[21]	
+10-127	1820-1821	)	*[21]	Legal Source[21]	
+10-128	1822-1823	.	_	_	
+
+#Text=Nothing in today 's decision prevents parties from invoking that well - settled doctrine .
+11-1	1824-1831	Nothing	_	_	
+11-2	1832-1834	in	_	_	
+11-3	1835-1840	today	_	_	
+11-4	1841-1843	's	_	_	
+11-5	1844-1852	decision	_	_	
+11-6	1853-1861	prevents	_	_	
+11-7	1862-1869	parties	_	_	
+11-8	1870-1874	from	_	_	
+11-9	1875-1883	invoking	_	_	
+11-10	1884-1888	that	_	_	
+11-11	1889-1893	well	_	_	
+11-12	1894-1895	-	_	_	
+11-13	1896-1903	settled	_	_	
+11-14	1904-1912	doctrine	_	_	
+11-15	1913-1914	.	_	_	
