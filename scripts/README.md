@@ -1,1 +1,1 @@
-Training script and experiment configs, analysis notebooks, and various preprocessing scripts
+Analysis notebooks and various preprocessing scripts
