@@ -6,26 +6,28 @@ import requests
 from bs4 import BeautifulSoup
 
 
-def get_case_json_by_id(case_id):
+def get_case_by_id(case_id: str):
+    """Request case data (JSON) from API using case ID."""
     return requests.get(f"https://api.case.law/v1/cases/{case_id}?full_case=true&body_format=html").json()
 
 
-def get_case_by_docket_number(docket_number):
+def get_case_by_docket_number(docket_number: str):
+    """Request case data (JSON) from API using docket number."""
     return requests.get(f"https://api.case.law/v1/cases?court_id=9009&docket_number={docket_number}").json()
 
 
 def get_longest_casebody_in_list(json_response):
     max_word_count = 0
-    case_id_to_return = ""
+    id_of_longest_casebody = ""
     for case in json_response["results"]:
         word_count = case["analysis"]["word_count"]
         if word_count > max_word_count:
             max_word_count = word_count
-            case_id_to_return = case["id"]
-    return case_id_to_return
+            id_of_longest_casebody = case["id"]
+    return id_of_longest_casebody
 
 
-def parse_opinion_html(opinion_html):
+def parse_opinion_html(opinion_html: str):
     soup = BeautifulSoup(opinion_html, "html.parser")
     if soup.contents[0].name == "article":
         if len(soup) > 1:
@@ -75,16 +77,16 @@ def parse_opinion_html(opinion_html):
     return paragraphs
 
 
-def get_docket_number_from_id(id):
+def get_docket_number_from_id(id: str):
     """Returns the docket number for a Harvard CAP case ID."""
-    response = get_case_json_by_id(id)
+    response = get_case_by_id(id)
     docket_number = response["docket_number"][4:]
     docket_number = docket_number.strip()
     docket_number = docket_number[:2] + "_" + docket_number[3:]
 
     # Some docket numbers contain multiple docket numbers chained together with semicolons
     # If that's the case, just take the first docket number
-    semicolon_location = docket_number.find(";")
-    if semicolon_location != -1:
-        docket_number = docket_number[:semicolon_location]
+    semicolon_index = docket_number.find(";")
+    if semicolon_index != -1:
+        docket_number = docket_number[:semicolon_index]
     return docket_number
