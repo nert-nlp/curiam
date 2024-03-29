@@ -7,8 +7,7 @@ CATEGORIES = [
     "Language Source",
     "Legal Source",
     "Metalinguistic Cue",
-    "Named Interpretive Rule"
-    ]
+    "Named Interpretive Rule"]
 
 CATEGORIES_TO_ABBREVIATIONS = {
     "Appeal to Meaning": "ATM",
@@ -19,8 +18,7 @@ CATEGORIES_TO_ABBREVIATIONS = {
     "Language Source": "LaS",
     "Legal Source": "LeS",
     "Metalinguistic Cue": "MC",
-    "Named Interpretive Rule": "NIR"
-}
+    "Named Interpretive Rule": "NIR"}
 
 ABBREVIATIONS_TO_CATEGORIES = {
     "ATM": "Appeal to Meaning",
@@ -31,8 +29,7 @@ ABBREVIATIONS_TO_CATEGORIES = {
     "LaS": "Language Source",
     "LeS": "Legal Source",
     "MC": "Metalinguistic Cue",
-    "NIR": "Named Interpretive Rule",
-}
+    "NIR": "Named Interpretive Rule"}
 
 # Categories ordered according to how they're presented in the paper
 ORDERED_ABBREVIATIONS = ["FT", "D", "MC",
@@ -48,5 +45,4 @@ ORDERED_CATEGORIES = [
     "Language Source",
     "Named Interpretive Rule",
     "Example Use",
-    "Appeal to Meaning",
-]
+    "Appeal to Meaning"]
