@@ -1,6 +1,6 @@
 """Copies files from each annotation folder into one folder.
 
-INCEpTION puts the annotations for each doument into a document-specific folder.
+INCEpTION puts the annotations for each document into a document-specific folder.
 
 This script takes a source folder (the folder with all the document-specific
 folders) and copies out all of the TSV files for the admin user.
