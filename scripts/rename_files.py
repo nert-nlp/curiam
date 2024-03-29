@@ -1,7 +1,7 @@
-"""Renames opinion files to start with docket number instead of Harverd CAP case ID."""
+"""Renames opinion files to start with docket number instead of Harvard CAP case ID."""
 
 import os
-import shutil # noqa401
+import shutil  # noqa401
 
 from curiam.preprocessing import cap_parsing
 
