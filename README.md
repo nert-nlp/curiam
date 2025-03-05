@@ -10,7 +10,10 @@ CuRIAM stands for Corpus re Interpretation and Metalanguage. For information abo
 
 
 ## Corpus Data
-The full corpus data is available [here](/corpus/).
+The full corpus data is available [here](/corpus/) and recommended for programmatic exploration of the data.
+
+## Exploring Data
+`data/main/annotated` contains the exports from annotation software and the verticalised `*.tsv` can be used to manually explore texts and their annotation.
 
 ## Setup
 1. Create a conda environment.
